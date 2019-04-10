@@ -1,0 +1,67 @@
+{
+  "id": 1243464017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8325,-19.44073,31.8325,-19.44073",
+    "geom:latitude":-19.44073,
+    "geom:longitude":31.8325,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hodero",
+    "gn:country_code":"ZW",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453489,
+    "gn:latitude":-19.44073,
+    "gn:longitude":31.8325,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Hodero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453489
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c5c6060127459c1dfb2e201eac74d28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1243464017,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1243464017,
+    "wof:lastmodified":1536780609,
+    "wof:name":"Hodero",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8325,
+    -19.44073,
+    31.8325,
+    -19.44073
+],
+  "geometry": {"coordinates":[31.8325,-19.44073],"type":"Point"}
+}

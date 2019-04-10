@@ -1,0 +1,67 @@
+{
+  "id": 1226040437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.81943,-19.56632,27.81943,-19.56632",
+    "geom:latitude":-19.56632,
+    "geom:longitude":27.81943,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chief Thomas",
+    "gn:country_code":"ZW",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7465005,
+    "gn:latitude":-19.56632,
+    "gn:longitude":27.81943,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Chief Thomas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465005
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"2dd0af8affe93b14f8231501723416e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784929,
+            "locality_id":1226040437,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1226040437,
+    "wof:lastmodified":1536733095,
+    "wof:name":"Chief Thomas",
+    "wof:parent_id":1108784929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.81943,
+    -19.56632,
+    27.81943,
+    -19.56632
+],
+  "geometry": {"coordinates":[27.81943,-19.56632],"type":"Point"}
+}

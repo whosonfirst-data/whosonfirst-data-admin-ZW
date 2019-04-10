@@ -1,0 +1,61 @@
+{
+  "id": 1209611985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59425,-19.92866,31.59425,-19.92866",
+    "geom:latitude":-19.92866,
+    "geom:longitude":31.59425,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kwangwa I",
+    "gn:country_code":"ZW",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507257,
+    "gn:latitude":-19.92866,
+    "gn:longitude":31.59425,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Kwangwa I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507257
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"13d111416ab9fd236d5fb7f984a89c07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209611985
+        }
+    ],
+    "wof:id":1209611985,
+    "wof:lastmodified":1536281817,
+    "wof:name":"Kwangwa I",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59425,
+    -19.92866,
+    31.59425,
+    -19.92866
+],
+  "geometry": {"coordinates":[31.59425,-19.92866],"type":"Point"}
+}

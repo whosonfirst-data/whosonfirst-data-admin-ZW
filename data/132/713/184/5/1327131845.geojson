@@ -1,0 +1,67 @@
+{
+  "id": 1327131845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.16563,-19.59103,27.16563,-19.59103",
+    "geom:latitude":-19.59103,
+    "geom:longitude":27.16563,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Folosi",
+    "gn:country_code":"ZW",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":891463,
+    "gn:latitude":-19.59103,
+    "gn:longitude":27.16563,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Folosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":891463
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"aaa7199146534ad42c68430558a06ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1327131845,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1327131845,
+    "wof:lastmodified":1536614584,
+    "wof:name":"Folosi",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.16563,
+    -19.59103,
+    27.16563,
+    -19.59103
+],
+  "geometry": {"coordinates":[27.16563,-19.59103],"type":"Point"}
+}

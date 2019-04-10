@@ -1,0 +1,71 @@
+{
+  "id": 1277072043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.65719,-19.36318,27.65719,-19.36318",
+    "geom:latitude":-19.36318,
+    "geom:longitude":27.65719,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bangamakuni",
+    "gn:country_code":"ZW",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":895442,
+    "gn:latitude":-19.36318,
+    "gn:longitude":27.65719,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bangamakuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangamukumi",
+        "Bangamakuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        890452765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":895442
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"0c48540a2466590c7774171f9089bed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890452765,
+            "locality_id":1277072043,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1277072043,
+    "wof:lastmodified":1537716586,
+    "wof:name":"Bangamakuni",
+    "wof:parent_id":890452765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.65719,
+    -19.36318,
+    27.65719,
+    -19.36318
+],
+  "geometry": {"coordinates":[27.65719,-19.36318],"type":"Point"}
+}

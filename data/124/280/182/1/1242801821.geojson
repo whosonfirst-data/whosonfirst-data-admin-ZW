@@ -1,0 +1,67 @@
+{
+  "id": 1242801821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.16174,-18.0755,31.16174,-18.0755",
+    "geom:latitude":-18.0755,
+    "geom:longitude":31.16174,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kahiya",
+    "gn:country_code":"ZW",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405257,
+    "gn:latitude":-18.0755,
+    "gn:longitude":31.16174,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kahiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405257
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b2bcfbba2be8958e4c36def50d89fe47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784893,
+            "locality_id":1242801821,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1242801821,
+    "wof:lastmodified":1536740534,
+    "wof:name":"Kahiya",
+    "wof:parent_id":1108784893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.16174,
+    -18.0755,
+    31.16174,
+    -18.0755
+],
+  "geometry": {"coordinates":[31.16174,-18.0755],"type":"Point"}
+}

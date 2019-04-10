@@ -1,0 +1,70 @@
+{
+  "id": 1310017341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90897,-16.30339,30.90897,-16.30339",
+    "geom:latitude":-16.30339,
+    "geom:longitude":30.90897,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chief Matsiwo",
+    "gn:country_code":"ZW",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7324091,
+    "gn:latitude":-16.30339,
+    "gn:longitude":30.90897,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chief Matsiwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chief Matsiwo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681093,
+        1108784875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7324091
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"ffa6d721f5caa0a9c81d45c50a3b075e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784875,
+            "locality_id":1310017341,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":1310017341,
+    "wof:lastmodified":1537716588,
+    "wof:name":"Chief Matsiwo",
+    "wof:parent_id":1108784875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90897,
+    -16.30339,
+    30.90897,
+    -16.30339
+],
+  "geometry": {"coordinates":[30.90897,-16.30339],"type":"Point"}
+}

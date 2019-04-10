@@ -1,0 +1,67 @@
+{
+  "id": 1243564699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.01667,-19.36667,30.01667,-19.36667",
+    "geom:latitude":-19.36667,
+    "geom:longitude":30.01667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wha Wha",
+    "gn:country_code":"ZW",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":879070,
+    "gn:latitude":-19.36667,
+    "gn:longitude":30.01667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Wha Wha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        890416473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":879070
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"13c6f163bbc84d364e9f9310b262d722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416473,
+            "locality_id":1243564699,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1243564699,
+    "wof:lastmodified":1536633664,
+    "wof:name":"Wha Wha",
+    "wof:parent_id":890416473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.01667,
+    -19.36667000000001,
+    30.01667,
+    -19.36667000000001
+],
+  "geometry": {"coordinates":[30.01667,-19.36667000000001],"type":"Point"}
+}

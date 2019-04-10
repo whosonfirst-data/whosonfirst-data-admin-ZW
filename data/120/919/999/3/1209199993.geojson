@@ -1,0 +1,61 @@
+{
+  "id": 1209199993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67383,-19.86513,31.67383,-19.86513",
+    "geom:latitude":-19.86513,
+    "geom:longitude":31.67383,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vangarirai",
+    "gn:country_code":"ZW",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507303,
+    "gn:latitude":-19.86513,
+    "gn:longitude":31.67383,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Vangarirai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507303
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"df190d654136c6719a661085a32d4a00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209199993
+        }
+    ],
+    "wof:id":1209199993,
+    "wof:lastmodified":1536294644,
+    "wof:name":"Vangarirai",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67383,
+    -19.86513,
+    31.67383,
+    -19.86513
+],
+  "geometry": {"coordinates":[31.67383,-19.86513],"type":"Point"}
+}

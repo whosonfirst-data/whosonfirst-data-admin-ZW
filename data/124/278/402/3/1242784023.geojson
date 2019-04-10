@@ -1,0 +1,67 @@
+{
+  "id": 1242784023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83339,-18.71053,30.83339,-18.71053",
+    "geom:latitude":-18.71053,
+    "geom:longitude":30.83339,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Featherstone",
+    "gn:country_code":"ZW",
+    "gn:dem":1392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":891550,
+    "gn:latitude":-18.71053,
+    "gn:longitude":30.83339,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Featherstone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":891550
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"11739d7a3c92cc19e114251e2cc2bb5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784879,
+            "locality_id":1242784023,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1242784023,
+    "wof:lastmodified":1536766696,
+    "wof:name":"Featherstone",
+    "wof:parent_id":1108784879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83339,
+    -18.71053,
+    30.83339,
+    -18.71053
+],
+  "geometry": {"coordinates":[30.83339,-18.71053],"type":"Point"}
+}

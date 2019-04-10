@@ -1,0 +1,67 @@
+{
+  "id": 1276463787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81598,-19.99442,31.81598,-19.99442",
+    "geom:latitude":-19.99442,
+    "geom:longitude":31.81598,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gondowe",
+    "gn:country_code":"ZW",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507461,
+    "gn:latitude":-19.99442,
+    "gn:longitude":31.81598,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Gondowe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507461
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c23a75d7893965fe128168b10c6b84ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1276463787,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1276463787,
+    "wof:lastmodified":1536600803,
+    "wof:name":"Gondowe",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81598,
+    -19.99442,
+    31.81598,
+    -19.99442
+],
+  "geometry": {"coordinates":[31.81598,-19.99442],"type":"Point"}
+}

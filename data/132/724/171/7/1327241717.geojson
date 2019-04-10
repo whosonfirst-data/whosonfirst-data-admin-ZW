@@ -1,0 +1,67 @@
+{
+  "id": 1327241717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90528,-17.86583,30.90528,-17.86583",
+    "geom:latitude":-17.86583,
+    "geom:longitude":30.90528,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gleneagles",
+    "gn:country_code":"ZW",
+    "gn:dem":1405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085493,
+    "gn:latitude":-17.86583,
+    "gn:longitude":30.90528,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Gleneagles",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681097,
+        421190261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085493
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"908e645c4060c60f02d4e4a3a8eafec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":1327241717,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":1327241717,
+    "wof:lastmodified":1536956051,
+    "wof:name":"Gleneagles",
+    "wof:parent_id":421190261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90528,
+    -17.86583,
+    30.90528,
+    -17.86583
+],
+  "geometry": {"coordinates":[30.90528,-17.86583],"type":"Point"}
+}

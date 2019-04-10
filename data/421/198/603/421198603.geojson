@@ -1,0 +1,114 @@
+{
+  "id": 421198603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58381,-16.77251,31.58381,-16.77251",
+    "geom:latitude":-16.77251,
+    "geom:longitude":31.58381,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Mount Darwin"
+    ],
+    "name:dut_x_preferred":[
+        "Mount Darwin"
+    ],
+    "name:eng_x_preferred":[
+        "Mount Darwin"
+    ],
+    "name:eng_x_variant":[
+        "Mount Fura",
+        "Darwin"
+    ],
+    "name:fre_x_preferred":[
+        "Mount Darwin"
+    ],
+    "name:ger_x_preferred":[
+        "Mount Darwin"
+    ],
+    "name:ita_x_preferred":[
+        "Mount Darwin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30a6\u30f3\u30c8\u30fb\u30c0\u30fc\u30a6\u30a3\u30f3"
+    ],
+    "name:sna_x_preferred":[
+        "Mount Darwin"
+    ],
+    "name:spa_x_preferred":[
+        "Mount Darwin"
+    ],
+    "name:unk_x_variant":[
+        "Fura"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":885800,
+    "qs:gn_pop":6349,
+    "qs:name":"Mount Darwin",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Mashonaland Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":183749,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1467322,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":348,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":885800,
+        "gp:id":1467322,
+        "qs:id":183749,
+        "wd:id":"Q127792",
+        "wk:page":"Mount Darwin, Zimbabwe"
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009954,
+    "wof:geomhash":"38ff17b1cc22fb4c3b3f97fa68fdf4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":421198603,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":421198603,
+    "wof:lastmodified":1527716352,
+    "wof:name":"Mount Darwin",
+    "wof:parent_id":85681093,
+    "wof:placetype":"locality",
+    "wof:population":6349,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58381,
+    -16.77251,
+    31.58381,
+    -16.77251
+],
+  "geometry": {"coordinates":[31.58381,-16.77251],"type":"Point"}
+}

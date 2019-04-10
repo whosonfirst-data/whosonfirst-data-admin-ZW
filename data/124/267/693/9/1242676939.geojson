@@ -1,0 +1,70 @@
+{
+  "id": 1242676939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9355,-16.60068,29.9355,-16.60068",
+    "geom:latitude":-16.60068,
+    "geom:longitude":29.9355,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Makuni",
+    "gn:country_code":"ZW",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370590,
+    "gn:latitude":-16.60068,
+    "gn:longitude":29.9355,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Makuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370590
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"2367435d4ffe0b92f64827ab652b17af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1242676939,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1242676939,
+    "wof:lastmodified":1537716590,
+    "wof:name":"Makuni",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9355,
+    -16.60068,
+    29.9355,
+    -16.60068
+],
+  "geometry": {"coordinates":[29.9355,-16.60068],"type":"Point"}
+}

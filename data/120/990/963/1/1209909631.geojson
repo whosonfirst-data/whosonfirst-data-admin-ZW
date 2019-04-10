@@ -1,0 +1,67 @@
+{
+  "id": 1209909631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76214,-19.88435,31.76214,-19.88435",
+    "geom:latitude":-19.88435,
+    "geom:longitude":31.76214,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mhazvo",
+    "gn:country_code":"ZW",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507362,
+    "gn:latitude":-19.88435,
+    "gn:longitude":31.76214,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Mhazvo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507362
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f4724b13258815cf09a33e3ce11e1ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1209909631,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1209909631,
+    "wof:lastmodified":1536380179,
+    "wof:name":"Mhazvo",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76214,
+    -19.88435,
+    31.76214,
+    -19.88435
+],
+  "geometry": {"coordinates":[31.76214,-19.88435],"type":"Point"}
+}

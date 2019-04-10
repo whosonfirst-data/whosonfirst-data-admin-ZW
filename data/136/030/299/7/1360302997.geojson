@@ -1,0 +1,71 @@
+{
+  "id": 1360302997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.79705,-20.15885,32.79705,-20.15885",
+    "geom:latitude":-20.15885,
+    "geom:longitude":32.79705,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Junction Gate",
+    "gn:country_code":"ZW",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":889492,
+    "gn:latitude":-20.15885,
+    "gn:longitude":32.79705,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Junction Gate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Junction Gate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890430547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":889492,
+        "wk:page":"Junction_Gate"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"be0cb16d3e316c7463654c810f966ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890430547,
+            "locality_id":1360302997,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1360302997,
+    "wof:lastmodified":1537716580,
+    "wof:name":"Junction Gate",
+    "wof:parent_id":890430547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.79705,
+    -20.15885,
+    32.79705,
+    -20.15885
+],
+  "geometry": {"coordinates":[32.79705,-20.15885],"type":"Point"}
+}

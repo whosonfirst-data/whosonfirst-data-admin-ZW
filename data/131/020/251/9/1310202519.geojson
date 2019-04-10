@@ -1,0 +1,67 @@
+{
+  "id": 1310202519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.53905,-19.46961,27.53905,-19.46961",
+    "geom:latitude":-19.46961,
+    "geom:longitude":27.53905,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Garigari",
+    "gn:country_code":"ZW",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7522743,
+    "gn:latitude":-19.46961,
+    "gn:longitude":27.53905,
+    "gn:modification_date":"2010-09-04",
+    "gn:name":"Garigari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7522743
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f3d5a924551b7910801f267c1a9b0a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1310202519,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1310202519,
+    "wof:lastmodified":1536855408,
+    "wof:name":"Garigari",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.53905,
+    -19.46961,
+    27.53905,
+    -19.46961
+],
+  "geometry": {"coordinates":[27.53905,-19.46961],"type":"Point"}
+}

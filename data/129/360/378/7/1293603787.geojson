@@ -1,0 +1,72 @@
+{
+  "id": 1293603787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.53333,-21.51667,29.53333,-21.51667",
+    "geom:latitude":-21.51667,
+    "geom:longitude":29.53333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sitauzis",
+    "gn:cc2":"ZW",
+    "gn:country_code":"ZW",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":880925,
+    "gn:latitude":-21.51667,
+    "gn:longitude":29.53333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Sitauzis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sitauze",
+        "Sitauzis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890416501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":880925
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"5093e2c7427838f86d224b4b398e4297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416501,
+            "locality_id":1293603787,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1293603787,
+    "wof:lastmodified":1537716572,
+    "wof:name":"Sitauzis",
+    "wof:parent_id":890416501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.53333,
+    -21.51667,
+    29.53333,
+    -21.51667
+],
+  "geometry": {"coordinates":[29.53333,-21.51667],"type":"Point"}
+}

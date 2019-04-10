@@ -1,0 +1,67 @@
+{
+  "id": 1242977111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38029,-17.17121,32.38029,-17.17121",
+    "geom:latitude":-17.17121,
+    "geom:longitude":32.38029,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chief Nyamokoho",
+    "gn:country_code":"ZW",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7385446,
+    "gn:latitude":-17.17121,
+    "gn:longitude":32.38029,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Chief Nyamokoho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        890416461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7385446
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"9fd41ee8b966a56ac8212a19ac8fd03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416461,
+            "locality_id":1242977111,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1242977111,
+    "wof:lastmodified":1536984327,
+    "wof:name":"Chief Nyamokoho",
+    "wof:parent_id":890416461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38029,
+    -17.17121,
+    32.38029,
+    -17.17121
+],
+  "geometry": {"coordinates":[32.38029,-17.17121],"type":"Point"}
+}

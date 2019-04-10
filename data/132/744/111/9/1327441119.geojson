@@ -1,0 +1,68 @@
+{
+  "id": 1327441119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85225,-18.61896,32.85225,-18.61896",
+    "geom:latitude":-18.61896,
+    "geom:longitude":32.85225,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chikuku",
+    "gn:cc2":"ZW",
+    "gn:country_code":"ZW",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416943,
+    "gn:latitude":-18.61896,
+    "gn:longitude":32.85225,
+    "gn:modification_date":"2014-02-15",
+    "gn:name":"Chikuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890436413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416943
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"e1912c53d1ab2c9d0097f9f394e54ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890436413,
+            "locality_id":1327441119,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1327441119,
+    "wof:lastmodified":1536668157,
+    "wof:name":"Chikuku",
+    "wof:parent_id":890436413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85225,
+    -18.61896,
+    32.85225,
+    -18.61896
+],
+  "geometry": {"coordinates":[32.85225,-18.61896],"type":"Point"}
+}

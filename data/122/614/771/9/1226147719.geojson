@@ -1,0 +1,68 @@
+{
+  "id": 1226147719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8,-18.21667,29.8,-18.21667",
+    "geom:latitude":-18.21667,
+    "geom:longitude":29.8,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Golden Valley",
+    "gn:country_code":"ZW",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258892,
+    "gn:latitude":-18.21667,
+    "gn:longitude":29.8,
+    "gn:modification_date":"2016-10-12",
+    "gn:name":"Golden Valley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        1108784911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258892,
+        "wk:page":"Golden_Valley,_Zimbabwe"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"3c66501236e57cfe2ede4167f7ab203a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784911,
+            "locality_id":1226147719,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1226147719,
+    "wof:lastmodified":1537576401,
+    "wof:name":"Golden Valley",
+    "wof:parent_id":1108784911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8,
+    -18.21667,
+    29.8,
+    -18.21667
+],
+  "geometry": {"coordinates":[29.8,-18.21667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310408877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7846,-18.65777,29.7846,-18.65777",
+    "geom:latitude":-18.65777,
+    "geom:longitude":29.7846,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sanyati",
+    "gn:country_code":"ZW",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":885241,
+    "gn:latitude":-18.65777,
+    "gn:longitude":29.7846,
+    "gn:modification_date":"2011-10-21",
+    "gn:name":"Sanyati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umniati",
+        "Munyati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        890452767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":885241,
+        "wk:page":"Munyati"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"e4b7b546bba5be028401c0c48d870969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890452767,
+            "locality_id":1310408877,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1310408877,
+    "wof:lastmodified":1537716575,
+    "wof:name":"Sanyati",
+    "wof:parent_id":890452767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7846,
+    -18.65777000000001,
+    29.7846,
+    -18.65777000000001
+],
+  "geometry": {"coordinates":[29.7846,-18.65777000000001],"type":"Point"}
+}

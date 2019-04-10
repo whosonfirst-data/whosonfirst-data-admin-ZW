@@ -1,0 +1,65 @@
+{
+  "id": 1209507501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.55237,-19.20321,27.55237,-19.20321",
+    "geom:latitude":-19.20321,
+    "geom:longitude":27.55237,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Fumabatshena",
+    "gn:country_code":"ZW",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":891373,
+    "gn:latitude":-19.20321,
+    "gn:longitude":27.55237,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fumabatshena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fumbatshena",
+        "Fumabatshena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":891373
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"470e9a1282ccbdbb9597e0194bba349a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209507501
+        }
+    ],
+    "wof:id":1209507501,
+    "wof:lastmodified":1537716582,
+    "wof:name":"Fumabatshena",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.55237,
+    -19.20321,
+    27.55237,
+    -19.20321
+],
+  "geometry": {"coordinates":[27.55237,-19.20321],"type":"Point"}
+}

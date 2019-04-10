@@ -1,0 +1,67 @@
+{
+  "id": 1259897613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63134,-19.07018,31.63134,-19.07018",
+    "geom:latitude":-19.07018,
+    "geom:longitude":31.63134,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ndengu",
+    "gn:country_code":"ZW",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7443206,
+    "gn:latitude":-19.07018,
+    "gn:longitude":31.63134,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Ndengu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7443206
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"372669b89e62c793833dda5e6433283b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1259897613,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1259897613,
+    "wof:lastmodified":1536758922,
+    "wof:name":"Ndengu",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63134,
+    -19.07018,
+    31.63134,
+    -19.07018
+],
+  "geometry": {"coordinates":[31.63134,-19.07018],"type":"Point"}
+}

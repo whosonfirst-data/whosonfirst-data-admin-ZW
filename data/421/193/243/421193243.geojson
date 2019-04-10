@@ -1,0 +1,125 @@
+{
+  "id": 421193243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.62364,-20.18833,32.62364,-20.18833",
+    "geom:latitude":-20.18833,
+    "geom:longitude":32.62364,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5947\u5e73\u52a0"
+    ],
+    "name:deu_x_preferred":[
+        "Chipinge"
+    ],
+    "name:dut_x_preferred":[
+        "Chipinge District"
+    ],
+    "name:eng_x_preferred":[
+        "Chipinge"
+    ],
+    "name:eng_x_variant":[
+        "Chipinga",
+        "Chipinge District"
+    ],
+    "name:fra_x_preferred":[
+        "Chipinge"
+    ],
+    "name:fre_x_preferred":[
+        "Chipinge"
+    ],
+    "name:ger_x_preferred":[
+        "Chipinge"
+    ],
+    "name:ita_x_preferred":[
+        "Chipinge"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30d4\u30f3\u30b2"
+    ],
+    "name:por_x_preferred":[
+        "Chipinge"
+    ],
+    "name:ron_x_preferred":[
+        "Chipinge"
+    ],
+    "name:rum_x_preferred":[
+        "Chipinge"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0438\u043f\u0438\u043d\u0433\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Chipinge"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":893549,
+    "qs:gn_pop":18860,
+    "qs:name":"Chipinge",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Manicaland",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1299040,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1466901,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":618,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":893549,
+        "gp:id":1466901,
+        "qs:id":1299040,
+        "wd:id":"Q994412"
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009764,
+    "wof:geomhash":"f213563da2a7c2bcd297d429e7d574b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":421193243,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":421193243,
+    "wof:lastmodified":1527716142,
+    "wof:name":"Chipinge",
+    "wof:parent_id":85681113,
+    "wof:placetype":"locality",
+    "wof:population":18860,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.62364,
+    -20.18833,
+    32.62364,
+    -20.18833
+],
+  "geometry": {"coordinates":[32.62364,-20.18833],"type":"Point"}
+}

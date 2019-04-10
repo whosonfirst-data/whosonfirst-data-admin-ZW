@@ -1,0 +1,72 @@
+{
+  "id": 1344272075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9,-17.85,28.9,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":28.9,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gorodema",
+    "gn:cc2":"ZW",
+    "gn:country_code":"ZW",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":890855,
+    "gn:latitude":-17.85,
+    "gn:longitude":28.9,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Gorodema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goredema District Chief Camp",
+        "Gorodema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        1108784945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":890855
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"8deef5db279bf8ea45f6e3aa9bc96b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784945,
+            "locality_id":1344272075,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1344272075,
+    "wof:lastmodified":1537716581,
+    "wof:name":"Gorodema",
+    "wof:parent_id":1108784945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9,
+    -17.85,
+    28.9,
+    -17.85
+],
+  "geometry": {"coordinates":[28.9,-17.85],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259965373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.60489,-19.87704,31.60489,-19.87704",
+    "geom:latitude":-19.87704,
+    "geom:longitude":31.60489,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chikerema",
+    "gn:country_code":"ZW",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507232,
+    "gn:latitude":-19.87704,
+    "gn:longitude":31.60489,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Chikerema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507232
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"8c51c283c5e3659edec0854f595c20e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1259965373,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1259965373,
+    "wof:lastmodified":1536661302,
+    "wof:name":"Chikerema",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60489,
+    -19.87704,
+    31.60489,
+    -19.87704
+],
+  "geometry": {"coordinates":[31.60489,-19.87704],"type":"Point"}
+}

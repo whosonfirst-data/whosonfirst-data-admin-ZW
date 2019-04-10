@@ -1,0 +1,79 @@
+{
+  "id": 890440219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.17768,-19.33225,30.17768,-19.33225",
+    "geom:latitude":-19.33225,
+    "geom:longitude":30.17768,
+    "gn:country":"ZW",
+    "gn:fcode":"PPL",
+    "gn:pop":1390,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u043b\u0430\u043f\u0430\u043d\u0437\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Lalapanzi"
+    ],
+    "name:eng_x_preferred":[
+        "Lalapanzi"
+    ],
+    "name:unk_x_variant":[
+        "Lalapansi"
+    ],
+    "qs:name":"Lalapanzi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":182,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":888667,
+        "gp:id":1467136,
+        "qs:id":275805,
+        "wd:id":"Q6480198",
+        "wk:page":"Lalapanzi"
+    },
+    "wof:country":"ZW",
+    "wof:created":1469052267,
+    "wof:geomhash":"f1004fa9a574301e752cfa13c38c8153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":890440219,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":890440219,
+    "wof:lastmodified":1527727103,
+    "wof:name":"Lalapanzi",
+    "wof:parent_id":85681103,
+    "wof:placetype":"locality",
+    "wof:population":1390,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.17768,
+    -19.33225,
+    30.17768,
+    -19.33225
+],
+  "geometry": {"coordinates":[30.17768,-19.33225],"type":"Point"}
+}

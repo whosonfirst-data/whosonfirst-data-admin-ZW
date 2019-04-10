@@ -1,0 +1,68 @@
+{
+  "id": 1310109873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.82373,-18.54973,32.82373,-18.54973",
+    "geom:latitude":-18.54973,
+    "geom:longitude":32.82373,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mpotedzi",
+    "gn:cc2":"ZW",
+    "gn:country_code":"ZW",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416940,
+    "gn:latitude":-18.54973,
+    "gn:longitude":32.82373,
+    "gn:modification_date":"2014-02-15",
+    "gn:name":"Mpotedzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890436413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416940
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"51cc6343d58dca791237d551c502a8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890436413,
+            "locality_id":1310109873,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1310109873,
+    "wof:lastmodified":1536989296,
+    "wof:name":"Mpotedzi",
+    "wof:parent_id":890436413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.82373,
+    -18.54973,
+    32.82373,
+    -18.54973
+],
+  "geometry": {"coordinates":[32.82373,-18.54973],"type":"Point"}
+}

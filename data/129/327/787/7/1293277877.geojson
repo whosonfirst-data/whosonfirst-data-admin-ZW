@@ -1,0 +1,67 @@
+{
+  "id": 1293277877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72889,-21.42389,30.72889,-21.42389",
+    "geom:latitude":-21.42389,
+    "geom:longitude":30.72889,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nuanetsi",
+    "gn:country_code":"ZW",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105863,
+    "gn:latitude":-21.42389,
+    "gn:longitude":30.72889,
+    "gn:modification_date":"1999-08-17",
+    "gn:name":"Nuanetsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890436773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105863
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d7129d4b2cbb00c3bca13154de0c4ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890436773,
+            "locality_id":1293277877,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1293277877,
+    "wof:lastmodified":1537086054,
+    "wof:name":"Nuanetsi",
+    "wof:parent_id":890436773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72889,
+    -21.42389,
+    30.72889,
+    -21.42389
+],
+  "geometry": {"coordinates":[30.72889,-21.42389],"type":"Point"}
+}

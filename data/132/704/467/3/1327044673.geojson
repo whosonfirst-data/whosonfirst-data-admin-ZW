@@ -1,0 +1,70 @@
+{
+  "id": 1327044673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96556,-17.79778,30.96556,-17.79778",
+    "geom:latitude":-17.79778,
+    "geom:longitude":30.96556,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Stortford",
+    "gn:country_code":"ZW",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085468,
+    "gn:latitude":-17.79778,
+    "gn:longitude":30.96556,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Stortford",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Stortford"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681097,
+        421190261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085468
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f31b920ec02c9193663e83d7347c68f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":1327044673,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":1327044673,
+    "wof:lastmodified":1537716586,
+    "wof:name":"Stortford",
+    "wof:parent_id":421190261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96556,
+    -17.79778,
+    30.96556,
+    -17.79778
+],
+  "geometry": {"coordinates":[30.96556,-17.79778],"type":"Point"}
+}

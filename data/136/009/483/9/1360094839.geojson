@@ -1,0 +1,67 @@
+{
+  "id": 1360094839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.96667,-19.66667,26.96667,-19.66667",
+    "geom:latitude":-19.66667,
+    "geom:longitude":26.96667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mpilo",
+    "gn:country_code":"ZW",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":885738,
+    "gn:latitude":-19.66667,
+    "gn:longitude":26.96667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Mpilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":885738
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"cf875581e2758bec650d53ae3b5d5f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1360094839,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1360094839,
+    "wof:lastmodified":1536932237,
+    "wof:name":"Mpilo",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.96667,
+    -19.66667,
+    26.96667,
+    -19.66667
+],
+  "geometry": {"coordinates":[26.96667,-19.66667],"type":"Point"}
+}

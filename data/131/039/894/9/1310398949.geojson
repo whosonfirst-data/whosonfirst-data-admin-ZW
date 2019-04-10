@@ -1,0 +1,67 @@
+{
+  "id": 1310398949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.77739,-19.96503,31.77739,-19.96503",
+    "geom:latitude":-19.96503,
+    "geom:longitude":31.77739,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rukweza",
+    "gn:country_code":"ZW",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507387,
+    "gn:latitude":-19.96503,
+    "gn:longitude":31.77739,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Rukweza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507387
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"76f339aa429f4e34f16e6fded168dacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1310398949,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1310398949,
+    "wof:lastmodified":1537067766,
+    "wof:name":"Rukweza",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.77739,
+    -19.96503,
+    31.77739,
+    -19.96503
+],
+  "geometry": {"coordinates":[31.77739,-19.96503],"type":"Point"}
+}

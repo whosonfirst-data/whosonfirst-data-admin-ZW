@@ -1,0 +1,68 @@
+{
+  "id": 1293898171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,-18.31667,31.13333,-18.31667",
+    "geom:latitude":-18.31667,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rocky Spruit",
+    "gn:country_code":"ZW",
+    "gn:dem":1418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":882365,
+    "gn:latitude":-18.31667,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Rocky Spruit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        890445295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":882365,
+        "wk:page":"Rocky_Spruit"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"5f28b119f07a50fc71bfa253481c8846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890445295,
+            "locality_id":1293898171,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1293898171,
+    "wof:lastmodified":1537576394,
+    "wof:name":"Rocky Spruit",
+    "wof:parent_id":890445295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    -18.31667,
+    31.13333,
+    -18.31667
+],
+  "geometry": {"coordinates":[31.13333,-18.31667],"type":"Point"}
+}

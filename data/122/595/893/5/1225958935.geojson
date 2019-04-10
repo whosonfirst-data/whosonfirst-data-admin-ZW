@@ -1,0 +1,70 @@
+{
+  "id": 1225958935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.42332,-18.81355,28.42332,-18.81355",
+    "geom:latitude":-18.81355,
+    "geom:longitude":28.42332,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gampagalale",
+    "gn:country_code":"ZW",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":891291,
+    "gn:latitude":-18.81355,
+    "gn:longitude":28.42332,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Gampagalale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gampagalale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        890450107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":891291
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"2e5172cc6217193c913b4faa377d3d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890450107,
+            "locality_id":1225958935,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1225958935,
+    "wof:lastmodified":1537716582,
+    "wof:name":"Gampagalale",
+    "wof:parent_id":890450107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.42332,
+    -18.81355,
+    28.42332,
+    -18.81355
+],
+  "geometry": {"coordinates":[28.42332,-18.81355],"type":"Point"}
+}

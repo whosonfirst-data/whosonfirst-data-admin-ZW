@@ -1,0 +1,67 @@
+{
+  "id": 1209708113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.46918,-19.14435,27.46918,-19.14435",
+    "geom:latitude":-19.14435,
+    "geom:longitude":27.46918,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nganyana",
+    "gn:country_code":"ZW",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7522741,
+    "gn:latitude":-19.14435,
+    "gn:longitude":27.46918,
+    "gn:modification_date":"2010-09-04",
+    "gn:name":"Nganyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7522741
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b6fc01e4b524e29e0c1426e684e5d770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1209708113,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1209708113,
+    "wof:lastmodified":1536391929,
+    "wof:name":"Nganyana",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.46918,
+    -19.14435,
+    27.46918,
+    -19.14435
+],
+  "geometry": {"coordinates":[27.46918,-19.14435],"type":"Point"}
+}

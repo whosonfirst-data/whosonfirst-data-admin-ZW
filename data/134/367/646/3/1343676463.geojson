@@ -1,0 +1,68 @@
+{
+  "id": 1343676463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.23333,-17.35,30.23333,-17.35",
+    "geom:latitude":-17.35,
+    "geom:longitude":30.23333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Eldorado",
+    "gn:country_code":"ZW",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":891816,
+    "gn:latitude":-17.35,
+    "gn:longitude":30.23333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Eldorado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        1108784913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":891816,
+        "wk:page":"Eldorado,_Zimbabwe"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"a6daf5a85edf48b09c13e2cc1146dba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784913,
+            "locality_id":1343676463,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1343676463,
+    "wof:lastmodified":1537576397,
+    "wof:name":"Eldorado",
+    "wof:parent_id":1108784913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.23333,
+    -17.35,
+    30.23333,
+    -17.35
+],
+  "geometry": {"coordinates":[30.23333,-17.35],"type":"Point"}
+}

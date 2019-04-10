@@ -1,0 +1,67 @@
+{
+  "id": 1310195699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63611,-19.93611,31.63611,-19.93611",
+    "geom:latitude":-19.93611,
+    "geom:longitude":31.63611,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Muvuti",
+    "gn:country_code":"ZW",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106395,
+    "gn:latitude":-19.93611,
+    "gn:longitude":31.63611,
+    "gn:modification_date":"2001-03-22",
+    "gn:name":"Muvuti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106395
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"36d2240f98d48ff48ecc3020c9d0db68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1310195699,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1310195699,
+    "wof:lastmodified":1536865145,
+    "wof:name":"Muvuti",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63611,
+    -19.93611,
+    31.63611,
+    -19.93611
+],
+  "geometry": {"coordinates":[31.63611,-19.93611],"type":"Point"}
+}

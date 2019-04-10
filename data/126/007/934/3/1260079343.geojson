@@ -1,0 +1,70 @@
+{
+  "id": 1260079343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.33267,-16.94507,29.33267,-16.94507",
+    "geom:latitude":-16.94507,
+    "geom:longitude":29.33267,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nbewedzebonde",
+    "gn:country_code":"ZW",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7371172,
+    "gn:latitude":-16.94507,
+    "gn:longitude":29.33267,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nbewedzebonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nbewedzebonde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7371172
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"fca5fd756937d6dc691318283d096fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1260079343,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1260079343,
+    "wof:lastmodified":1537716593,
+    "wof:name":"Nbewedzebonde",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.33267,
+    -16.94507,
+    29.33267,
+    -16.94507
+],
+  "geometry": {"coordinates":[29.33267,-16.94507],"type":"Point"}
+}

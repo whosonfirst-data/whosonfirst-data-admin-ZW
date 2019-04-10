@@ -1,0 +1,67 @@
+{
+  "id": 1343546803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.60378,-19.7144,31.60378,-19.7144",
+    "geom:latitude":-19.7144,
+    "geom:longitude":31.60378,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chikwiro",
+    "gn:country_code":"ZW",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507073,
+    "gn:latitude":-19.7144,
+    "gn:longitude":31.60378,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Chikwiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507073
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"05b235141842cb0867bcb7a800b00bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1343546803,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1343546803,
+    "wof:lastmodified":1536619529,
+    "wof:name":"Chikwiro",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60378,
+    -19.7144,
+    31.60378,
+    -19.7144
+],
+  "geometry": {"coordinates":[31.60378,-19.7144],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209105355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63743,-18.18368,30.63743,-18.18368",
+    "geom:latitude":-18.18368,
+    "geom:longitude":30.63743,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nyandebvu",
+    "gn:country_code":"ZW",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405352,
+    "gn:latitude":-18.18368,
+    "gn:longitude":30.63743,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Nyandebvu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405352
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"bef473c0908e49d4ab1ed6cf36f81466",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209105355
+        }
+    ],
+    "wof:id":1209105355,
+    "wof:lastmodified":1536297591,
+    "wof:name":"Nyandebvu",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63743,
+    -18.18368,
+    30.63743,
+    -18.18368
+],
+  "geometry": {"coordinates":[30.63743,-18.18368],"type":"Point"}
+}

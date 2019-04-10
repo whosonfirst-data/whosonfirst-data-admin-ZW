@@ -1,0 +1,70 @@
+{
+  "id": 1293505853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12889,-17.84889,31.12889,-17.84889",
+    "geom:latitude":-17.84889,
+    "geom:longitude":31.12889,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lorelei",
+    "gn:country_code":"ZW",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085509,
+    "gn:latitude":-17.84889,
+    "gn:longitude":31.12889,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Lorelei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lorelei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681097,
+        421190261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085509
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"31697ad680182893d03d246e1fa7314c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":1293505853,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":1293505853,
+    "wof:lastmodified":1537716587,
+    "wof:name":"Lorelei",
+    "wof:parent_id":421190261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12889,
+    -17.84889,
+    31.12889,
+    -17.84889
+],
+  "geometry": {"coordinates":[31.12889,-17.84889],"type":"Point"}
+}

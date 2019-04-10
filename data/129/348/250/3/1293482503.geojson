@@ -1,0 +1,67 @@
+{
+  "id": 1293482503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.86474,-19.95029,27.86474,-19.95029",
+    "geom:latitude":-19.95029,
+    "geom:longitude":27.86474,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gotshane",
+    "gn:country_code":"ZW",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7464949,
+    "gn:latitude":-19.95029,
+    "gn:longitude":27.86474,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Gotshane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7464949
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b06c7577b802166e3c42c56569d41fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1293482503,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1293482503,
+    "wof:lastmodified":1536794531,
+    "wof:name":"Gotshane",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.86474,
+    -19.95029,
+    27.86474,
+    -19.95029
+],
+  "geometry": {"coordinates":[27.86474,-19.95029],"type":"Point"}
+}

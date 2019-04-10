@@ -1,0 +1,67 @@
+{
+  "id": 1276784443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12022,-18.01647,31.12022,-18.01647",
+    "geom:latitude":-18.01647,
+    "geom:longitude":31.12022,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Seke North",
+    "gn:country_code":"ZW",
+    "gn:dem":1458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7405256,
+    "gn:latitude":-18.01647,
+    "gn:longitude":31.12022,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Seke North",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405256
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"9c6f9ca4569356ecb3584a8444389c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784893,
+            "locality_id":1276784443,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1276784443,
+    "wof:lastmodified":1536671501,
+    "wof:name":"Seke North",
+    "wof:parent_id":1108784893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12022,
+    -18.01647,
+    31.12022,
+    -18.01647
+],
+  "geometry": {"coordinates":[31.12022,-18.01647],"type":"Point"}
+}

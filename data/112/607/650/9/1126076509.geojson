@@ -1,0 +1,85 @@
+{
+  "id": 1126076509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1475,-17.89,31.1475,-17.89",
+    "geom:latitude":-17.89,
+    "geom:longitude":31.1475,
+    "gn:gn_country":"ZW",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":123250,
+    "gn:population":123250,
+    "iso:country":"ZW",
+    "lbl:latitude":-17.89,
+    "lbl:longitude":31.1475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Epworth"
+    ],
+    "name:eng_x_preferred":[
+        "Epworth"
+    ],
+    "qs_pg:aaroncc":"ZW",
+    "qs_pg:gn_country":"ZW",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1085510,
+    "qs_pg:gn_pop":123250,
+    "qs_pg:name":"Epworth",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":130497,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        1108784865,
+        85681097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085510,
+        "qs_pg:id":130497
+    },
+    "wof:country":"ZW",
+    "wof:created":1497311157,
+    "wof:geomhash":"37c4c582bfd23483b1ca3be7a74aaf5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784865,
+            "locality_id":-1,
+            "neighbourhood_id":1126076509,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":1126076509,
+    "wof:lastmodified":1509410940,
+    "wof:name":"Epworth",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":123250,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1475,
+    -17.89,
+    31.1475,
+    -17.89
+],
+  "geometry": {"coordinates":[31.1475,-17.89],"type":"Point"}
+}

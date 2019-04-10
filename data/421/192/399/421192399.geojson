@@ -1,0 +1,78 @@
+{
+  "id": 421192399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.54083,-20.145,28.54083,-20.145",
+    "geom:latitude":-20.145,
+    "geom:longitude":28.54083,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":885720,
+    "qs:gn_pop":0,
+    "qs:name":"Mpopoma",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Bulawayo",
+    "qs:photos":112,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":112,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168110,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1467332,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        421171051,
+        85681121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":885720,
+        "gp:id":1467332,
+        "qs:id":1168110
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009735,
+    "wof:geomhash":"fe4db397cf68a6cfd8de1d145822c7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421171051,
+            "locality_id":-1,
+            "neighbourhood_id":421192399,
+            "region_id":85681121
+        }
+    ],
+    "wof:id":421192399,
+    "wof:lastmodified":1531858684,
+    "wof:name":"Mpopoma",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.54083,
+    -20.145,
+    28.54083,
+    -20.145
+],
+  "geometry": {"coordinates":[28.54083,-20.145],"type":"Point"}
+}

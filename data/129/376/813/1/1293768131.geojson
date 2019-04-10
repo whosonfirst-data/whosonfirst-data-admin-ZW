@@ -1,0 +1,67 @@
+{
+  "id": 1293768131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.50778,-20.17083,28.50778,-20.17083",
+    "geom:latitude":-20.17083,
+    "geom:longitude":28.50778,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bellevue",
+    "gn:country_code":"ZW",
+    "gn:dem":1379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1106116,
+    "gn:latitude":-20.17083,
+    "gn:longitude":28.50778,
+    "gn:modification_date":"2000-10-04",
+    "gn:name":"Bellevue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681121,
+        421171051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106116
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"1a4e6340514009e4b30803abdebf4db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421171051,
+            "locality_id":1293768131,
+            "region_id":85681121
+        }
+    ],
+    "wof:id":1293768131,
+    "wof:lastmodified":1536878793,
+    "wof:name":"Bellevue",
+    "wof:parent_id":421171051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.50778,
+    -20.17083,
+    28.50778,
+    -20.17083
+],
+  "geometry": {"coordinates":[28.50778,-20.17083],"type":"Point"}
+}

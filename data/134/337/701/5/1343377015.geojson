@@ -1,0 +1,67 @@
+{
+  "id": 1343377015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.23333,-19.93333,27.23333,-19.93333",
+    "geom:latitude":-19.93333,
+    "geom:longitude":27.23333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Makvlela",
+    "gn:country_code":"ZW",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":887638,
+    "gn:latitude":-19.93333,
+    "gn:longitude":27.23333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Makvlela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890416489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":887638
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"929ef53e4c913a5d7b3fd0df09166b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416489,
+            "locality_id":1343377015,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1343377015,
+    "wof:lastmodified":1536865294,
+    "wof:name":"Makvlela",
+    "wof:parent_id":890416489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.23333,
+    -19.93333,
+    27.23333,
+    -19.93333
+],
+  "geometry": {"coordinates":[27.23333,-19.93333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 890452369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.75,-19.06667,31.75,-19.06667",
+    "geom:latitude":-19.06667,
+    "geom:longitude":31.75,
+    "gn:country":"ZW",
+    "gn:fcode":"PPL",
+    "gn:pop":1676,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dorowa"
+    ],
+    "name:eng_x_preferred":[
+        "Dorowa"
+    ],
+    "name:unk_x_variant":[
+        "Dorowa"
+    ],
+    "qs:name":"Dorowa Mining Lease",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":892156,
+        "gp:id":12523023,
+        "qs:id":129889,
+        "wd:id":"Q5298711"
+    },
+    "wof:country":"ZW",
+    "wof:created":1469052814,
+    "wof:geomhash":"04606d5c92ffa2d22d134651fceebd95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":890452369,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":890452369,
+    "wof:lastmodified":1514505280,
+    "wof:name":"Dorowa Mining Lease",
+    "wof:parent_id":85681113,
+    "wof:placetype":"locality",
+    "wof:population":1676,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.75,
+    -19.06667,
+    31.75,
+    -19.06667
+],
+  "geometry": {"coordinates":[31.75,-19.06667],"type":"Point"}
+}

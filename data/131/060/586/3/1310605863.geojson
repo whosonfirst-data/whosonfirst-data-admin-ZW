@@ -1,0 +1,70 @@
+{
+  "id": 1310605863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7603,-16.9002,29.7603,-16.9002",
+    "geom:latitude":-16.9002,
+    "geom:longitude":29.7603,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Buffalo Downs",
+    "gn:country_code":"ZW",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300451,
+    "gn:latitude":-16.9002,
+    "gn:longitude":29.7603,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Buffalo Downs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buffalo Downs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300451
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d5173f08c716e22eaac2e45ab78b1451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1310605863,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1310605863,
+    "wof:lastmodified":1537716594,
+    "wof:name":"Buffalo Downs",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7603,
+    -16.9002,
+    29.7603,
+    -16.9002
+],
+  "geometry": {"coordinates":[29.7603,-16.9002],"type":"Point"}
+}

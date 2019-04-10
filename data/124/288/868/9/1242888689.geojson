@@ -1,0 +1,70 @@
+{
+  "id": 1242888689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.88333,-16.73333,29.88333,-16.73333",
+    "geom:latitude":-16.73333,
+    "geom:longitude":29.88333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mormon Hill",
+    "gn:country_code":"ZW",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":885835,
+    "gn:latitude":-16.73333,
+    "gn:longitude":29.88333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Mormon Hill",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mormon Hill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":885835
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"79dac7fb48ba4699238b3e0fe92552ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1242888689,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1242888689,
+    "wof:lastmodified":1537716576,
+    "wof:name":"Mormon Hill",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.88333,
+    -16.73333,
+    29.88333,
+    -16.73333
+],
+  "geometry": {"coordinates":[29.88333,-16.73333],"type":"Point"}
+}

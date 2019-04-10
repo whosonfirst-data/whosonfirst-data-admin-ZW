@@ -1,0 +1,74 @@
+{
+  "id": 1310423957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.43333,-17.96667,30.43333,-17.96667",
+    "geom:latitude":-17.96667,
+    "geom:longitude":30.43333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Makwiro",
+    "gn:cc2":"ZW",
+    "gn:country_code":"ZW",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":887616,
+    "gn:latitude":-17.96667,
+    "gn:longitude":30.43333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Makwiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makwira",
+        "Makwino",
+        "Makwiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":887616,
+        "wk:page":"Makwiro"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b6e301e590ed2ba619f855581192e55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416483,
+            "locality_id":1310423957,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1310423957,
+    "wof:lastmodified":1537716579,
+    "wof:name":"Makwiro",
+    "wof:parent_id":890416483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43333,
+    -17.96667,
+    30.43333,
+    -17.96667
+],
+  "geometry": {"coordinates":[30.43333,-17.96667],"type":"Point"}
+}

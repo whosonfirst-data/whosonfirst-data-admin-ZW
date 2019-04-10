@@ -1,0 +1,73 @@
+{
+  "id": 421204541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.716644,-19.505506,29.716644,-19.505506",
+    "geom:latitude":-19.505506,
+    "geom:longitude":29.716644,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Gweru",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Midlands",
+    "qs:photos":914,
+    "qs:photos_1k":185,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1149,
+    "qs:photos_sr":10,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1308563,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":56048478,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56048478,
+        "qs:id":1308563
+    },
+    "wof:country":"ZW",
+    "wof:created":1459010190,
+    "wof:geomhash":"1fa49bdbbbd94cfaacf3c51efa1e221a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421204541,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":421204541,
+    "wof:lastmodified":1481830925,
+    "wof:name":"Gweru",
+    "wof:parent_id":85681103,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.716644,
+    -19.505506,
+    29.716644,
+    -19.505506
+],
+  "geometry": {"coordinates":[29.716644,-19.505506],"type":"Point"}
+}

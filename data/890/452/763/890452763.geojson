@@ -1,0 +1,67 @@
+{
+  "id": 890452763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53333,-16.91667,31.53333,-16.91667",
+    "geom:latitude":-16.91667,
+    "geom:longitude":31.53333,
+    "gn:country":"ZW",
+    "gn:fcode":"PPL",
+    "gn:pop":527,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Madziwa"
+    ],
+    "qs:name":"Madziwa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":887997,
+        "gp:id":1467322,
+        "qs:id":554762
+    },
+    "wof:country":"ZW",
+    "wof:created":1469052828,
+    "wof:geomhash":"2a2a5e6c0aa1a97850366b9dd33a8b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":890452763,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":890452763,
+    "wof:lastmodified":1505343647,
+    "wof:name":"Madziwa",
+    "wof:parent_id":85681093,
+    "wof:placetype":"locality",
+    "wof:population":527,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53333,
+    -16.91667,
+    31.53333,
+    -16.91667
+],
+  "geometry": {"coordinates":[31.53333,-16.91667],"type":"Point"}
+}

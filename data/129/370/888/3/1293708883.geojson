@@ -1,0 +1,71 @@
+{
+  "id": 1293708883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01426,-21.38586,31.01426,-21.38586",
+    "geom:latitude":-21.38586,
+    "geom:longitude":31.01426,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mbizi",
+    "gn:country_code":"ZW",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":886309,
+    "gn:latitude":-21.38586,
+    "gn:longitude":31.01426,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbizi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mbizi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890436773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":886309,
+        "wk:page":"Mbizi"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f787f19d7e801b8d087114f7c007291f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890436773,
+            "locality_id":1293708883,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1293708883,
+    "wof:lastmodified":1537716577,
+    "wof:name":"Mbizi",
+    "wof:parent_id":890436773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01426,
+    -21.38586,
+    31.01426,
+    -21.38586
+],
+  "geometry": {"coordinates":[31.01426,-21.38586],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226535027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.20737,-19.54146,27.20737,-19.54146",
+    "geom:latitude":-19.54146,
+    "geom:longitude":27.20737,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tulamila",
+    "gn:country_code":"ZW",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":879858,
+    "gn:latitude":-19.54146,
+    "gn:longitude":27.20737,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tulamila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tulamela",
+        "Tulamila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":879858
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f28b229dff47886ec144dd06ad1aab80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1226535027,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1226535027,
+    "wof:lastmodified":1537716570,
+    "wof:name":"Tulamila",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.20737,
+    -19.54146,
+    27.20737,
+    -19.54146
+],
+  "geometry": {"coordinates":[27.20737,-19.54146],"type":"Point"}
+}

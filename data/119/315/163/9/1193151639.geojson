@@ -1,0 +1,72 @@
+{
+  "id": 1193151639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.16667,-18.1,31.16667,-18.1",
+    "geom:latitude":-18.1,
+    "geom:longitude":31.16667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Seki",
+    "gn:cc2":"ZW",
+    "gn:country_code":"ZW",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":881523,
+    "gn:latitude":-18.1,
+    "gn:longitude":31.16667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Seki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seke",
+        "Seki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":881523
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"71e06978ad0b4cd3c924339d3f6fb3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784893,
+            "locality_id":1193151639,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1193151639,
+    "wof:lastmodified":1537716572,
+    "wof:name":"Seki",
+    "wof:parent_id":1108784893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.16667,
+    -18.1,
+    31.16667,
+    -18.1
+],
+  "geometry": {"coordinates":[31.16667,-18.1],"type":"Point"}
+}

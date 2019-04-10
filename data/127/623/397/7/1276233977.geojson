@@ -1,0 +1,67 @@
+{
+  "id": 1276233977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0778,-18.05094,31.0778,-18.05094",
+    "geom:latitude":-18.05094,
+    "geom:longitude":31.0778,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Vera",
+    "gn:country_code":"ZW",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7405255,
+    "gn:latitude":-18.05094,
+    "gn:longitude":31.0778,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Vera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405255
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"4f0685ca01a5c71785488f51055ccaff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784893,
+            "locality_id":1276233977,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1276233977,
+    "wof:lastmodified":1536912152,
+    "wof:name":"Vera",
+    "wof:parent_id":1108784893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0778,
+    -18.05094,
+    31.0778,
+    -18.05094
+],
+  "geometry": {"coordinates":[31.0778,-18.05094],"type":"Point"}
+}

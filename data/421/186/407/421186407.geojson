@@ -1,0 +1,99 @@
+{
+  "id": 421186407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.768354,-18.217978,32.768354,-18.217978",
+    "geom:latitude":-18.217978,
+    "geom:longitude":32.768354,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Nyanga"
+    ],
+    "name:fin_x_preferred":[
+        "Nyanga"
+    ],
+    "name:fra_x_preferred":[
+        "Nyanga"
+    ],
+    "name:hrv_x_preferred":[
+        "Nyanga"
+    ],
+    "name:ita_x_preferred":[
+        "Nyanga"
+    ],
+    "name:nld_x_preferred":[
+        "Nyanga"
+    ],
+    "name:spa_x_preferred":[
+        "Nyanga"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0430\u043d\u0433\u0430"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Nyanga",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Manicaland",
+    "qs:photos":90,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":104,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":917868,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":56048470,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56048470,
+        "qs:id":917868,
+        "wd:id":"Q284404"
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009479,
+    "wof:geomhash":"ebf6c4947a4a489526237081ae758708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421186407,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":421186407,
+    "wof:lastmodified":1527716313,
+    "wof:name":"Nyanga",
+    "wof:parent_id":85681113,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.768354,
+    -18.217978,
+    32.768354,
+    -18.217978
+],
+  "geometry": {"coordinates":[32.768354,-18.217978],"type":"Point"}
+}

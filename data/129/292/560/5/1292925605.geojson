@@ -1,0 +1,67 @@
+{
+  "id": 1292925605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.55963,-19.90007,31.55963,-19.90007",
+    "geom:latitude":-19.90007,
+    "geom:longitude":31.55963,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Machawira",
+    "gn:country_code":"ZW",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507220,
+    "gn:latitude":-19.90007,
+    "gn:longitude":31.55963,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Machawira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507220
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"abfde82bd89770e732ddc6afaf5c93d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1292925605,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1292925605,
+    "wof:lastmodified":1537096892,
+    "wof:name":"Machawira",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.55963,
+    -19.90007,
+    31.55963,
+    -19.90007
+],
+  "geometry": {"coordinates":[31.55963,-19.90007],"type":"Point"}
+}

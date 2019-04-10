@@ -1,0 +1,109 @@
+{
+  "id": 421184765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.86667,-19.8,32.86667,-19.8",
+    "geom:latitude":-19.8,
+    "geom:longitude":32.86667,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Chimanimani"
+    ],
+    "name:dut_x_preferred":[
+        "Chimanimani"
+    ],
+    "name:eng_x_preferred":[
+        "Chimanimani"
+    ],
+    "name:fra_x_preferred":[
+        "Chimanimani"
+    ],
+    "name:fre_x_preferred":[
+        "Chimanimani"
+    ],
+    "name:ger_x_preferred":[
+        "Chimanimani"
+    ],
+    "name:pol_x_preferred":[
+        "Chimanimani"
+    ],
+    "name:sna_x_preferred":[
+        "Chimanimani"
+    ],
+    "name:unk_x_variant":[
+        "Melsetter"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":893813,
+    "qs:gn_pop":2752,
+    "qs:name":"Chimanimani",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Manicaland",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1090299,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1466894,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":1470.0,
+    "wd:latitude":-20.183333,
+    "wd:longitude":32.866667,
+    "wd:wordcount":397,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":893813,
+        "gp:id":1466894,
+        "qs:id":1090299,
+        "wd:id":"Q1073089"
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009421,
+    "wof:geomhash":"ae80ab28dd8d0a88b60757b3a36e5f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":421184765,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":421184765,
+    "wof:lastmodified":1553816374,
+    "wof:name":"Chimanimani",
+    "wof:parent_id":85681113,
+    "wof:placetype":"locality",
+    "wof:population":2752,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86667,
+    -19.8,
+    32.86667,
+    -19.8
+],
+  "geometry": {"coordinates":[32.86667,-19.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226362393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.68113,-19.75236,31.68113,-19.75236",
+    "geom:latitude":-19.75236,
+    "geom:longitude":31.68113,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Muchakata",
+    "gn:country_code":"ZW",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507054,
+    "gn:latitude":-19.75236,
+    "gn:longitude":31.68113,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Muchakata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507054
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d19210ac7a73856e3f18921ad2422085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1226362393,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1226362393,
+    "wof:lastmodified":1536765993,
+    "wof:name":"Muchakata",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.68113,
+    -19.75236,
+    31.68113,
+    -19.75236
+],
+  "geometry": {"coordinates":[31.68113,-19.75236],"type":"Point"}
+}

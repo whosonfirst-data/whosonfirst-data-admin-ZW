@@ -1,0 +1,67 @@
+{
+  "id": 1327152505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05,-18.56667,31.05,-18.56667",
+    "geom:latitude":-18.56667,
+    "geom:longitude":31.05,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Marshbrook",
+    "gn:country_code":"ZW",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":886961,
+    "gn:latitude":-18.56667,
+    "gn:longitude":31.05,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Marshbrook",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":886961
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"3e74440c75e4f9edc5e319cff71f9e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784879,
+            "locality_id":1327152505,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1327152505,
+    "wof:lastmodified":1537081764,
+    "wof:name":"Marshbrook",
+    "wof:parent_id":1108784879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05,
+    -18.56667,
+    31.05,
+    -18.56667
+],
+  "geometry": {"coordinates":[31.05,-18.56667],"type":"Point"}
+}

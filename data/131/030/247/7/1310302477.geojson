@@ -1,0 +1,70 @@
+{
+  "id": 1310302477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.01881,-19.44265,27.01881,-19.44265",
+    "geom:latitude":-19.44265,
+    "geom:longitude":27.01881,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tshiyakwakiwe",
+    "gn:country_code":"ZW",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":879909,
+    "gn:latitude":-19.44265,
+    "gn:longitude":27.01881,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tshiyakwakiwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshiyakwakwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":879909
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"316cbeda55db96e277b65f62fac22f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1310302477,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1310302477,
+    "wof:lastmodified":1537716570,
+    "wof:name":"Tshiyakwakiwe",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.01881,
+    -19.44265,
+    27.01881,
+    -19.44265
+],
+  "geometry": {"coordinates":[27.01881,-19.44265],"type":"Point"}
+}

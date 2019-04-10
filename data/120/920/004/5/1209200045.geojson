@@ -1,0 +1,61 @@
+{
+  "id": 1209200045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58028,-19.54318,31.58028,-19.54318",
+    "geom:latitude":-19.54318,
+    "geom:longitude":31.58028,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tinarwo",
+    "gn:country_code":"ZW",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453791,
+    "gn:latitude":-19.54318,
+    "gn:longitude":31.58028,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Tinarwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453791
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"69caf9443b8d1c7f4ac3f241ffb24beb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209200045
+        }
+    ],
+    "wof:id":1209200045,
+    "wof:lastmodified":1536294642,
+    "wof:name":"Tinarwo",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58028,
+    -19.54318,
+    31.58028,
+    -19.54318
+],
+  "geometry": {"coordinates":[31.58028,-19.54318],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276757669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58985,-20.25385,31.58985,-20.25385",
+    "geom:latitude":-20.25385,
+    "geom:longitude":31.58985,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chief Nhema",
+    "gn:country_code":"ZW",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7350306,
+    "gn:latitude":-20.25385,
+    "gn:longitude":31.58985,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chief Nhema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chief Nhema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        1108784921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7350306
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b7642c9691b608af3a7a0f0a7b8674b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784921,
+            "locality_id":1276757669,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1276757669,
+    "wof:lastmodified":1537716588,
+    "wof:name":"Chief Nhema",
+    "wof:parent_id":1108784921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58985,
+    -20.25385,
+    31.58985,
+    -20.25385
+],
+  "geometry": {"coordinates":[31.58985,-20.25385],"type":"Point"}
+}

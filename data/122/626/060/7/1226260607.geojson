@@ -1,0 +1,70 @@
+{
+  "id": 1226260607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.31287,-20.45663,32.31287,-20.45663",
+    "geom:latitude":-20.45663,
+    "geom:longitude":32.31287,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chibuwe",
+    "gn:country_code":"ZW",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300445,
+    "gn:latitude":-20.45663,
+    "gn:longitude":32.31287,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Chibuwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chibuwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890430547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300445
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"6932ea280ff85a7a736d2ec62e0a38b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890430547,
+            "locality_id":1226260607,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1226260607,
+    "wof:lastmodified":1537716594,
+    "wof:name":"Chibuwe",
+    "wof:parent_id":890430547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.31287,
+    -20.45663,
+    32.31287,
+    -20.45663
+],
+  "geometry": {"coordinates":[32.31287,-20.45663],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209128209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.26944,-20.05111,28.26944,-20.05111",
+    "geom:latitude":-20.05111,
+    "geom:longitude":28.26944,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Miasi",
+    "gn:country_code":"ZW",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1105886,
+    "gn:latitude":-20.05111,
+    "gn:longitude":28.26944,
+    "gn:modification_date":"2000-10-04",
+    "gn:name":"Miasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105886
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d5f4eb6c18fcb7ff5a3aec50ed1bf3d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209128209
+        }
+    ],
+    "wof:id":1209128209,
+    "wof:lastmodified":1536296889,
+    "wof:name":"Miasi",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.269440000000003,
+    -20.05111,
+    28.269440000000003,
+    -20.05111
+],
+  "geometry": {"coordinates":[28.26944,-20.05111],"type":"Point"}
+}

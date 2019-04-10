@@ -1,0 +1,67 @@
+{
+  "id": 1260179093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71655,-19.90086,31.71655,-19.90086",
+    "geom:latitude":-19.90086,
+    "geom:longitude":31.71655,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nhamo",
+    "gn:country_code":"ZW",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507322,
+    "gn:latitude":-19.90086,
+    "gn:longitude":31.71655,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Nhamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507322
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"61e05e4a56b7b2180677fb6610347924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1260179093,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1260179093,
+    "wof:lastmodified":1536852980,
+    "wof:name":"Nhamo",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71655,
+    -19.90086,
+    31.71655,
+    -19.90086
+],
+  "geometry": {"coordinates":[31.71655,-19.90086],"type":"Point"}
+}

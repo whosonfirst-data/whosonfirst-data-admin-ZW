@@ -1,0 +1,68 @@
+{
+  "id": 1226660685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.45,-17.53333,30.45,-17.53333",
+    "geom:latitude":-17.53333,
+    "geom:longitude":30.45,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Trelawney",
+    "gn:country_code":"ZW",
+    "gn:dem":1355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":880030,
+    "gn:latitude":-17.53333,
+    "gn:longitude":30.45,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Trelawney",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        1108784913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":880030,
+        "wk:page":"Trelawney_%28Zimbabwe%29"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c7e356ffe00d11f830954aff78210277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784913,
+            "locality_id":1226660685,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1226660685,
+    "wof:lastmodified":1537576393,
+    "wof:name":"Trelawney",
+    "wof:parent_id":1108784913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.45,
+    -17.53333,
+    30.45,
+    -17.53333
+],
+  "geometry": {"coordinates":[30.45,-17.53333],"type":"Point"}
+}

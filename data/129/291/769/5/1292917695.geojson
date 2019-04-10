@@ -1,0 +1,67 @@
+{
+  "id": 1292917695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.79597,-19.44851,31.79597,-19.44851",
+    "geom:latitude":-19.44851,
+    "geom:longitude":31.79597,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Utete",
+    "gn:country_code":"ZW",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453466,
+    "gn:latitude":-19.44851,
+    "gn:longitude":31.79597,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Utete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453466
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"ed325b1d0b4ebaf9ebcea50ec232ca88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1292917695,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1292917695,
+    "wof:lastmodified":1536611792,
+    "wof:name":"Utete",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.79597,
+    -19.44851,
+    31.79597,
+    -19.44851
+],
+  "geometry": {"coordinates":[31.79597,-19.44851],"type":"Point"}
+}

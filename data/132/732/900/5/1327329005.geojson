@@ -1,0 +1,67 @@
+{
+  "id": 1327329005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.70178,-19.54365,31.70178,-19.54365",
+    "geom:latitude":-19.54365,
+    "geom:longitude":31.70178,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gava",
+    "gn:country_code":"ZW",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453852,
+    "gn:latitude":-19.54365,
+    "gn:longitude":31.70178,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Gava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453852
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"90205b1f1c51799db6d9b38b4e1dd7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1327329005,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1327329005,
+    "wof:lastmodified":1536829180,
+    "wof:name":"Gava",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.70178,
+    -19.54365,
+    31.70178,
+    -19.54365
+],
+  "geometry": {"coordinates":[31.70178,-19.54365],"type":"Point"}
+}

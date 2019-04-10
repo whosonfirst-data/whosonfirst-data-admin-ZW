@@ -1,0 +1,67 @@
+{
+  "id": 1343656867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.59681,-19.17274,27.59681,-19.17274",
+    "geom:latitude":-19.17274,
+    "geom:longitude":27.59681,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Funda",
+    "gn:country_code":"ZW",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":891368,
+    "gn:latitude":-19.17274,
+    "gn:longitude":27.59681,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Funda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":891368
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"65165456b7092549c0a4eb6a5de2d86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1343656867,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1343656867,
+    "wof:lastmodified":1536960188,
+    "wof:name":"Funda",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.59681,
+    -19.17274,
+    27.59681,
+    -19.17274
+],
+  "geometry": {"coordinates":[27.59681,-19.17274],"type":"Point"}
+}

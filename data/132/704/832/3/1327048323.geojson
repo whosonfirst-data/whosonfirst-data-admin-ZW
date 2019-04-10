@@ -1,0 +1,70 @@
+{
+  "id": 1327048323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95528,-17.73556,30.95528,-17.73556",
+    "geom:latitude":-17.73556,
+    "geom:longitude":30.95528,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Good Hope",
+    "gn:country_code":"ZW",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085457,
+    "gn:latitude":-17.73556,
+    "gn:longitude":30.95528,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Good Hope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Good Hope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681097,
+        421190261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085457
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c6b3821ac98ef4520340891c2b2a38e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":1327048323,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":1327048323,
+    "wof:lastmodified":1537716586,
+    "wof:name":"Good Hope",
+    "wof:parent_id":421190261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95528,
+    -17.73556,
+    30.95528,
+    -17.73556
+],
+  "geometry": {"coordinates":[30.95528,-17.73556],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293683741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83611,-20.17778,30.83611,-20.17778",
+    "geom:latitude":-20.17778,
+    "geom:longitude":30.83611,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ngadza",
+    "gn:country_code":"ZW",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106383,
+    "gn:latitude":-20.17778,
+    "gn:longitude":30.83611,
+    "gn:modification_date":"2001-03-22",
+    "gn:name":"Ngadza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        1108784917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106383
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f4e6d9ba5a47ddd10ba0856e9c82cc7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784917,
+            "locality_id":1293683741,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1293683741,
+    "wof:lastmodified":1537000721,
+    "wof:name":"Ngadza",
+    "wof:parent_id":1108784917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83611,
+    -20.17778,
+    30.83611,
+    -20.17778
+],
+  "geometry": {"coordinates":[30.83611,-20.17778],"type":"Point"}
+}

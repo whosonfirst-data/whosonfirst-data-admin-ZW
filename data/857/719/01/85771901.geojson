@@ -1,0 +1,109 @@
+{
+  "id": 85771901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4838687.439635,
+    "geom:bbox":"31.048279,-17.854161,31.048279,-17.854161",
+    "geom:latitude":-17.854161,
+    "geom:longitude":31.048279,
+    "gn:latitude":-17.84333,
+    "gn:longitude":31.05333,
+    "iso:country":"ZW",
+    "lbl:latitude":-17.854161,
+    "lbl:longitude":31.048279,
+    "mps:latitude":-17.855919,
+    "mps:longitude":31.048579,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Arcadia"
+    ],
+    "name:unk_x_variant":[
+        "Arcadia"
+    ],
+    "qs:gn_adm0_cc":"ZW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":890299,
+    "qs:gn_nam_loc":"Harare, Harare, Harare, ZW",
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"Arcadia",
+    "qs:local_max":60,
+    "qs:local_sum":63,
+    "qs:localhoods":2,
+    "qs:name":"Arcadia",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Harare",
+    "qs:name_adm2":"Harare",
+    "qs:name_local":"Harare",
+    "qs:photo_max":2,
+    "qs:photo_sum":3,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23425004,
+    "qs:woe_adm1":24550731,
+    "qs:woe_adm2":56048529,
+    "qs:woe_lau":0,
+    "qs:woe_local":1467052,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        421190261,
+        85681097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":895635,
+        "gp:id":1466794,
+        "qs:id":1096501,
+        "qs_pg:id":1096501
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b3daf4b09b6fff5521c1a39f48644227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":-1,
+            "neighbourhood_id":85771901,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":85771901,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859482,
+    "wof:name":"Arcadia",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.048279,
+    -17.854161,
+    31.048279,
+    -17.854161
+],
+  "geometry": {"coordinates":[31.048279,-17.854161],"type":"Point"}
+}

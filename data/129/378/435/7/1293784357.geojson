@@ -1,0 +1,71 @@
+{
+  "id": 1293784357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.47352,-17.27239,32.47352,-17.27239",
+    "geom:latitude":-17.27239,
+    "geom:longitude":32.47352,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Makosa Township",
+    "gn:country_code":"ZW",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":887696,
+    "gn:latitude":-17.27239,
+    "gn:longitude":32.47352,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Makosa Township",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makosa Business Centre",
+        "Makosa Township"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":887696
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"a84f3ffc621a4b6dd77b606a0ee73f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784885,
+            "locality_id":1293784357,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1293784357,
+    "wof:lastmodified":1537716579,
+    "wof:name":"Makosa Township",
+    "wof:parent_id":1108784885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.47352,
+    -17.27239,
+    32.47352,
+    -17.27239
+],
+  "geometry": {"coordinates":[32.47352,-17.27239],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310103177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.25166,-19.44237,27.25166,-19.44237",
+    "geom:latitude":-19.44237,
+    "geom:longitude":27.25166,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gxobonolo",
+    "gn:country_code":"ZW",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":890380,
+    "gn:latitude":-19.44237,
+    "gn:longitude":27.25166,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gxobonolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xoboholo",
+        "Gxobonolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":890380
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"54813ab2f5ce97c4b56b9855e438b065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1310103177,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1310103177,
+    "wof:lastmodified":1537716581,
+    "wof:name":"Gxobonolo",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.25166,
+    -19.44237,
+    27.25166,
+    -19.44237
+],
+  "geometry": {"coordinates":[27.25166,-19.44237],"type":"Point"}
+}

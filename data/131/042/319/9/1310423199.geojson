@@ -1,0 +1,67 @@
+{
+  "id": 1310423199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.90397,-19.39435,31.90397,-19.39435",
+    "geom:latitude":-19.39435,
+    "geom:longitude":31.90397,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gudo",
+    "gn:country_code":"ZW",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453422,
+    "gn:latitude":-19.39435,
+    "gn:longitude":31.90397,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Gudo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453422
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"3a75cf409b93f0512943b5c520df9a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1310423199,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1310423199,
+    "wof:lastmodified":1537034224,
+    "wof:name":"Gudo",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.90397,
+    -19.39435,
+    31.90397,
+    -19.39435
+],
+  "geometry": {"coordinates":[31.90397,-19.39435],"type":"Point"}
+}

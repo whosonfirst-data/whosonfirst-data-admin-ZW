@@ -1,0 +1,67 @@
+{
+  "id": 1310402617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.55423,-19.71757,31.55423,-19.71757",
+    "geom:latitude":-19.71757,
+    "geom:longitude":31.55423,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chibaya",
+    "gn:country_code":"ZW",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507124,
+    "gn:latitude":-19.71757,
+    "gn:longitude":31.55423,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Chibaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507124
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"046ed67c328e0120368a4f181afc277f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1310402617,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1310402617,
+    "wof:lastmodified":1537062662,
+    "wof:name":"Chibaya",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.55423,
+    -19.71757,
+    31.55423,
+    -19.71757
+],
+  "geometry": {"coordinates":[31.55423,-19.71757],"type":"Point"}
+}

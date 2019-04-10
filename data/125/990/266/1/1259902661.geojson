@@ -1,0 +1,70 @@
+{
+  "id": 1259902661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.34693,-16.83969,29.34693,-16.83969",
+    "geom:latitude":-16.83969,
+    "geom:longitude":29.34693,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kajamatimba",
+    "gn:country_code":"ZW",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370793,
+    "gn:latitude":-16.83969,
+    "gn:longitude":29.34693,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kajamatimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kajamatimba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370793
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"8c923a4f678f1468b38754a725f3c5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1259902661,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1259902661,
+    "wof:lastmodified":1537716591,
+    "wof:name":"Kajamatimba",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.34693,
+    -16.83969,
+    29.34693,
+    -16.83969
+],
+  "geometry": {"coordinates":[29.34693,-16.83969],"type":"Point"}
+}

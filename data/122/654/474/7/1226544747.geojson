@@ -1,0 +1,67 @@
+{
+  "id": 1226544747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1215,-18.10946,30.1215,-18.10946",
+    "geom:latitude":-18.10946,
+    "geom:longitude":30.1215,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chegutu Pfupajena Township",
+    "gn:country_code":"ZW",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7405305,
+    "gn:latitude":-18.10946,
+    "gn:longitude":30.1215,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Chegutu Pfupajena Township",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        1108784897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405305
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"5ddbd13d7883e7f658e385219191682b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784897,
+            "locality_id":1226544747,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1226544747,
+    "wof:lastmodified":1536998679,
+    "wof:name":"Chegutu Pfupajena Township",
+    "wof:parent_id":1108784897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1215,
+    -18.10946,
+    30.1215,
+    -18.10946
+],
+  "geometry": {"coordinates":[30.1215,-18.10946],"type":"Point"}
+}

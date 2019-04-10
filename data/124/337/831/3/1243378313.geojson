@@ -1,0 +1,70 @@
+{
+  "id": 1243378313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73333,-20.31667,32.73333,-20.31667",
+    "geom:latitude":-20.31667,
+    "geom:longitude":32.73333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dzorora",
+    "gn:country_code":"ZW",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":891922,
+    "gn:latitude":-20.31667,
+    "gn:longitude":32.73333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Dzorora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dzorora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890430547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":891922
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"7cc0f9189b43317314aa9829e3f097b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890430547,
+            "locality_id":1243378313,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1243378313,
+    "wof:lastmodified":1537716583,
+    "wof:name":"Dzorora",
+    "wof:parent_id":890430547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73333,
+    -20.31667,
+    32.73333,
+    -20.31667
+],
+  "geometry": {"coordinates":[32.73333,-20.31667],"type":"Point"}
+}

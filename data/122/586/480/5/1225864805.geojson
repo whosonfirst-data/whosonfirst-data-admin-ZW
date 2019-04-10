@@ -1,0 +1,67 @@
+{
+  "id": 1225864805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.69924,-19.55398,31.69924,-19.55398",
+    "geom:latitude":-19.55398,
+    "geom:longitude":31.69924,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zvoushe",
+    "gn:country_code":"ZW",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453855,
+    "gn:latitude":-19.55398,
+    "gn:longitude":31.69924,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Zvoushe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453855
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"03d76b4d3ed439f42e6832e8cf27c1e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1225864805,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1225864805,
+    "wof:lastmodified":1536985460,
+    "wof:name":"Zvoushe",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.69924,
+    -19.55398,
+    31.69924,
+    -19.55398
+],
+  "geometry": {"coordinates":[31.69924,-19.55398],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 421190933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09222,-17.85417,31.09222,-17.85417",
+    "geom:latitude":-17.85417,
+    "geom:longitude":31.09222,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Queensdale"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":882742,
+    "qs:gn_pop":0,
+    "qs:name":"Queensdale",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Harare",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":58944,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1467471,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        421190261,
+        85681097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":882742,
+        "gp:id":1467471,
+        "qs:id":58944
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009674,
+    "wof:geomhash":"dffdfbace9cd42a13b8de937baec4998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":-1,
+            "neighbourhood_id":421190933,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":421190933,
+    "wof:lastmodified":1531858659,
+    "wof:name":"Queensdale",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09222,
+    -17.85417,
+    31.09222,
+    -17.85417
+],
+  "geometry": {"coordinates":[31.09222,-17.85417],"type":"Point"}
+}

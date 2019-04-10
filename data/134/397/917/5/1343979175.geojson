@@ -1,0 +1,67 @@
+{
+  "id": 1343979175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.69167,-19.91111,29.69167,-19.91111",
+    "geom:latitude":-19.91111,
+    "geom:longitude":29.69167,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Muhlonga",
+    "gn:country_code":"ZW",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106393,
+    "gn:latitude":-19.91111,
+    "gn:longitude":29.69167,
+    "gn:modification_date":"2001-03-22",
+    "gn:name":"Muhlonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        890416473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106393
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f98b4b681e7d3fd6b6825990283496c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416473,
+            "locality_id":1343979175,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1343979175,
+    "wof:lastmodified":1536992243,
+    "wof:name":"Muhlonga",
+    "wof:parent_id":890416473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.69167,
+    -19.91111,
+    29.69167,
+    -19.91111
+],
+  "geometry": {"coordinates":[29.69167,-19.91111],"type":"Point"}
+}

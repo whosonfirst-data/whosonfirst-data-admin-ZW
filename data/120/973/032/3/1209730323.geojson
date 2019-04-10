@@ -1,0 +1,73 @@
+{
+  "id": 1209730323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.05,-20.61667,30.05,-20.61667",
+    "geom:latitude":-20.61667,
+    "geom:longitude":30.05,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Munene",
+    "gn:cc2":"ZW",
+    "gn:country_code":"ZW",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":885291,
+    "gn:latitude":-20.61667,
+    "gn:longitude":30.05,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Munene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mnene",
+        "Mneni",
+        "Munene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        890416463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":885291
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"15ec600267a24d41d2a1b4116c21cbf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416463,
+            "locality_id":1209730323,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1209730323,
+    "wof:lastmodified":1537716575,
+    "wof:name":"Munene",
+    "wof:parent_id":890416463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05,
+    -20.61667000000001,
+    30.05,
+    -20.61667000000001
+],
+  "geometry": {"coordinates":[30.05,-20.61667000000001],"type":"Point"}
+}

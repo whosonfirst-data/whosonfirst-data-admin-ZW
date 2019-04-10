@@ -1,0 +1,70 @@
+{
+  "id": 1276461983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3,-17.9,27.3,-17.9",
+    "geom:latitude":-17.9,
+    "geom:longitude":27.3,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"James",
+    "gn:country_code":"ZW",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":889623,
+    "gn:latitude":-17.9,
+    "gn:longitude":27.3,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"James",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "James"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        890416495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":889623
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b4fb644bf01c38bc37258a7d845a7617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416495,
+            "locality_id":1276461983,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1276461983,
+    "wof:lastmodified":1537716580,
+    "wof:name":"James",
+    "wof:parent_id":890416495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3,
+    -17.9,
+    27.3,
+    -17.9
+],
+  "geometry": {"coordinates":[27.3,-17.9],"type":"Point"}
+}

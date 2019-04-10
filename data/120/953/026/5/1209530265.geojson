@@ -1,0 +1,64 @@
+{
+  "id": 1209530265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95833,-17.93889,30.95833,-17.93889",
+    "geom:latitude":-17.93889,
+    "geom:longitude":30.95833,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Barrington",
+    "gn:country_code":"ZW",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085500,
+    "gn:latitude":-17.93889,
+    "gn:longitude":30.95833,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Barrington",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Barrington"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085500
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"a88d59c8f3fa714eb4d0ace91a1007d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209530265
+        }
+    ],
+    "wof:id":1209530265,
+    "wof:lastmodified":1537716587,
+    "wof:name":"Barrington",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95833,
+    -17.93889,
+    30.95833,
+    -17.93889
+],
+  "geometry": {"coordinates":[30.95833,-17.93889],"type":"Point"}
+}

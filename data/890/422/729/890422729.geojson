@@ -1,0 +1,76 @@
+{
+  "id": 890422729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.43333,-17.03333,30.43333,-17.03333",
+    "geom:latitude":-17.03333,
+    "geom:longitude":30.43333,
+    "gn:country":"ZW",
+    "gn:fcode":"PPL",
+    "gn:pop":1957,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0444\u0438\u043d\u0433\u043e\u0440\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Raffingora"
+    ],
+    "name:eng_x_preferred":[
+        "Raffingora"
+    ],
+    "qs:name":"Raffingora",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":190,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":882722,
+        "gp:id":1467365,
+        "qs:id":1029295,
+        "wd:id":"Q7282560",
+        "wk:page":"Raffingora"
+    },
+    "wof:country":"ZW",
+    "wof:created":1469051461,
+    "wof:geomhash":"508954c7b656186657fe41be9694abc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":890422729,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":890422729,
+    "wof:lastmodified":1527727165,
+    "wof:name":"Raffingora",
+    "wof:parent_id":85681131,
+    "wof:placetype":"locality",
+    "wof:population":1957,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43333,
+    -17.03333,
+    30.43333,
+    -17.03333
+],
+  "geometry": {"coordinates":[30.43333,-17.03333],"type":"Point"}
+}

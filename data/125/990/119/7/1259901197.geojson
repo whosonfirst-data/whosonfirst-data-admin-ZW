@@ -1,0 +1,73 @@
+{
+  "id": 1259901197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.96528,-20.91944,28.96528,-20.91944",
+    "geom:latitude":-20.91944,
+    "geom:longitude":28.96528,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sablevale",
+    "gn:country_code":"ZW",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":881923,
+    "gn:latitude":-20.91944,
+    "gn:longitude":28.96528,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sablevale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sablevale"
+    ],
+    "name:und_x_variant":[
+        "Sableville"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890416475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":881923
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"447abe9050ae7cf1791664c3cb4583d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416475,
+            "locality_id":1259901197,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1259901197,
+    "wof:lastmodified":1537716572,
+    "wof:name":"Sablevale",
+    "wof:parent_id":890416475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.96528,
+    -20.91944,
+    28.96528,
+    -20.91944
+],
+  "geometry": {"coordinates":[28.96528,-20.91944],"type":"Point"}
+}

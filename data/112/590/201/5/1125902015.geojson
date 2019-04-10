@@ -1,0 +1,100 @@
+{
+  "id": 1125902015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0,-22.21667,30.0,-22.21667",
+    "geom:latitude":-22.21667,
+    "geom:longitude":30.0,
+    "gn:gn_country":"ZW",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":26459,
+    "gn:population":26459,
+    "iso:country":"ZW",
+    "lbl:latitude":-22.21667,
+    "lbl:longitude":30.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:lit_x_preferred":[
+        "Beitbrid\u017eas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0442\u0431\u0440\u0438\u0434\u0436"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0458\u0442\u0431\u0440\u0438\u045f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0439\u0442\u0431\u0440\u0438\u0434\u0436"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0679\u0628\u0631\u06cc\u062c"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u7279\u6a4b"
+    ],
+    "qs_pg:aaroncc":"ZW",
+    "qs_pg:gn_country":"ZW",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":895269,
+    "qs_pg:gn_pop":26459,
+    "qs_pg:name":"Beitbridge",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1029297,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        1108784933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":895269,
+        "qs_pg:id":1029297
+    },
+    "wof:country":"ZW",
+    "wof:created":1497295848,
+    "wof:geomhash":"3cc7a9046d364e937891ac6167d1a734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784933,
+            "locality_id":1125902015,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1125902015,
+    "wof:lastmodified":1534379838,
+    "wof:name":"Beitbridge",
+    "wof:parent_id":1108784933,
+    "wof:placetype":"locality",
+    "wof:population":26459,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[
+        1141906945
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0,
+    -22.21667,
+    30.0,
+    -22.21667
+],
+  "geometry": {"coordinates":[30.0,-22.21667],"type":"Point"}
+}

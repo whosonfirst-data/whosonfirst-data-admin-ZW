@@ -1,0 +1,67 @@
+{
+  "id": 1344042893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.75658,-19.89435,31.75658,-19.89435",
+    "geom:latitude":-19.89435,
+    "geom:longitude":31.75658,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Guchu",
+    "gn:country_code":"ZW",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507324,
+    "gn:latitude":-19.89435,
+    "gn:longitude":31.75658,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Guchu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507324
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"ef8b249a073cb803895d51e01febaa9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1344042893,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1344042893,
+    "wof:lastmodified":1536901085,
+    "wof:name":"Guchu",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.75658,
+    -19.89435,
+    31.75658,
+    -19.89435
+],
+  "geometry": {"coordinates":[31.75658,-19.89435],"type":"Point"}
+}

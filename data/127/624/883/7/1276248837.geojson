@@ -1,0 +1,70 @@
+{
+  "id": 1276248837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91959,-20.04022,31.91959,-20.04022",
+    "geom:latitude":-20.04022,
+    "geom:longitude":31.91959,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chief Budzi",
+    "gn:country_code":"ZW",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7348335,
+    "gn:latitude":-20.04022,
+    "gn:longitude":31.91959,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chief Budzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chief Budzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7348335
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"7fabe4fcac82249626c625038e7c1524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1276248837,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1276248837,
+    "wof:lastmodified":1537716588,
+    "wof:name":"Chief Budzi",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91959,
+    -20.04022,
+    31.91959,
+    -20.04022
+],
+  "geometry": {"coordinates":[31.91959,-20.04022],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209026285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.95115,-19.97154,31.95115,-19.97154",
+    "geom:latitude":-19.97154,
+    "geom:longitude":31.95115,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Muduma",
+    "gn:country_code":"ZW",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507457,
+    "gn:latitude":-19.97154,
+    "gn:longitude":31.95115,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Muduma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507457
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c3c540756b058971799d8ffaf97d2619",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209026285
+        }
+    ],
+    "wof:id":1209026285,
+    "wof:lastmodified":1536299988,
+    "wof:name":"Muduma",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.95115,
+    -19.97154,
+    31.95115,
+    -19.97154
+],
+  "geometry": {"coordinates":[31.95115,-19.97154],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209599791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.49889,-20.10833,28.49889,-20.10833",
+    "geom:latitude":-20.10833,
+    "geom:longitude":28.49889,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gwabalanda",
+    "gn:country_code":"ZW",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105904,
+    "gn:latitude":-20.10833,
+    "gn:longitude":28.49889,
+    "gn:modification_date":"2000-10-04",
+    "gn:name":"Gwabalanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105904
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"4745146f21b18902689539f9780d9323",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209599791
+        }
+    ],
+    "wof:id":1209599791,
+    "wof:lastmodified":1536282205,
+    "wof:name":"Gwabalanda",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.498890000000006,
+    -20.10833,
+    28.498890000000006,
+    -20.10833
+],
+  "geometry": {"coordinates":[28.49889000000001,-20.10833],"type":"Point"}
+}

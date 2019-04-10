@@ -1,0 +1,71 @@
+{
+  "id": 1327328193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.45694,-20.13667,28.45694,-20.13667",
+    "geom:latitude":-20.13667,
+    "geom:longitude":28.45694,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Robert Sinyoka",
+    "gn:country_code":"ZW",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105910,
+    "gn:latitude":-20.13667,
+    "gn:longitude":28.45694,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Robert Sinyoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Robert Sinyoka Suburb",
+        "Robert Sinyoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681121,
+        421171051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105910
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"9071e0c52a67f9b1fe702823b4c6cd3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421171051,
+            "locality_id":1327328193,
+            "region_id":85681121
+        }
+    ],
+    "wof:id":1327328193,
+    "wof:lastmodified":1537716587,
+    "wof:name":"Robert Sinyoka",
+    "wof:parent_id":421171051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.45694,
+    -20.13667,
+    28.45694,
+    -20.13667
+],
+  "geometry": {"coordinates":[28.45694,-20.13667],"type":"Point"}
+}

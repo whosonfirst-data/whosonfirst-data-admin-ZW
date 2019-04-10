@@ -1,0 +1,67 @@
+{
+  "id": 1293599369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08333,-20.16667,31.08333,-20.16667",
+    "geom:latitude":-20.16667,
+    "geom:longitude":31.08333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Glenlivet",
+    "gn:country_code":"ZW",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":891073,
+    "gn:latitude":-20.16667,
+    "gn:longitude":31.08333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Glenlivet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        1108784917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":891073
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d755aa54f1976d326cc5ea35cc4ec9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784917,
+            "locality_id":1293599369,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1293599369,
+    "wof:lastmodified":1536623743,
+    "wof:name":"Glenlivet",
+    "wof:parent_id":1108784917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08333,
+    -20.16667,
+    31.08333,
+    -20.16667
+],
+  "geometry": {"coordinates":[31.08333,-20.16667],"type":"Point"}
+}

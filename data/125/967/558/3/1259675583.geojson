@@ -1,0 +1,67 @@
+{
+  "id": 1259675583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.62778,-21.94472,31.62778,-21.94472",
+    "geom:latitude":-21.94472,
+    "geom:longitude":31.62778,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nyala",
+    "gn:country_code":"ZW",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106392,
+    "gn:latitude":-21.94472,
+    "gn:longitude":31.62778,
+    "gn:modification_date":"2001-03-22",
+    "gn:name":"Nyala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890428881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106392
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d1c308688b39f72e173840a3dac1ef2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890428881,
+            "locality_id":1259675583,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1259675583,
+    "wof:lastmodified":1537075346,
+    "wof:name":"Nyala",
+    "wof:parent_id":890428881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.62778,
+    -21.94472,
+    31.62778,
+    -21.94472
+],
+  "geometry": {"coordinates":[31.62778,-21.94472],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327025369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.64778,-19.83749,31.64778,-19.83749",
+    "geom:latitude":-19.83749,
+    "geom:longitude":31.64778,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Machokoto",
+    "gn:country_code":"ZW",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507243,
+    "gn:latitude":-19.83749,
+    "gn:longitude":31.64778,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Machokoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507243
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"413676c9b6c390fb16619baf08260d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1327025369,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1327025369,
+    "wof:lastmodified":1536771177,
+    "wof:name":"Machokoto",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.64778,
+    -19.83749,
+    31.64778,
+    -19.83749
+],
+  "geometry": {"coordinates":[31.64778,-19.83749],"type":"Point"}
+}

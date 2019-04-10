@@ -1,0 +1,67 @@
+{
+  "id": 1293193343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.61485,-19.87833,27.61485,-19.87833",
+    "geom:latitude":-19.87833,
+    "geom:longitude":27.61485,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mafusini",
+    "gn:country_code":"ZW",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":887966,
+    "gn:latitude":-19.87833,
+    "gn:longitude":27.61485,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mafusini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":887966
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"71dfb374963fa4bde8a6061a9cca19e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1293193343,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1293193343,
+    "wof:lastmodified":1536714465,
+    "wof:name":"Mafusini",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.61485,
+    -19.87833,
+    27.61485,
+    -19.87833
+],
+  "geometry": {"coordinates":[27.61485,-19.87833],"type":"Point"}
+}

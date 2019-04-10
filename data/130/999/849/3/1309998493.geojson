@@ -1,0 +1,70 @@
+{
+  "id": 1309998493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.23755,-17.72267,27.23755,-17.72267",
+    "geom:latitude":-17.72267,
+    "geom:longitude":27.23755,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kabulawo",
+    "gn:country_code":"ZW",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7374513,
+    "gn:latitude":-17.72267,
+    "gn:longitude":27.23755,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kabulawo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kabulawo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        890416495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7374513
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"372616b86df05cbd43c2c0f5abd85c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416495,
+            "locality_id":1309998493,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1309998493,
+    "wof:lastmodified":1537716594,
+    "wof:name":"Kabulawo",
+    "wof:parent_id":890416495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.23755,
+    -17.72267,
+    27.23755,
+    -17.72267
+],
+  "geometry": {"coordinates":[27.23755,-17.72267],"type":"Point"}
+}

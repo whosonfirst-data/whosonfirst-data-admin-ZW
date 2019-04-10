@@ -1,0 +1,70 @@
+{
+  "id": 1343869855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52113,-16.95338,31.52113,-16.95338",
+    "geom:latitude":-16.95338,
+    "geom:longitude":31.52113,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Marimira",
+    "gn:country_code":"ZW",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7351883,
+    "gn:latitude":-16.95338,
+    "gn:longitude":31.52113,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Marimira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Marimira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681093,
+        890450101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7351883
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d63b2137b207b3df349dcd278c433ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890450101,
+            "locality_id":1343869855,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":1343869855,
+    "wof:lastmodified":1537716589,
+    "wof:name":"Marimira",
+    "wof:parent_id":890450101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52113,
+    -16.95338,
+    31.52113,
+    -16.95338
+],
+  "geometry": {"coordinates":[31.52113,-16.95338],"type":"Point"}
+}

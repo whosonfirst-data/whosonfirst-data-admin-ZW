@@ -1,0 +1,67 @@
+{
+  "id": 1276242625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.10104,-18.53759,32.10104,-18.53759",
+    "geom:latitude":-18.53759,
+    "geom:longitude":32.10104,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vengere",
+    "gn:country_code":"ZW",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":879470,
+    "gn:latitude":-18.53759,
+    "gn:longitude":32.10104,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Vengere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890422333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":879470
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c9b3daae896ce6f07a0daac64c99b03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890422333,
+            "locality_id":1276242625,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1276242625,
+    "wof:lastmodified":1536900181,
+    "wof:name":"Vengere",
+    "wof:parent_id":890422333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.10104,
+    -18.53759,
+    32.10104,
+    -18.53759
+],
+  "geometry": {"coordinates":[32.10104,-18.53759],"type":"Point"}
+}

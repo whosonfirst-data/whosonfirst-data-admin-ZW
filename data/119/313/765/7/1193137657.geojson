@@ -1,0 +1,72 @@
+{
+  "id": 1193137657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.40053,-17.15409,32.40053,-17.15409",
+    "geom:latitude":-17.15409,
+    "geom:longitude":32.40053,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Suskwe Township",
+    "gn:country_code":"ZW",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":880510,
+    "gn:latitude":-17.15409,
+    "gn:longitude":32.40053,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Suskwe Township",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suswe",
+        "Suskwe Township",
+        "Sutskwe Township"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        890416461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":880510
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c719e9ef51361af77c8f071f50457fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416461,
+            "locality_id":1193137657,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1193137657,
+    "wof:lastmodified":1537716571,
+    "wof:name":"Suskwe Township",
+    "wof:parent_id":890416461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.40053,
+    -17.15409,
+    32.40053,
+    -17.15409
+],
+  "geometry": {"coordinates":[32.40053,-17.15409],"type":"Point"}
+}

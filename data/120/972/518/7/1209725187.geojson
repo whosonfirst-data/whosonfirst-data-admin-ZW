@@ -1,0 +1,70 @@
+{
+  "id": 1209725187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.44205,-20.97117,32.44205,-20.97117",
+    "geom:latitude":-20.97117,
+    "geom:longitude":32.44205,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chief Mpungu",
+    "gn:country_code":"ZW",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370852,
+    "gn:latitude":-20.97117,
+    "gn:longitude":32.44205,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chief Mpungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chief Mpungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890430547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370852
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"74d95b6e05a96561251a5fa4ba654c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890430547,
+            "locality_id":1209725187,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1209725187,
+    "wof:lastmodified":1537716592,
+    "wof:name":"Chief Mpungu",
+    "wof:parent_id":890430547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.44205,
+    -20.97117,
+    32.44205,
+    -20.97117
+],
+  "geometry": {"coordinates":[32.44205,-20.97117],"type":"Point"}
+}

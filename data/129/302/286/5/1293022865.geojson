@@ -1,0 +1,67 @@
+{
+  "id": 1293022865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.66056,-20.09389,28.66056,-20.09389",
+    "geom:latitude":-20.09389,
+    "geom:longitude":28.66056,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chancit",
+    "gn:country_code":"ZW",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1105996,
+    "gn:latitude":-20.09389,
+    "gn:longitude":28.66056,
+    "gn:modification_date":"2000-10-04",
+    "gn:name":"Chancit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105996
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d3fb34dec131739e39707f199ee9d322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784929,
+            "locality_id":1293022865,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1293022865,
+    "wof:lastmodified":1536959887,
+    "wof:name":"Chancit",
+    "wof:parent_id":1108784929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.66056,
+    -20.09389,
+    28.66056,
+    -20.09389
+],
+  "geometry": {"coordinates":[28.66056,-20.09389],"type":"Point"}
+}

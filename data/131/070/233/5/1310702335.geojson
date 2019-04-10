@@ -1,0 +1,67 @@
+{
+  "id": 1310702335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37027,-18.84033,31.37027,-18.84033",
+    "geom:latitude":-18.84033,
+    "geom:longitude":31.37027,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Masoka",
+    "gn:country_code":"ZW",
+    "gn:dem":1417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405716,
+    "gn:latitude":-18.84033,
+    "gn:longitude":31.37027,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Masoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405716
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"51e5d2767c2c7dbaa3ddb13353b232ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784879,
+            "locality_id":1310702335,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1310702335,
+    "wof:lastmodified":1536631388,
+    "wof:name":"Masoka",
+    "wof:parent_id":1108784879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37027,
+    -18.84033,
+    31.37027,
+    -18.84033
+],
+  "geometry": {"coordinates":[31.37027,-18.84033],"type":"Point"}
+}

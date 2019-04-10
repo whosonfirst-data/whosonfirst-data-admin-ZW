@@ -1,0 +1,68 @@
+{
+  "id": 1209324863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.86667,-16.96667,32.86667,-16.96667",
+    "geom:latitude":-16.96667,
+    "geom:longitude":32.86667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nyamapande",
+    "gn:cc2":"ZW",
+    "gn:country_code":"ZW",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":883732,
+    "gn:latitude":-16.96667,
+    "gn:longitude":32.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nyamapande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyamapanda Customs Post",
+        "Nyamapanda",
+        "Nyamapande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":883732,
+        "wk:page":"Nyamapanda"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"8b7d504d6e6e355a146e634709423f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209324863
+        }
+    ],
+    "wof:id":1209324863,
+    "wof:lastmodified":1537716573,
+    "wof:name":"Nyamapande",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86667,
+    -16.96667,
+    32.86667,
+    -16.96667
+],
+  "geometry": {"coordinates":[32.86667,-16.96667],"type":"Point"}
+}

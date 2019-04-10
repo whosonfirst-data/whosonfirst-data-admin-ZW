@@ -1,0 +1,67 @@
+{
+  "id": 1226339923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.57445,-19.78381,27.57445,-19.78381",
+    "geom:latitude":-19.78381,
+    "geom:longitude":27.57445,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Manyanda",
+    "gn:country_code":"ZW",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7465024,
+    "gn:latitude":-19.78381,
+    "gn:longitude":27.57445,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Manyanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465024
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"91e4d514cbac755e057bbb7fc581bfdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1226339923,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1226339923,
+    "wof:lastmodified":1536798010,
+    "wof:name":"Manyanda",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.57445,
+    -19.78381,
+    27.57445,
+    -19.78381
+],
+  "geometry": {"coordinates":[27.57445,-19.78381],"type":"Point"}
+}

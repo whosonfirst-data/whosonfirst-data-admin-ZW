@@ -1,0 +1,67 @@
+{
+  "id": 1343265105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.26772,-18.20637,29.26772,-18.20637",
+    "geom:latitude":-18.20637,
+    "geom:longitude":29.26772,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Siamwanja",
+    "gn:country_code":"ZW",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11523318,
+    "gn:latitude":-18.20637,
+    "gn:longitude":29.26772,
+    "gn:modification_date":"2017-04-10",
+    "gn:name":"Siamwanja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        1108784947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11523318
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"137462caf876321d8a69314a563f8bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784947,
+            "locality_id":1343265105,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1343265105,
+    "wof:lastmodified":1537026967,
+    "wof:name":"Siamwanja",
+    "wof:parent_id":1108784947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.26772,
+    -18.20637,
+    29.26772,
+    -18.20637
+],
+  "geometry": {"coordinates":[29.26772,-18.20637],"type":"Point"}
+}

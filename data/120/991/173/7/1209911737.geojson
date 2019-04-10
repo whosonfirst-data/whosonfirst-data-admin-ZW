@@ -1,0 +1,67 @@
+{
+  "id": 1209911737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2254,-19.63914,27.2254,-19.63914",
+    "geom:latitude":-19.63914,
+    "geom:longitude":27.2254,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nxuma",
+    "gn:country_code":"ZW",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7465011,
+    "gn:latitude":-19.63914,
+    "gn:longitude":27.2254,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Nxuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465011
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f3a757508000a030d6fb13dd8dc245fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1209911737,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1209911737,
+    "wof:lastmodified":1536378037,
+    "wof:name":"Nxuma",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2254,
+    -19.63914,
+    27.2254,
+    -19.63914
+],
+  "geometry": {"coordinates":[27.2254,-19.63914],"type":"Point"}
+}

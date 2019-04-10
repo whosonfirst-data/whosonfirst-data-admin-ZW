@@ -1,0 +1,61 @@
+{
+  "id": 1209429463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.05,-19.91667,30.05,-19.91667",
+    "geom:latitude":-19.91667,
+    "geom:longitude":30.05,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chikomo",
+    "gn:country_code":"ZW",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":893907,
+    "gn:latitude":-19.91667,
+    "gn:longitude":30.05,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Chikomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":893907
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"5942fc701025063d8f6b58b5fe059442",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209429463
+        }
+    ],
+    "wof:id":1209429463,
+    "wof:lastmodified":1536287279,
+    "wof:name":"Chikomo",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05,
+    -19.91667,
+    30.05,
+    -19.91667
+],
+  "geometry": {"coordinates":[30.05,-19.91667],"type":"Point"}
+}

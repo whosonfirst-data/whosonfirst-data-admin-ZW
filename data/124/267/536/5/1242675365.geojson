@@ -1,0 +1,71 @@
+{
+  "id": 1242675365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2233,-19.76067,27.2233,-19.76067",
+    "geom:latitude":-19.76067,
+    "geom:longitude":27.2233,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Butabubili",
+    "gn:country_code":"ZW",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":894625,
+    "gn:latitude":-19.76067,
+    "gn:longitude":27.2233,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Butabubili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Butabulili",
+        "Butabubili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":894625
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"656fe7f60650ca9134996cdb1e2623a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1242675365,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1242675365,
+    "wof:lastmodified":1537716585,
+    "wof:name":"Butabubili",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2233,
+    -19.76067,
+    27.2233,
+    -19.76067
+],
+  "geometry": {"coordinates":[27.2233,-19.76067],"type":"Point"}
+}

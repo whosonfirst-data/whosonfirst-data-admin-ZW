@@ -1,0 +1,67 @@
+{
+  "id": 1310015815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.95,-19.43333,28.95,-19.43333",
+    "geom:latitude":-19.43333,
+    "geom:longitude":28.95,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kenilworth Estates",
+    "gn:country_code":"ZW",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":889014,
+    "gn:latitude":-19.43333,
+    "gn:longitude":28.95,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Kenilworth Estates",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        890416493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":889014
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"2ab1f3e30c5f878984fced23d610403f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416493,
+            "locality_id":1310015815,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1310015815,
+    "wof:lastmodified":1536626512,
+    "wof:name":"Kenilworth Estates",
+    "wof:parent_id":890416493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.95,
+    -19.43333,
+    28.95,
+    -19.43333
+],
+  "geometry": {"coordinates":[28.95,-19.43333],"type":"Point"}
+}

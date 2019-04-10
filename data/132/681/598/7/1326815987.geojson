@@ -1,0 +1,71 @@
+{
+  "id": 1326815987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74519,-19.58213,30.74519,-19.58213",
+    "geom:latitude":-19.58213,
+    "geom:longitude":30.74519,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chilimanzi",
+    "gn:country_code":"ZW",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":893836,
+    "gn:latitude":-19.58213,
+    "gn:longitude":30.74519,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chilimanzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chirimuanzu",
+        "Chilimanzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":893836
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"e2d53264ac21413949233fa0ee3c0d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1326815987,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1326815987,
+    "wof:lastmodified":1537716584,
+    "wof:name":"Chilimanzi",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74519,
+    -19.58213,
+    30.74519,
+    -19.58213
+],
+  "geometry": {"coordinates":[30.74519,-19.58213],"type":"Point"}
+}

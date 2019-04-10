@@ -1,0 +1,64 @@
+{
+  "id": 1209228629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.50072,-20.4426,32.50072,-20.4426",
+    "geom:latitude":-20.4426,
+    "geom:longitude":32.50072,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chikore Mission",
+    "gn:country_code":"ZW",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":893897,
+    "gn:latitude":-20.4426,
+    "gn:longitude":32.50072,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chikore Mission",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chikore Mission"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":893897
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f54786574f170ecee95b7030e0d974eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209228629
+        }
+    ],
+    "wof:id":1209228629,
+    "wof:lastmodified":1537716584,
+    "wof:name":"Chikore Mission",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.50072,
+    -20.4426,
+    32.50072,
+    -20.4426
+],
+  "geometry": {"coordinates":[32.50072,-20.4426],"type":"Point"}
+}

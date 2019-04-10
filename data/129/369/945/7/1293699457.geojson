@@ -1,0 +1,70 @@
+{
+  "id": 1293699457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.84981,-18.90512,29.84981,-18.90512",
+    "geom:latitude":-18.90512,
+    "geom:longitude":29.84981,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mbizo African Township",
+    "gn:country_code":"ZW",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":886306,
+    "gn:latitude":-18.90512,
+    "gn:longitude":29.84981,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbizo African Township",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbizo Township"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        1108784953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":886306
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"0e5fe2d5b9737ff0e11f0dbab8636214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784953,
+            "locality_id":1293699457,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1293699457,
+    "wof:lastmodified":1537716576,
+    "wof:name":"Mbizo African Township",
+    "wof:parent_id":1108784953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.84981,
+    -18.90512,
+    29.84981,
+    -18.90512
+],
+  "geometry": {"coordinates":[29.84981,-18.90512],"type":"Point"}
+}

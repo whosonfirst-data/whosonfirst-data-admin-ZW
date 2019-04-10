@@ -1,0 +1,70 @@
+{
+  "id": 1242988823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51667,-18.46667,31.51667,-18.46667",
+    "geom:latitude":-18.46667,
+    "geom:longitude":31.51667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Inoro",
+    "gn:country_code":"ZW",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":889807,
+    "gn:latitude":-18.46667,
+    "gn:longitude":31.51667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Inoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Inoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":889807
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"e69fb4995158100c046d0bbd295dea87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784881,
+            "locality_id":1242988823,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1242988823,
+    "wof:lastmodified":1537716581,
+    "wof:name":"Inoro",
+    "wof:parent_id":1108784881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51667,
+    -18.46667,
+    31.51667,
+    -18.46667
+],
+  "geometry": {"coordinates":[31.51667,-18.46667],"type":"Point"}
+}

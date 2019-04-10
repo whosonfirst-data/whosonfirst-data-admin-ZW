@@ -1,0 +1,67 @@
+{
+  "id": 1226441641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65713,-18.51602,30.65713,-18.51602",
+    "geom:latitude":-18.51602,
+    "geom:longitude":30.65713,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Muzhazhe",
+    "gn:country_code":"ZW",
+    "gn:dem":1307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405488,
+    "gn:latitude":-18.51602,
+    "gn:longitude":30.65713,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Muzhazhe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405488
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"707bc871384415ecd25058d704351f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416483,
+            "locality_id":1226441641,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1226441641,
+    "wof:lastmodified":1536651243,
+    "wof:name":"Muzhazhe",
+    "wof:parent_id":890416483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65713,
+    -18.51602,
+    30.65713,
+    -18.51602
+],
+  "geometry": {"coordinates":[30.65713,-18.51602],"type":"Point"}
+}

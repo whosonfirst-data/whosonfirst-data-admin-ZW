@@ -1,0 +1,70 @@
+{
+  "id": 1276229519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47735,-17.53576,31.47735,-17.53576",
+    "geom:latitude":-17.53576,
+    "geom:longitude":31.47735,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Rutope",
+    "gn:country_code":"ZW",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300133,
+    "gn:latitude":-17.53576,
+    "gn:longitude":31.47735,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Rutope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rutope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681093,
+        890416497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300133
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"43b3bdd82de8697aef90ed69621255fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416497,
+            "locality_id":1276229519,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":1276229519,
+    "wof:lastmodified":1537716594,
+    "wof:name":"Rutope",
+    "wof:parent_id":890416497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47735,
+    -17.53576,
+    31.47735,
+    -17.53576
+],
+  "geometry": {"coordinates":[31.47735,-17.53576],"type":"Point"}
+}

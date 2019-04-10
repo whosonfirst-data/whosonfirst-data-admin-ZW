@@ -1,0 +1,72 @@
+{
+  "id": 1293696839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.81667,-19.2,29.81667,-19.2",
+    "geom:latitude":-19.2,
+    "geom:longitude":29.81667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Connemara",
+    "gn:cc2":"ZW",
+    "gn:country_code":"ZW",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":892853,
+    "gn:latitude":-19.2,
+    "gn:longitude":29.81667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Connemara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Connemara Mine",
+        "Connemara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        890416473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":892853
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"e71cf8276a072047defc0872c2a17096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416473,
+            "locality_id":1293696839,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1293696839,
+    "wof:lastmodified":1537716584,
+    "wof:name":"Connemara",
+    "wof:parent_id":890416473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.81667,
+    -19.2,
+    29.81667,
+    -19.2
+],
+  "geometry": {"coordinates":[29.81667,-19.2],"type":"Point"}
+}

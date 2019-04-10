@@ -1,0 +1,84 @@
+{
+  "id": 421196825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.80696,-18.93149,27.80696,-18.93149",
+    "geom:latitude":-18.93149,
+    "geom:longitude":27.80696,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Lupane"
+    ],
+    "name:unk_x_variant":[
+        "Lupani"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":888225,
+    "qs:gn_pop":1200,
+    "qs:name":"Lupane",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Matabeleland North",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1299051,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1467155,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":15,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":888225,
+        "gp:id":1467155,
+        "qs:id":1299051
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009894,
+    "wof:geomhash":"c16ba9e72db9af9ab2c77c6e7dc88b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":421196825,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":421196825,
+    "wof:lastmodified":1527716367,
+    "wof:name":"Lupane",
+    "wof:parent_id":85681101,
+    "wof:placetype":"locality",
+    "wof:population":1200,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.80696,
+    -18.93149,
+    27.80696,
+    -18.93149
+],
+  "geometry": {"coordinates":[27.80696,-18.93149],"type":"Point"}
+}

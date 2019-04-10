@@ -1,0 +1,86 @@
+{
+  "id": 421198111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01806,-17.82111,31.01806,-17.82111",
+    "geom:latitude":-17.82111,
+    "geom:longitude":31.01806,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Belvedere North"
+    ],
+    "name:eng_x_variant":[
+        "Belvedere"
+    ],
+    "name:unk_x_variant":[
+        "Belvedere"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":895231,
+    "qs:gn_pop":0,
+    "qs:name":"Belvedere North",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Harare",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":386371,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1466818,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        421190261,
+        85681097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":895231,
+        "gp:id":1466818,
+        "qs:id":386371
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009936,
+    "wof:geomhash":"08e1dbe4a59ab30e6c3541a9c439ebf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":-1,
+            "neighbourhood_id":421198111,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":421198111,
+    "wof:lastmodified":1531858756,
+    "wof:name":"Belvedere North",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01806,
+    -17.82111,
+    31.01806,
+    -17.82111
+],
+  "geometry": {"coordinates":[31.01806,-17.82111],"type":"Point"}
+}

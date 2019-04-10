@@ -1,0 +1,71 @@
+{
+  "id": 1276368907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.69709,-16.40557,29.69709,-16.40557",
+    "geom:latitude":-16.40557,
+    "geom:longitude":29.69709,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tegwe",
+    "gn:country_code":"ZW",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370433,
+    "gn:latitude":-16.40557,
+    "gn:longitude":29.69709,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Tegwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tegwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370433,
+        "wk:page":"Tengwe"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d77c7b994a980aa031b949eba57cc9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1276368907,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1276368907,
+    "wof:lastmodified":1537716589,
+    "wof:name":"Tegwe",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.69709000000001,
+    -16.40557,
+    29.69709000000001,
+    -16.40557
+],
+  "geometry": {"coordinates":[29.69709000000001,-16.40557],"type":"Point"}
+}

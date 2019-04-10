@@ -1,0 +1,67 @@
+{
+  "id": 1343851399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7588,-19.81764,31.7588,-19.81764",
+    "geom:latitude":-19.81764,
+    "geom:longitude":31.7588,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mudzimbabwe",
+    "gn:country_code":"ZW",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507319,
+    "gn:latitude":-19.81764,
+    "gn:longitude":31.7588,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Mudzimbabwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507319
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"5bd0f940fc47bba995a9b2876f21588a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1343851399,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1343851399,
+    "wof:lastmodified":1536679676,
+    "wof:name":"Mudzimbabwe",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7588,
+    -19.81764,
+    31.7588,
+    -19.81764
+],
+  "geometry": {"coordinates":[31.7588,-19.81764],"type":"Point"}
+}

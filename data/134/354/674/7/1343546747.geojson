@@ -1,0 +1,67 @@
+{
+  "id": 1343546747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56932,-19.71313,31.56932,-19.71313",
+    "geom:latitude":-19.71313,
+    "geom:longitude":31.56932,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gotora",
+    "gn:country_code":"ZW",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507074,
+    "gn:latitude":-19.71313,
+    "gn:longitude":31.56932,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Gotora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507074
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"1a8fd94f717837b243cb7c1b844ada18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1343546747,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1343546747,
+    "wof:lastmodified":1536619618,
+    "wof:name":"Gotora",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56932,
+    -19.71313,
+    31.56932,
+    -19.71313
+],
+  "geometry": {"coordinates":[31.56932,-19.71313],"type":"Point"}
+}

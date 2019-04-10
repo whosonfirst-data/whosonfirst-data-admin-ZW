@@ -1,0 +1,70 @@
+{
+  "id": 1260193065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53333,-20.55,30.53333,-20.55",
+    "geom:latitude":-20.55,
+    "geom:longitude":30.53333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chitofa",
+    "gn:country_code":"ZW",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":893258,
+    "gn:latitude":-20.55,
+    "gn:longitude":30.53333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Chitofa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chitofa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890428879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":893258
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"927ab14f0d6a2586965a752b9ebc66b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890428879,
+            "locality_id":1260193065,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1260193065,
+    "wof:lastmodified":1537716584,
+    "wof:name":"Chitofa",
+    "wof:parent_id":890428879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53333,
+    -20.55,
+    30.53333,
+    -20.55
+],
+  "geometry": {"coordinates":[30.53333,-20.55],"type":"Point"}
+}

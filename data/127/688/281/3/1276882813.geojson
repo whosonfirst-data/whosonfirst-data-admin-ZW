@@ -1,0 +1,67 @@
+{
+  "id": 1276882813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7673,-19.07859,31.7673,-19.07859",
+    "geom:latitude":-19.07859,
+    "geom:longitude":31.7673,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mahembe",
+    "gn:country_code":"ZW",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7446879,
+    "gn:latitude":-19.07859,
+    "gn:longitude":31.7673,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Mahembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7446879
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"157625bbf02a45b12d3ce105536c0d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1276882813,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1276882813,
+    "wof:lastmodified":1537035542,
+    "wof:name":"Mahembe",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7673,
+    -19.07859,
+    31.7673,
+    -19.07859
+],
+  "geometry": {"coordinates":[31.7673,-19.07859],"type":"Point"}
+}

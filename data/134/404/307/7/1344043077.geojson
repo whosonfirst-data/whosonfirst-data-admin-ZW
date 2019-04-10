@@ -1,0 +1,67 @@
+{
+  "id": 1344043077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76484,-19.97647,31.76484,-19.97647",
+    "geom:latitude":-19.97647,
+    "geom:longitude":31.76484,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Guni",
+    "gn:country_code":"ZW",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507388,
+    "gn:latitude":-19.97647,
+    "gn:longitude":31.76484,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Guni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507388
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"a7d2fa936c1e86347fc8a7e81f9fdcbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1344043077,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1344043077,
+    "wof:lastmodified":1536900801,
+    "wof:name":"Guni",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76484,
+    -19.97647000000001,
+    31.76484,
+    -19.97647000000001
+],
+  "geometry": {"coordinates":[31.76484,-19.97647000000001],"type":"Point"}
+}

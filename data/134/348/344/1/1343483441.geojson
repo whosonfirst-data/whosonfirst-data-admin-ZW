@@ -1,0 +1,67 @@
+{
+  "id": 1343483441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.77937,-19.91329,27.77937,-19.91329",
+    "geom:latitude":-19.91329,
+    "geom:longitude":27.77937,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mbamba",
+    "gn:country_code":"ZW",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":886357,
+    "gn:latitude":-19.91329,
+    "gn:longitude":27.77937,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mbamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":886357
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b9f733d1991f4e5af53ad7acdc0f18cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1343483441,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1343483441,
+    "wof:lastmodified":1536713311,
+    "wof:name":"Mbamba",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.77937,
+    -19.91329,
+    27.77937,
+    -19.91329
+],
+  "geometry": {"coordinates":[27.77937,-19.91329],"type":"Point"}
+}

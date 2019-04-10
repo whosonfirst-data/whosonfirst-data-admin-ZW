@@ -1,0 +1,67 @@
+{
+  "id": 1226562011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58393,-19.55382,31.58393,-19.55382",
+    "geom:latitude":-19.55382,
+    "geom:longitude":31.58393,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mazhawidza",
+    "gn:country_code":"ZW",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453798,
+    "gn:latitude":-19.55382,
+    "gn:longitude":31.58393,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Mazhawidza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453798
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"9e90af0390cdfe977c871ba13cc490da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1226562011,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1226562011,
+    "wof:lastmodified":1536974215,
+    "wof:name":"Mazhawidza",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58393,
+    -19.55382,
+    31.58393,
+    -19.55382
+],
+  "geometry": {"coordinates":[31.58393,-19.55382],"type":"Point"}
+}

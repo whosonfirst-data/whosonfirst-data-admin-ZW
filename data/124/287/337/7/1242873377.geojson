@@ -1,0 +1,70 @@
+{
+  "id": 1242873377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16373,-16.22021,29.16373,-16.22021",
+    "geom:latitude":-16.22021,
+    "geom:longitude":29.16373,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Marongora",
+    "gn:country_code":"ZW",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300446,
+    "gn:latitude":-16.22021,
+    "gn:longitude":29.16373,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Marongora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Marongora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300446
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"907c6870afc9aebffb8acfc89739c68b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1242873377,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1242873377,
+    "wof:lastmodified":1537716594,
+    "wof:name":"Marongora",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.16373,
+    -16.22021,
+    29.16373,
+    -16.22021
+],
+  "geometry": {"coordinates":[29.16373,-16.22021],"type":"Point"}
+}

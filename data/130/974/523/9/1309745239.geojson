@@ -1,0 +1,67 @@
+{
+  "id": 1309745239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51095,-19.13863,31.51095,-19.13863",
+    "geom:latitude":-19.13863,
+    "geom:longitude":31.51095,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mugweni-Zanje",
+    "gn:country_code":"ZW",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7443214,
+    "gn:latitude":-19.13863,
+    "gn:longitude":31.51095,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Mugweni-Zanje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7443214
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"7974b811d848eabaf777c13732755c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784879,
+            "locality_id":1309745239,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1309745239,
+    "wof:lastmodified":1537017776,
+    "wof:name":"Mugweni-Zanje",
+    "wof:parent_id":1108784879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51095,
+    -19.13863,
+    31.51095,
+    -19.13863
+],
+  "geometry": {"coordinates":[31.51095,-19.13863],"type":"Point"}
+}

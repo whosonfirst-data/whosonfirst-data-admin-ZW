@@ -1,0 +1,70 @@
+{
+  "id": 1293483197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.10548,-20.94417,32.10548,-20.94417",
+    "geom:latitude":-20.94417,
+    "geom:longitude":32.10548,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chief Towani",
+    "gn:country_code":"ZW",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370845,
+    "gn:latitude":-20.94417,
+    "gn:longitude":32.10548,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chief Towani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chief Towani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890428881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370845
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"226500242170df2adc852145b5c32c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890428881,
+            "locality_id":1293483197,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1293483197,
+    "wof:lastmodified":1537716591,
+    "wof:name":"Chief Towani",
+    "wof:parent_id":890428881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.10548,
+    -20.94417,
+    32.10548,
+    -20.94417
+],
+  "geometry": {"coordinates":[32.10548,-20.94417],"type":"Point"}
+}

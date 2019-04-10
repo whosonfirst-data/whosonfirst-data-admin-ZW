@@ -1,0 +1,70 @@
+{
+  "id": 1243466119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.44616,-16.27993,30.44616,-16.27993",
+    "geom:latitude":-16.27993,
+    "geom:longitude":30.44616,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chitsungo Mission",
+    "gn:country_code":"ZW",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7324087,
+    "gn:latitude":-16.27993,
+    "gn:longitude":30.44616,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chitsungo Mission",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chitsungo Mission"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681093,
+        1108784875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7324087
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"eb953461db99d2d40858147196e08ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784875,
+            "locality_id":1243466119,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":1243466119,
+    "wof:lastmodified":1537716588,
+    "wof:name":"Chitsungo Mission",
+    "wof:parent_id":1108784875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.44616,
+    -16.27993,
+    30.44616,
+    -16.27993
+],
+  "geometry": {"coordinates":[30.44616,-16.27993],"type":"Point"}
+}

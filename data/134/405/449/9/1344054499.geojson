@@ -1,0 +1,67 @@
+{
+  "id": 1344054499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.08861,-19.69074,27.08861,-19.69074",
+    "geom:latitude":-19.69074,
+    "geom:longitude":27.08861,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Muziomutsha",
+    "gn:country_code":"ZW",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7465015,
+    "gn:latitude":-19.69074,
+    "gn:longitude":27.08861,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Muziomutsha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465015
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"e287e62171b067261344db45020ef2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1344054499,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1344054499,
+    "wof:lastmodified":1536883642,
+    "wof:name":"Muziomutsha",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.08861,
+    -19.69074,
+    27.08861,
+    -19.69074
+],
+  "geometry": {"coordinates":[27.08861,-19.69074],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327430783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.20715,-16.73324,29.20715,-16.73324",
+    "geom:latitude":-16.73324,
+    "geom:longitude":29.20715,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kamhali",
+    "gn:country_code":"ZW",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370760,
+    "gn:latitude":-16.73324,
+    "gn:longitude":29.20715,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kamhali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kamhali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370760
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"529de8d880c97a10013e63a925f3edfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1327430783,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1327430783,
+    "wof:lastmodified":1537716591,
+    "wof:name":"Kamhali",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.20715,
+    -16.73324,
+    29.20715,
+    -16.73324
+],
+  "geometry": {"coordinates":[29.20715,-16.73324],"type":"Point"}
+}

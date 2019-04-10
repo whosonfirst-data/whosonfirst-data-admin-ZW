@@ -1,0 +1,70 @@
+{
+  "id": 1209738331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.69167,-16.39872,29.69167,-16.39872",
+    "geom:latitude":-16.39872,
+    "geom:longitude":29.69167,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gatora",
+    "gn:country_code":"ZW",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370431,
+    "gn:latitude":-16.39872,
+    "gn:longitude":29.69167,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gatora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gatora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370431
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b5bfadb9caaf4ce2f837cf8f2b83917b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1209738331,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1209738331,
+    "wof:lastmodified":1537716589,
+    "wof:name":"Gatora",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.69167,
+    -16.39872,
+    29.69167,
+    -16.39872
+],
+  "geometry": {"coordinates":[29.69167,-16.39872],"type":"Point"}
+}

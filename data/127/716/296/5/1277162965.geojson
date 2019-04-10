@@ -1,0 +1,68 @@
+{
+  "id": 1277162965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.57083,-21.81528,31.57083,-21.81528",
+    "geom:latitude":-21.81528,
+    "geom:longitude":31.57083,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tswiza",
+    "gn:country_code":"ZW",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105867,
+    "gn:latitude":-21.81528,
+    "gn:longitude":31.57083,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tswiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890428881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105867,
+        "wk:page":"Tswiza"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"e6a552290e0dcd76cf10a219e9d527c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890428881,
+            "locality_id":1277162965,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1277162965,
+    "wof:lastmodified":1537576398,
+    "wof:name":"Tswiza",
+    "wof:parent_id":890428881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.57083,
+    -21.81528,
+    31.57083,
+    -21.81528
+],
+  "geometry": {"coordinates":[31.57083,-21.81528],"type":"Point"}
+}

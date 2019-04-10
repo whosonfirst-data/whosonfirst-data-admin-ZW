@@ -1,0 +1,86 @@
+{
+  "id": 421178385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95,-17.38333,30.95,-17.38333",
+    "geom:latitude":-17.38333,
+    "geom:longitude":30.95,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Concession"
+    ],
+    "name:eng_x_preferred":[
+        "Concession"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":892876,
+    "qs:gn_pop":4983,
+    "qs:name":"Concession",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Mashonaland Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":117123,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1466920,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":892876,
+        "gp:id":1466920,
+        "qs:id":117123,
+        "wd:id":"Q5158594",
+        "wk:page":"Concession, Zimbabwe"
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009180,
+    "wof:geomhash":"668dd10b7e5506920d5569876da82591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":421178385,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":421178385,
+    "wof:lastmodified":1527717722,
+    "wof:name":"Concession",
+    "wof:parent_id":85681093,
+    "wof:placetype":"locality",
+    "wof:population":4983,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95,
+    -17.38333,
+    30.95,
+    -17.38333
+],
+  "geometry": {"coordinates":[30.95,-17.38333],"type":"Point"}
+}

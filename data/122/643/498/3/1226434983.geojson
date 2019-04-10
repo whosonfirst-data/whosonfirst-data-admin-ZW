@@ -1,0 +1,67 @@
+{
+  "id": 1226434983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.12631,-19.66565,27.12631,-19.66565",
+    "geom:latitude":-19.66565,
+    "geom:longitude":27.12631,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Danda",
+    "gn:country_code":"ZW",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7464945,
+    "gn:latitude":-19.66565,
+    "gn:longitude":27.12631,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Danda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7464945
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"9e938d8659d05c99c211e015b3a141e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1226434983,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1226434983,
+    "wof:lastmodified":1536661067,
+    "wof:name":"Danda",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.12631,
+    -19.66565,
+    27.12631,
+    -19.66565
+],
+  "geometry": {"coordinates":[27.12631,-19.66565],"type":"Point"}
+}

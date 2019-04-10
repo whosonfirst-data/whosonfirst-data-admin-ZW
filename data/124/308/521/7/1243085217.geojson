@@ -1,0 +1,67 @@
+{
+  "id": 1243085217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67788,-19.11036,31.67788,-19.11036",
+    "geom:latitude":-19.11036,
+    "geom:longitude":31.67788,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chiturike",
+    "gn:country_code":"ZW",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8303939,
+    "gn:latitude":-19.11036,
+    "gn:longitude":31.67788,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Chiturike",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8303939
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"05c69f6ce0edd0499b1d07df0faa8e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1243085217,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1243085217,
+    "wof:lastmodified":1536828266,
+    "wof:name":"Chiturike",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67788,
+    -19.11036,
+    31.67788,
+    -19.11036
+],
+  "geometry": {"coordinates":[31.67788,-19.11036],"type":"Point"}
+}

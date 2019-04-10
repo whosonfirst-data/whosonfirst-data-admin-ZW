@@ -1,0 +1,70 @@
+{
+  "id": 1344154625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.01439,-17.24618,28.01439,-17.24618",
+    "geom:latitude":-17.24618,
+    "geom:longitude":28.01439,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chief Sinamwenda",
+    "gn:country_code":"ZW",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7374460,
+    "gn:latitude":-17.24618,
+    "gn:longitude":28.01439,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chief Sinamwenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chief Sinamwenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        890416495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7374460
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"cfcf069a0bf8a2e4b5340d98c46a3451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416495,
+            "locality_id":1344154625,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1344154625,
+    "wof:lastmodified":1537716593,
+    "wof:name":"Chief Sinamwenda",
+    "wof:parent_id":890416495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.01439,
+    -17.24618,
+    28.01439,
+    -17.24618
+],
+  "geometry": {"coordinates":[28.01439,-17.24618],"type":"Point"}
+}

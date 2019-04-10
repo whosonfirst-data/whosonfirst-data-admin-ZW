@@ -1,0 +1,67 @@
+{
+  "id": 1326622721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.65468,-19.34435,27.65468,-19.34435",
+    "geom:latitude":-19.34435,
+    "geom:longitude":27.65468,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chief Mahlaba",
+    "gn:country_code":"ZW",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":894019,
+    "gn:latitude":-19.34435,
+    "gn:longitude":27.65468,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chief Mahlaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":894019
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"2ff5ef0c0b5d00bb1bcd3a4cc41e4f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1326622721,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1326622721,
+    "wof:lastmodified":1536852465,
+    "wof:name":"Chief Mahlaba",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.65468,
+    -19.34435,
+    27.65468,
+    -19.34435
+],
+  "geometry": {"coordinates":[27.65468,-19.34435],"type":"Point"}
+}

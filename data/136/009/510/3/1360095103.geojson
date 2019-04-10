@@ -1,0 +1,72 @@
+{
+  "id": 1360095103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.55,-19.51667,32.55,-19.51667",
+    "geom:latitude":-19.51667,
+    "geom:longitude":32.55,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Melsetter Junction",
+    "gn:cc2":"ZW",
+    "gn:country_code":"ZW",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":886227,
+    "gn:latitude":-19.51667,
+    "gn:longitude":32.55,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Melsetter Junction",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Junction Tea Room",
+        "Melsetter Junction"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":886227
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"2c0c4439d07023bff8789c8f480ea146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416481,
+            "locality_id":1360095103,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1360095103,
+    "wof:lastmodified":1537716576,
+    "wof:name":"Melsetter Junction",
+    "wof:parent_id":890416481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.55,
+    -19.51667,
+    32.55,
+    -19.51667
+],
+  "geometry": {"coordinates":[32.55,-19.51667],"type":"Point"}
+}

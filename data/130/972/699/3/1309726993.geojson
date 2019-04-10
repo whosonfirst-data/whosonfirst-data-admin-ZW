@@ -1,0 +1,67 @@
+{
+  "id": 1309726993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66667,-19.73333,30.66667,-19.73333",
+    "geom:latitude":-19.73333,
+    "geom:longitude":30.66667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rupepwe",
+    "gn:country_code":"ZW",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":882125,
+    "gn:latitude":-19.73333,
+    "gn:longitude":30.66667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Rupepwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        1108784941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":882125
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"30d66b14403a5a99b5cf72bbda201ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784941,
+            "locality_id":1309726993,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1309726993,
+    "wof:lastmodified":1537042858,
+    "wof:name":"Rupepwe",
+    "wof:parent_id":1108784941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66667,
+    -19.73333,
+    30.66667,
+    -19.73333
+],
+  "geometry": {"coordinates":[30.66667,-19.73333],"type":"Point"}
+}

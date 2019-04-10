@@ -1,0 +1,67 @@
+{
+  "id": 1360104855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.89635,-19.92882,31.89635,-19.92882",
+    "geom:latitude":-19.92882,
+    "geom:longitude":31.89635,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rwauya",
+    "gn:country_code":"ZW",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507419,
+    "gn:latitude":-19.92882,
+    "gn:longitude":31.89635,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Rwauya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507419
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"57d34ff2e14dd43433e9a490c556efec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1360104855,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1360104855,
+    "wof:lastmodified":1536917693,
+    "wof:name":"Rwauya",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.89635,
+    -19.92882,
+    31.89635,
+    -19.92882
+],
+  "geometry": {"coordinates":[31.89635,-19.92882],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226554067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.62229,-19.07748,31.62229,-19.07748",
+    "geom:latitude":-19.07748,
+    "geom:longitude":31.62229,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chief Chitsunge",
+    "gn:country_code":"ZW",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7443453,
+    "gn:latitude":-19.07748,
+    "gn:longitude":31.62229,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Chief Chitsunge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7443453
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"25a76943fcde4c82952330dbd901da8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1226554067,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1226554067,
+    "wof:lastmodified":1536985173,
+    "wof:name":"Chief Chitsunge",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.62229,
+    -19.07748,
+    31.62229,
+    -19.07748
+],
+  "geometry": {"coordinates":[31.62229,-19.07748],"type":"Point"}
+}

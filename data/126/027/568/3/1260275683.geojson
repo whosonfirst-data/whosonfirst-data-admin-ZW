@@ -1,0 +1,70 @@
+{
+  "id": 1260275683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4937,-18.75764,28.4937,-18.75764",
+    "geom:latitude":-18.75764,
+    "geom:longitude":28.4937,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chief Sikobokobo",
+    "gn:country_code":"ZW",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":894014,
+    "gn:latitude":-18.75764,
+    "gn:longitude":28.4937,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chief Sikobokobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chief Sikobokobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        890450107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":894014
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"5e76870a4702e8120d28c9cbfc7abb82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890450107,
+            "locality_id":1260275683,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1260275683,
+    "wof:lastmodified":1537716584,
+    "wof:name":"Chief Sikobokobo",
+    "wof:parent_id":890450107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4937,
+    -18.75764,
+    28.4937,
+    -18.75764
+],
+  "geometry": {"coordinates":[28.4937,-18.75764],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293586831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.43818,-19.68761,27.43818,-19.68761",
+    "geom:latitude":-19.68761,
+    "geom:longitude":27.43818,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tshitatshawa",
+    "gn:country_code":"ZW",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":879915,
+    "gn:latitude":-19.68761,
+    "gn:longitude":27.43818,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tshitatshawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshitashwana",
+        "Tshitatshawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":879915
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c91d26260f3b45284a4fb935bb258933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1293586831,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1293586831,
+    "wof:lastmodified":1537716570,
+    "wof:name":"Tshitatshawa",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.43818,
+    -19.68761,
+    27.43818,
+    -19.68761
+],
+  "geometry": {"coordinates":[27.43818,-19.68761],"type":"Point"}
+}

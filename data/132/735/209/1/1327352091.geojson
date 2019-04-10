@@ -1,0 +1,72 @@
+{
+  "id": 1327352091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.36667,-20.11667,30.36667,-20.11667",
+    "geom:latitude":-20.11667,
+    "geom:longitude":30.36667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mandamambwe",
+    "gn:country_code":"ZW",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":887461,
+    "gn:latitude":-20.11667,
+    "gn:longitude":30.36667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Mandamambwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandamombge",
+        "Mandamambwe",
+        "Mandamambge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890428879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":887461
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"af9c54a094772b9e958bd89310416b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890428879,
+            "locality_id":1327352091,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1327352091,
+    "wof:lastmodified":1537716578,
+    "wof:name":"Mandamambwe",
+    "wof:parent_id":890428879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.36667000000001,
+    -20.11667000000001,
+    30.36667000000001,
+    -20.11667000000001
+],
+  "geometry": {"coordinates":[30.36667000000001,-20.11667000000001],"type":"Point"}
+}

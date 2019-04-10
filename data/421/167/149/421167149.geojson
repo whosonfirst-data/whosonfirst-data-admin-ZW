@@ -1,0 +1,131 @@
+{
+  "id": 421167149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7,-17.88333,30.7,-17.88333",
+    "geom:latitude":-17.88333,
+    "geom:longitude":30.7,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Norton"
+    ],
+    "name:dut_x_preferred":[
+        "Norton"
+    ],
+    "name:eng_x_preferred":[
+        "Norton"
+    ],
+    "name:fra_x_preferred":[
+        "Norton"
+    ],
+    "name:fre_x_preferred":[
+        "Norton"
+    ],
+    "name:ger_x_preferred":[
+        "Norton"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05e8\u05d8\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Norton"
+    ],
+    "name:pol_x_preferred":[
+        "Norton"
+    ],
+    "name:ron_x_preferred":[
+        "Norton"
+    ],
+    "name:rum_x_preferred":[
+        "Norton"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u0442\u043e\u043d"
+    ],
+    "name:sna_x_preferred":[
+        "Norton"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0440\u0442\u043e\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Norton"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440\u0442\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0631\u0679\u0646\u060c \u0632\u0645\u0628\u0627\u0628\u0648\u06d2"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":884141,
+    "qs:gn_pop":52054,
+    "qs:name":"Norton",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Mashonaland West",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":129860,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1467414,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":312,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":884141,
+        "gp:id":1467414,
+        "qs:id":129860,
+        "wd:id":"Q994406",
+        "wk:page":"Norton, Zimbabwe"
+    },
+    "wof:country":"ZW",
+    "wof:created":1459008721,
+    "wof:geomhash":"283f29298df6d6a186e8bc56824f94a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":421167149,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":421167149,
+    "wof:lastmodified":1527716163,
+    "wof:name":"Norton",
+    "wof:parent_id":85681131,
+    "wof:placetype":"locality",
+    "wof:population":52054,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7,
+    -17.88333,
+    30.7,
+    -17.88333
+],
+  "geometry": {"coordinates":[30.7,-17.88333],"type":"Point"}
+}

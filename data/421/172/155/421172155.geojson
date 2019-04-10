@@ -1,0 +1,113 @@
+{
+  "id": 421172155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48225,-20.03665,30.48225,-20.03665",
+    "geom:latitude":-20.03665,
+    "geom:longitude":30.48225,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Mashava"
+    ],
+    "name:dut_x_preferred":[
+        "Mashava"
+    ],
+    "name:eng_x_preferred":[
+        "Mashava"
+    ],
+    "name:fra_x_preferred":[
+        "Mashava Mine"
+    ],
+    "name:fre_x_preferred":[
+        "Mashava Mine"
+    ],
+    "name:geo_x_preferred":[
+        "mashava"
+    ],
+    "name:ger_x_preferred":[
+        "Mashava"
+    ],
+    "name:ron_x_preferred":[
+        "Mashava"
+    ],
+    "name:rum_x_preferred":[
+        "Mashava"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0448\u0430\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mashava"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":886864,
+    "qs:gn_pop":12994,
+    "qs:name":"Mashaba",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Masvingo",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1299059,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1467248,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":745,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":886864,
+        "gp:id":1467248,
+        "qs:id":1299059,
+        "wd:id":"Q1907062",
+        "wk:page":"Mashava"
+    },
+    "wof:country":"ZW",
+    "wof:created":1459008922,
+    "wof:geomhash":"d756b7892397bb2e7aa1943516dfe760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":421172155,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":421172155,
+    "wof:lastmodified":1527716305,
+    "wof:name":"Mashaba",
+    "wof:parent_id":85681127,
+    "wof:placetype":"locality",
+    "wof:population":12994,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48225,
+    -20.03665,
+    30.48225,
+    -20.03665
+],
+  "geometry": {"coordinates":[30.48225,-20.03665],"type":"Point"}
+}

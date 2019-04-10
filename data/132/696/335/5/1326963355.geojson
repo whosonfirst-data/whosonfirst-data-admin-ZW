@@ -1,0 +1,71 @@
+{
+  "id": 1326963355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24472,-17.88972,31.24472,-17.88972",
+    "geom:latitude":-17.88972,
+    "geom:longitude":31.24472,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ruwa",
+    "gn:country_code":"ZW",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":882009,
+    "gn:latitude":-17.88972,
+    "gn:longitude":31.24472,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ruwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ruwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":882009,
+        "wk:page":"Ruwa"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d5138593291d74e678fa5ea4aba48bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784891,
+            "locality_id":1326963355,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1326963355,
+    "wof:lastmodified":1537716572,
+    "wof:name":"Ruwa",
+    "wof:parent_id":1108784891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24472,
+    -17.88972,
+    31.24472,
+    -17.88972
+],
+  "geometry": {"coordinates":[31.24472,-17.88972],"type":"Point"}
+}

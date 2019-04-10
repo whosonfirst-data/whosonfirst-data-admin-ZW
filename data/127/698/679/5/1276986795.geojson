@@ -1,0 +1,67 @@
+{
+  "id": 1276986795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95537,-17.82276,30.95537,-17.82276",
+    "geom:latitude":-17.82276,
+    "geom:longitude":30.95537,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dzivarasekwa",
+    "gn:country_code":"ZW",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10942275,
+    "gn:latitude":-17.82276,
+    "gn:longitude":30.95537,
+    "gn:modification_date":"2015-11-20",
+    "gn:name":"Dzivarasekwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681097,
+        421190261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10942275
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d43194c7e88cd38fe25074293c29b7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":1276986795,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":1276986795,
+    "wof:lastmodified":1536897737,
+    "wof:name":"Dzivarasekwa",
+    "wof:parent_id":421190261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95537,
+    -17.82276,
+    30.95537,
+    -17.82276
+],
+  "geometry": {"coordinates":[30.95537,-17.82276],"type":"Point"}
+}

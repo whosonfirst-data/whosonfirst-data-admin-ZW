@@ -1,0 +1,70 @@
+{
+  "id": 1309721873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.74667,-20.23361,28.74667,-20.23361",
+    "geom:latitude":-20.23361,
+    "geom:longitude":28.74667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Worringham",
+    "gn:country_code":"ZW",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1106161,
+    "gn:latitude":-20.23361,
+    "gn:longitude":28.74667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Worringham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Worringham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890450097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106161
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"3832dd6662e9fbc35c7c99b4b622eb55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890450097,
+            "locality_id":1309721873,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1309721873,
+    "wof:lastmodified":1537716587,
+    "wof:name":"Worringham",
+    "wof:parent_id":890450097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.74667,
+    -20.23361,
+    28.74667,
+    -20.23361
+],
+  "geometry": {"coordinates":[28.74667,-20.23361],"type":"Point"}
+}

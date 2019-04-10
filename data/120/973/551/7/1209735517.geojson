@@ -1,0 +1,67 @@
+{
+  "id": 1209735517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56916,-19.97282,31.56916,-19.97282",
+    "geom:latitude":-19.97282,
+    "geom:longitude":31.56916,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Majaya",
+    "gn:country_code":"ZW",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507226,
+    "gn:latitude":-19.97282,
+    "gn:longitude":31.56916,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Majaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507226
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"09ca363ed6e78230b17190d42641558c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1209735517,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1209735517,
+    "wof:lastmodified":1536374153,
+    "wof:name":"Majaya",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56916,
+    -19.97282,
+    31.56916,
+    -19.97282
+],
+  "geometry": {"coordinates":[31.56916,-19.97282],"type":"Point"}
+}

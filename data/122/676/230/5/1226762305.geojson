@@ -1,0 +1,70 @@
+{
+  "id": 1226762305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.04194,-17.75667,31.04194,-17.75667",
+    "geom:latitude":-17.75667,
+    "geom:longitude":31.04194,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mount Pleasant Park",
+    "gn:country_code":"ZW",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085482,
+    "gn:latitude":-17.75667,
+    "gn:longitude":31.04194,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Mount Pleasant Park",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mount Pleasant Park"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681097,
+        421190261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085482
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"8ab070054651b190fcc6ddd092d48072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":1226762305,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":1226762305,
+    "wof:lastmodified":1537716586,
+    "wof:name":"Mount Pleasant Park",
+    "wof:parent_id":421190261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.04194,
+    -17.75667,
+    31.04194,
+    -17.75667
+],
+  "geometry": {"coordinates":[31.04194,-17.75667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310427655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.10651,-19.49168,27.10651,-19.49168",
+    "geom:latitude":-19.49168,
+    "geom:longitude":27.10651,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tshampeni",
+    "gn:country_code":"ZW",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7464943,
+    "gn:latitude":-19.49168,
+    "gn:longitude":27.10651,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Tshampeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7464943
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"be9c2912aac1f6424757d0d9198bb5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1310427655,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1310427655,
+    "wof:lastmodified":1537028127,
+    "wof:name":"Tshampeni",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.10651,
+    -19.49168,
+    27.10651,
+    -19.49168
+],
+  "geometry": {"coordinates":[27.10651,-19.49168],"type":"Point"}
+}

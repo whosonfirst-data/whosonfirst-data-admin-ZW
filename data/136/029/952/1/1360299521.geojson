@@ -1,0 +1,67 @@
+{
+  "id": 1360299521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66064,-19.19391,31.66064,-19.19391",
+    "geom:latitude":-19.19391,
+    "geom:longitude":31.66064,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chimhawu",
+    "gn:country_code":"ZW",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453074,
+    "gn:latitude":-19.19391,
+    "gn:longitude":31.66064,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Chimhawu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453074
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f11026dadee62897e5a76b49b7836092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1360299521,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1360299521,
+    "wof:lastmodified":1536634914,
+    "wof:name":"Chimhawu",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66064,
+    -19.19391,
+    31.66064,
+    -19.19391
+],
+  "geometry": {"coordinates":[31.66064,-19.19391],"type":"Point"}
+}

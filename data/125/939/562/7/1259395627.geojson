@@ -1,0 +1,67 @@
+{
+  "id": 1259395627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.08998,-18.29481,29.08998,-18.29481",
+    "geom:latitude":-18.29481,
+    "geom:longitude":29.08998,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chief Njelele",
+    "gn:country_code":"ZW",
+    "gn:dem":1239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7394684,
+    "gn:latitude":-18.29481,
+    "gn:longitude":29.08998,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Chief Njelele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        1108784947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7394684
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"cb92b384d47999241899008c8f4b4d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784947,
+            "locality_id":1259395627,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1259395627,
+    "wof:lastmodified":1536983977,
+    "wof:name":"Chief Njelele",
+    "wof:parent_id":1108784947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.08998,
+    -18.29481,
+    29.08998,
+    -18.29481
+],
+  "geometry": {"coordinates":[29.08998,-18.29481],"type":"Point"}
+}

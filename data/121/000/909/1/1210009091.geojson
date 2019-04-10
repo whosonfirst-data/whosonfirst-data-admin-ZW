@@ -1,0 +1,67 @@
+{
+  "id": 1210009091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8284,-19.90093,27.8284,-19.90093",
+    "geom:latitude":-19.90093,
+    "geom:longitude":27.8284,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Silande",
+    "gn:country_code":"ZW",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7523443,
+    "gn:latitude":-19.90093,
+    "gn:longitude":27.8284,
+    "gn:modification_date":"2010-09-04",
+    "gn:name":"Silande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523443
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"e04420188fff5d2a350a4ebeb1ee288c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1210009091,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1210009091,
+    "wof:lastmodified":1536370454,
+    "wof:name":"Silande",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8284,
+    -19.90093,
+    27.8284,
+    -19.90093
+],
+  "geometry": {"coordinates":[27.8284,-19.90093],"type":"Point"}
+}

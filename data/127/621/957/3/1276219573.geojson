@@ -1,0 +1,67 @@
+{
+  "id": 1276219573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.65833,-20.08,28.65833,-20.08",
+    "geom:latitude":-20.08,
+    "geom:longitude":28.65833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Woodville",
+    "gn:country_code":"ZW",
+    "gn:dem":1329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106005,
+    "gn:latitude":-20.08,
+    "gn:longitude":28.65833,
+    "gn:modification_date":"2000-10-04",
+    "gn:name":"Woodville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681121,
+        421171051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106005
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"eec1b50089ed93d415df1a48839c4993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421171051,
+            "locality_id":1276219573,
+            "region_id":85681121
+        }
+    ],
+    "wof:id":1276219573,
+    "wof:lastmodified":1536932148,
+    "wof:name":"Woodville",
+    "wof:parent_id":421171051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.65833,
+    -20.08,
+    28.65833,
+    -20.08
+],
+  "geometry": {"coordinates":[28.65833,-20.08],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209217971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.05704,-20.78444,30.05704,-20.78444",
+    "geom:latitude":-20.78444,
+    "geom:longitude":30.05704,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Don Bosco Mission",
+    "gn:country_code":"ZW",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7374438,
+    "gn:latitude":-20.78444,
+    "gn:longitude":30.05704,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Don Bosco Mission",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Don Bosco Mission"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7374438
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d6dc448c95895c0a6cbe71156ad1746e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209217971
+        }
+    ],
+    "wof:id":1209217971,
+    "wof:lastmodified":1537716593,
+    "wof:name":"Don Bosco Mission",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05704,
+    -20.78444,
+    30.05704,
+    -20.78444
+],
+  "geometry": {"coordinates":[30.05704,-20.78444],"type":"Point"}
+}

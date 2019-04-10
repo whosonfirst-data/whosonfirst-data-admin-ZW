@@ -1,0 +1,70 @@
+{
+  "id": 1343784657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8697,-16.49507,29.8697,-16.49507",
+    "geom:latitude":-16.49507,
+    "geom:longitude":29.8697,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chikowe",
+    "gn:country_code":"ZW",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370563,
+    "gn:latitude":-16.49507,
+    "gn:longitude":29.8697,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chikowe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chikowe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370563
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c87dc5f66c8eb28b9eb8092323114b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1343784657,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1343784657,
+    "wof:lastmodified":1537716590,
+    "wof:name":"Chikowe",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8697,
+    -16.49507,
+    29.8697,
+    -16.49507
+],
+  "geometry": {"coordinates":[29.8697,-16.49507],"type":"Point"}
+}

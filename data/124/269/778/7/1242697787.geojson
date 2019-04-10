@@ -1,0 +1,67 @@
+{
+  "id": 1242697787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65127,-19.95106,31.65127,-19.95106",
+    "geom:latitude":-19.95106,
+    "geom:longitude":31.65127,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rumurai",
+    "gn:country_code":"ZW",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507273,
+    "gn:latitude":-19.95106,
+    "gn:longitude":31.65127,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Rumurai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507273
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"5394451e546a73125c19f1fe0e3680fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1242697787,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1242697787,
+    "wof:lastmodified":1536890330,
+    "wof:name":"Rumurai",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65127,
+    -19.95106,
+    31.65127,
+    -19.95106
+],
+  "geometry": {"coordinates":[31.65127,-19.95106],"type":"Point"}
+}

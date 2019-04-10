@@ -1,0 +1,70 @@
+{
+  "id": 1293686013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.31571,-16.9666,29.31571,-16.9666",
+    "geom:latitude":-16.9666,
+    "geom:longitude":29.31571,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chiwara",
+    "gn:country_code":"ZW",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7371168,
+    "gn:latitude":-16.9666,
+    "gn:longitude":29.31571,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chiwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chiwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7371168
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"88f823cf84eb6823559cf6ac056632fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1293686013,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1293686013,
+    "wof:lastmodified":1537716593,
+    "wof:name":"Chiwara",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.31571,
+    -16.9666,
+    29.31571,
+    -16.9666
+],
+  "geometry": {"coordinates":[29.31571,-16.9666],"type":"Point"}
+}

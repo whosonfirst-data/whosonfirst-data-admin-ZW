@@ -1,0 +1,67 @@
+{
+  "id": 1242691563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81408,-19.40055,31.81408,-19.40055",
+    "geom:latitude":-19.40055,
+    "geom:longitude":31.81408,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hadzizi",
+    "gn:country_code":"ZW",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453464,
+    "gn:latitude":-19.40055,
+    "gn:longitude":31.81408,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Hadzizi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453464
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"76b2e83d917a95fb00009ba7feff0f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1242691563,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1242691563,
+    "wof:lastmodified":1536899565,
+    "wof:name":"Hadzizi",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81408,
+    -19.40055,
+    31.81408,
+    -19.40055
+],
+  "geometry": {"coordinates":[31.81408,-19.40055],"type":"Point"}
+}

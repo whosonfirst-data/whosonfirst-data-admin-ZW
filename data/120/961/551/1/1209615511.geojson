@@ -1,0 +1,61 @@
+{
+  "id": 1209615511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51734,-18.92352,31.51734,-18.92352",
+    "geom:latitude":-18.92352,
+    "geom:longitude":31.51734,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Manyere",
+    "gn:country_code":"ZW",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7442594,
+    "gn:latitude":-18.92352,
+    "gn:longitude":31.51734,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Manyere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7442594
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d3c6c7af065120c0983adf2539bec18e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209615511
+        }
+    ],
+    "wof:id":1209615511,
+    "wof:lastmodified":1536281702,
+    "wof:name":"Manyere",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51734,
+    -18.92352,
+    31.51734,
+    -18.92352
+],
+  "geometry": {"coordinates":[31.51734,-18.92352],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209128109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.03805,-19.57698,27.03805,-19.57698",
+    "geom:latitude":-19.57698,
+    "geom:longitude":27.03805,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ndawana",
+    "gn:country_code":"ZW",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7464944,
+    "gn:latitude":-19.57698,
+    "gn:longitude":27.03805,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Ndawana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7464944
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"183aa1ed5af3f4caccb0f82b093d0c05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209128109
+        }
+    ],
+    "wof:id":1209128109,
+    "wof:lastmodified":1536296892,
+    "wof:name":"Ndawana",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.03805,
+    -19.57698,
+    27.03805,
+    -19.57698
+],
+  "geometry": {"coordinates":[27.03805,-19.57698],"type":"Point"}
+}

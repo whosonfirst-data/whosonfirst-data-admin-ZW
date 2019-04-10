@@ -1,0 +1,70 @@
+{
+  "id": 1193129725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.41438,-20.18153,28.41438,-20.18153",
+    "geom:latitude":-20.18153,
+    "geom:longitude":28.41438,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dunkirk",
+    "gn:country_code":"ZW",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":892000,
+    "gn:latitude":-20.18153,
+    "gn:longitude":28.41438,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dunkirk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dunkirk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":892000
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"5a4d767e2aa9f84c74040d8c8a3cf916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784929,
+            "locality_id":1193129725,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1193129725,
+    "wof:lastmodified":1537716583,
+    "wof:name":"Dunkirk",
+    "wof:parent_id":1108784929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.41438,
+    -20.18153,
+    28.41438,
+    -20.18153
+],
+  "geometry": {"coordinates":[28.41438,-20.18153],"type":"Point"}
+}

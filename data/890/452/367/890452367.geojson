@@ -1,0 +1,88 @@
+{
+  "id": 890452367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.92261,-20.28979,28.92261,-20.28979",
+    "geom:latitude":-20.28979,
+    "geom:longitude":28.92261,
+    "gn:country":"ZW",
+    "gn:fcode":"PPL",
+    "gn:pop":2228,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Esigodini"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0441\u0438\u0433\u043e\u0434\u0438\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Esigodini"
+    ],
+    "name:eng_x_preferred":[
+        "Esigodini"
+    ],
+    "name:ger_x_preferred":[
+        "Esigodini"
+    ],
+    "name:ltz_x_preferred":[
+        "Esigodini"
+    ],
+    "name:unk_x_variant":[
+        "Essexvale"
+    ],
+    "qs:name":"Esigodini",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":200,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":891699,
+        "gp:id":1466978,
+        "qs:id":129888,
+        "wd:id":"Q1367662",
+        "wk:page":"Esigodini"
+    },
+    "wof:country":"ZW",
+    "wof:created":1469052814,
+    "wof:geomhash":"00be58b31ff47725e95c2e51343ceada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":890452367,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":890452367,
+    "wof:lastmodified":1527734187,
+    "wof:name":"Esigodini",
+    "wof:parent_id":85681117,
+    "wof:placetype":"locality",
+    "wof:population":2228,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.92261,
+    -20.28979,
+    28.92261,
+    -20.28979
+],
+  "geometry": {"coordinates":[28.92261,-20.28979],"type":"Point"}
+}

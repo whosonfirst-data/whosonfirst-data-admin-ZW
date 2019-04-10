@@ -1,0 +1,79 @@
+{
+  "id": 890431427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.86667,-18.61667,26.86667,-18.61667",
+    "geom:latitude":-18.61667,
+    "geom:longitude":26.86667,
+    "gn:country":"ZW",
+    "gn:fcode":"PPL",
+    "gn:pop":2993,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dete"
+    ],
+    "name:eng_x_preferred":[
+        "Dete"
+    ],
+    "name:ger_x_preferred":[
+        "Dete"
+    ],
+    "name:unk_x_variant":[
+        "Dett"
+    ],
+    "qs:name":"Dete",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":425,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":892440,
+        "gp:id":56122436,
+        "qs:id":129890,
+        "wd:id":"Q1201090",
+        "wk:page":"Dete"
+    },
+    "wof:country":"ZW",
+    "wof:created":1469051890,
+    "wof:geomhash":"d0d268aa4e070d5b4e3f0cf17c1818d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":890431427,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":890431427,
+    "wof:lastmodified":1527735416,
+    "wof:name":"Dete",
+    "wof:parent_id":85681101,
+    "wof:placetype":"locality",
+    "wof:population":2993,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.86667,
+    -18.61667,
+    26.86667,
+    -18.61667
+],
+  "geometry": {"coordinates":[26.86667,-18.61667],"type":"Point"}
+}

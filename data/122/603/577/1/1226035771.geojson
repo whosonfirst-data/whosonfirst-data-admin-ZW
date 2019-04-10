@@ -1,0 +1,67 @@
+{
+  "id": 1226035771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.68098,-19.70804,31.68098,-19.70804",
+    "geom:latitude":-19.70804,
+    "geom:longitude":31.68098,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chibhamu",
+    "gn:country_code":"ZW",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507026,
+    "gn:latitude":-19.70804,
+    "gn:longitude":31.68098,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Chibhamu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507026
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"a8ba8238643b8bd609a297b1c423fbaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1226035771,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1226035771,
+    "wof:lastmodified":1536739452,
+    "wof:name":"Chibhamu",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.68098,
+    -19.70804,
+    31.68098,
+    -19.70804
+],
+  "geometry": {"coordinates":[31.68098,-19.70804],"type":"Point"}
+}

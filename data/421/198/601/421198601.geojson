@@ -1,0 +1,112 @@
+{
+  "id": 421198601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.22677,-17.39699,32.22677,-17.39699",
+    "geom:latitude":-17.39699,
+    "geom:longitude":32.22677,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u7a46\u6258\u79d1"
+    ],
+    "name:deu_x_preferred":[
+        "Mutoko"
+    ],
+    "name:dut_x_preferred":[
+        "Mutoko"
+    ],
+    "name:eng_x_preferred":[
+        "Mutoko"
+    ],
+    "name:fre_x_preferred":[
+        "Mutoko"
+    ],
+    "name:ger_x_preferred":[
+        "Mutoko"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30c8\u30b3"
+    ],
+    "name:por_x_preferred":[
+        "Mutoko"
+    ],
+    "name:unk_x_variant":[
+        "Mtoko"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u6258\u79d1"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":884927,
+    "qs:gn_pop":9532,
+    "qs:name":"Mutoko",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Mashonaland East",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":183748,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1467364,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-17.383333,
+    "wd:longitude":32.216667,
+    "wd:wordcount":508,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":884927,
+        "gp:id":1467364,
+        "qs:id":183748,
+        "wd:id":"Q489569",
+        "wk:page":"Mutoko"
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009954,
+    "wof:geomhash":"d3e78ab0fc5a9a4c0b59b1955241700b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":421198601,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":421198601,
+    "wof:lastmodified":1527716357,
+    "wof:name":"Mutoko",
+    "wof:parent_id":85681109,
+    "wof:placetype":"locality",
+    "wof:population":9532,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.22677,
+    -17.39699,
+    32.22677,
+    -17.39699
+],
+  "geometry": {"coordinates":[32.22677,-17.39699],"type":"Point"}
+}

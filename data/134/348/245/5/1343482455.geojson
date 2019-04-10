@@ -1,0 +1,70 @@
+{
+  "id": 1343482455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.29699,-20.21775,29.29699,-20.21775",
+    "geom:latitude":-20.21775,
+    "geom:longitude":29.29699,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lancaster",
+    "gn:country_code":"ZW",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":888650,
+    "gn:latitude":-20.21775,
+    "gn:longitude":29.29699,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lancaster",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lancaster"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890452775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":888650
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"4c008ed1d72da86fb607b6f985471b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890452775,
+            "locality_id":1343482455,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1343482455,
+    "wof:lastmodified":1537716580,
+    "wof:name":"Lancaster",
+    "wof:parent_id":890452775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.29699,
+    -20.21775,
+    29.29699,
+    -20.21775
+],
+  "geometry": {"coordinates":[29.29699,-20.21775],"type":"Point"}
+}

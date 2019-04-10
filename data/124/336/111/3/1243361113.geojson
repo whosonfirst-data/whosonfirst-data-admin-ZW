@@ -1,0 +1,75 @@
+{
+  "id": 1243361113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6876,-20.10751,28.6876,-20.10751",
+    "geom:latitude":-20.10751,
+    "geom:longitude":28.6876,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cement",
+    "gn:country_code":"ZW",
+    "gn:dem":1347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":894466,
+    "gn:latitude":-20.10751,
+    "gn:longitude":28.6876,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cement",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cement"
+    ],
+    "name:und_x_variant":[
+        "Cement Siding",
+        "Cement",
+        "Cement Station"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":894466
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"1ec3fd553bb956422b397c5e8ce25e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784929,
+            "locality_id":1243361113,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1243361113,
+    "wof:lastmodified":1537716585,
+    "wof:name":"Cement",
+    "wof:parent_id":1108784929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6876,
+    -20.10751,
+    28.6876,
+    -20.10751
+],
+  "geometry": {"coordinates":[28.6876,-20.10751],"type":"Point"}
+}

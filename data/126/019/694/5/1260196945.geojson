@@ -1,0 +1,67 @@
+{
+  "id": 1260196945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80947,-19.25521,31.80947,-19.25521",
+    "geom:latitude":-19.25521,
+    "geom:longitude":31.80947,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Makufa",
+    "gn:country_code":"ZW",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453096,
+    "gn:latitude":-19.25521,
+    "gn:longitude":31.80947,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Makufa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453096
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"a573bd6992077908ba97b3a985db8e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1260196945,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1260196945,
+    "wof:lastmodified":1536828420,
+    "wof:name":"Makufa",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.80947,
+    -19.25521,
+    31.80947,
+    -19.25521
+],
+  "geometry": {"coordinates":[31.80947,-19.25521],"type":"Point"}
+}

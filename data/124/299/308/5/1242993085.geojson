@@ -1,0 +1,67 @@
+{
+  "id": 1242993085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.86871,-19.94899,31.86871,-19.94899",
+    "geom:latitude":-19.94899,
+    "geom:longitude":31.86871,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mhedzano",
+    "gn:country_code":"ZW",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507423,
+    "gn:latitude":-19.94899,
+    "gn:longitude":31.86871,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Mhedzano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507423
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"a6c2a2a4ad34e59038f9bb99a2a188da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1242993085,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1242993085,
+    "wof:lastmodified":1536962081,
+    "wof:name":"Mhedzano",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.86871,
+    -19.94899,
+    31.86871,
+    -19.94899
+],
+  "geometry": {"coordinates":[31.86871,-19.94899],"type":"Point"}
+}

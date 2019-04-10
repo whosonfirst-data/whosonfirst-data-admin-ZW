@@ -1,0 +1,67 @@
+{
+  "id": 1293004065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.52388,-17.63097,28.52388,-17.63097",
+    "geom:latitude":-17.63097,
+    "geom:longitude":28.52388,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Madzivazvido",
+    "gn:country_code":"ZW",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11398410,
+    "gn:latitude":-17.63097,
+    "gn:longitude":28.52388,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Madzivazvido",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        1108784945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398410
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"9c45e083b8804d9910cb8e4e2f01fc03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784945,
+            "locality_id":1293004065,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1293004065,
+    "wof:lastmodified":1536986108,
+    "wof:name":"Madzivazvido",
+    "wof:parent_id":1108784945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.52388,
+    -17.63097,
+    28.52388,
+    -17.63097
+],
+  "geometry": {"coordinates":[28.52388,-17.63097],"type":"Point"}
+}

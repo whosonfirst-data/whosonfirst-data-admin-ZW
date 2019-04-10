@@ -1,0 +1,67 @@
+{
+  "id": 1310602027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37478,-18.17647,31.37478,-18.17647",
+    "geom:latitude":-18.17647,
+    "geom:longitude":31.37478,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Manana",
+    "gn:country_code":"ZW",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405268,
+    "gn:latitude":-18.17647,
+    "gn:longitude":31.37478,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Manana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405268
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"32e3de7a872585aac1ef688760fa05e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784893,
+            "locality_id":1310602027,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1310602027,
+    "wof:lastmodified":1536778198,
+    "wof:name":"Manana",
+    "wof:parent_id":1108784893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37478,
+    -18.17647,
+    31.37478,
+    -18.17647
+],
+  "geometry": {"coordinates":[31.37478,-18.17647],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1108784931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002344,
+    "geom:area_square_m":27575510.755492,
+    "geom:bbox":"25.8095366535,-17.9734720692,25.8532366535,-17.8910720692",
+    "geom:latitude":-17.927956,
+    "geom:longitude":25.829243,
+    "iso:country":"ZW",
+    "lbl:latitude":-17.92777,
+    "lbl:longitude":25.831012,
+    "meso:adm1_en":"Matabeleland North",
+    "meso:dissme":"Matabeleland NorthVictoria Falls",
+    "meso:gadm_adm2":"Hwange",
+    "meso:gadm_alt":"Wankie",
+    "meso:gadm_hasc":"ZW.MN.HW",
+    "meso:gaul_adm2":"Hwange",
+    "meso:hasc_id":"0",
+    "meso:mps_x":25.831012,
+    "meso:mps_y":-17.92777,
+    "meso:name_en":"Victoria Falls",
+    "meso:source":"ZIMSTAT",
+    "mps:latitude":-17.92777,
+    "mps:longitude":25.831012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"ZW.MN.HW"
+    },
+    "wof:country":"ZW",
+    "wof:created":1481830416,
+    "wof:geomhash":"965a897f993c88fbad81f48c89c80c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784931,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1108784931,
+    "wof:lastmodified":1536615782,
+    "wof:name":"Victoria Falls",
+    "wof:parent_id":85681101,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:shortcode":"HW",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.80953665354885,
+    -17.97347206916423,
+    25.85323665354885,
+    -17.89107206916423
+],
+  "geometry": {"coordinates":[[[25.82033665354885,-17.89767206916423],[25.82023665354885,-17.89107206916423],[25.83643665354885,-17.89317206916423],[25.84123665354885,-17.89387206916423],[25.84853665354885,-17.90267206916423],[25.85123665354885,-17.90587206916423],[25.84923665354885,-17.91687206916423],[25.85153665354885,-17.92317206916423],[25.85323665354885,-17.92687206916423],[25.85273665354885,-17.93607206916423],[25.84953665354885,-17.93897206916423],[25.84723665354885,-17.94087206916423],[25.83673665354885,-17.94827206916423],[25.83223665354885,-17.95607206916423],[25.83003665354885,-17.95967206916423],[25.82223665354885,-17.96397206916423],[25.81343665354885,-17.96877206916423],[25.81013665354885,-17.97347206916423],[25.80993665354885,-17.96947206916423],[25.80983665354885,-17.96517206916423],[25.80963665354885,-17.93497206916423],[25.80953665354885,-17.92527206916423],[25.81673665354885,-17.91027206916423],[25.82033665354885,-17.89767206916423]]],"type":"Polygon"}
+}

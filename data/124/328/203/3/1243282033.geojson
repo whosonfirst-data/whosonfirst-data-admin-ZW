@@ -1,0 +1,67 @@
+{
+  "id": 1243282033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.91667,-18.13333,29.91667,-18.13333",
+    "geom:latitude":-18.13333,
+    "geom:longitude":29.91667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Milan",
+    "gn:country_code":"ZW",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":886108,
+    "gn:latitude":-18.13333,
+    "gn:longitude":29.91667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Milan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        1108784911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":886108
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"8cc5a7abf08fc581f8e3cb0238d477a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784911,
+            "locality_id":1243282033,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1243282033,
+    "wof:lastmodified":1537040825,
+    "wof:name":"Milan",
+    "wof:parent_id":1108784911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.91667,
+    -18.13333,
+    29.91667,
+    -18.13333
+],
+  "geometry": {"coordinates":[29.91667,-18.13333],"type":"Point"}
+}

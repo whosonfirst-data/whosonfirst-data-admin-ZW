@@ -1,0 +1,70 @@
+{
+  "id": 1293122275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.34467,-20.07376,29.34467,-20.07376",
+    "geom:latitude":-20.07376,
+    "geom:longitude":29.34467,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mount Royal",
+    "gn:country_code":"ZW",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7505403,
+    "gn:latitude":-20.07376,
+    "gn:longitude":29.34467,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mount Royal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mount Royal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890452775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7505403
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"7025bd8122889a78b195cae160b5094a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890452775,
+            "locality_id":1293122275,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1293122275,
+    "wof:lastmodified":1537716594,
+    "wof:name":"Mount Royal",
+    "wof:parent_id":890452775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.34467,
+    -20.07376,
+    29.34467,
+    -20.07376
+],
+  "geometry": {"coordinates":[29.34467,-20.07376],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343972229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74014,-19.03603,31.74014,-19.03603",
+    "geom:latitude":-19.03603,
+    "geom:longitude":31.74014,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gaza",
+    "gn:country_code":"ZW",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7443459,
+    "gn:latitude":-19.03603,
+    "gn:longitude":31.74014,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Gaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7443459
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"614f867bd38b1a45e2a12b7084d07b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1343972229,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1343972229,
+    "wof:lastmodified":1537002175,
+    "wof:name":"Gaza",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74014,
+    -19.03603,
+    31.74014,
+    -19.03603
+],
+  "geometry": {"coordinates":[31.74014,-19.03603],"type":"Point"}
+}

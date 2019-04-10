@@ -1,0 +1,70 @@
+{
+  "id": 1226465329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.87379,-16.55341,29.87379,-16.55341",
+    "geom:latitude":-16.55341,
+    "geom:longitude":29.87379,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kachidza",
+    "gn:country_code":"ZW",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370633,
+    "gn:latitude":-16.55341,
+    "gn:longitude":29.87379,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kachidza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kachidza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370633
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"9b55ba82aa67f036f65ce4c6a0c9d795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1226465329,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1226465329,
+    "wof:lastmodified":1537716590,
+    "wof:name":"Kachidza",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.87379,
+    -16.55341,
+    29.87379,
+    -16.55341
+],
+  "geometry": {"coordinates":[29.87379,-16.55341],"type":"Point"}
+}

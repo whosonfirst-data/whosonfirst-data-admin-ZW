@@ -1,0 +1,67 @@
+{
+  "id": 1276789009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.26491,-19.43752,27.26491,-19.43752",
+    "geom:latitude":-19.43752,
+    "geom:longitude":27.26491,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nkosikazi",
+    "gn:country_code":"ZW",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":884209,
+    "gn:latitude":-19.43752,
+    "gn:longitude":27.26491,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nkosikazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":884209
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"aab568c88700a998200d43b4730a737b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1276789009,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1276789009,
+    "wof:lastmodified":1536665418,
+    "wof:name":"Nkosikazi",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.26491,
+    -19.43752000000001,
+    27.26491,
+    -19.43752000000001
+],
+  "geometry": {"coordinates":[27.26491,-19.43752000000001],"type":"Point"}
+}

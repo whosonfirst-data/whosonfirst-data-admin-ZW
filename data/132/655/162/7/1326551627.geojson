@@ -1,0 +1,68 @@
+{
+  "id": 1326551627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2,-21.91667,29.2,-21.91667",
+    "geom:latitude":-21.91667,
+    "geom:longitude":29.2,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tuli",
+    "gn:country_code":"ZW",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":879853,
+    "gn:latitude":-21.91667,
+    "gn:longitude":29.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890416501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":879853,
+        "wk:page":"Tuli%2C_Zimbabwe"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"15a1a69dc1bd3438984e709190c09f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416501,
+            "locality_id":1326551627,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1326551627,
+    "wof:lastmodified":1537576393,
+    "wof:name":"Tuli",
+    "wof:parent_id":890416501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2,
+    -21.91667,
+    29.2,
+    -21.91667
+],
+  "geometry": {"coordinates":[29.2,-21.91667],"type":"Point"}
+}

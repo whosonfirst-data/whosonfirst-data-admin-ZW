@@ -1,0 +1,67 @@
+{
+  "id": 1226257363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9,-20.11667,27.9,-20.11667",
+    "geom:latitude":-20.11667,
+    "geom:longitude":27.9,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tshabanda",
+    "gn:country_code":"ZW",
+    "gn:dem":1283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":879967,
+    "gn:latitude":-20.11667,
+    "gn:longitude":27.9,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Tshabanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":879967
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"bdafa4aaa0ffed0b38cc140d67f9bb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1226257363,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1226257363,
+    "wof:lastmodified":1536917341,
+    "wof:name":"Tshabanda",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9,
+    -20.11667000000001,
+    27.9,
+    -20.11667000000001
+],
+  "geometry": {"coordinates":[27.9,-20.11667000000001],"type":"Point"}
+}

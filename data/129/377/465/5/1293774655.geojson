@@ -1,0 +1,67 @@
+{
+  "id": 1293774655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86639,-20.39962,30.86639,-20.39962",
+    "geom:latitude":-20.39962,
+    "geom:longitude":30.86639,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mapanzure",
+    "gn:country_code":"ZW",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258502,
+    "gn:latitude":-20.39962,
+    "gn:longitude":30.86639,
+    "gn:modification_date":"2016-10-03",
+    "gn:name":"Mapanzure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        1108784917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258502
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b8d7b639fef5002ef9fdfa1dfbecc121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784917,
+            "locality_id":1293774655,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1293774655,
+    "wof:lastmodified":1536869042,
+    "wof:name":"Mapanzure",
+    "wof:parent_id":1108784917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86639000000001,
+    -20.39962,
+    30.86639000000001,
+    -20.39962
+],
+  "geometry": {"coordinates":[30.86639000000001,-20.39962],"type":"Point"}
+}

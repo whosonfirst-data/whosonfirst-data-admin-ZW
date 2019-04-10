@@ -1,0 +1,70 @@
+{
+  "id": 1310602859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.35748,-16.05267,30.35748,-16.05267",
+    "geom:latitude":-16.05267,
+    "geom:longitude":30.35748,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chief Chisunga",
+    "gn:country_code":"ZW",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7323951,
+    "gn:latitude":-16.05267,
+    "gn:longitude":30.35748,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chief Chisunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chief Chisunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681093,
+        1108784875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7323951
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"83e06a05db44321f4352732db96eb1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784875,
+            "locality_id":1310602859,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":1310602859,
+    "wof:lastmodified":1537716588,
+    "wof:name":"Chief Chisunga",
+    "wof:parent_id":1108784875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35748,
+    -16.05267000000001,
+    30.35748,
+    -16.05267000000001
+],
+  "geometry": {"coordinates":[30.35748,-16.05267000000001],"type":"Point"}
+}

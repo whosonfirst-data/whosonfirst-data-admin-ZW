@@ -1,0 +1,106 @@
+{
+  "id": 421196829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.784,-17.64322,31.784,-17.64322",
+    "geom:latitude":-17.64322,
+    "geom:longitude":31.784,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Murewa"
+    ],
+    "name:dut_x_preferred":[
+        "Murewa"
+    ],
+    "name:eng_x_colloquial":[
+        "Murehwa",
+        "Mrewa"
+    ],
+    "name:eng_x_preferred":[
+        "Murewa"
+    ],
+    "name:eng_x_variant":[
+        "Murehwa",
+        "Mrewa"
+    ],
+    "name:fra_x_preferred":[
+        "Murewa"
+    ],
+    "name:fre_x_preferred":[
+        "Murewa"
+    ],
+    "name:ger_x_preferred":[
+        "Murewa"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":885159,
+    "qs:gn_pop":8559,
+    "qs:name":"Murehwa",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Mashonaland East",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1299065,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1467354,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":209,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":885159,
+        "gp:id":1467354,
+        "qs:id":1299065,
+        "wd:id":"Q1953653",
+        "wk:page":"Murewa"
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009894,
+    "wof:geomhash":"939db3e16ad68725c8db07b329e1567f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":421196829,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":421196829,
+    "wof:lastmodified":1527716361,
+    "wof:name":"Murehwa",
+    "wof:parent_id":85681109,
+    "wof:placetype":"locality",
+    "wof:population":8559,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.784,
+    -17.64322,
+    31.784,
+    -17.64322
+],
+  "geometry": {"coordinates":[31.784,-17.64322],"type":"Point"}
+}

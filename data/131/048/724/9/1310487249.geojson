@@ -1,0 +1,67 @@
+{
+  "id": 1310487249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65143,-19.89769,31.65143,-19.89769",
+    "geom:latitude":-19.89769,
+    "geom:longitude":31.65143,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Matorere II",
+    "gn:country_code":"ZW",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507278,
+    "gn:latitude":-19.89769,
+    "gn:longitude":31.65143,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Matorere II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507278
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"7fcb531579ee82275e4b7a1aa4231b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1310487249,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1310487249,
+    "wof:lastmodified":1536943796,
+    "wof:name":"Matorere II",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65143,
+    -19.89769,
+    31.65143,
+    -19.89769
+],
+  "geometry": {"coordinates":[31.65143,-19.89769],"type":"Point"}
+}

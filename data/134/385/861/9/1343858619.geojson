@@ -1,0 +1,67 @@
+{
+  "id": 1343858619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53207,-19.15896,31.53207,-19.15896",
+    "geom:latitude":-19.15896,
+    "geom:longitude":31.53207,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chikwava",
+    "gn:country_code":"ZW",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7443286,
+    "gn:latitude":-19.15896,
+    "gn:longitude":31.53207,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Chikwava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7443286
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"5a1e49ac93f488ffef7f45d7374aeb16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1343858619,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1343858619,
+    "wof:lastmodified":1536669254,
+    "wof:name":"Chikwava",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53207,
+    -19.15896,
+    31.53207,
+    -19.15896
+],
+  "geometry": {"coordinates":[31.53207,-19.15896],"type":"Point"}
+}

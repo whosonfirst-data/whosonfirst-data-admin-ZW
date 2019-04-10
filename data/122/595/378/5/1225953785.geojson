@@ -1,0 +1,67 @@
+{
+  "id": 1225953785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.84695,-19.32018,31.84695,-19.32018",
+    "geom:latitude":-19.32018,
+    "geom:longitude":31.84695,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mukutukutu",
+    "gn:country_code":"ZW",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453443,
+    "gn:latitude":-19.32018,
+    "gn:longitude":31.84695,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Mukutukutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453443
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f3e75c33579c1f3a01599a5d066028fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1225953785,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1225953785,
+    "wof:lastmodified":1536856375,
+    "wof:name":"Mukutukutu",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.84695,
+    -19.32018,
+    31.84695,
+    -19.32018
+],
+  "geometry": {"coordinates":[31.84695,-19.32018],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259414813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.29737,-16.84114,29.29737,-16.84114",
+    "geom:latitude":-16.84114,
+    "geom:longitude":29.29737,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nyamasoka",
+    "gn:country_code":"ZW",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370789,
+    "gn:latitude":-16.84114,
+    "gn:longitude":29.29737,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nyamasoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyamasoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370789
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"787574bba29bd8822a9b1880f1a1f341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1259414813,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1259414813,
+    "wof:lastmodified":1537716591,
+    "wof:name":"Nyamasoka",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.29737,
+    -16.84114,
+    29.29737,
+    -16.84114
+],
+  "geometry": {"coordinates":[29.29737,-16.84114],"type":"Point"}
+}

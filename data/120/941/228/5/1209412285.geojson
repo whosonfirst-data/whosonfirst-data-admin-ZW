@@ -1,0 +1,61 @@
+{
+  "id": 1209412285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80105,-19.63053,31.80105,-19.63053",
+    "geom:latitude":-19.63053,
+    "geom:longitude":31.80105,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nemaparo",
+    "gn:country_code":"ZW",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507001,
+    "gn:latitude":-19.63053,
+    "gn:longitude":31.80105,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Nemaparo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507001
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"38a116bf45369da2ab696952bac03c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209412285
+        }
+    ],
+    "wof:id":1209412285,
+    "wof:lastmodified":1536287800,
+    "wof:name":"Nemaparo",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.80105,
+    -19.63053,
+    31.80105,
+    -19.63053
+],
+  "geometry": {"coordinates":[31.80105,-19.63053],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259498195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01056,-17.93444,31.01056,-17.93444",
+    "geom:latitude":-17.93444,
+    "geom:longitude":31.01056,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Derbyshire Township",
+    "gn:country_code":"ZW",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085516,
+    "gn:latitude":-17.93444,
+    "gn:longitude":31.01056,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Derbyshire Township",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Derbyshire Township"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681097,
+        421190261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085516
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"2d5556072739fb543a4413d61e8459db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":1259498195,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":1259498195,
+    "wof:lastmodified":1537716587,
+    "wof:name":"Derbyshire Township",
+    "wof:parent_id":421190261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01056,
+    -17.93444,
+    31.01056,
+    -17.93444
+],
+  "geometry": {"coordinates":[31.01056,-17.93444],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343857435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.34645,-16.71231,29.34645,-16.71231",
+    "geom:latitude":-16.71231,
+    "geom:longitude":29.34645,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gawa",
+    "gn:country_code":"ZW",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370756,
+    "gn:latitude":-16.71231,
+    "gn:longitude":29.34645,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370756
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"51aa4044c88a4bfc7f10feb0ee6edc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1343857435,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1343857435,
+    "wof:lastmodified":1537716591,
+    "wof:name":"Gawa",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.34645,
+    -16.71231,
+    29.34645,
+    -16.71231
+],
+  "geometry": {"coordinates":[29.34645,-16.71231],"type":"Point"}
+}

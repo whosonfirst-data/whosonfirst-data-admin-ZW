@@ -1,0 +1,61 @@
+{
+  "id": 1209538015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53549,-19.63482,31.53549,-19.63482",
+    "geom:latitude":-19.63482,
+    "geom:longitude":31.53549,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzivakwi",
+    "gn:country_code":"ZW",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507109,
+    "gn:latitude":-19.63482,
+    "gn:longitude":31.53549,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Dzivakwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507109
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"04a59b70cb61dfc711aa627103fd6b2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209538015
+        }
+    ],
+    "wof:id":1209538015,
+    "wof:lastmodified":1536284076,
+    "wof:name":"Dzivakwi",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.535490000000006,
+    -19.63482,
+    31.535490000000006,
+    -19.63482
+],
+  "geometry": {"coordinates":[31.53549000000001,-19.63482],"type":"Point"}
+}

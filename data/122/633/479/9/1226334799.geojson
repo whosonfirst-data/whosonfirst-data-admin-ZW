@@ -1,0 +1,67 @@
+{
+  "id": 1226334799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68249,-19.05056,27.68249,-19.05056",
+    "geom:latitude":-19.05056,
+    "geom:longitude":27.68249,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sibaba",
+    "gn:country_code":"ZW",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7464934,
+    "gn:latitude":-19.05056,
+    "gn:longitude":27.68249,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Sibaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        890452765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7464934
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"09b863ce73adbbfa539fa4b3f7f670ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890452765,
+            "locality_id":1226334799,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1226334799,
+    "wof:lastmodified":1536805127,
+    "wof:name":"Sibaba",
+    "wof:parent_id":890452765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68249,
+    -19.05056,
+    27.68249,
+    -19.05056
+],
+  "geometry": {"coordinates":[27.68249,-19.05056],"type":"Point"}
+}

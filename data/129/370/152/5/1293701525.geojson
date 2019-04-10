@@ -1,0 +1,70 @@
+{
+  "id": 1293701525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.98333,-17.48333,27.98333,-17.48333",
+    "geom:latitude":-17.48333,
+    "geom:longitude":27.98333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Matinka",
+    "gn:country_code":"ZW",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":886649,
+    "gn:latitude":-17.48333,
+    "gn:longitude":27.98333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Matinka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Matinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        890416495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":886649
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"8a9d707059357cf2f7e3f5cff5c3f70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416495,
+            "locality_id":1293701525,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1293701525,
+    "wof:lastmodified":1537716577,
+    "wof:name":"Matinka",
+    "wof:parent_id":890416495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98333,
+    -17.48333,
+    27.98333,
+    -17.48333
+],
+  "geometry": {"coordinates":[27.98333,-17.48333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360070761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71084,-19.98584,31.71084,-19.98584",
+    "geom:latitude":-19.98584,
+    "geom:longitude":31.71084,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nhidza",
+    "gn:country_code":"ZW",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507470,
+    "gn:latitude":-19.98584,
+    "gn:longitude":31.71084,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Nhidza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507470
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"8510869732ac4055af8f628a2a516e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1360070761,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1360070761,
+    "wof:lastmodified":1536966151,
+    "wof:name":"Nhidza",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71084,
+    -19.98584,
+    31.71084,
+    -19.98584
+],
+  "geometry": {"coordinates":[31.71084,-19.98584],"type":"Point"}
+}

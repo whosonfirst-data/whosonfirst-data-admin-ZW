@@ -1,0 +1,67 @@
+{
+  "id": 1293293271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.89,-17.54761,31.89,-17.54761",
+    "geom:latitude":-17.54761,
+    "geom:longitude":31.89,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chitowa",
+    "gn:country_code":"ZW",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300134,
+    "gn:latitude":-17.54761,
+    "gn:longitude":31.89,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Chitowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        890416459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300134
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f88340513f15cc6cfa4d89951aba024c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416459,
+            "locality_id":1293293271,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1293293271,
+    "wof:lastmodified":1537064172,
+    "wof:name":"Chitowa",
+    "wof:parent_id":890416459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.89,
+    -17.54761,
+    31.89,
+    -17.54761
+],
+  "geometry": {"coordinates":[31.89,-17.54761],"type":"Point"}
+}

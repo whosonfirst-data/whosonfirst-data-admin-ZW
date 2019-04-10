@@ -1,0 +1,70 @@
+{
+  "id": 1243357989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.13591,-21.83821,30.13591,-21.83821",
+    "geom:latitude":-21.83821,
+    "geom:longitude":30.13591,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Foromela",
+    "gn:country_code":"ZW",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7325145,
+    "gn:latitude":-21.83821,
+    "gn:longitude":30.13591,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Foromela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Foromela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890416501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7325145
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c371441b644ba2ac4327c3267ba3825d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416501,
+            "locality_id":1243357989,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1243357989,
+    "wof:lastmodified":1537716588,
+    "wof:name":"Foromela",
+    "wof:parent_id":890416501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.13591,
+    -21.83821,
+    30.13591,
+    -21.83821
+],
+  "geometry": {"coordinates":[30.13591,-21.83821],"type":"Point"}
+}

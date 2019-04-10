@@ -1,0 +1,67 @@
+{
+  "id": 1260375203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.63111,-20.12833,28.63111,-20.12833",
+    "geom:latitude":-20.12833,
+    "geom:longitude":28.63111,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Glengarry",
+    "gn:country_code":"ZW",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106015,
+    "gn:latitude":-20.12833,
+    "gn:longitude":28.63111,
+    "gn:modification_date":"2000-10-04",
+    "gn:name":"Glengarry",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681121,
+        421171051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106015
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"0c7c854810a919adb2eccde8813a332c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421171051,
+            "locality_id":1260375203,
+            "region_id":85681121
+        }
+    ],
+    "wof:id":1260375203,
+    "wof:lastmodified":1537082868,
+    "wof:name":"Glengarry",
+    "wof:parent_id":421171051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.63111,
+    -20.12833,
+    28.63111,
+    -20.12833
+],
+  "geometry": {"coordinates":[28.63111,-20.12833],"type":"Point"}
+}

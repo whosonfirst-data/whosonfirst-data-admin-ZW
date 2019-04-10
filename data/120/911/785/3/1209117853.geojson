@@ -1,0 +1,64 @@
+{
+  "id": 1209117853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56359,-16.92559,31.56359,-16.92559",
+    "geom:latitude":-16.92559,
+    "geom:longitude":31.56359,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Muserepu",
+    "gn:country_code":"ZW",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7351836,
+    "gn:latitude":-16.92559,
+    "gn:longitude":31.56359,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Muserepu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Muserepu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7351836
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"ce11cd5dfd1c81af461323da1dfbe10d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209117853
+        }
+    ],
+    "wof:id":1209117853,
+    "wof:lastmodified":1537716588,
+    "wof:name":"Muserepu",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56359,
+    -16.92559,
+    31.56359,
+    -16.92559
+],
+  "geometry": {"coordinates":[31.56359,-16.92559],"type":"Point"}
+}

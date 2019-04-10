@@ -1,0 +1,67 @@
+{
+  "id": 1293399821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41667,-19.85,27.41667,-19.85",
+    "geom:latitude":-19.85,
+    "geom:longitude":27.41667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mabalanas",
+    "gn:country_code":"ZW",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":888153,
+    "gn:latitude":-19.85,
+    "gn:longitude":27.41667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Mabalanas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890416489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":888153
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"5f7cb65f0cb7853f5f7f4fc132b7dbec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416489,
+            "locality_id":1293399821,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1293399821,
+    "wof:lastmodified":1536913738,
+    "wof:name":"Mabalanas",
+    "wof:parent_id":890416489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41667,
+    -19.85,
+    27.41667,
+    -19.85
+],
+  "geometry": {"coordinates":[27.41667,-19.85],"type":"Point"}
+}

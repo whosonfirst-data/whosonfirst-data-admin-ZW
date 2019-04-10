@@ -1,0 +1,67 @@
+{
+  "id": 1260197297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.95734,-19.49029,31.95734,-19.49029",
+    "geom:latitude":-19.49029,
+    "geom:longitude":31.95734,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Marambanyika",
+    "gn:country_code":"ZW",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7454318,
+    "gn:latitude":-19.49029,
+    "gn:longitude":31.95734,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Marambanyika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7454318
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"fd718b01cb846a5d124e7bb1a5d4aeda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1260197297,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1260197297,
+    "wof:lastmodified":1536827924,
+    "wof:name":"Marambanyika",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.95734,
+    -19.49029,
+    31.95734,
+    -19.49029
+],
+  "geometry": {"coordinates":[31.95734,-19.49029],"type":"Point"}
+}

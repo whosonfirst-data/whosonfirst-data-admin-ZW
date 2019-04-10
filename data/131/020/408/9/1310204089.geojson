@@ -1,0 +1,70 @@
+{
+  "id": 1310204089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.43317,-16.85617,29.43317,-16.85617",
+    "geom:latitude":-16.85617,
+    "geom:longitude":29.43317,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chitehere",
+    "gn:country_code":"ZW",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7371074,
+    "gn:latitude":-16.85617,
+    "gn:longitude":29.43317,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chitehere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chitehere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7371074
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"54521ada071cfec498327586887f33da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1310204089,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1310204089,
+    "wof:lastmodified":1537716592,
+    "wof:name":"Chitehere",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.43317,
+    -16.85617,
+    29.43317,
+    -16.85617
+],
+  "geometry": {"coordinates":[29.43317,-16.85617],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343756955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.73832,-19.81014,28.73832,-19.81014",
+    "geom:latitude":-19.81014,
+    "geom:longitude":28.73832,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Queens Mine",
+    "gn:country_code":"ZW",
+    "gn:dem":1318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":882739,
+    "gn:latitude":-19.81014,
+    "gn:longitude":28.73832,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Queens Mine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Queens Mine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        890416493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":882739,
+        "wk:page":"Queen%27s_Mine"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"105e65acd83df9be2a9a11d441e7bbc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416493,
+            "locality_id":1343756955,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1343756955,
+    "wof:lastmodified":1537716573,
+    "wof:name":"Queens Mine",
+    "wof:parent_id":890416493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.73832,
+    -19.81014,
+    28.73832,
+    -19.81014
+],
+  "geometry": {"coordinates":[28.73832,-19.81014],"type":"Point"}
+}

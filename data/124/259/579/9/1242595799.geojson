@@ -1,0 +1,67 @@
+{
+  "id": 1242595799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3,-20.23333,27.3,-20.23333",
+    "geom:latitude":-20.23333,
+    "geom:longitude":27.3,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Silisi",
+    "gn:country_code":"ZW",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":881037,
+    "gn:latitude":-20.23333,
+    "gn:longitude":27.3,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Silisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890416489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":881037
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"7e9127f26d72683606941cdd467baea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416489,
+            "locality_id":1242595799,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1242595799,
+    "wof:lastmodified":1537035869,
+    "wof:name":"Silisi",
+    "wof:parent_id":890416489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3,
+    -20.23333,
+    27.3,
+    -20.23333
+],
+  "geometry": {"coordinates":[27.3,-20.23333],"type":"Point"}
+}

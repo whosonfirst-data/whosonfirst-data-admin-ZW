@@ -1,0 +1,90 @@
+{
+  "id": 421191589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08167,-17.80806,31.08167,-17.80806",
+    "geom:latitude":-17.80806,
+    "geom:longitude":31.08167,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Newlands"
+    ],
+    "name:eng_x_preferred":[
+        "Newlands"
+    ],
+    "name:fra_x_preferred":[
+        "Newlands"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u044c\u044e\u043b\u0435\u043d\u0434\u0441"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":884428,
+    "qs:gn_pop":0,
+    "qs:name":"Newlands",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Harare",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":58945,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1467390,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":134,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        421190261,
+        85681097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":884428,
+        "gp:id":1467390,
+        "qs:id":58945
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009698,
+    "wof:geomhash":"226493e845a4c031286cada4d74ca33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":-1,
+            "neighbourhood_id":421191589,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":421191589,
+    "wof:lastmodified":1531858665,
+    "wof:name":"Newlands",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08167,
+    -17.80806,
+    31.08167,
+    -17.80806
+],
+  "geometry": {"coordinates":[31.08167,-17.80806],"type":"Point"}
+}

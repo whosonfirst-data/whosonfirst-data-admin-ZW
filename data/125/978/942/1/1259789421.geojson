@@ -1,0 +1,67 @@
+{
+  "id": 1259789421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.68768,-18.16361,31.68768,-18.16361",
+    "geom:latitude":-18.16361,
+    "geom:longitude":31.68768,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Theydon",
+    "gn:country_code":"ZW",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":880208,
+    "gn:latitude":-18.16361,
+    "gn:longitude":31.68768,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Theydon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        890445295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":880208
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"1ba9a061a5a34996be6ae0e9cc59371c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890445295,
+            "locality_id":1259789421,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1259789421,
+    "wof:lastmodified":1536915034,
+    "wof:name":"Theydon",
+    "wof:parent_id":890445295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.68768,
+    -18.16361,
+    31.68768,
+    -18.16361
+],
+  "geometry": {"coordinates":[31.68768,-18.16361],"type":"Point"}
+}

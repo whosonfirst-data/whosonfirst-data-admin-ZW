@@ -1,0 +1,67 @@
+{
+  "id": 1310124119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2,-18.31667,31.2,-18.31667",
+    "geom:latitude":-18.31667,
+    "geom:longitude":31.2,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mahusekwa Township",
+    "gn:country_code":"ZW",
+    "gn:dem":1478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":887853,
+    "gn:latitude":-18.31667,
+    "gn:longitude":31.2,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Mahusekwa Township",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        890445295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":887853
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d57d024713c5b2ca21a589bc4e612349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890445295,
+            "locality_id":1310124119,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1310124119,
+    "wof:lastmodified":1536969327,
+    "wof:name":"Mahusekwa Township",
+    "wof:parent_id":890445295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2,
+    -18.31667,
+    31.2,
+    -18.31667
+],
+  "geometry": {"coordinates":[31.2,-18.31667],"type":"Point"}
+}

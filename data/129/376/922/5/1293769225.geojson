@@ -1,0 +1,67 @@
+{
+  "id": 1293769225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.89683,-19.83638,31.89683,-19.83638",
+    "geom:latitude":-19.83638,
+    "geom:longitude":31.89683,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nyaiwa",
+    "gn:country_code":"ZW",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507405,
+    "gn:latitude":-19.83638,
+    "gn:longitude":31.89683,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Nyaiwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507405
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"6a98c7874548674a421beaeb74342549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1293769225,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1293769225,
+    "wof:lastmodified":1536877177,
+    "wof:name":"Nyaiwa",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.89683,
+    -19.83638,
+    31.89683,
+    -19.83638
+],
+  "geometry": {"coordinates":[31.89683,-19.83638],"type":"Point"}
+}

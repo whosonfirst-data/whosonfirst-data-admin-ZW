@@ -1,0 +1,67 @@
+{
+  "id": 1260188465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52314,-18.86159,31.52314,-18.86159",
+    "geom:latitude":-18.86159,
+    "geom:longitude":31.52314,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gwavava",
+    "gn:country_code":"ZW",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418017,
+    "gn:latitude":-18.86159,
+    "gn:longitude":31.52314,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Gwavava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418017
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d83b2991129f0ef3c3a118184b6c018d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784879,
+            "locality_id":1260188465,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1260188465,
+    "wof:lastmodified":1536840067,
+    "wof:name":"Gwavava",
+    "wof:parent_id":1108784879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52314,
+    -18.86159,
+    31.52314,
+    -18.86159
+],
+  "geometry": {"coordinates":[31.52314,-18.86159],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260170495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.16378,-20.93045,32.16378,-20.93045",
+    "geom:latitude":-20.93045,
+    "geom:longitude":32.16378,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Veneka Business Centre",
+    "gn:country_code":"ZW",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370846,
+    "gn:latitude":-20.93045,
+    "gn:longitude":32.16378,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Veneka Business Centre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Veneka Business Centre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890430547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370846
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c39dd8f410504f05b78c0018a123b8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890430547,
+            "locality_id":1260170495,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1260170495,
+    "wof:lastmodified":1537716591,
+    "wof:name":"Veneka Business Centre",
+    "wof:parent_id":890430547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.16378,
+    -20.93045,
+    32.16378,
+    -20.93045
+],
+  "geometry": {"coordinates":[32.16378,-20.93045],"type":"Point"}
+}

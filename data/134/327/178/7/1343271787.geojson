@@ -1,0 +1,71 @@
+{
+  "id": 1343271787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23333,-18.16667,31.23333,-18.16667",
+    "geom:latitude":-18.16667,
+    "geom:longitude":31.23333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ushewokunze",
+    "gn:country_code":"ZW",
+    "gn:dem":1477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":879527,
+    "gn:latitude":-18.16667,
+    "gn:longitude":31.23333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ushewokunze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ushehwokunze",
+        "Ushewokunze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        890445295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":879527
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"4f9453f1ff081619fae8c69a1226d973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890445295,
+            "locality_id":1343271787,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1343271787,
+    "wof:lastmodified":1537716570,
+    "wof:name":"Ushewokunze",
+    "wof:parent_id":890445295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23333,
+    -18.16667,
+    31.23333,
+    -18.16667
+],
+  "geometry": {"coordinates":[31.23333,-18.16667],"type":"Point"}
+}

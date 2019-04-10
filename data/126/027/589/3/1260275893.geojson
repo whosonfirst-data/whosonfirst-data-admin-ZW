@@ -1,0 +1,71 @@
+{
+  "id": 1260275893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68639,-19.69181,27.68639,-19.69181",
+    "geom:latitude":-19.69181,
+    "geom:longitude":27.68639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Somqibe",
+    "gn:country_code":"ZW",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":880815,
+    "gn:latitude":-19.69181,
+    "gn:longitude":27.68639,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Somqibe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Somquibe",
+        "Somqibe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":880815
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"3ec0298e068ddb5d86b2ace35cc9ca81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1260275893,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1260275893,
+    "wof:lastmodified":1537716571,
+    "wof:name":"Somqibe",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68639000000001,
+    -19.69181,
+    27.68639000000001,
+    -19.69181
+],
+  "geometry": {"coordinates":[27.68639000000001,-19.69181],"type":"Point"}
+}

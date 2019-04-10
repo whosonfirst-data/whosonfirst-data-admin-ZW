@@ -1,0 +1,67 @@
+{
+  "id": 1193151191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.00293,-19.39213,32.00293,-19.39213",
+    "geom:latitude":-19.39213,
+    "geom:longitude":32.00293,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mhereyenyoka",
+    "gn:country_code":"ZW",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453426,
+    "gn:latitude":-19.39213,
+    "gn:longitude":32.00293,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Mhereyenyoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453426
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"9e3a3059b581e2a5892b9f0ed6f20462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1193151191,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1193151191,
+    "wof:lastmodified":1536378043,
+    "wof:name":"Mhereyenyoka",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.00293,
+    -19.39213,
+    32.00293,
+    -19.39213
+],
+  "geometry": {"coordinates":[32.00293,-19.39213],"type":"Point"}
+}

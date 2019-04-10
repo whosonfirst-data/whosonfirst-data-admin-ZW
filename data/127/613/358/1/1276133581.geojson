@@ -1,0 +1,67 @@
+{
+  "id": 1276133581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.73333,-19.01667,29.73333,-19.01667",
+    "geom:latitude":-19.01667,
+    "geom:longitude":29.73333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Torwood",
+    "gn:country_code":"ZW",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":880059,
+    "gn:latitude":-19.01667,
+    "gn:longitude":29.73333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Torwood",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        1108784955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":880059
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"be7ed982053b784d1c532b0941c09944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784955,
+            "locality_id":1276133581,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1276133581,
+    "wof:lastmodified":1537044388,
+    "wof:name":"Torwood",
+    "wof:parent_id":1108784955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73333,
+    -19.01667,
+    29.73333,
+    -19.01667
+],
+  "geometry": {"coordinates":[29.73333,-19.01667],"type":"Point"}
+}

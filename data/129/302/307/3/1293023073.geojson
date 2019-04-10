@@ -1,0 +1,76 @@
+{
+  "id": 1293023073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72479,-21.41931,30.72479,-21.41931",
+    "geom:latitude":-21.41931,
+    "geom:longitude":30.72479,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mwenezi",
+    "gn:country_code":"ZW",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":884757,
+    "gn:latitude":-21.41931,
+    "gn:longitude":30.72479,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mwenezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mwenezi"
+    ],
+    "name:eng_x_variant":[
+        "Nuanetsi"
+    ],
+    "name:und_x_variant":[
+        "Nuanetsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890436773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":884757
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"4a5846904135702ea4d1035951e731b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890436773,
+            "locality_id":1293023073,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1293023073,
+    "wof:lastmodified":1537716575,
+    "wof:name":"Mwenezi",
+    "wof:parent_id":890436773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72479,
+    -21.41931,
+    30.72479,
+    -21.41931
+],
+  "geometry": {"coordinates":[30.72479,-21.41931],"type":"Point"}
+}

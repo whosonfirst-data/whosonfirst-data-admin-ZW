@@ -1,0 +1,67 @@
+{
+  "id": 1310707771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.57024,-18.87172,31.57024,-18.87172",
+    "geom:latitude":-18.87172,
+    "geom:longitude":31.57024,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chisangano School",
+    "gn:country_code":"ZW",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418013,
+    "gn:latitude":-18.87172,
+    "gn:longitude":31.57024,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Chisangano School",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418013
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b5ef3c3c2e0b13eb5bf379aad6edac31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784879,
+            "locality_id":1310707771,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1310707771,
+    "wof:lastmodified":1536623046,
+    "wof:name":"Chisangano School",
+    "wof:parent_id":1108784879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.57024,
+    -18.87172,
+    31.57024,
+    -18.87172
+],
+  "geometry": {"coordinates":[31.57024,-18.87172],"type":"Point"}
+}

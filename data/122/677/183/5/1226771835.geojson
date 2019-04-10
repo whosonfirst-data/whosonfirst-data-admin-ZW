@@ -1,0 +1,72 @@
+{
+  "id": 1226771835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1294,-19.39647,27.1294,-19.39647",
+    "geom:latitude":-19.39647,
+    "geom:longitude":27.1294,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Emafengwini",
+    "gn:country_code":"ZW",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":891784,
+    "gn:latitude":-19.39647,
+    "gn:longitude":27.1294,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Emafengwini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangweni",
+        "Emafengwini",
+        "Emangweni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":891784
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"6e9feb445f4f1d42468f681b88202b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1226771835,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1226771835,
+    "wof:lastmodified":1537716583,
+    "wof:name":"Emafengwini",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1294,
+    -19.39647,
+    27.1294,
+    -19.39647
+],
+  "geometry": {"coordinates":[27.1294,-19.39647],"type":"Point"}
+}

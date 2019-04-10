@@ -1,0 +1,70 @@
+{
+  "id": 1310525663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56278,-17.68694,31.56278,-17.68694",
+    "geom:latitude":-17.68694,
+    "geom:longitude":31.56278,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chemhondoro",
+    "gn:country_code":"ZW",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":894204,
+    "gn:latitude":-17.68694,
+    "gn:longitude":31.56278,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chemhondoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chemhondoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        890416459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":894204
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d4657a8f43d055740622e0c32defe2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416459,
+            "locality_id":1310525663,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1310525663,
+    "wof:lastmodified":1537716585,
+    "wof:name":"Chemhondoro",
+    "wof:parent_id":890416459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56278,
+    -17.68694,
+    31.56278,
+    -17.68694
+],
+  "geometry": {"coordinates":[31.56278,-17.68694],"type":"Point"}
+}

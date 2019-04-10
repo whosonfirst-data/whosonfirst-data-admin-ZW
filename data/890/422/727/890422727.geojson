@@ -1,0 +1,73 @@
+{
+  "id": 890422727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.36667,-19.78333,29.36667,-19.78333",
+    "geom:latitude":-19.78333,
+    "geom:longitude":29.36667,
+    "gn:country":"ZW",
+    "gn:fcode":"PPL",
+    "gn:pop":3835,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Shangani"
+    ],
+    "name:eng_x_preferred":[
+        "Shangani"
+    ],
+    "qs:name":"Shangani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":881331,
+        "gp:id":1467524,
+        "qs:id":1029294,
+        "wd:id":"Q18357548",
+        "wk:page":"Shangani"
+    },
+    "wof:country":"ZW",
+    "wof:created":1469051461,
+    "wof:geomhash":"3313e24f0219222f928f0d406aadb117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":890422727,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":890422727,
+    "wof:lastmodified":1527727165,
+    "wof:name":"Shangani",
+    "wof:parent_id":85681117,
+    "wof:placetype":"locality",
+    "wof:population":3835,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.36667,
+    -19.78333,
+    29.36667,
+    -19.78333
+],
+  "geometry": {"coordinates":[29.36667,-19.78333],"type":"Point"}
+}

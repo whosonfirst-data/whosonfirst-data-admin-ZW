@@ -1,0 +1,67 @@
+{
+  "id": 1310510993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76277,-19.29826,31.76277,-19.29826",
+    "geom:latitude":-19.29826,
+    "geom:longitude":31.76277,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Muguti",
+    "gn:country_code":"ZW",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453103,
+    "gn:latitude":-19.29826,
+    "gn:longitude":31.76277,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Muguti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453103
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f59af3ec21005abc8d198e5047f40685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1310510993,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1310510993,
+    "wof:lastmodified":1536909199,
+    "wof:name":"Muguti",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76277,
+    -19.29826,
+    31.76277,
+    -19.29826
+],
+  "geometry": {"coordinates":[31.76277,-19.29826],"type":"Point"}
+}

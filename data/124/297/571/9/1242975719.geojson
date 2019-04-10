@@ -1,0 +1,67 @@
+{
+  "id": 1242975719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57601,-18.43721,30.57601,-18.43721",
+    "geom:latitude":-18.43721,
+    "geom:longitude":30.57601,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mudzingwa",
+    "gn:country_code":"ZW",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405489,
+    "gn:latitude":-18.43721,
+    "gn:longitude":30.57601,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Mudzingwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405489
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"91b2627d39c409a0ef546483cf9c8cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416483,
+            "locality_id":1242975719,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1242975719,
+    "wof:lastmodified":1536986348,
+    "wof:name":"Mudzingwa",
+    "wof:parent_id":890416483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57601,
+    -18.43721,
+    30.57601,
+    -18.43721
+],
+  "geometry": {"coordinates":[30.57601,-18.43721],"type":"Point"}
+}

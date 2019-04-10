@@ -1,0 +1,67 @@
+{
+  "id": 1293019167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.91583,-17.83833,30.91583,-17.83833",
+    "geom:latitude":-17.83833,
+    "geom:longitude":30.91583,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Parkridge Estate",
+    "gn:country_code":"ZW",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085469,
+    "gn:latitude":-17.83833,
+    "gn:longitude":30.91583,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Parkridge Estate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681097,
+        421190261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085469
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"2822a444b82e91e5a2164fa3e918c624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":1293019167,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":1293019167,
+    "wof:lastmodified":1536965015,
+    "wof:name":"Parkridge Estate",
+    "wof:parent_id":421190261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.91583,
+    -17.83833,
+    30.91583,
+    -17.83833
+],
+  "geometry": {"coordinates":[30.91583,-17.83833],"type":"Point"}
+}

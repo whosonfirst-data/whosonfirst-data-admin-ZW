@@ -1,0 +1,74 @@
+{
+  "id": 1343662181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1633,-19.07239,31.1633,-19.07239",
+    "geom:latitude":-19.07239,
+    "geom:longitude":31.1633,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nharira",
+    "gn:country_code":"ZW",
+    "gn:dem":1433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":884638,
+    "gn:latitude":-19.07239,
+    "gn:longitude":31.1633,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nharira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nharira"
+    ],
+    "name:und_x_variant":[
+        "Narira",
+        "Nharira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":884638
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"e2db5128ad00d92543e9870c321ff497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784879,
+            "locality_id":1343662181,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1343662181,
+    "wof:lastmodified":1537716575,
+    "wof:name":"Nharira",
+    "wof:parent_id":1108784879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1633,
+    -19.07239,
+    31.1633,
+    -19.07239
+],
+  "geometry": {"coordinates":[31.1633,-19.07239],"type":"Point"}
+}

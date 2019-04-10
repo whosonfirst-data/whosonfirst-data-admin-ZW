@@ -1,0 +1,80 @@
+{
+  "id": 421169835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01667,-17.83056,31.01667,-17.83056",
+    "geom:latitude":-17.83056,
+    "geom:longitude":31.01667,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Belvedere South"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":895230,
+    "qs:gn_pop":0,
+    "qs:name":"Belvedere South",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Harare",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":267949,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1466819,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        421190261,
+        85681097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":895230,
+        "gp:id":1466819,
+        "qs:id":267949
+    },
+    "wof:country":"ZW",
+    "wof:created":1459008826,
+    "wof:geomhash":"afb54f5b427b0a711bdb8df9c9b424a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":-1,
+            "neighbourhood_id":421169835,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":421169835,
+    "wof:lastmodified":1531858336,
+    "wof:name":"Belvedere South",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01667,
+    -17.83056,
+    31.01667,
+    -17.83056
+],
+  "geometry": {"coordinates":[31.01667,-17.83056],"type":"Point"}
+}

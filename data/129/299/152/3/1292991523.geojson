@@ -1,0 +1,67 @@
+{
+  "id": 1292991523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66049,-19.97345,31.66049,-19.97345",
+    "geom:latitude":-19.97345,
+    "geom:longitude":31.66049,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Charamba",
+    "gn:country_code":"ZW",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304252,
+    "gn:latitude":-19.97345,
+    "gn:longitude":31.66049,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Charamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304252
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"0a8b67c85b3b5d53cf74d30f43d70210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1292991523,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1292991523,
+    "wof:lastmodified":1537004284,
+    "wof:name":"Charamba",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66049000000001,
+    -19.97345,
+    31.66049000000001,
+    -19.97345
+],
+  "geometry": {"coordinates":[31.66049000000001,-19.97345],"type":"Point"}
+}

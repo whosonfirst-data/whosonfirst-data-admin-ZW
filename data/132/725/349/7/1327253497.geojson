@@ -1,0 +1,67 @@
+{
+  "id": 1327253497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71592,-19.77364,31.71592,-19.77364",
+    "geom:latitude":-19.77364,
+    "geom:longitude":31.71592,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Murwiri",
+    "gn:country_code":"ZW",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507061,
+    "gn:latitude":-19.77364,
+    "gn:longitude":31.71592,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Murwiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507061
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"067a30b1dc3240f63f3b5df0dcc0432b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1327253497,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1327253497,
+    "wof:lastmodified":1536939870,
+    "wof:name":"Murwiri",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71592,
+    -19.77364,
+    31.71592,
+    -19.77364
+],
+  "geometry": {"coordinates":[31.71592,-19.77364],"type":"Point"}
+}

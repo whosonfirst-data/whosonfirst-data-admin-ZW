@@ -1,0 +1,67 @@
+{
+  "id": 1327149317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6,-20.16667,27.6,-20.16667",
+    "geom:latitude":-20.16667,
+    "geom:longitude":27.6,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Napemando",
+    "gn:country_code":"ZW",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":884643,
+    "gn:latitude":-20.16667,
+    "gn:longitude":27.6,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Napemando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890416489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":884643
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"dfcadd6ac387945da7b6cf6e5a6c79f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416489,
+            "locality_id":1327149317,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1327149317,
+    "wof:lastmodified":1537086277,
+    "wof:name":"Napemando",
+    "wof:parent_id":890416489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6,
+    -20.16667,
+    27.6,
+    -20.16667
+],
+  "geometry": {"coordinates":[27.6,-20.16667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360077755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.29502,-17.90029,27.29502,-17.90029",
+    "geom:latitude":-17.90029,
+    "geom:longitude":27.29502,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chief Siachilaba",
+    "gn:country_code":"ZW",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7374529,
+    "gn:latitude":-17.90029,
+    "gn:longitude":27.29502,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chief Siachilaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chief Siachilaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        890416495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7374529
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"10e5037a83bcec052b57dd8c25e69c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416495,
+            "locality_id":1360077755,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1360077755,
+    "wof:lastmodified":1537716594,
+    "wof:name":"Chief Siachilaba",
+    "wof:parent_id":890416495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.29502,
+    -17.90029,
+    27.29502,
+    -17.90029
+],
+  "geometry": {"coordinates":[27.29502,-17.90029],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209018875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1,-21.63333,32.1,-21.63333",
+    "geom:latitude":-21.63333,
+    "geom:longitude":32.1,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kapateni",
+    "gn:country_code":"ZW",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":889249,
+    "gn:latitude":-21.63333,
+    "gn:longitude":32.1,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Kapateni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":889249
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"5dbdb1b38769cb7de3cb8a81d85238fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209018875
+        }
+    ],
+    "wof:id":1209018875,
+    "wof:lastmodified":1536300208,
+    "wof:name":"Kapateni",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1,
+    -21.63333,
+    32.1,
+    -21.63333
+],
+  "geometry": {"coordinates":[32.1,-21.63333],"type":"Point"}
+}

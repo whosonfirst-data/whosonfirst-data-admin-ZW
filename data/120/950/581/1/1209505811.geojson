@@ -1,0 +1,61 @@
+{
+  "id": 1209505811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.75086,-19.97885,31.75086,-19.97885",
+    "geom:latitude":-19.97885,
+    "geom:longitude":31.75086,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nyangari",
+    "gn:country_code":"ZW",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507471,
+    "gn:latitude":-19.97885,
+    "gn:longitude":31.75086,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Nyangari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507471
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"9b7eb8508f52ada57be9d0d517839db7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209505811
+        }
+    ],
+    "wof:id":1209505811,
+    "wof:lastmodified":1536285039,
+    "wof:name":"Nyangari",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.75086,
+    -19.97885,
+    31.75086,
+    -19.97885
+],
+  "geometry": {"coordinates":[31.75086,-19.97885],"type":"Point"}
+}

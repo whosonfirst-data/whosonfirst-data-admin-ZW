@@ -1,0 +1,64 @@
+{
+  "id": 1209514385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.27505,-16.97285,29.27505,-16.97285",
+    "geom:latitude":-16.97285,
+    "geom:longitude":29.27505,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zinhu",
+    "gn:country_code":"ZW",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7371161,
+    "gn:latitude":-16.97285,
+    "gn:longitude":29.27505,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zinhu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zinhu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7371161
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d387b914b5ea26a469f1dfb57818e8d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209514385
+        }
+    ],
+    "wof:id":1209514385,
+    "wof:lastmodified":1537716593,
+    "wof:name":"Zinhu",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.27505,
+    -16.97285,
+    29.27505,
+    -16.97285
+],
+  "geometry": {"coordinates":[29.27505,-16.97285],"type":"Point"}
+}

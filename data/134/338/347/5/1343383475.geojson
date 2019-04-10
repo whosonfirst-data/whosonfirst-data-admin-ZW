@@ -1,0 +1,67 @@
+{
+  "id": 1343383475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.23762,-19.46069,27.23762,-19.46069",
+    "geom:latitude":-19.46069,
+    "geom:longitude":27.23762,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nengondzwana",
+    "gn:country_code":"ZW",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7522744,
+    "gn:latitude":-19.46069,
+    "gn:longitude":27.23762,
+    "gn:modification_date":"2010-09-04",
+    "gn:name":"Nengondzwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7522744
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"95ac985369330f343f700c170e1281b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1343383475,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1343383475,
+    "wof:lastmodified":1536856117,
+    "wof:name":"Nengondzwana",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.23762,
+    -19.46069,
+    27.23762,
+    -19.46069
+],
+  "geometry": {"coordinates":[27.23762,-19.46069],"type":"Point"}
+}

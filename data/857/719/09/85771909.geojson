@@ -1,0 +1,109 @@
+{
+  "id": 85771909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5899366.659081,
+    "geom:bbox":"28.598411,-20.16238,28.598411,-20.16238",
+    "geom:latitude":-20.16238,
+    "geom:longitude":28.598411,
+    "gn:latitude":-20.15,
+    "gn:longitude":28.61667,
+    "iso:country":"ZW",
+    "lbl:latitude":-20.16238,
+    "lbl:longitude":28.598411,
+    "mps:latitude":-20.157479,
+    "mps:longitude":28.599967,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kumalo"
+    ],
+    "name:unk_x_variant":[
+        "Kumalo"
+    ],
+    "qs:gn_adm0_cc":"ZW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":894701,
+    "qs:gn_nam_loc":"Bulawayo, Bulawayo, Bulawayo, ZW",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Kumalo",
+    "qs:local_max":197,
+    "qs:local_sum":241,
+    "qs:localhoods":2,
+    "qs:name":"Kumalo",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Bulawayo",
+    "qs:name_adm2":"Bulawayo",
+    "qs:name_local":"Bulawayo",
+    "qs:photo_max":25,
+    "qs:photo_sum":44,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23425004,
+    "qs:woe_adm1":24550730,
+    "qs:woe_adm2":56048528,
+    "qs:woe_lau":0,
+    "qs:woe_local":1466847,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        421171051,
+        85681121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":888769,
+        "gp:id":1467134,
+        "qs:id":266875,
+        "qs_pg:id":266875
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"79b14bc76a29970daa51e8a188e7aa07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421171051,
+            "locality_id":-1,
+            "neighbourhood_id":85771909,
+            "region_id":85681121
+        }
+    ],
+    "wof:id":85771909,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859484,
+    "wof:name":"Kumalo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.598411,
+    -20.16238,
+    28.598411,
+    -20.16238
+],
+  "geometry": {"coordinates":[28.598411,-20.16238],"type":"Point"}
+}

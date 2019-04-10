@@ -1,0 +1,67 @@
+{
+  "id": 1242592147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7,-16.91667,30.7,-16.91667",
+    "geom:latitude":-16.91667,
+    "geom:longitude":30.7,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Disi",
+    "gn:country_code":"ZW",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":892325,
+    "gn:latitude":-16.91667,
+    "gn:longitude":30.7,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Disi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681093,
+        890416479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":892325
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"5a73fd837d5a173abd00a2b990fd8514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416479,
+            "locality_id":1242592147,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":1242592147,
+    "wof:lastmodified":1537040886,
+    "wof:name":"Disi",
+    "wof:parent_id":890416479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7,
+    -16.91667,
+    30.7,
+    -16.91667
+],
+  "geometry": {"coordinates":[30.7,-16.91667],"type":"Point"}
+}

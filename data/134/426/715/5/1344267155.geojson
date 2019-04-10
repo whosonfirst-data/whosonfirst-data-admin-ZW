@@ -1,0 +1,72 @@
+{
+  "id": 1344267155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73333,-20.43333,30.73333,-20.43333",
+    "geom:latitude":-20.43333,
+    "geom:longitude":30.73333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ngomahuru",
+    "gn:cc2":"ZW",
+    "gn:country_code":"ZW",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":884360,
+    "gn:latitude":-20.43333,
+    "gn:longitude":30.73333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ngomahuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngomahura Leper Settlement",
+        "Ngomahuru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        1108784917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":884360
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d37193932a276d2c9290739541fa3637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784917,
+            "locality_id":1344267155,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1344267155,
+    "wof:lastmodified":1537716574,
+    "wof:name":"Ngomahuru",
+    "wof:parent_id":1108784917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73333,
+    -20.43333,
+    30.73333,
+    -20.43333
+],
+  "geometry": {"coordinates":[30.73333,-20.43333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343784179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.65449,-19.69844,27.65449,-19.69844",
+    "geom:latitude":-19.69844,
+    "geom:longitude":27.65449,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mazabisa",
+    "gn:country_code":"ZW",
+    "gn:dem":1065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":886427,
+    "gn:latitude":-19.69844,
+    "gn:longitude":27.65449,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mazabisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazabiza",
+        "Mazabisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":886427
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"a1dd1c6d5c76d3229bb1f3878ffa78fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1343784179,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1343784179,
+    "wof:lastmodified":1537716577,
+    "wof:name":"Mazabisa",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.65449000000001,
+    -19.69844,
+    27.65449000000001,
+    -19.69844
+],
+  "geometry": {"coordinates":[27.65449000000001,-19.69844],"type":"Point"}
+}

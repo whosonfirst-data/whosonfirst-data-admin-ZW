@@ -1,0 +1,67 @@
+{
+  "id": 1243192335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.77707,-19.65833,31.77707,-19.65833",
+    "geom:latitude":-19.65833,
+    "geom:longitude":31.77707,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chavunda",
+    "gn:country_code":"ZW",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507004,
+    "gn:latitude":-19.65833,
+    "gn:longitude":31.77707,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Chavunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507004
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b95c8ea0fa49cda6f2ae9dcea7f6c454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1243192335,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1243192335,
+    "wof:lastmodified":1536674893,
+    "wof:name":"Chavunda",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.77707,
+    -19.65833,
+    31.77707,
+    -19.65833
+],
+  "geometry": {"coordinates":[31.77707,-19.65833],"type":"Point"}
+}

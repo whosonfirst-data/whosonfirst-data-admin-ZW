@@ -1,0 +1,67 @@
+{
+  "id": 1326948293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.41667,-20.68333,28.41667,-20.68333",
+    "geom:latitude":-20.68333,
+    "geom:longitude":28.41667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Halale",
+    "gn:country_code":"ZW",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":890367,
+    "gn:latitude":-20.68333,
+    "gn:longitude":28.41667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Halale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890452761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":890367
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"81bf09954929ca80da17a393cec9f790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890452761,
+            "locality_id":1326948293,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1326948293,
+    "wof:lastmodified":1536880983,
+    "wof:name":"Halale",
+    "wof:parent_id":890452761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.41667,
+    -20.68333,
+    28.41667,
+    -20.68333
+],
+  "geometry": {"coordinates":[28.41667,-20.68333],"type":"Point"}
+}

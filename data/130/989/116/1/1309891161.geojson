@@ -1,0 +1,67 @@
+{
+  "id": 1309891161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71004,-19.69184,31.71004,-19.69184",
+    "geom:latitude":-19.69184,
+    "geom:longitude":31.71004,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sonono",
+    "gn:country_code":"ZW",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507027,
+    "gn:latitude":-19.69184,
+    "gn:longitude":31.71004,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Sonono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507027
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"1d8d9c682c7c72fb7e81461b5dacb0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1309891161,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1309891161,
+    "wof:lastmodified":1536807810,
+    "wof:name":"Sonono",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71004000000001,
+    -19.69184,
+    31.71004000000001,
+    -19.69184
+],
+  "geometry": {"coordinates":[31.71004000000001,-19.69184],"type":"Point"}
+}

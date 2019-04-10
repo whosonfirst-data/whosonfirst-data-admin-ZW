@@ -1,0 +1,67 @@
+{
+  "id": 1276877603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46945,-18.24377,30.46945,-18.24377",
+    "geom:latitude":-18.24377,
+    "geom:longitude":30.46945,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mugaba",
+    "gn:country_code":"ZW",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405323,
+    "gn:latitude":-18.24377,
+    "gn:longitude":30.46945,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Mugaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405323
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c074ab7fc226dd518e08e2cb50283074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416483,
+            "locality_id":1276877603,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1276877603,
+    "wof:lastmodified":1537042365,
+    "wof:name":"Mugaba",
+    "wof:parent_id":890416483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46945,
+    -18.24377,
+    30.46945,
+    -18.24377
+],
+  "geometry": {"coordinates":[30.46945,-18.24377],"type":"Point"}
+}

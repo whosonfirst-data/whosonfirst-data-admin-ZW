@@ -1,0 +1,84 @@
+{
+  "id": 421185113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01639,-17.8375,31.01639,-17.8375",
+    "geom:latitude":-17.8375,
+    "geom:longitude":31.01639,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Ridgeview"
+    ],
+    "name:eng_x_preferred":[
+        "Ridgeview"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":882482,
+    "qs:gn_pop":0,
+    "qs:name":"Ridgeview",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Harare",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1018263,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1467479,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":129,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        421190261,
+        85681097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":882482,
+        "gp:id":1467479,
+        "qs:id":1018263
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009433,
+    "wof:geomhash":"087d3476c98e0fb89a4f67230818d1ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":-1,
+            "neighbourhood_id":421185113,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":421185113,
+    "wof:lastmodified":1531858565,
+    "wof:name":"Ridgeview",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01639,
+    -17.8375,
+    31.01639,
+    -17.8375
+],
+  "geometry": {"coordinates":[31.01639,-17.8375],"type":"Point"}
+}

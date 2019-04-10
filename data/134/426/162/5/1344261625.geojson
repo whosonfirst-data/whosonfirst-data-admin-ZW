@@ -1,0 +1,70 @@
+{
+  "id": 1344261625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.38193,-16.76379,29.38193,-16.76379",
+    "geom:latitude":-16.76379,
+    "geom:longitude":29.38193,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Magumbura",
+    "gn:country_code":"ZW",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370750,
+    "gn:latitude":-16.76379,
+    "gn:longitude":29.38193,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Magumbura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magumbura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370750
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"84c45204a8b4f7d8c6dcf3edec495293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1344261625,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1344261625,
+    "wof:lastmodified":1537716591,
+    "wof:name":"Magumbura",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.38193,
+    -16.76379,
+    29.38193,
+    -16.76379
+],
+  "geometry": {"coordinates":[29.38193,-16.76379],"type":"Point"}
+}

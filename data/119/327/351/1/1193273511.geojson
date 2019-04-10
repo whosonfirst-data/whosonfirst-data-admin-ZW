@@ -1,0 +1,70 @@
+{
+  "id": 1193273511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.58686,-19.25684,27.58686,-19.25684",
+    "geom:latitude":-19.25684,
+    "geom:longitude":27.58686,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tshayakuhle",
+    "gn:country_code":"ZW",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":880126,
+    "gn:latitude":-19.25684,
+    "gn:longitude":27.58686,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tshayakuhle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tjagacuhle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":880126
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f6e6c26d61a0f28384d8f82894fd5e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1193273511,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1193273511,
+    "wof:lastmodified":1537716571,
+    "wof:name":"Tshayakuhle",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.58686,
+    -19.25684,
+    27.58686,
+    -19.25684
+],
+  "geometry": {"coordinates":[27.58686,-19.25684],"type":"Point"}
+}

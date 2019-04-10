@@ -1,0 +1,61 @@
+{
+  "id": 1209505859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52484,-19.45375,31.52484,-19.45375",
+    "geom:latitude":-19.45375,
+    "geom:longitude":31.52484,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chikutuva",
+    "gn:country_code":"ZW",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453521,
+    "gn:latitude":-19.45375,
+    "gn:longitude":31.52484,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Chikutuva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453521
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"4b488542a27a4f8c1d54dc94ed052601",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209505859
+        }
+    ],
+    "wof:id":1209505859,
+    "wof:lastmodified":1536285038,
+    "wof:name":"Chikutuva",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52484,
+    -19.45375,
+    31.52484,
+    -19.45375
+],
+  "geometry": {"coordinates":[31.52484,-19.45375],"type":"Point"}
+}

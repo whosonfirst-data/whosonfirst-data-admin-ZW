@@ -1,0 +1,127 @@
+{
+  "id": 421196819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8473,-18.25283,30.8473,-18.25283",
+    "geom:latitude":-18.25283,
+    "geom:longitude":30.8473,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Beatrice"
+    ],
+    "name:deu_x_preferred":[
+        "Beatriz"
+    ],
+    "name:dut_x_preferred":[
+        "Beatrice"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b5\u03b1\u03c4\u03c1\u03af\u03ba\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Beatrice"
+    ],
+    "name:est_x_preferred":[
+        "Beatrice"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00e9atrice"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d0\u05d8\u05e8\u05d9\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Beatrice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30a2\u30c8\u30ea\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Beatrice"
+    ],
+    "name:pol_x_preferred":[
+        "Beatrice"
+    ],
+    "name:por_x_preferred":[
+        "Beatrice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0430\u0442\u0440\u0438\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Beatrice"
+    ],
+    "name:vol_x_preferred":[
+        "Beatrice"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":895308,
+    "qs:gn_pop":1647,
+    "qs:name":"Beatrice",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Mashonaland East",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1299035,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1466813,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":367,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":895308,
+        "gp:id":1466813,
+        "qs:id":1299035,
+        "wd:id":"Q4877110"
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009894,
+    "wof:geomhash":"fe7eeb473d8c3b57d6d6d5033226133a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":421196819,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":421196819,
+    "wof:lastmodified":1527716362,
+    "wof:name":"Beatrice",
+    "wof:parent_id":85681109,
+    "wof:placetype":"locality",
+    "wof:population":1647,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8473,
+    -18.25283,
+    30.8473,
+    -18.25283
+],
+  "geometry": {"coordinates":[30.8473,-18.25283],"type":"Point"}
+}

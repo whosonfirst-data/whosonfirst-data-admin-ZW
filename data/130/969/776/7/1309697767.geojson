@@ -1,0 +1,67 @@
+{
+  "id": 1309697767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.73847,-19.8575,31.73847,-19.8575",
+    "geom:latitude":-19.8575,
+    "geom:longitude":31.73847,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Busvumani",
+    "gn:country_code":"ZW",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507311,
+    "gn:latitude":-19.8575,
+    "gn:longitude":31.73847,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Busvumani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507311
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"f2b6ed7c23414cb6299d5c1f823667d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1309697767,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1309697767,
+    "wof:lastmodified":1537083747,
+    "wof:name":"Busvumani",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.73847,
+    -19.8575,
+    31.73847,
+    -19.8575
+],
+  "geometry": {"coordinates":[31.73847,-19.8575],"type":"Point"}
+}

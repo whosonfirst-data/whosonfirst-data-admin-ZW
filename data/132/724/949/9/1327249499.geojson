@@ -1,0 +1,72 @@
+{
+  "id": 1327249499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6,-19.38333,29.6,-19.38333",
+    "geom:latitude":-19.38333,
+    "geom:longitude":29.6,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nsukumini",
+    "gn:cc2":"ZW",
+    "gn:country_code":"ZW",
+    "gn:dem":1309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":884116,
+    "gn:latitude":-19.38333,
+    "gn:longitude":29.6,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Nsukumini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Insukamini",
+        "Nsukumini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        890416473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":884116
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"3dfe030669231de2976885f2a9c5b3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416473,
+            "locality_id":1327249499,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1327249499,
+    "wof:lastmodified":1537716574,
+    "wof:name":"Nsukumini",
+    "wof:parent_id":890416473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6,
+    -19.38333,
+    29.6,
+    -19.38333
+],
+  "geometry": {"coordinates":[29.6,-19.38333],"type":"Point"}
+}

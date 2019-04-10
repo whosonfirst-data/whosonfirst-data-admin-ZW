@@ -1,0 +1,98 @@
+{
+  "id": 421196827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.16796,-18.70587,32.16796,-18.70587",
+    "geom:latitude":-18.70587,
+    "geom:longitude":32.16796,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Nyazura"
+    ],
+    "name:dut_x_preferred":[
+        "Nyazura"
+    ],
+    "name:eng_x_preferred":[
+        "Nyazura"
+    ],
+    "name:ger_x_preferred":[
+        "Nyazura"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30e3\u30ba\u30e9"
+    ],
+    "name:unk_x_variant":[
+        "Inyazura"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":883258,
+    "qs:gn_pop":2110,
+    "qs:name":"Nyazura",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Manicaland",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1299063,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1467439,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":231,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":883258,
+        "gp:id":1467439,
+        "qs:id":1299063,
+        "wd:id":"Q1664602",
+        "wk:page":"Nyazura"
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009894,
+    "wof:geomhash":"4d94593c291a312b38cf745e883893e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":421196827,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":421196827,
+    "wof:lastmodified":1527716361,
+    "wof:name":"Nyazura",
+    "wof:parent_id":85681113,
+    "wof:placetype":"locality",
+    "wof:population":2110,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.16796,
+    -18.70587,
+    32.16796,
+    -18.70587
+],
+  "geometry": {"coordinates":[32.16796,-18.70587],"type":"Point"}
+}

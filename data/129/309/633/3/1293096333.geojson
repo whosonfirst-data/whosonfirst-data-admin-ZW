@@ -1,0 +1,70 @@
+{
+  "id": 1293096333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.82056,-19.99326,28.82056,-19.99326",
+    "geom:latitude":-19.99326,
+    "geom:longitude":28.82056,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kayisa",
+    "gn:country_code":"ZW",
+    "gn:dem":1397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7322253,
+    "gn:latitude":-19.99326,
+    "gn:longitude":28.82056,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kayisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kayisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7322253
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"b3b6b456be9a6ae1fe6d726bc9d121e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784929,
+            "locality_id":1293096333,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1293096333,
+    "wof:lastmodified":1537716587,
+    "wof:name":"Kayisa",
+    "wof:parent_id":1108784929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.82056,
+    -19.99326,
+    28.82056,
+    -19.99326
+],
+  "geometry": {"coordinates":[28.82056,-19.99326],"type":"Point"}
+}

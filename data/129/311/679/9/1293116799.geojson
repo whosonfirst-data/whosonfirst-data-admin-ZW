@@ -1,0 +1,68 @@
+{
+  "id": 1293116799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.03333,-17.26667,30.03333,-17.26667",
+    "geom:latitude":-17.26667,
+    "geom:longitude":30.03333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lions Den",
+    "gn:country_code":"ZW",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":888461,
+    "gn:latitude":-17.26667,
+    "gn:longitude":30.03333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Lions Den",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890422337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":888461,
+        "wk:page":"Lion%27s_Den%2C_Zimbabwe"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"a22ee784883034a9902f16a400c5bbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890422337,
+            "locality_id":1293116799,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1293116799,
+    "wof:lastmodified":1537576396,
+    "wof:name":"Lions Den",
+    "wof:parent_id":890422337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.03333,
+    -17.26667,
+    30.03333,
+    -17.26667
+],
+  "geometry": {"coordinates":[30.03333,-17.26667],"type":"Point"}
+}

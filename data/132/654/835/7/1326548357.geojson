@@ -1,0 +1,72 @@
+{
+  "id": 1326548357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1,-18.03333,31.1,-18.03333",
+    "geom:latitude":-18.03333,
+    "geom:longitude":31.1,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Seki African Township",
+    "gn:cc2":"ZW",
+    "gn:country_code":"ZW",
+    "gn:dem":1435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":881520,
+    "gn:latitude":-18.03333,
+    "gn:longitude":31.1,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Seki African Township",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seki Township",
+        "Seki African Township"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681097,
+        1108784863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":881520
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"0beb55a6f9b6c6f37d2c65e7f20feeed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784863,
+            "locality_id":1326548357,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":1326548357,
+    "wof:lastmodified":1537716572,
+    "wof:name":"Seki African Township",
+    "wof:parent_id":1108784863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1,
+    -18.03333,
+    31.1,
+    -18.03333
+],
+  "geometry": {"coordinates":[31.1,-18.03333],"type":"Point"}
+}

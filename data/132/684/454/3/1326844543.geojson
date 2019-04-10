@@ -1,0 +1,68 @@
+{
+  "id": 1326844543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6431,-18.98575,32.6431,-18.98575",
+    "geom:latitude":-18.98575,
+    "geom:longitude":32.6431,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sakubva",
+    "gn:country_code":"ZW",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":881758,
+    "gn:latitude":-18.98575,
+    "gn:longitude":32.6431,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Sakubva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        1108784869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":881758,
+        "wk:page":"Sakubva"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d5617d6d9bd146b0bd25eedb49fafe14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784869,
+            "locality_id":1326844543,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1326844543,
+    "wof:lastmodified":1537576394,
+    "wof:name":"Sakubva",
+    "wof:parent_id":1108784869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6431,
+    -18.98575,
+    32.6431,
+    -18.98575
+],
+  "geometry": {"coordinates":[32.6431,-18.98575],"type":"Point"}
+}

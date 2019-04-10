@@ -1,0 +1,67 @@
+{
+  "id": 1259789689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51655,-18.79471,31.51655,-18.79471",
+    "geom:latitude":-18.79471,
+    "geom:longitude":31.51655,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Makuvaza",
+    "gn:country_code":"ZW",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7417987,
+    "gn:latitude":-18.79471,
+    "gn:longitude":31.51655,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Makuvaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417987
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"77f7add5c1cdf04f136f6deaf9dee49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784879,
+            "locality_id":1259789689,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1259789689,
+    "wof:lastmodified":1536914639,
+    "wof:name":"Makuvaza",
+    "wof:parent_id":1108784879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51655,
+    -18.79471,
+    31.51655,
+    -18.79471
+],
+  "geometry": {"coordinates":[31.51655,-18.79471],"type":"Point"}
+}

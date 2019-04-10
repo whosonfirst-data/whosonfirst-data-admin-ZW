@@ -1,0 +1,79 @@
+{
+  "id": 890431457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.89246,-18.06294,29.89246,-18.06294",
+    "geom:latitude":-18.06294,
+    "geom:longitude":29.89246,
+    "gn:country":"ZW",
+    "gn:fcode":"PPL",
+    "gn:pop":6472,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Chakari"
+    ],
+    "name:eng_x_preferred":[
+        "Chakari"
+    ],
+    "name:sna_x_preferred":[
+        "Chakari"
+    ],
+    "name:unk_x_variant":[
+        "Shagari"
+    ],
+    "qs:name":"Chakari",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":11,
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":894413,
+        "gp:id":1466861,
+        "qs:id":129891,
+        "wd:id":"Q5068296",
+        "wk:page":"Chakari"
+    },
+    "wof:country":"ZW",
+    "wof:created":1469051892,
+    "wof:geomhash":"4a4519fd58e694bc1510f9046acd27b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":890431457,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":890431457,
+    "wof:lastmodified":1527735417,
+    "wof:name":"Chakari",
+    "wof:parent_id":85681131,
+    "wof:placetype":"locality",
+    "wof:population":6472,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.89246,
+    -18.06294,
+    29.89246,
+    -18.06294
+],
+  "geometry": {"coordinates":[29.89246,-18.06294],"type":"Point"}
+}

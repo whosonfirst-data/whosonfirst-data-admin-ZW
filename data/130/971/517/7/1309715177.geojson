@@ -1,0 +1,68 @@
+{
+  "id": 1309715177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.34072,-18.67696,29.34072,-18.67696",
+    "geom:latitude":-18.67696,
+    "geom:longitude":29.34072,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zhombe",
+    "gn:country_code":"ZW",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11468509,
+    "gn:latitude":-18.67696,
+    "gn:longitude":29.34072,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Zhombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        890452767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11468509,
+        "wk:page":"Zhombe"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"7d85cf9409750d3199c824c89ee7542a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890452767,
+            "locality_id":1309715177,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1309715177,
+    "wof:lastmodified":1537576401,
+    "wof:name":"Zhombe",
+    "wof:parent_id":890452767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.34072,
+    -18.67696,
+    29.34072,
+    -18.67696
+],
+  "geometry": {"coordinates":[29.34072,-18.67696],"type":"Point"}
+}

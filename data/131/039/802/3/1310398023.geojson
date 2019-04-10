@@ -1,0 +1,67 @@
+{
+  "id": 1310398023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.71842,-19.23986,27.71842,-19.23986",
+    "geom:latitude":-19.23986,
+    "geom:longitude":27.71842,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sipongweni",
+    "gn:country_code":"ZW",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":880943,
+    "gn:latitude":-19.23986,
+    "gn:longitude":27.71842,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sipongweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":880943
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"616098b7c037fd52f088b1e7b16e736b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1310398023,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1310398023,
+    "wof:lastmodified":1537069054,
+    "wof:name":"Sipongweni",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.71842,
+    -19.23986,
+    27.71842,
+    -19.23986
+],
+  "geometry": {"coordinates":[27.71842,-19.23986],"type":"Point"}
+}

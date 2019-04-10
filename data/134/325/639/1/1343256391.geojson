@@ -1,0 +1,67 @@
+{
+  "id": 1343256391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.27488,-20.96723,28.27488,-20.96723",
+    "geom:latitude":-20.96723,
+    "geom:longitude":28.27488,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Semukwe",
+    "gn:country_code":"ZW",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7523859,
+    "gn:latitude":-20.96723,
+    "gn:longitude":28.27488,
+    "gn:modification_date":"2010-09-04",
+    "gn:name":"Semukwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890452761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523859
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"8c862e613ba5a51807a07125377dd121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890452761,
+            "locality_id":1343256391,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1343256391,
+    "wof:lastmodified":1537039121,
+    "wof:name":"Semukwe",
+    "wof:parent_id":890452761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.27488,
+    -20.96723,
+    28.27488,
+    -20.96723
+],
+  "geometry": {"coordinates":[28.27488,-20.96723],"type":"Point"}
+}

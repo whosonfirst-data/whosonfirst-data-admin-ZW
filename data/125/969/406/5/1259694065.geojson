@@ -1,0 +1,70 @@
+{
+  "id": 1259694065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.96667,-16.7,31.96667,-16.7",
+    "geom:latitude":-16.7,
+    "geom:longitude":31.96667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kudjwara",
+    "gn:country_code":"ZW",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":888789,
+    "gn:latitude":-16.7,
+    "gn:longitude":31.96667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Kudjwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kudjwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681093,
+        1108784877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":888789
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"8ea887662c7fe51a13c53ac880441da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784877,
+            "locality_id":1259694065,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":1259694065,
+    "wof:lastmodified":1537716580,
+    "wof:name":"Kudjwara",
+    "wof:parent_id":1108784877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.96667,
+    -16.7,
+    31.96667,
+    -16.7
+],
+  "geometry": {"coordinates":[31.96667,-16.7],"type":"Point"}
+}

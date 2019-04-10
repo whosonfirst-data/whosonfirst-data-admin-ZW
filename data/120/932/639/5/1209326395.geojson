@@ -1,0 +1,64 @@
+{
+  "id": 1209326395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5162,-16.88229,31.5162,-16.88229",
+    "geom:latitude":-16.88229,
+    "geom:longitude":31.5162,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mukunga",
+    "gn:country_code":"ZW",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7351827,
+    "gn:latitude":-16.88229,
+    "gn:longitude":31.5162,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mukunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mukunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7351827
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"dc476284ee94cbcd5a2dc54d9c040233",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209326395
+        }
+    ],
+    "wof:id":1209326395,
+    "wof:lastmodified":1537716588,
+    "wof:name":"Mukunga",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5162,
+    -16.88229,
+    31.5162,
+    -16.88229
+],
+  "geometry": {"coordinates":[31.5162,-16.88229],"type":"Point"}
+}

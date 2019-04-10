@@ -1,0 +1,61 @@
+{
+  "id": 1209232715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.76667,-20.21667,27.76667,-20.21667",
+    "geom:latitude":-20.21667,
+    "geom:longitude":27.76667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kandana",
+    "gn:country_code":"ZW",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":889332,
+    "gn:latitude":-20.21667,
+    "gn:longitude":27.76667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Kandana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":889332
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"8b8dd985ba44eb7e9b6ad1f5acc78a91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209232715
+        }
+    ],
+    "wof:id":1209232715,
+    "wof:lastmodified":1536293587,
+    "wof:name":"Kandana",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.76667,
+    -20.21667,
+    27.76667,
+    -20.21667
+],
+  "geometry": {"coordinates":[27.76667,-20.21667],"type":"Point"}
+}

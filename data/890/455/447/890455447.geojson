@@ -1,0 +1,64 @@
+{
+  "id": 890455447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48586,-17.49608,30.48586,-17.49608",
+    "geom:latitude":-17.49608,
+    "geom:longitude":30.48586,
+    "gn:country":"ZW",
+    "gn:fcode":"FRMS",
+    "gn:pop":600,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Blencathra Farm",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6955675,
+        "gp:id":1467587,
+        "qs:id":105866
+    },
+    "wof:country":"ZW",
+    "wof:created":1469052952,
+    "wof:geomhash":"e767601dc28b300d61fd9c40bea8110c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":890455447,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":890455447,
+    "wof:lastmodified":1505343664,
+    "wof:name":"Blencathra Farm",
+    "wof:parent_id":85681131,
+    "wof:placetype":"locality",
+    "wof:population":600,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48586,
+    -17.49608,
+    30.48586,
+    -17.49608
+],
+  "geometry": {"coordinates":[30.48586,-17.49608],"type":"Point"}
+}

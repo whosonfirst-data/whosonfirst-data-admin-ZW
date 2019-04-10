@@ -1,0 +1,67 @@
+{
+  "id": 1326815803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.64683,-19.50776,31.64683,-19.50776",
+    "geom:latitude":-19.50776,
+    "geom:longitude":31.64683,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tizeyi",
+    "gn:country_code":"ZW",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453773,
+    "gn:latitude":-19.50776,
+    "gn:longitude":31.64683,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Tizeyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453773
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c63fb78b571731bc740718c82ee5ae2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1326815803,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1326815803,
+    "wof:lastmodified":1537069473,
+    "wof:name":"Tizeyi",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.64683,
+    -19.50776,
+    31.64683,
+    -19.50776
+],
+  "geometry": {"coordinates":[31.64683,-19.50776],"type":"Point"}
+}

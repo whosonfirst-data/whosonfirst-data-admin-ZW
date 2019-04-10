@@ -1,0 +1,67 @@
+{
+  "id": 1260070895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.96338,-19.88673,31.96338,-19.88673",
+    "geom:latitude":-19.88673,
+    "geom:longitude":31.96338,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzinokuvara",
+    "gn:country_code":"ZW",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507449,
+    "gn:latitude":-19.88673,
+    "gn:longitude":31.96338,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Dzinokuvara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507449
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"7e9a2b0e1cea88e8f11d807b81433c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1260070895,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1260070895,
+    "wof:lastmodified":1537005466,
+    "wof:name":"Dzinokuvara",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.96338,
+    -19.88673,
+    31.96338,
+    -19.88673
+],
+  "geometry": {"coordinates":[31.96338,-19.88673],"type":"Point"}
+}

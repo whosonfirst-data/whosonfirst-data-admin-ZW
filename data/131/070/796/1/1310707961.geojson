@@ -1,0 +1,67 @@
+{
+  "id": 1310707961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19832,-18.30404,31.19832,-18.30404",
+    "geom:latitude":-18.30404,
+    "geom:longitude":31.19832,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mahusekwa",
+    "gn:country_code":"ZW",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":887854,
+    "gn:latitude":-18.30404,
+    "gn:longitude":31.19832,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mahusekwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        890445295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":887854
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"cf7b7b97f7c7e1b04708dbcfe0926c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890445295,
+            "locality_id":1310707961,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1310707961,
+    "wof:lastmodified":1536622752,
+    "wof:name":"Mahusekwa",
+    "wof:parent_id":890445295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19832,
+    -18.30404,
+    31.19832,
+    -18.30404
+],
+  "geometry": {"coordinates":[31.19832,-18.30404],"type":"Point"}
+}

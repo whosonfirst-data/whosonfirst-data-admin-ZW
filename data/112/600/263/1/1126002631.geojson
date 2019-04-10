@@ -1,0 +1,94 @@
+{
+  "id": 1126002631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9349,-18.20476,28.9349,-18.20476",
+    "geom:latitude":-18.20476,
+    "geom:longitude":28.9349,
+    "gn:gn_country":"ZW",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":18942,
+    "gn:population":18942,
+    "iso:country":"ZW",
+    "lbl:latitude":-18.20476,
+    "lbl:longitude":28.9349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gokwe centre"
+    ],
+    "name:eng_x_preferred":[
+        "Gokwe centre"
+    ],
+    "name:fre_x_preferred":[
+        "Gokwe"
+    ],
+    "name:ger_x_preferred":[
+        "Gokwe"
+    ],
+    "name:rum_x_preferred":[
+        "Gokwe"
+    ],
+    "qs_pg:aaroncc":"ZW",
+    "qs_pg:gn_country":"ZW",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":890983,
+    "qs_pg:gn_pop":18942,
+    "qs_pg:name":"Gokwe",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":129878,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        1108784947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":890983,
+        "qs_pg:id":129878,
+        "wd:id":"Q1534487"
+    },
+    "wof:country":"ZW",
+    "wof:created":1497299742,
+    "wof:geomhash":"a1f4cd6b4ba454a87d20f82138502150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784947,
+            "locality_id":1126002631,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1126002631,
+    "wof:lastmodified":1514505281,
+    "wof:name":"Gokwe",
+    "wof:parent_id":1108784947,
+    "wof:placetype":"locality",
+    "wof:population":18942,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9349,
+    -18.20476,
+    28.9349,
+    -18.20476
+],
+  "geometry": {"coordinates":[28.9349,-18.20476],"type":"Point"}
+}

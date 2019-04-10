@@ -1,0 +1,67 @@
+{
+  "id": 1243274145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.28333,-21.15,31.28333,-21.15",
+    "geom:latitude":-21.15,
+    "geom:longitude":31.28333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bivis",
+    "gn:country_code":"ZW",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":895017,
+    "gn:latitude":-21.15,
+    "gn:longitude":31.28333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Bivis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890436773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":895017
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"ed8d7f5723490d5d98e79f05b87e2f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890436773,
+            "locality_id":1243274145,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1243274145,
+    "wof:lastmodified":1537051645,
+    "wof:name":"Bivis",
+    "wof:parent_id":890436773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.28333,
+    -21.15,
+    31.28333,
+    -21.15
+],
+  "geometry": {"coordinates":[31.28333,-21.15],"type":"Point"}
+}

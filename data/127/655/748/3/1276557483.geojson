@@ -1,0 +1,67 @@
+{
+  "id": 1276557483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.79327,-19.29079,31.79327,-19.29079",
+    "geom:latitude":-19.29079,
+    "geom:longitude":31.79327,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mahove",
+    "gn:country_code":"ZW",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453099,
+    "gn:latitude":-19.29079,
+    "gn:longitude":31.79327,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Mahove",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453099
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"6cb491c75c27b70cfca9576eab38e871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1276557483,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1276557483,
+    "wof:lastmodified":1536975103,
+    "wof:name":"Mahove",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.79327,
+    -19.29079,
+    31.79327,
+    -19.29079
+],
+  "geometry": {"coordinates":[31.79327,-19.29079],"type":"Point"}
+}

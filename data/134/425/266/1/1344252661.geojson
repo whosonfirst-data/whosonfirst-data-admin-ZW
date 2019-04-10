@@ -1,0 +1,67 @@
+{
+  "id": 1344252661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67542,-19.82939,31.67542,-19.82939",
+    "geom:latitude":-19.82939,
+    "geom:longitude":31.67542,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nemashakwe",
+    "gn:country_code":"ZW",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507300,
+    "gn:latitude":-19.82939,
+    "gn:longitude":31.67542,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Nemashakwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507300
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"6b104993fe9e2478bf270b9f10d2876d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1344252661,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1344252661,
+    "wof:lastmodified":1537092273,
+    "wof:name":"Nemashakwe",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67542000000001,
+    -19.82939,
+    31.67542000000001,
+    -19.82939
+],
+  "geometry": {"coordinates":[31.67542000000001,-19.82939],"type":"Point"}
+}

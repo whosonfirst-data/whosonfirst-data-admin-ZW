@@ -1,0 +1,70 @@
+{
+  "id": 1309802749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.46385,-16.867,29.46385,-16.867",
+    "geom:latitude":-16.867,
+    "geom:longitude":29.46385,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kangausaru",
+    "gn:country_code":"ZW",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7371073,
+    "gn:latitude":-16.867,
+    "gn:longitude":29.46385,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kangausaru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kangausaru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7371073
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"ede2190eb79ef4ae0b01da11f6d23b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1309802749,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1309802749,
+    "wof:lastmodified":1537716592,
+    "wof:name":"Kangausaru",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.46385,
+    -16.867,
+    29.46385,
+    -16.867
+],
+  "geometry": {"coordinates":[29.46385,-16.867],"type":"Point"}
+}

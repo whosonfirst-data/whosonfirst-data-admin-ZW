@@ -1,0 +1,70 @@
+{
+  "id": 1226757823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09333,-17.745,31.09333,-17.745",
+    "geom:latitude":-17.745,
+    "geom:longitude":31.09333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mon Abri",
+    "gn:country_code":"ZW",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085463,
+    "gn:latitude":-17.745,
+    "gn:longitude":31.09333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Mon Abri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mon Abri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681097,
+        421190261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085463
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"cef3399c1ef805a9e8b24f6161cfdae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":1226757823,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":1226757823,
+    "wof:lastmodified":1537716586,
+    "wof:name":"Mon Abri",
+    "wof:parent_id":421190261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09333,
+    -17.745,
+    31.09333,
+    -17.745
+],
+  "geometry": {"coordinates":[31.09333,-17.745],"type":"Point"}
+}

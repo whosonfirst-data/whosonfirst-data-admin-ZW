@@ -1,0 +1,70 @@
+{
+  "id": 1260303947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9775,-17.94417,30.9775,-17.94417",
+    "geom:latitude":-17.94417,
+    "geom:longitude":30.9775,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hartlands",
+    "gn:country_code":"ZW",
+    "gn:dem":1424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085501,
+    "gn:latitude":-17.94417,
+    "gn:longitude":30.9775,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Hartlands",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hartlands"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681097,
+        421190261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085501
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"a6c5eb567d782c07325f633d6595875f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":1260303947,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":1260303947,
+    "wof:lastmodified":1537716587,
+    "wof:name":"Hartlands",
+    "wof:parent_id":421190261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9775,
+    -17.94417,
+    30.9775,
+    -17.94417
+],
+  "geometry": {"coordinates":[30.9775,-17.94417],"type":"Point"}
+}

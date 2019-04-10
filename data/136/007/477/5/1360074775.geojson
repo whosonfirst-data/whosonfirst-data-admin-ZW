@@ -1,0 +1,67 @@
+{
+  "id": 1360074775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.42944,-20.07778,28.42944,-20.07778",
+    "geom:latitude":-20.07778,
+    "geom:longitude":28.42944,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hyde Park",
+    "gn:country_code":"ZW",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105901,
+    "gn:latitude":-20.07778,
+    "gn:longitude":28.42944,
+    "gn:modification_date":"2000-10-04",
+    "gn:name":"Hyde Park",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681121,
+        421171051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105901
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"243cfa8ad5b8b06b303ca3bd547ddf8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421171051,
+            "locality_id":1360074775,
+            "region_id":85681121
+        }
+    ],
+    "wof:id":1360074775,
+    "wof:lastmodified":1536960499,
+    "wof:name":"Hyde Park",
+    "wof:parent_id":421171051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.42944,
+    -20.07778,
+    28.42944,
+    -20.07778
+],
+  "geometry": {"coordinates":[28.42944,-20.07778],"type":"Point"}
+}

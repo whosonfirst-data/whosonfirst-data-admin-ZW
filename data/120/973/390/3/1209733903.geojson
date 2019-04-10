@@ -1,0 +1,70 @@
+{
+  "id": 1209733903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97444,-17.93361,30.97444,-17.93361",
+    "geom:latitude":-17.93361,
+    "geom:longitude":30.97444,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Inkubusi",
+    "gn:country_code":"ZW",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085502,
+    "gn:latitude":-17.93361,
+    "gn:longitude":30.97444,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Inkubusi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Inkubusi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681097,
+        421190261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085502
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"5656ebda39b70ecc5d80be64b0ca7e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":1209733903,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":1209733903,
+    "wof:lastmodified":1537716587,
+    "wof:name":"Inkubusi",
+    "wof:parent_id":421190261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97444,
+    -17.93361,
+    30.97444,
+    -17.93361
+],
+  "geometry": {"coordinates":[30.97444,-17.93361],"type":"Point"}
+}

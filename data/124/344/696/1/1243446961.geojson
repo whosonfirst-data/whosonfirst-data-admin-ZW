@@ -1,0 +1,67 @@
+{
+  "id": 1243446961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.72942,-19.80647,27.72942,-19.80647",
+    "geom:latitude":-19.80647,
+    "geom:longitude":27.72942,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Emambanjeni",
+    "gn:country_code":"ZW",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7465045,
+    "gn:latitude":-19.80647,
+    "gn:longitude":27.72942,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Emambanjeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465045
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"d9c9de25ddef587c504f328795aec0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1243446961,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1243446961,
+    "wof:lastmodified":1536804659,
+    "wof:name":"Emambanjeni",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.72942,
+    -19.80647,
+    27.72942,
+    -19.80647
+],
+  "geometry": {"coordinates":[27.72942,-19.80647],"type":"Point"}
+}

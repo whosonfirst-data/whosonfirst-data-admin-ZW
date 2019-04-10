@@ -1,0 +1,70 @@
+{
+  "id": 1259587883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6598,-16.30814,29.6598,-16.30814",
+    "geom:latitude":-16.30814,
+    "geom:longitude":29.6598,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mapaima",
+    "gn:country_code":"ZW",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370412,
+    "gn:latitude":-16.30814,
+    "gn:longitude":29.6598,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mapaima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mapaima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370412
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"a569866d5c8c8676a3f375fa49a2fdeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1259587883,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1259587883,
+    "wof:lastmodified":1537716589,
+    "wof:name":"Mapaima",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6598,
+    -16.30814,
+    29.6598,
+    -16.30814
+],
+  "geometry": {"coordinates":[29.6598,-16.30814],"type":"Point"}
+}

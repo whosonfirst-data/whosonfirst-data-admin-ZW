@@ -1,0 +1,73 @@
+{
+  "id": 1360008047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.88818,-19.79461,31.88818,-19.79461",
+    "geom:latitude":-19.79461,
+    "geom:longitude":31.88818,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kubiku",
+    "gn:country_code":"ZW",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":888796,
+    "gn:latitude":-19.79461,
+    "gn:longitude":31.88818,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kubiku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kubiko"
+    ],
+    "name:und_x_variant":[
+        "Kubiko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":888796
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"82bb271a4287819e308914f04086b5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1360008047,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1360008047,
+    "wof:lastmodified":1537716580,
+    "wof:name":"Kubiku",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.88818,
+    -19.79461,
+    31.88818,
+    -19.79461
+],
+  "geometry": {"coordinates":[31.88818,-19.79461],"type":"Point"}
+}

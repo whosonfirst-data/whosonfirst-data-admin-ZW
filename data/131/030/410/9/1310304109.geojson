@@ -1,0 +1,68 @@
+{
+  "id": 1310304109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.99344,-18.28864,29.99344,-18.28864",
+    "geom:latitude":-18.28864,
+    "geom:longitude":29.99344,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Eiffel Flats",
+    "gn:country_code":"ZW",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":891842,
+    "gn:latitude":-18.28864,
+    "gn:longitude":29.99344,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Eiffel Flats",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890452771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":891842,
+        "wk:page":"Eiffel_Flats"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"237bf1484e12d3f0341ec76b13d0c45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890452771,
+            "locality_id":1310304109,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1310304109,
+    "wof:lastmodified":1537576397,
+    "wof:name":"Eiffel Flats",
+    "wof:parent_id":890452771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.99344,
+    -18.28864,
+    29.99344,
+    -18.28864
+],
+  "geometry": {"coordinates":[29.99344,-18.28864],"type":"Point"}
+}

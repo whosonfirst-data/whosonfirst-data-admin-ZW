@@ -1,0 +1,67 @@
+{
+  "id": 1259992311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06062,-20.31795,30.06062,-20.31795",
+    "geom:latitude":-20.31795,
+    "geom:longitude":30.06062,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Maglas",
+    "gn:country_code":"ZW",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10942950,
+    "gn:latitude":-20.31795,
+    "gn:longitude":30.06062,
+    "gn:modification_date":"2015-12-02",
+    "gn:name":"Maglas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681103,
+        1108784959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10942950
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"7510ee24aee3dd22a811b23976a5a99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784959,
+            "locality_id":1259992311,
+            "region_id":85681103
+        }
+    ],
+    "wof:id":1259992311,
+    "wof:lastmodified":1536620257,
+    "wof:name":"Maglas",
+    "wof:parent_id":1108784959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06062,
+    -20.31795,
+    30.06062,
+    -20.31795
+],
+  "geometry": {"coordinates":[30.06062,-20.31795],"type":"Point"}
+}

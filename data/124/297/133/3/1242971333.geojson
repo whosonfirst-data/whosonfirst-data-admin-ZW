@@ -1,0 +1,67 @@
+{
+  "id": 1242971333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.198,-18.14307,31.198,-18.14307",
+    "geom:latitude":-18.14307,
+    "geom:longitude":31.198,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chief Seki",
+    "gn:country_code":"ZW",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405277,
+    "gn:latitude":-18.14307,
+    "gn:longitude":31.198,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Chief Seki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405277
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"71edf9905509fe3cb32d6bb654ecf47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784893,
+            "locality_id":1242971333,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1242971333,
+    "wof:lastmodified":1536992717,
+    "wof:name":"Chief Seki",
+    "wof:parent_id":1108784893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.198,
+    -18.14307,
+    31.198,
+    -18.14307
+],
+  "geometry": {"coordinates":[31.198,-18.14307],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259605573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65874,-19.66405,31.65874,-19.66405",
+    "geom:latitude":-19.66405,
+    "geom:longitude":31.65874,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Marodze",
+    "gn:country_code":"ZW",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507086,
+    "gn:latitude":-19.66405,
+    "gn:longitude":31.65874,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Marodze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507086
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"00d283ae51e5ee502bd24f7439007242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1259605573,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1259605573,
+    "wof:lastmodified":1536682947,
+    "wof:name":"Marodze",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65874,
+    -19.66405,
+    31.65874,
+    -19.66405
+],
+  "geometry": {"coordinates":[31.65874,-19.66405],"type":"Point"}
+}

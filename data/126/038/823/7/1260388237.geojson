@@ -1,0 +1,70 @@
+{
+  "id": 1260388237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.29274,-16.95577,29.29274,-16.95577",
+    "geom:latitude":-16.95577,
+    "geom:longitude":29.29274,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chabera",
+    "gn:country_code":"ZW",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7371167,
+    "gn:latitude":-16.95577,
+    "gn:longitude":29.29274,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chabera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chabera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7371167
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"386eec64454ed058bc66878e96906da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1260388237,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1260388237,
+    "wof:lastmodified":1537716593,
+    "wof:name":"Chabera",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.29274,
+    -16.95577,
+    29.29274,
+    -16.95577
+],
+  "geometry": {"coordinates":[29.29274,-16.95577],"type":"Point"}
+}

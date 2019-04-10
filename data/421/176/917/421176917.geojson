@@ -1,0 +1,88 @@
+{
+  "id": 421176917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.85,-16.03333,28.85,-16.03333",
+    "geom:latitude":-16.03333,
+    "geom:longitude":28.85,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Chirundu"
+    ],
+    "name:unk_x_variant":[
+        "Otto Beit Bridge"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":893397,
+    "qs:gn_pop":1911,
+    "qs:name":"Chirundu",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Mashonaland West",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":129,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1090297,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1466904,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":178,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        890427539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":893397,
+        "gp:id":1466904,
+        "qs:id":1090297,
+        "wd:id":"Q5102025",
+        "wk:page":"Chirundu, Zimbabwe"
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009123,
+    "wof:geomhash":"a7232d3f9c53907e4566a8f711871ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":890427539,
+            "locality_id":421176917,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":421176917,
+    "wof:lastmodified":1527726480,
+    "wof:name":"Chirundu",
+    "wof:parent_id":890427539,
+    "wof:placetype":"locality",
+    "wof:population":1911,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.85,
+    -16.03333,
+    28.85,
+    -16.03333
+],
+  "geometry": {"coordinates":[28.85,-16.03333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421192397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4778,-20.40885,28.4778,-20.40885",
+    "geom:latitude":-20.40885,
+    "geom:longitude":28.4778,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Matombo"
+    ],
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":886623,
+    "qs:gn_pop":0,
+    "qs:name":"Matobo",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Matabeleland South",
+    "qs:photos":43,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168109,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1467267,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":886623,
+        "gp:id":1467267,
+        "qs:id":1168109
+    },
+    "wof:country":"ZW",
+    "wof:created":1459009735,
+    "wof:geomhash":"e2c744cfda8ef0c15feea1bc30f9b486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "locality_id":421192397,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":421192397,
+    "wof:lastmodified":1501216338,
+    "wof:name":"Matobo",
+    "wof:parent_id":85681117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4778,
+    -20.40885,
+    28.4778,
+    -20.40885
+],
+  "geometry": {"coordinates":[28.4778,-20.40885],"type":"Point"}
+}

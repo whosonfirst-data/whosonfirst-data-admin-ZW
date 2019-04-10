@@ -1,0 +1,67 @@
+{
+  "id": 1293700451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83028,-19.47091,31.83028,-19.47091",
+    "geom:latitude":-19.47091,
+    "geom:longitude":31.83028,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mapfumo",
+    "gn:country_code":"ZW",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453832,
+    "gn:latitude":-19.47091,
+    "gn:longitude":31.83028,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Mapfumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453832
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"cbe7870b794e9e95d644bf41a02f78c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1293700451,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1293700451,
+    "wof:lastmodified":1536976699,
+    "wof:name":"Mapfumo",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83028,
+    -19.47091,
+    31.83028,
+    -19.47091
+],
+  "geometry": {"coordinates":[31.83028,-19.47091],"type":"Point"}
+}

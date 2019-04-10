@@ -1,0 +1,67 @@
+{
+  "id": 1225867721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.49829,-17.37161,29.49829,-17.37161",
+    "geom:latitude":-17.37161,
+    "geom:longitude":29.49829,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Garwe",
+    "gn:country_code":"ZW",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11281901,
+    "gn:latitude":-17.37161,
+    "gn:longitude":29.49829,
+    "gn:modification_date":"2016-11-01",
+    "gn:name":"Garwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681131,
+        890416471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11281901
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"87d820443c3b1a3fe5f1c545fa85218d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416471,
+            "locality_id":1225867721,
+            "region_id":85681131
+        }
+    ],
+    "wof:id":1225867721,
+    "wof:lastmodified":1536981356,
+    "wof:name":"Garwe",
+    "wof:parent_id":890416471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.49829,
+    -17.37161,
+    29.49829,
+    -17.37161
+],
+  "geometry": {"coordinates":[29.49829,-17.37161],"type":"Point"}
+}

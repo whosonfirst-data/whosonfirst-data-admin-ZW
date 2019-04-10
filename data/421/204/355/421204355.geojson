@@ -1,0 +1,77 @@
+{
+  "id": 421204355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.63611,-20.19306,28.63611,-20.19306",
+    "geom:latitude":-20.19306,
+    "geom:longitude":28.63611,
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"ZW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":886590,
+    "qs:gn_pop":0,
+    "qs:name":"Matsheumhlope",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Bulawayo",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1189731,
+    "qs:woe_adm0":23425004,
+    "qs:woe_id":1467272,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        421171051,
+        85681121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":886590,
+        "gp:id":1467272,
+        "qs:id":1189731
+    },
+    "wof:country":"ZW",
+    "wof:created":1459010183,
+    "wof:geomhash":"31ba7a4e3c88380e42c1f8a00f5295b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421171051,
+            "locality_id":-1,
+            "neighbourhood_id":421204355,
+            "region_id":85681121
+        }
+    ],
+    "wof:id":421204355,
+    "wof:lastmodified":1531858842,
+    "wof:name":"Matsheumhlope",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.63611,
+    -20.19306,
+    28.63611,
+    -20.19306
+],
+  "geometry": {"coordinates":[28.63611,-20.19306],"type":"Point"}
+}

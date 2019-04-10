@@ -1,0 +1,68 @@
+{
+  "id": 1344262813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5736,-18.61731,31.5736,-18.61731",
+    "geom:latitude":-18.61731,
+    "geom:longitude":31.5736,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wedza",
+    "gn:country_code":"ZW",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":879181,
+    "gn:latitude":-18.61731,
+    "gn:longitude":31.5736,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wedza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681109,
+        1108784881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":879181,
+        "wk:page":"Wedza_District"
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"528f061c58490a60884efad7a60f885b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784881,
+            "locality_id":1344262813,
+            "region_id":85681109
+        }
+    ],
+    "wof:id":1344262813,
+    "wof:lastmodified":1537576393,
+    "wof:name":"Wedza",
+    "wof:parent_id":1108784881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5736,
+    -18.61731,
+    31.5736,
+    -18.61731
+],
+  "geometry": {"coordinates":[31.5736,-18.61731],"type":"Point"}
+}

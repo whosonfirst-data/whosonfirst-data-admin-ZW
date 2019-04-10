@@ -1,0 +1,64 @@
+{
+  "id": 1209437857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4031,-16.77017,29.4031,-16.77017",
+    "geom:latitude":-16.77017,
+    "geom:longitude":29.4031,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chinyangwe",
+    "gn:country_code":"ZW",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370745,
+    "gn:latitude":-16.77017,
+    "gn:longitude":29.4031,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chinyangwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chinyangwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370745
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"e59df457b8fca0eed5762957596373bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632243,
+            "locality_id":1209437857
+        }
+    ],
+    "wof:id":1209437857,
+    "wof:lastmodified":1537716590,
+    "wof:name":"Chinyangwe",
+    "wof:parent_id":85632243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4031,
+    -16.77017,
+    29.4031,
+    -16.77017
+],
+  "geometry": {"coordinates":[29.4031,-16.77017],"type":"Point"}
+}

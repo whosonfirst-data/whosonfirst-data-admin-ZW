@@ -1,0 +1,67 @@
+{
+  "id": 1226234843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.75865,-19.96453,27.75865,-19.96453",
+    "geom:latitude":-19.96453,
+    "geom:longitude":27.75865,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Getshenge",
+    "gn:country_code":"ZW",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7465060,
+    "gn:latitude":-19.96453,
+    "gn:longitude":27.75865,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Getshenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465060
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"425c1a1cead00dc3f62855e5ae916afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1226234843,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1226234843,
+    "wof:lastmodified":1536949637,
+    "wof:name":"Getshenge",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.75865,
+    -19.96453,
+    27.75865,
+    -19.96453
+],
+  "geometry": {"coordinates":[27.75865,-19.96453],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293674551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59267,-19.52126,31.59267,-19.52126",
+    "geom:latitude":-19.52126,
+    "geom:longitude":31.59267,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Munhowei",
+    "gn:country_code":"ZW",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453774,
+    "gn:latitude":-19.52126,
+    "gn:longitude":31.59267,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Munhowei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453774
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"30a9cb881524bc9079d950ba5d4639e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416477,
+            "locality_id":1293674551,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1293674551,
+    "wof:lastmodified":1537013955,
+    "wof:name":"Munhowei",
+    "wof:parent_id":890416477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59267,
+    -19.52126,
+    31.59267,
+    -19.52126
+],
+  "geometry": {"coordinates":[31.59267,-19.52126],"type":"Point"}
+}

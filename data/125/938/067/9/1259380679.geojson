@@ -1,0 +1,67 @@
+{
+  "id": 1259380679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.43904,-19.41187,27.43904,-19.41187",
+    "geom:latitude":-19.41187,
+    "geom:longitude":27.43904,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tshayisani",
+    "gn:country_code":"ZW",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7464986,
+    "gn:latitude":-19.41187,
+    "gn:longitude":27.43904,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Tshayisani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7464986
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c1213338f3be1a76aaeade6e9bb7ac10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1259380679,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1259380679,
+    "wof:lastmodified":1537005618,
+    "wof:name":"Tshayisani",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.43904,
+    -19.41187,
+    27.43904,
+    -19.41187
+],
+  "geometry": {"coordinates":[27.43904,-19.41187],"type":"Point"}
+}

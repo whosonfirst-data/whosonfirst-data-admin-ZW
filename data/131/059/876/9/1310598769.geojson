@@ -1,0 +1,67 @@
+{
+  "id": 1310598769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.79856,-19.964,27.79856,-19.964",
+    "geom:latitude":-19.964,
+    "geom:longitude":27.79856,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Segogo",
+    "gn:country_code":"ZW",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7465057,
+    "gn:latitude":-19.964,
+    "gn:longitude":27.79856,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Segogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101,
+        1108784927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465057
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"981f7c73d94f0f0ded7ab3ff457962d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":1108784927,
+            "locality_id":1310598769,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":1310598769,
+    "wof:lastmodified":1536782924,
+    "wof:name":"Segogo",
+    "wof:parent_id":1108784927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.79856,
+    -19.964,
+    27.79856,
+    -19.964
+],
+  "geometry": {"coordinates":[27.79856,-19.964],"type":"Point"}
+}

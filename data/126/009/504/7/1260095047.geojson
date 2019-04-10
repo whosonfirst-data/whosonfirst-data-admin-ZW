@@ -1,0 +1,67 @@
+{
+  "id": 1260095047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.15,-22.08333,30.15,-22.08333",
+    "geom:latitude":-22.08333,
+    "geom:longitude":30.15,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lutombe",
+    "gn:country_code":"ZW",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":888198,
+    "gn:latitude":-22.08333,
+    "gn:longitude":30.15,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Lutombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681117,
+        890416501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":888198
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"217acab5568e6f136b563321e525fea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416501,
+            "locality_id":1260095047,
+            "region_id":85681117
+        }
+    ],
+    "wof:id":1260095047,
+    "wof:lastmodified":1536970977,
+    "wof:name":"Lutombe",
+    "wof:parent_id":890416501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.15,
+    -22.08333,
+    30.15,
+    -22.08333
+],
+  "geometry": {"coordinates":[30.15,-22.08333],"type":"Point"}
+}

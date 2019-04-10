@@ -1,0 +1,67 @@
+{
+  "id": 1293874337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71052,-19.88864,31.71052,-19.88864",
+    "geom:latitude":-19.88864,
+    "geom:longitude":31.71052,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tomasi",
+    "gn:country_code":"ZW",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507318,
+    "gn:latitude":-19.88864,
+    "gn:longitude":31.71052,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tomasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127,
+        890416499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507318
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"0c405956467ea96c6d311e0095512691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416499,
+            "locality_id":1293874337,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":1293874337,
+    "wof:lastmodified":1536726947,
+    "wof:name":"Tomasi",
+    "wof:parent_id":890416499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71052,
+    -19.88864,
+    31.71052,
+    -19.88864
+],
+  "geometry": {"coordinates":[31.71052,-19.88864],"type":"Point"}
+}

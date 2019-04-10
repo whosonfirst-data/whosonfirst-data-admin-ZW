@@ -1,0 +1,67 @@
+{
+  "id": 1326547763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.94511,-19.27618,31.94511,-19.27618",
+    "geom:latitude":-19.27618,
+    "geom:longitude":31.94511,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mutauto",
+    "gn:country_code":"ZW",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304063,
+    "gn:latitude":-19.27618,
+    "gn:longitude":31.94511,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Mutauto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681113,
+        890416491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304063
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"c9572db4164f6f9b866a4851d35aaa9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416491,
+            "locality_id":1326547763,
+            "region_id":85681113
+        }
+    ],
+    "wof:id":1326547763,
+    "wof:lastmodified":1536961484,
+    "wof:name":"Mutauto",
+    "wof:parent_id":890416491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.94511,
+    -19.27618,
+    31.94511,
+    -19.27618
+],
+  "geometry": {"coordinates":[31.94511,-19.27618],"type":"Point"}
+}

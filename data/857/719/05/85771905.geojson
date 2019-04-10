@@ -1,0 +1,112 @@
+{
+  "id": 85771905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14167369.099484,
+    "geom:bbox":"31.05257,-17.827262,31.05257,-17.827262",
+    "geom:latitude":-17.827262,
+    "geom:longitude":31.05257,
+    "gn:latitude":-17.82444,
+    "gn:longitude":31.07361,
+    "iso:country":"ZW",
+    "lbl:latitude":-17.827262,
+    "lbl:longitude":31.05257,
+    "mps:latitude":-17.823922,
+    "mps:longitude":31.052607,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Eastlea North"
+    ],
+    "name:eng_x_variant":[
+        "Eastlea"
+    ],
+    "name:unk_x_variant":[
+        "Eastlea North"
+    ],
+    "qs:gn_adm0_cc":"ZW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":890299,
+    "qs:gn_nam_loc":"Harare, Harare, Harare, ZW",
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"Eastlea",
+    "qs:local_max":60,
+    "qs:local_sum":63,
+    "qs:localhoods":2,
+    "qs:name":"Eastlea North",
+    "qs:name_adm0":"Zimbabwe",
+    "qs:name_adm1":"Harare",
+    "qs:name_adm2":"Harare",
+    "qs:name_local":"Harare",
+    "qs:photo_max":13,
+    "qs:photo_sum":60,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23425004,
+    "qs:woe_adm1":24550731,
+    "qs:woe_adm2":56048529,
+    "qs:woe_lau":0,
+    "qs:woe_local":1467052,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        421190261,
+        85681097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":891889,
+        "gp:id":1466952,
+        "qs:id":266874,
+        "qs_pg:id":266874
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"646c4e5bfec23a9919941be39fd5da33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":421190261,
+            "locality_id":-1,
+            "neighbourhood_id":85771905,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":85771905,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859484,
+    "wof:name":"Eastlea North",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05257,
+    -17.827262,
+    31.05257,
+    -17.827262
+],
+  "geometry": {"coordinates":[31.05257,-17.827262],"type":"Point"}
+}

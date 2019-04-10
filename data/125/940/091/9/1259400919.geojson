@@ -1,0 +1,70 @@
+{
+  "id": 1259400919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.18333,-16.51667,31.18333,-16.51667",
+    "geom:latitude":-16.51667,
+    "geom:longitude":31.18333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Maclear",
+    "gn:country_code":"ZW",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":888062,
+    "gn:latitude":-16.51667,
+    "gn:longitude":31.18333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Maclear",
+    "gn:population":0,
+    "gn:timezone":"Africa/Harare",
+    "iso:country":"ZW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maclear"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681093,
+        890416487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":888062
+    },
+    "wof:country":"ZW",
+    "wof:geomhash":"debb7c8988778fb37f051e792384db0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416487,
+            "locality_id":1259400919,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":1259400919,
+    "wof:lastmodified":1537716579,
+    "wof:name":"Maclear",
+    "wof:parent_id":890416487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.18333,
+    -16.51667,
+    31.18333,
+    -16.51667
+],
+  "geometry": {"coordinates":[31.18333,-16.51667],"type":"Point"}
+}
