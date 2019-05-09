@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":80287,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Bulilima District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.240439,
     "lbl:longitude":27.519168,
     "meso:adm1_en":"Matabeleland South",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890416489,
-    "wof:lastmodified":1536617370,
+    "wof:lastmodified":1553724926,
     "wof:name":"Bulilima",
     "wof:parent_id":85681117,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":80287,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-zw",

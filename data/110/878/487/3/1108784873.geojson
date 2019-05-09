@@ -10,6 +10,12 @@
     "geom:latitude":-17.309357,
     "geom:longitude":31.338715,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Bindura Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.309618,
     "lbl:longitude":31.332738,
     "meso:adm1_en":"Mashonaland Central",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784873,
-    "wof:lastmodified":1536615781,
+    "wof:lastmodified":1553724928,
     "wof:name":"Bindura Urban",
     "wof:parent_id":85681093,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"BD",
     "wof:superseded_by":[],

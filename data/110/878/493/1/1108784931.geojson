@@ -10,6 +10,12 @@
     "geom:latitude":-17.927956,
     "geom:longitude":25.829243,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Victoria Falls District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.92777,
     "lbl:longitude":25.831012,
     "meso:adm1_en":"Matabeleland North",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784931,
-    "wof:lastmodified":1536615782,
+    "wof:lastmodified":1553724929,
     "wof:name":"Victoria Falls",
     "wof:parent_id":85681101,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"HW",
     "wof:superseded_by":[],

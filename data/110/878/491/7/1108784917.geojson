@@ -10,6 +10,12 @@
     "geom:latitude":-20.260337,
     "geom:longitude":30.910714,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Masvingo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.328868,
     "lbl:longitude":30.90178,
     "meso:adm1_en":"Masvingo",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784917,
-    "wof:lastmodified":1536615782,
+    "wof:lastmodified":1553724929,
     "wof:name":"Masvingo",
     "wof:parent_id":85681127,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"MV",
     "wof:superseded_by":[],

@@ -6,10 +6,17 @@
     "edtf:deprecated":"2016-12-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.768354,-18.217978,32.768354,-18.217978",
     "geom:latitude":-18.217978,
     "geom:longitude":32.768354,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Nyanga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"quattroshapes points import (201603)",
@@ -80,10 +87,11 @@
         }
     ],
     "wof:id":421186407,
-    "wof:lastmodified":1527716313,
+    "wof:lastmodified":1553724925,
     "wof:name":"Nyanga",
     "wof:parent_id":85681113,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

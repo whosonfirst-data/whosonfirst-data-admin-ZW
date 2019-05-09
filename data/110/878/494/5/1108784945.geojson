@@ -10,6 +10,12 @@
     "geom:latitude":-17.570408,
     "geom:longitude":28.837672,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Gokwe North District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.597265,
     "lbl:longitude":28.994044,
     "meso:adm1_en":"Midlands",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784945,
-    "wof:lastmodified":1536615782,
+    "wof:lastmodified":1553724930,
     "wof:name":"Gokwe North",
     "wof:parent_id":85681103,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"GN",
     "wof:superseded_by":[],

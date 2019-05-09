@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":184135,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Makonde District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.487366,
     "lbl:longitude":29.805745,
     "meso:adm1_en":"Mashonaland West",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890422337,
-    "wof:lastmodified":1536617375,
+    "wof:lastmodified":1553724926,
     "wof:name":"Makonde",
     "wof:parent_id":85681131,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":184135,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-zw",

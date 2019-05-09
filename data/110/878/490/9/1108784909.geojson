@@ -10,6 +10,12 @@
     "geom:latitude":-17.881869,
     "geom:longitude":30.678339,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Norton District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.882358,
     "lbl:longitude":30.669009,
     "meso:adm1_en":"Mashonaland West",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784909,
-    "wof:lastmodified":1536615782,
+    "wof:lastmodified":1553724929,
     "wof:name":"Norton",
     "wof:parent_id":85681131,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"CG",
     "wof:superseded_by":[],

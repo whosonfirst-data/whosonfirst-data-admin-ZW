@@ -10,6 +10,12 @@
     "geom:latitude":-18.993371,
     "geom:longitude":32.620192,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Mutare Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.987359,
     "lbl:longitude":32.620193,
     "meso:adm1_en":"Manicaland",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784869,
-    "wof:lastmodified":1536615781,
+    "wof:lastmodified":1553724928,
     "wof:name":"Mutare Urban",
     "wof:parent_id":85681113,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"MR",
     "wof:superseded_by":[],

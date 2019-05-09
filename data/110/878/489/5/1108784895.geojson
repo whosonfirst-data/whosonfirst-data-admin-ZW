@@ -10,6 +10,12 @@
     "geom:latitude":-17.081568,
     "geom:longitude":32.043143,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Uzumba Maramba Pfungwe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.281687,
     "lbl:longitude":31.896269,
     "meso:adm1_en":"Mashonaland East",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784895,
-    "wof:lastmodified":1536615781,
+    "wof:lastmodified":1553724929,
     "wof:name":"Uzumba Maramba Pfungwe",
     "wof:parent_id":85681109,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"MU",
     "wof:superseded_by":[],

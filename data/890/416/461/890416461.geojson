@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":137053,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Mudzi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.038473,
     "lbl:longitude":32.630136,
     "meso:adm1_en":"Mashonaland East",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890416461,
-    "wof:lastmodified":1536617369,
+    "wof:lastmodified":1553724925,
     "wof:name":"Mudzi",
     "wof:parent_id":85681109,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":137053,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-zw",

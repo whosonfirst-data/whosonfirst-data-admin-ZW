@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":61821,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Kariba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.88975,
     "lbl:longitude":28.610781,
     "meso:adm1_en":"Mashonaland West",
@@ -31,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
+        "Kariba"
+    ],
+    "name:eng_x_variant":[
         "Kariba District"
     ],
     "qs:name":"Kariba District",
@@ -69,10 +78,11 @@
         }
     ],
     "wof:id":890452769,
-    "wof:lastmodified":1536617387,
+    "wof:lastmodified":1555220350,
     "wof:name":"Kariba",
     "wof:parent_id":85681131,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":61821,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-zw",

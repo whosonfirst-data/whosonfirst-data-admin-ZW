@@ -10,6 +10,12 @@
     "geom:latitude":-22.19762,
     "geom:longitude":30.005162,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Beitbridge Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.192174,
     "lbl:longitude":30.003945,
     "meso:adm1_en":"Matabeleland South",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784933,
-    "wof:lastmodified":1536615782,
+    "wof:lastmodified":1553724929,
     "wof:name":"Beitbridge Urban",
     "wof:parent_id":85681117,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"BB",
     "wof:superseded_by":[],

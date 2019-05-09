@@ -10,6 +10,12 @@
     "geom:latitude":-20.203352,
     "geom:longitude":32.625206,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Chipinge Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.192625,
     "lbl:longitude":32.624704,
     "meso:adm1_en":"Manicaland",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784867,
-    "wof:lastmodified":1536615781,
+    "wof:lastmodified":1553724928,
     "wof:name":"Chipinge Urban",
     "wof:parent_id":85681113,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"CP",
     "wof:superseded_by":[],

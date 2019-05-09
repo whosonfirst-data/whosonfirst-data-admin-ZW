@@ -10,6 +10,12 @@
     "geom:latitude":-17.503527,
     "geom:longitude":30.447419,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Zvimba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.454247,
     "lbl:longitude":30.408883,
     "meso:adm1_en":"Mashonaland West",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784913,
-    "wof:lastmodified":1536615782,
+    "wof:lastmodified":1553724930,
     "wof:name":"Zvimba",
     "wof:parent_id":85681131,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"ZB",
     "wof:superseded_by":[],

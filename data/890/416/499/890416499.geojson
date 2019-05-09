@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":157084,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Bikita District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.144452,
     "lbl:longitude":31.912155,
     "meso:adm1_en":"Masvingo",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890416499,
-    "wof:lastmodified":1536617370,
+    "wof:lastmodified":1553724926,
     "wof:name":"Bikita",
     "wof:parent_id":85681127,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":157084,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-zw",

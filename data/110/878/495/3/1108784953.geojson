@@ -10,6 +10,12 @@
     "geom:latitude":-18.917478,
     "geom:longitude":29.816538,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Kwekwe Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.9275,
     "lbl:longitude":29.815524,
     "meso:adm1_en":"Midlands",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784953,
-    "wof:lastmodified":1536615783,
+    "wof:lastmodified":1553724930,
     "wof:name":"Kwekwe Urban",
     "wof:parent_id":85681103,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"KW",
     "wof:superseded_by":[],

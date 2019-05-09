@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":245741,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Kadoma Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.341616,
     "lbl:longitude":29.926505,
     "meso:adm1_en":"Mashonaland West",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890452771,
-    "wof:lastmodified":1536617387,
+    "wof:lastmodified":1553724927,
     "wof:name":"Kadoma Urban",
     "wof:parent_id":85681131,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":245741,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-zw",

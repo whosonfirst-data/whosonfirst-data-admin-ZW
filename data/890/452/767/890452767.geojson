@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":299646,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Kwekwe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.851281,
     "lbl:longitude":29.442073,
     "meso:adm1_en":"Midlands",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890452767,
-    "wof:lastmodified":1536617386,
+    "wof:lastmodified":1553724928,
     "wof:name":"Kwekwe",
     "wof:parent_id":85681103,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":299646,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-zw",

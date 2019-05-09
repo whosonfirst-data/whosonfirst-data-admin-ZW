@@ -10,6 +10,12 @@
     "geom:latitude":-21.029389,
     "geom:longitude":31.67951,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Chiredzi Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.036553,
     "lbl:longitude":31.668187,
     "meso:adm1_en":"Masvingo",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784915,
-    "wof:lastmodified":1536615782,
+    "wof:lastmodified":1553724929,
     "wof:name":"Chiredzi Urban",
     "wof:parent_id":85681127,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"CR",
     "wof:superseded_by":[],

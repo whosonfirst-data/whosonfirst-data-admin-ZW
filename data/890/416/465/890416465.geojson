@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":198966,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Mazowe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.258162,
     "lbl:longitude":30.908598,
     "meso:adm1_en":"Mashonaland Central",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890416465,
-    "wof:lastmodified":1536617369,
+    "wof:lastmodified":1553724925,
     "wof:name":"Mazowe",
     "wof:parent_id":85681093,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":198966,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-zw",

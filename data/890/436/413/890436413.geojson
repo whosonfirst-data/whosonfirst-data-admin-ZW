@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":169457,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Mutasa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.699531,
     "lbl:longitude":32.64778,
     "meso:adm1_en":"Manicaland",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890436413,
-    "wof:lastmodified":1536617383,
+    "wof:lastmodified":1553724927,
     "wof:name":"Mutasa",
     "wof:parent_id":85681113,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":169457,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-zw",

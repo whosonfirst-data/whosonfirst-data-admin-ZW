@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":228269,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Gweru District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.409917,
     "lbl:longitude":29.497474,
     "meso:adm1_en":"Midlands",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890416473,
-    "wof:lastmodified":1536617370,
+    "wof:lastmodified":1553724925,
     "wof:name":"Gweru",
     "wof:parent_id":85681103,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":228269,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-zw",

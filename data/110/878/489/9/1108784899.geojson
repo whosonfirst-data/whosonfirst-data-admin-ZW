@@ -10,6 +10,12 @@
     "geom:latitude":-17.358925,
     "geom:longitude":30.129707,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Chinhoyi Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.385043,
     "lbl:longitude":30.176544,
     "meso:adm1_en":"Mashonaland West",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784899,
-    "wof:lastmodified":1536615781,
+    "wof:lastmodified":1553724929,
     "wof:name":"Chinhoyi Urban",
     "wof:parent_id":85681131,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"MK",
     "wof:superseded_by":[],

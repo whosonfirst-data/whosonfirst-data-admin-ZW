@@ -10,6 +10,12 @@
     "geom:latitude":-19.693693,
     "geom:longitude":29.997925,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Shurugwi Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.695521,
     "lbl:longitude":29.986147,
     "meso:adm1_en":"Midlands",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784957,
-    "wof:lastmodified":1536615783,
+    "wof:lastmodified":1553724930,
     "wof:name":"Shurugwi Urban",
     "wof:parent_id":85681103,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"SR",
     "wof:superseded_by":[],

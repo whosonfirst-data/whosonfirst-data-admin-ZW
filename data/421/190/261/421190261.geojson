@@ -10,6 +10,12 @@
     "geom:latitude":-17.839848,
     "geom:longitude":31.048996,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Harare Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.838744,
     "lbl:longitude":31.028577,
     "meso:adm1_en":"Harare",
@@ -80,10 +86,11 @@
         }
     ],
     "wof:id":421190261,
-    "wof:lastmodified":1536616080,
+    "wof:lastmodified":1553724925,
     "wof:name":"Harare Urban",
     "wof:parent_id":85681097,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"HA",
     "wof:superseded_by":[],

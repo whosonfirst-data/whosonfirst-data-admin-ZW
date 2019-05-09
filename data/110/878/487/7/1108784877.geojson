@@ -10,6 +10,12 @@
     "geom:latitude":-16.570495,
     "geom:longitude":31.651998,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Mount Darwin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.622065,
     "lbl:longitude":31.685289,
     "meso:adm1_en":"Mashonaland Central",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784877,
-    "wof:lastmodified":1536615781,
+    "wof:lastmodified":1553724928,
     "wof:name":"Mount Darwin",
     "wof:parent_id":85681093,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"MD",
     "wof:superseded_by":[],

@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":56870,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Umzingwane District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.299695,
     "lbl:longitude":28.965002,
     "meso:adm1_en":"Matabeleland South",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890450097,
-    "wof:lastmodified":1536617385,
+    "wof:lastmodified":1553724927,
     "wof:name":"Umzingwane",
     "wof:parent_id":85681117,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":56870,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-zw",

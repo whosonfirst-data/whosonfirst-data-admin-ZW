@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":100562,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Lupane District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.754745,
     "lbl:longitude":27.72419,
     "meso:adm1_en":"Matabeleland North",
@@ -37,10 +43,11 @@
         "Lupane"
     ],
     "name:eng_x_preferred":[
-        "Lupane District"
+        "Lupane"
     ],
     "name:eng_x_variant":[
-        "Lupani District"
+        "Lupani District",
+        "Lupane"
     ],
     "name:ger_x_preferred":[
         "Lupane"
@@ -90,10 +97,11 @@
         }
     ],
     "wof:id":890452765,
-    "wof:lastmodified":1536617386,
+    "wof:lastmodified":1555220350,
     "wof:name":"Lupane",
     "wof:parent_id":85681101,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":100562,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-zw",

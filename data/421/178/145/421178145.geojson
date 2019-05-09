@@ -6,10 +6,17 @@
     "edtf:deprecated":"2016-12-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.801715,-17.870425,30.801715,-17.870425",
     "geom:latitude":-17.870425,
     "geom:longitude":30.801715,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Chegutu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"quattroshapes points import (201603)",
@@ -56,10 +63,11 @@
         }
     ],
     "wof:id":421178145,
-    "wof:lastmodified":1527717722,
+    "wof:lastmodified":1553724925,
     "wof:name":"Chegutu",
     "wof:parent_id":85681131,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

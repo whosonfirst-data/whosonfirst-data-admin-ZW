@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":198369,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Gutu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.616119,
     "lbl:longitude":31.252069,
     "meso:adm1_en":"Masvingo",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890416477,
-    "wof:lastmodified":1536617370,
+    "wof:lastmodified":1553724925,
     "wof:name":"Gutu",
     "wof:parent_id":85681127,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":198369,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-zw",

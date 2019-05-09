@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":161416,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Marondera District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.345794,
     "lbl:longitude":31.671902,
     "meso:adm1_en":"Mashonaland East",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890445295,
-    "wof:lastmodified":1536617384,
+    "wof:lastmodified":1553724927,
     "wof:name":"Marondera",
     "wof:parent_id":85681109,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":161416,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-zw",

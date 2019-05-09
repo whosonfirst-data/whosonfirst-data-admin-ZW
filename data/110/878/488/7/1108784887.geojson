@@ -10,6 +10,12 @@
     "geom:latitude":-18.538316,
     "geom:longitude":32.131372,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Rusape Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.533948,
     "lbl:longitude":32.129022,
     "meso:adm1_en":"Mashonaland East",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784887,
-    "wof:lastmodified":1536615781,
+    "wof:lastmodified":1553724928,
     "wof:name":"Rusape Urban",
     "wof:parent_id":85681113,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"MN",
     "wof:superseded_by":[],

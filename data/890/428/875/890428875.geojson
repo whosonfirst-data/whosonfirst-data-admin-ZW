@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":103889,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Zvishavane District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.130344,
     "lbl:longitude":30.02455,
     "meso:adm1_en":"Midlands",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890428875,
-    "wof:lastmodified":1536617377,
+    "wof:lastmodified":1553724927,
     "wof:name":"Zvishavane",
     "wof:parent_id":85681103,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":103889,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-zw",

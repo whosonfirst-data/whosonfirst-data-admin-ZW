@@ -10,6 +10,12 @@
     "geom:latitude":-20.121821,
     "geom:longitude":28.555622,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Bulawayo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.135979,
     "lbl:longitude":28.566155,
     "meso:adm1_en":"Bulawayo",
@@ -78,10 +84,11 @@
         }
     ],
     "wof:id":421171051,
-    "wof:lastmodified":1536615924,
+    "wof:lastmodified":1553724925,
     "wof:name":"Bulawayo",
     "wof:parent_id":85681121,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"BL",
     "wof:superseded_by":[],

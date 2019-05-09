@@ -10,6 +10,12 @@
     "geom:latitude":-18.199886,
     "geom:longitude":31.548613,
     "iso:country":"ZW",
+    "label:eng_x_preferred_longname":[
+        "Marondera Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.189373,
     "lbl:longitude":31.545357,
     "meso:adm1_en":"Mashonaland East",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784883,
-    "wof:lastmodified":1536615781,
+    "wof:lastmodified":1553724928,
     "wof:name":"Marondera Urban",
     "wof:parent_id":85681109,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"MA",
     "wof:superseded_by":[],
