@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:deu_x_preferred":[
+        "Provinz Harare"
+    ],
     "name:eng_x_preferred":[
         "Harare"
     ],
@@ -33,9 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Harare"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Harare"
     ],
     "name:nob_x_preferred":[
         "Harare Province"
@@ -173,7 +173,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1553550581,
+    "wof:lastmodified":1561840477,
     "wof:name":"Harare",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

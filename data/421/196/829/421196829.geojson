@@ -16,9 +16,6 @@
     "name:deu_x_preferred":[
         "Murewa"
     ],
-    "name:dut_x_preferred":[
-        "Murewa"
-    ],
     "name:eng_x_colloquial":[
         "Murehwa",
         "Mrewa"
@@ -33,10 +30,7 @@
     "name:fra_x_preferred":[
         "Murewa"
     ],
-    "name:fre_x_preferred":[
-        "Murewa"
-    ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Murewa"
     ],
     "qs:gn_country":"ZW",
@@ -85,7 +79,7 @@
         }
     ],
     "wof:id":421196829,
-    "wof:lastmodified":1527716361,
+    "wof:lastmodified":1561840481,
     "wof:name":"Murehwa",
     "wof:parent_id":85681109,
     "wof:placetype":"locality",

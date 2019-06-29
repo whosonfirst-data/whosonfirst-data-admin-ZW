@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Redcliff"
     ],
-    "name:dut_x_preferred":[
-        "Redcliff"
-    ],
     "name:eng_x_preferred":[
         "Redcliff"
     ],
     "name:fra_x_preferred":[
-        "Redcliff"
-    ],
-    "name:fre_x_preferred":[
-        "Redcliff"
-    ],
-    "name:ger_x_preferred":[
         "Redcliff"
     ],
     "name:ita_x_preferred":[
@@ -50,9 +41,6 @@
         "Redcliff"
     ],
     "name:ron_x_preferred":[
-        "Redcliff"
-    ],
-    "name:rum_x_preferred":[
         "Redcliff"
     ],
     "name:rus_x_preferred":[
@@ -118,7 +106,7 @@
         }
     ],
     "wof:id":421170771,
-    "wof:lastmodified":1553816361,
+    "wof:lastmodified":1561840481,
     "wof:name":"Redcliff",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

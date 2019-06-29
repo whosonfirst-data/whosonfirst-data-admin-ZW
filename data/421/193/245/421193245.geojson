@@ -16,17 +16,14 @@
     "name:deu_x_preferred":[
         "Centenary"
     ],
-    "name:dut_x_preferred":[
-        "Centenary"
-    ],
     "name:eng_x_preferred":[
-        "Centenary"
-    ],
-    "name:ger_x_preferred":[
         "Centenary"
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c6\u30ca\u30ea\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "Centenary"
     ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
@@ -74,7 +71,7 @@
         }
     ],
     "wof:id":421193245,
-    "wof:lastmodified":1527716141,
+    "wof:lastmodified":1561840480,
     "wof:name":"Centenary",
     "wof:parent_id":85681093,
     "wof:placetype":"locality",

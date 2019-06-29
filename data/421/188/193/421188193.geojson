@@ -22,19 +22,10 @@
     "name:deu_x_preferred":[
         "Chegutu"
     ],
-    "name:dut_x_preferred":[
-        "Chegutu"
-    ],
     "name:eng_x_preferred":[
         "Chegutu"
     ],
     "name:fra_x_preferred":[
-        "Chegutu"
-    ],
-    "name:fre_x_preferred":[
-        "Chegutu"
-    ],
-    "name:ger_x_preferred":[
         "Chegutu"
     ],
     "name:hun_x_preferred":[
@@ -46,6 +37,9 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30a7\u30b0\u30c8\u30a5"
     ],
+    "name:nld_x_preferred":[
+        "Chegutu"
+    ],
     "name:pol_x_preferred":[
         "Chegutu"
     ],
@@ -53,9 +47,6 @@
         "Chegutu"
     ],
     "name:ron_x_preferred":[
-        "Chegutu"
-    ],
-    "name:rum_x_preferred":[
         "Chegutu"
     ],
     "name:rus_x_preferred":[
@@ -124,7 +115,7 @@
         }
     ],
     "wof:id":421188193,
-    "wof:lastmodified":1514505279,
+    "wof:lastmodified":1561840481,
     "wof:name":"Chegutu",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",

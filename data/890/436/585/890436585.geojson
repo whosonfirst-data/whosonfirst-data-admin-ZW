@@ -19,7 +19,7 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0648\u0645\u062a\u0631\u064a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Plumtree"
     ],
     "name:eng_x_preferred":[
@@ -28,13 +28,13 @@
     "name:fin_x_preferred":[
         "Plumtree"
     ],
-    "name:fre_x_preferred":[
-        "Plumtree"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Plumtree"
     ],
     "name:hrv_x_preferred":[
+        "Plumtree"
+    ],
+    "name:nld_x_preferred":[
         "Plumtree"
     ],
     "name:por_x_preferred":[
@@ -169,7 +169,7 @@
         }
     ],
     "wof:id":890436585,
-    "wof:lastmodified":1527735406,
+    "wof:lastmodified":1561840482,
     "wof:name":"Plumtree",
     "wof:parent_id":85681117,
     "wof:placetype":"locality",

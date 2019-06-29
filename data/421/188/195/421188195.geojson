@@ -20,14 +20,8 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0627\u0646\u062f\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Gwanda"
-    ],
     "name:bar_x_preferred":[
         "Gwanda"
-    ],
-    "name:chi_x_preferred":[
-        "\u95dc\u9054"
     ],
     "name:dan_x_preferred":[
         "Gwanda"
@@ -35,8 +29,8 @@
     "name:deu_x_preferred":[
         "Gwanda"
     ],
-    "name:dut_x_preferred":[
-        "Gwanda"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Gwanda"
@@ -47,17 +41,8 @@
     "name:fra_x_preferred":[
         "Gwanda"
     ],
-    "name:fre_x_preferred":[
-        "Gwanda"
-    ],
     "name:frr_x_preferred":[
         "Gwanda"
-    ],
-    "name:ger_x_preferred":[
-        "Gwanda"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03c5\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:hrv_x_preferred":[
         "Gwanda"
@@ -78,9 +63,6 @@
         "Gwanda"
     ],
     "name:ron_x_preferred":[
-        "Gwanda"
-    ],
-    "name:rum_x_preferred":[
         "Gwanda"
     ],
     "name:rus_x_preferred":[
@@ -241,7 +223,7 @@
         }
     ],
     "wof:id":421188195,
-    "wof:lastmodified":1527716274,
+    "wof:lastmodified":1561840481,
     "wof:name":"Gwanda",
     "wof:parent_id":85681117,
     "wof:placetype":"locality",
