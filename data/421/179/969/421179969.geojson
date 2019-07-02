@@ -17,9 +17,6 @@
     "name:afr_x_preferred":[
         "Kwekwe"
     ],
-    "name:alb_x_preferred":[
-        "Kwekwe"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0643\u0648\u0649"
     ],
@@ -29,17 +26,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09af\u09bc\u09c7\u0995\u09c1\u09af\u09bc\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u594e\u594e\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Kwekwe"
     ],
     "name:deu_x_preferred":[
         "Kwekwe"
     ],
-    "name:dut_x_preferred":[
-        "Kwekwe"
+    "name:ell_x_preferred":[
+        "\u039a\u03b2\u03ad\u03ba\u03b2\u03b5"
     ],
     "name:eng_x_preferred":[
         "Kwekwe"
@@ -52,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Kwekwe"
-    ],
-    "name:fre_x_preferred":[
-        "Kwekwe"
-    ],
-    "name:ger_x_preferred":[
-        "Kwekwe"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b2\u03ad\u03ba\u03b2\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab5\u0ac7\u0a95\u0acd\u0ab5\u0ac7"
@@ -95,7 +80,7 @@
     "name:mar_x_preferred":[
         "\u0915\u0941\u0915\u0935\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kwekwe"
     ],
     "name:nld_x_preferred":[
@@ -116,9 +101,6 @@
     "name:ron_x_preferred":[
         "Kwekwe"
     ],
-    "name:rum_x_preferred":[
-        "Kwekwe"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0432\u0435\u043a\u0432\u0435"
     ],
@@ -126,6 +108,9 @@
         "\u0d9a\u0dca\u0dc0\u0dda\u0d9a\u0dca\u0dc0\u0dda"
     ],
     "name:spa_x_preferred":[
+        "Kwekwe"
+    ],
+    "name:sqi_x_preferred":[
         "Kwekwe"
     ],
     "name:srp_x_preferred":[
@@ -301,7 +286,7 @@
         }
     ],
     "wof:id":421179969,
-    "wof:lastmodified":1527717709,
+    "wof:lastmodified":1561840481,
     "wof:name":"Kwekwe",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

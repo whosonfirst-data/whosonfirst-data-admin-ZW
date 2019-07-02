@@ -16,28 +16,19 @@
     "name:deu_x_preferred":[
         "Mashava"
     ],
-    "name:dut_x_preferred":[
-        "Mashava"
-    ],
     "name:eng_x_preferred":[
         "Mashava"
     ],
     "name:fra_x_preferred":[
         "Mashava Mine"
     ],
-    "name:fre_x_preferred":[
-        "Mashava Mine"
-    ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "mashava"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Mashava"
     ],
     "name:ron_x_preferred":[
-        "Mashava"
-    ],
-    "name:rum_x_preferred":[
         "Mashava"
     ],
     "name:srp_x_preferred":[
@@ -92,7 +83,7 @@
         }
     ],
     "wof:id":421172155,
-    "wof:lastmodified":1527716305,
+    "wof:lastmodified":1561840481,
     "wof:name":"Mashaba",
     "wof:parent_id":85681127,
     "wof:placetype":"locality",

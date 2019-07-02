@@ -16,9 +16,6 @@
     "name:deu_x_preferred":[
         "Mount Darwin"
     ],
-    "name:dut_x_preferred":[
-        "Mount Darwin"
-    ],
     "name:eng_x_preferred":[
         "Mount Darwin"
     ],
@@ -26,10 +23,7 @@
         "Mount Fura",
         "Darwin"
     ],
-    "name:fre_x_preferred":[
-        "Mount Darwin"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mount Darwin"
     ],
     "name:ita_x_preferred":[
@@ -37,6 +31,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30a6\u30f3\u30c8\u30fb\u30c0\u30fc\u30a6\u30a3\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Mount Darwin"
     ],
     "name:sna_x_preferred":[
         "Mount Darwin"
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":421198603,
-    "wof:lastmodified":1527716352,
+    "wof:lastmodified":1561840481,
     "wof:name":"Mount Darwin",
     "wof:parent_id":85681093,
     "wof:placetype":"locality",

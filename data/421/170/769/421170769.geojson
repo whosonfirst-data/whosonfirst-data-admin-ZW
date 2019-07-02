@@ -16,19 +16,10 @@
     "name:deu_x_preferred":[
         "Rusape"
     ],
-    "name:dut_x_preferred":[
-        "Rusape"
-    ],
     "name:eng_x_preferred":[
         "Rusape"
     ],
     "name:fra_x_preferred":[
-        "Rusape"
-    ],
-    "name:fre_x_preferred":[
-        "Rusape"
-    ],
-    "name:ger_x_preferred":[
         "Rusape"
     ],
     "name:ita_x_preferred":[
@@ -37,6 +28,9 @@
     "name:jpn_x_preferred":[
         "\u30eb\u30b5\u30da"
     ],
+    "name:nld_x_preferred":[
+        "Rusape"
+    ],
     "name:pol_x_preferred":[
         "Rusape"
     ],
@@ -44,9 +38,6 @@
         "Rusape"
     ],
     "name:ron_x_preferred":[
-        "Rusape"
-    ],
-    "name:rum_x_preferred":[
         "Rusape"
     ],
     "name:sna_x_preferred":[
@@ -117,7 +108,7 @@
         }
     ],
     "wof:id":421170769,
-    "wof:lastmodified":1527716466,
+    "wof:lastmodified":1561840481,
     "wof:name":"Rusape",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

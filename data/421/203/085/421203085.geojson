@@ -17,19 +17,10 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u064a\u0628\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Kariba"
-    ],
-    "name:chi_x_preferred":[
-        "\u5361\u91cc\u5df4"
-    ],
     "name:dan_x_preferred":[
         "Kariba"
     ],
     "name:deu_x_preferred":[
-        "Kariba"
-    ],
-    "name:dut_x_preferred":[
         "Kariba"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "Kariba"
     ],
     "name:fra_x_preferred":[
-        "Kariba"
-    ],
-    "name:fre_x_preferred":[
-        "Kariba"
-    ],
-    "name:ger_x_preferred":[
         "Kariba"
     ],
     "name:ita_x_preferred":[
@@ -59,6 +44,9 @@
     "name:lit_x_preferred":[
         "Kariba"
     ],
+    "name:nld_x_preferred":[
+        "Kariba"
+    ],
     "name:nob_x_preferred":[
         "Kariba"
     ],
@@ -69,9 +57,6 @@
         "Kariba"
     ],
     "name:ron_x_preferred":[
-        "Kariba"
-    ],
-    "name:rum_x_preferred":[
         "Kariba"
     ],
     "name:rus_x_preferred":[
@@ -238,7 +223,7 @@
         }
     ],
     "wof:id":421203085,
-    "wof:lastmodified":1527716191,
+    "wof:lastmodified":1561840480,
     "wof:name":"Kariba",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",

@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Shamva"
     ],
-    "name:dut_x_preferred":[
-        "Shamva"
-    ],
     "name:eng_x_preferred":[
         "Shamva"
     ],
@@ -39,22 +36,16 @@
     "name:fra_x_preferred":[
         "Shamva"
     ],
-    "name:fre_x_preferred":[
-        "Shamva"
-    ],
-    "name:ger_x_preferred":[
-        "Shamva"
-    ],
     "name:ita_x_preferred":[
+        "Shamva"
+    ],
+    "name:nld_x_preferred":[
         "Shamva"
     ],
     "name:por_x_preferred":[
         "Shamva"
     ],
     "name:ron_x_preferred":[
-        "Shamva"
-    ],
-    "name:rum_x_preferred":[
         "Shamva"
     ],
     "name:srp_x_preferred":[
@@ -198,7 +189,7 @@
         }
     ],
     "wof:id":421168757,
-    "wof:lastmodified":1527716096,
+    "wof:lastmodified":1561840480,
     "wof:name":"Shamva",
     "wof:parent_id":85681093,
     "wof:placetype":"locality",

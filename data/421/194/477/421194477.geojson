@@ -19,31 +19,22 @@
     "name:deu_x_preferred":[
         "Shurugwi"
     ],
-    "name:dut_x_preferred":[
-        "Shurugwi"
-    ],
     "name:eng_x_preferred":[
         "Shurugwi"
     ],
     "name:fra_x_preferred":[
         "Shurugwi"
     ],
-    "name:fre_x_preferred":[
-        "Shurugwi"
-    ],
-    "name:ger_x_preferred":[
-        "Shurugwi"
-    ],
     "name:kor_x_preferred":[
         "\uc288\ub8e8\uadc0"
+    ],
+    "name:nld_x_preferred":[
+        "Shurugwi"
     ],
     "name:pol_x_preferred":[
         "Shurugwi"
     ],
     "name:ron_x_preferred":[
-        "Shurugwi"
-    ],
-    "name:rum_x_preferred":[
         "Shurugwi"
     ],
     "name:srp_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":421194477,
-    "wof:lastmodified":1527716129,
+    "wof:lastmodified":1561840480,
     "wof:name":"Shurugwi",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

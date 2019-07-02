@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Beatriz"
     ],
-    "name:dut_x_preferred":[
-        "Beatrice"
-    ],
     "name:ell_x_preferred":[
         "\u0392\u03b5\u03b1\u03c4\u03c1\u03af\u03ba\u03b7"
     ],
@@ -106,7 +103,7 @@
         }
     ],
     "wof:id":421196819,
-    "wof:lastmodified":1527716362,
+    "wof:lastmodified":1561840481,
     "wof:name":"Beatrice",
     "wof:parent_id":85681109,
     "wof:placetype":"locality",

@@ -22,19 +22,13 @@
     "name:deu_x_preferred":[
         "Victoria Falls"
     ],
-    "name:dut_x_preferred":[
-        "Victoria Falls"
-    ],
     "name:eng_x_preferred":[
         "Victoria Falls"
     ],
     "name:fra_x_preferred":[
         "Chutes Victoria"
     ],
-    "name:fre_x_preferred":[
-        "Victoria Falls"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Victoria Falls"
     ],
     "name:heb_x_preferred":[
@@ -49,6 +43,9 @@
     "name:lit_x_preferred":[
         "Viktorija Folsas"
     ],
+    "name:nld_x_preferred":[
+        "Victoria Falls"
+    ],
     "name:nob_x_preferred":[
         "Victoria Falls"
     ],
@@ -58,7 +55,7 @@
     "name:por_x_preferred":[
         "Victoria Falls"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Victoria Falls"
     ],
     "name:rus_x_preferred":[
@@ -211,7 +208,7 @@
         }
     ],
     "wof:id":890443477,
-    "wof:lastmodified":1527787059,
+    "wof:lastmodified":1561840482,
     "wof:name":"Victoria Falls",
     "wof:parent_id":1108784931,
     "wof:placetype":"locality",

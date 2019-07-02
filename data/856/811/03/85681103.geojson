@@ -34,9 +34,6 @@
     "name:ast_x_preferred":[
         "Midlands"
     ],
-    "name:baq_x_preferred":[
-        "Midlands"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09a1\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -46,14 +43,14 @@
     "name:cat_x_preferred":[
         "Midlands"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u90e8\u7701"
-    ],
     "name:dan_x_preferred":[
         "Midlands"
     ],
-    "name:dut_x_preferred":[
-        "Midlands"
+    "name:deu_x_preferred":[
+        "Provinz Midlands"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03bd\u03c4\u03bb\u03b1\u03bd\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Midlands"
@@ -64,23 +61,20 @@
     "name:est_x_preferred":[
         "Midlandsi provints"
     ],
+    "name:eus_x_preferred":[
+        "Midlands"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u06cc\u062f\u0644\u0646\u062f\u0632"
+    ],
     "name:fin_x_preferred":[
         "Midlands"
     ],
     "name:fra_x_preferred":[
         "Midlands"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Province des Midlands"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10d3\u10da\u10d4\u10dc\u10d3\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Midlands"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03af\u03bd\u03c4\u03bb\u03b1\u03bd\u03c4\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0aa1\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -100,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cbf\u0ca1\u0ccd\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10d3\u10da\u10d4\u10dc\u10d3\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubbf8\ub4e4\ub79c\uc988 \uc8fc"
     ],
@@ -112,17 +109,17 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0921\u0932\u0902\u0921\u094d\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Midlands Province"
-    ],
     "name:mrj_x_preferred":[
         "\u041c\u0438\u0434\u043b\u0435\u043d\u0434\u0441"
     ],
-    "name:nob_x_preferred":[
+    "name:msa_x_preferred":[
+        "Midlands Province"
+    ],
+    "name:nld_x_preferred":[
         "Midlands"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u06cc\u062f\u0644\u0646\u062f\u0632"
+    "name:nob_x_preferred":[
+        "Midlands"
     ],
     "name:pol_x_preferred":[
         "Midlands"
@@ -130,7 +127,7 @@
     "name:por_x_preferred":[
         "Midlands"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Midlands"
     ],
     "name:rus_x_preferred":[
@@ -171,6 +168,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Midlands"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u90e8\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ZWE",
@@ -299,7 +299,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1553550583,
+    "wof:lastmodified":1561840475,
     "wof:name":"Midlands",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

@@ -16,19 +16,10 @@
     "name:deu_x_preferred":[
         "Norton"
     ],
-    "name:dut_x_preferred":[
-        "Norton"
-    ],
     "name:eng_x_preferred":[
         "Norton"
     ],
     "name:fra_x_preferred":[
-        "Norton"
-    ],
-    "name:fre_x_preferred":[
-        "Norton"
-    ],
-    "name:ger_x_preferred":[
         "Norton"
     ],
     "name:heb_x_preferred":[
@@ -37,13 +28,13 @@
     "name:ita_x_preferred":[
         "Norton"
     ],
+    "name:nld_x_preferred":[
+        "Norton"
+    ],
     "name:pol_x_preferred":[
         "Norton"
     ],
     "name:ron_x_preferred":[
-        "Norton"
-    ],
-    "name:rum_x_preferred":[
         "Norton"
     ],
     "name:rus_x_preferred":[
@@ -110,7 +101,7 @@
         }
     ],
     "wof:id":421167149,
-    "wof:lastmodified":1527716163,
+    "wof:lastmodified":1561840480,
     "wof:name":"Norton",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",

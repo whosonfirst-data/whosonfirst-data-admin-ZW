@@ -14,16 +14,13 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chiredzi"
     ],
     "name:eng_x_preferred":[
         "Chiredzi"
     ],
-    "name:fre_x_preferred":[
-        "Chiredzi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chiredzi"
     ],
     "name:ita_x_preferred":[
@@ -32,10 +29,13 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30ec\u30c9\u30b8"
     ],
+    "name:nld_x_preferred":[
+        "Chiredzi"
+    ],
     "name:pol_x_preferred":[
         "Chiredzi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chiredzi"
     ],
     "name:sna_x_preferred":[
@@ -183,7 +183,7 @@
         }
     ],
     "wof:id":421188191,
-    "wof:lastmodified":1514505279,
+    "wof:lastmodified":1561840481,
     "wof:name":"Chiredzi",
     "wof:parent_id":85681127,
     "wof:placetype":"locality",

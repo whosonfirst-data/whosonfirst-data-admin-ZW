@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u064a\u0631\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Gweru"
-    ],
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09af\u09c7\u09b0\u09c1"
     ],
@@ -32,17 +29,14 @@
     "name:cat_x_preferred":[
         "Gweru"
     ],
-    "name:chi_x_preferred":[
-        "\u572d\u6d1b"
-    ],
     "name:dan_x_preferred":[
         "Gweru"
     ],
     "name:deu_x_preferred":[
         "Gweru"
     ],
-    "name:dut_x_preferred":[
-        "Gweru"
+    "name:ell_x_preferred":[
+        "\u039a\u03b2\u03ad\u03c1\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Gweru"
@@ -50,20 +44,17 @@
     "name:epo_x_preferred":[
         "Gweru"
     ],
+    "name:eus_x_preferred":[
+        "Gweru"
+    ],
     "name:fin_x_preferred":[
         "Gweru"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gweru"
     ],
     "name:frr_x_preferred":[
         "Gweru"
-    ],
-    "name:ger_x_preferred":[
-        "Gweru"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b2\u03ad\u03c1\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab5\u0ac7\u0ab0\u0ac1"
@@ -98,11 +89,14 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u0935\u0947\u0930\u0941"
     ],
-    "name:may_x_preferred":[
-        "Gweru"
-    ],
     "name:mrj_x_preferred":[
         "\u0413\u0432\u0435\u0440\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Gweru"
+    ],
+    "name:nld_x_preferred":[
+        "Gweru"
     ],
     "name:nob_x_preferred":[
         "Gweru"
@@ -113,7 +107,7 @@
     "name:por_x_preferred":[
         "Gweru"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gweru"
     ],
     "name:rus_x_preferred":[
@@ -160,6 +154,9 @@
     ],
     "name:war_x_preferred":[
         "Gweru"
+    ],
+    "name:zho_x_preferred":[
+        "\u572d\u6d1b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zimbabwe",
@@ -300,7 +297,7 @@
         }
     ],
     "wof:id":421173191,
-    "wof:lastmodified":1527716258,
+    "wof:lastmodified":1561840481,
     "wof:name":"Gweru",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",
