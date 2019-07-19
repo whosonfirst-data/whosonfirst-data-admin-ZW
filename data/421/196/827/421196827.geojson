@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bar_x_preferred":[
+        "Nyazura"
+    ],
+    "name:ceb_x_preferred":[
+        "Nyazura"
+    ],
     "name:deu_x_preferred":[
         "Nyazura"
     ],
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421196827,
-    "wof:lastmodified":1561840481,
+    "wof:lastmodified":1563572272,
     "wof:name":"Nyazura",
     "wof:parent_id":85681113,
     "wof:placetype":"locality",

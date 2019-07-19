@@ -42,6 +42,9 @@
     "name:eng_x_variant":[
         "Nkayi District"
     ],
+    "name:jpn_x_preferred":[
+        "Insiza"
+    ],
     "qs:name":"Nkayi District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890450107,
-    "wof:lastmodified":1555220350,
+    "wof:lastmodified":1563572310,
     "wof:name":"Nkayi",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

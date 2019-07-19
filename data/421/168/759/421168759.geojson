@@ -14,6 +14,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bar_x_preferred":[
+        "Mazowe"
+    ],
+    "name:ceb_x_preferred":[
+        "Mazowe"
+    ],
     "name:eng_x_preferred":[
         "Mazowe"
     ],
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":421168759,
-    "wof:lastmodified":1561840480,
+    "wof:lastmodified":1563572260,
     "wof:name":"Mazoe",
     "wof:parent_id":85681093,
     "wof:placetype":"locality",

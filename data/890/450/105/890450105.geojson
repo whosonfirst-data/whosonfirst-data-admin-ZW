@@ -36,6 +36,15 @@
     "mps:longitude":32.762952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nyanga District"
+    ],
+    "name:eng_x_preferred":[
+        "Nyanga District"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30e3\u30f3\u30ac\u5730\u533a"
+    ],
     "name:unk_x_variant":[
         "Nyanga District"
     ],
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":890450105,
-    "wof:lastmodified":1553724927,
+    "wof:lastmodified":1563572309,
     "wof:name":"Nyanga",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

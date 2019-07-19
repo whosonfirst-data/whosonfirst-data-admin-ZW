@@ -42,6 +42,18 @@
     "name:eng_x_variant":[
         "Kariba District"
     ],
+    "name:eus_x_preferred":[
+        "Kariba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ea\u30d0\u5730\u533a"
+    ],
+    "name:lit_x_preferred":[
+        "Karibos rajonas"
+    ],
+    "name:nld_x_preferred":[
+        "Kariba"
+    ],
     "qs:name":"Kariba District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":890452769,
-    "wof:lastmodified":1555220350,
+    "wof:lastmodified":1563572290,
     "wof:name":"Kariba",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

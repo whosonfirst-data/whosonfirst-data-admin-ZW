@@ -16,6 +16,15 @@
     "name:afr_x_preferred":[
         "Redcliff"
     ],
+    "name:ast_x_preferred":[
+        "Redcliff"
+    ],
+    "name:bar_x_preferred":[
+        "Redcliff"
+    ],
+    "name:ceb_x_preferred":[
+        "Redcliff"
+    ],
     "name:deu_x_preferred":[
         "Redcliff"
     ],
@@ -57,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0688\u06a9\u0644\u0641\u060c \u0632\u0645\u0628\u0627\u0628\u0648\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u0631\u06cc\u0688\u06a9\u0644\u0641"
     ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":421170771,
-    "wof:lastmodified":1561840481,
+    "wof:lastmodified":1563572279,
     "wof:name":"Redcliff",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

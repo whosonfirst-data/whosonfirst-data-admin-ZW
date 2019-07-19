@@ -18,6 +18,12 @@
     "name:afr_x_preferred":[
         "Mvuma"
     ],
+    "name:bar_x_preferred":[
+        "Mvuma"
+    ],
+    "name:ceb_x_preferred":[
+        "Mvuma"
+    ],
     "name:deu_x_preferred":[
         "Mvuma"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890433485,
-    "wof:lastmodified":1561840483,
+    "wof:lastmodified":1563572307,
     "wof:name":"Mvuma",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

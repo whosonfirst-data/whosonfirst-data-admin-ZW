@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u043a\u0435\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Banket"
+    ],
     "name:eng_x_preferred":[
         "Banket"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890436939,
-    "wof:lastmodified":1561840482,
+    "wof:lastmodified":1563572292,
     "wof:name":"Banket",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",

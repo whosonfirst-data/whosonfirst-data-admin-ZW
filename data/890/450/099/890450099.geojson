@@ -36,6 +36,15 @@
     "mps:longitude":30.239909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Shurugwi District"
+    ],
+    "name:eng_x_preferred":[
+        "Shurugwi District"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30eb\u30b0\u30a6\u30a3\u5730\u533a"
+    ],
     "name:unk_x_variant":[
         "Churugwi"
     ],
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":890450099,
-    "wof:lastmodified":1553724927,
+    "wof:lastmodified":1563572309,
     "wof:name":"Shurugwi",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bar_x_preferred":[
+        "Filabusi"
+    ],
+    "name:ceb_x_preferred":[
+        "Filabusi"
+    ],
     "name:eng_x_preferred":[
         "Filabusi"
     ],
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421203683,
-    "wof:lastmodified":1561840481,
+    "wof:lastmodified":1563572266,
     "wof:name":"Filabusi",
     "wof:parent_id":85681117,
     "wof:placetype":"locality",

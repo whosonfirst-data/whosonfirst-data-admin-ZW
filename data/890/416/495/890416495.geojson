@@ -36,12 +36,36 @@
     "mps:longitude":27.645091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Binga District"
+    ],
+    "name:dan_x_preferred":[
+        "Binga"
+    ],
+    "name:deu_x_preferred":[
+        "Binga"
+    ],
     "name:eng_x_preferred":[
         "Binga"
     ],
     "name:eng_x_variant":[
         "Vinga",
+        "Binga District"
+    ],
+    "name:fin_x_preferred":[
         "Binga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30f3\u30ac\u5730\u533a"
+    ],
+    "name:nob_x_preferred":[
+        "Binga"
+    ],
+    "name:por_x_preferred":[
+        "Binga"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u043d\u0433\u0430"
     ],
     "name:unk_x_variant":[
         "Vinga"
@@ -82,7 +106,7 @@
         }
     ],
     "wof:id":890416495,
-    "wof:lastmodified":1555220348,
+    "wof:lastmodified":1563572306,
     "wof:name":"Binga",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

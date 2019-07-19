@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Centenary"
+    ],
     "name:deu_x_preferred":[
         "Centenary"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421193245,
-    "wof:lastmodified":1561840480,
+    "wof:lastmodified":1563572262,
     "wof:name":"Centenary",
     "wof:parent_id":85681093,
     "wof:placetype":"locality",

@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u0641\u064a\u0646\u063a\u0648"
     ],
+    "name:bar_x_preferred":[
+        "Masvingo"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u09b8\u09ad\u09bf\u0999\u09cd\u0997\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Masvingo"
     ],
     "name:dan_x_preferred":[
         "Masvingo"
@@ -45,6 +51,9 @@
         "Masvingo"
     ],
     "name:fra_x_preferred":[
+        "Masvingo"
+    ],
+    "name:frr_x_preferred":[
         "Masvingo"
     ],
     "name:guj_x_preferred":[
@@ -107,6 +116,9 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dc3\u0dca\u0dc0\u0dd2\u0db1\u0dca\u0d9c\u0ddd"
     ],
+    "name:sna_x_preferred":[
+        "Masvingo"
+    ],
     "name:spa_x_preferred":[
         "Masvingo"
     ],
@@ -118,6 +130,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bbe\u0b9a\u0bc1\u0bb5\u0bbf\u0b99\u0bcd\u0b95\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0441\u0432\u0438\u043d\u0433\u043e"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c38\u0c4d\u0c35\u0c3f\u0c28\u0c4d\u0c17\u0c4a"
@@ -284,7 +299,7 @@
         }
     ],
     "wof:id":421179967,
-    "wof:lastmodified":1561840481,
+    "wof:lastmodified":1563572280,
     "wof:name":"Masvingo",
     "wof:parent_id":85681127,
     "wof:placetype":"locality",

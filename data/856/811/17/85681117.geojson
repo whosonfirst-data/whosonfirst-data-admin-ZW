@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062c\u0646\u0648\u0628 \u0645\u0627\u062a\u0627\u0628\u064a\u0644\u064a\u0644\u0627\u0646\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0645\u0627\u062a\u0627\u0628\u064a\u0644\u064a\u0644\u0627\u0646\u062f \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
+    "name:bar_x_preferred":[
+        "Provinz Matabeleland South"
+    ],
     "name:bel_x_variant":[
         "\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u044b \u041c\u0430\u0442\u0430\u0431\u044d\u043b\u0435\u043b\u044d\u043d\u0434"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:cat_x_preferred":[
         "Matabeleland Meridional"
+    ],
+    "name:ceb_x_preferred":[
+        "Matabeleland South Province"
     ],
     "name:dan_x_preferred":[
         "Matabeleland South"
@@ -62,6 +71,9 @@
     "name:est_x_preferred":[
         "L\u00f5una-Matabelelandi provints"
     ],
+    "name:est_x_variant":[
+        "L\u00f5una-Matabeleland"
+    ],
     "name:eus_x_preferred":[
         "Hegoaldeko Matabeleland"
     ],
@@ -77,6 +89,9 @@
     "name:fra_x_variant":[
         "Matabeleland M\u00e9ridional"
     ],
+    "name:frr_x_preferred":[
+        "Matabeleland South"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a9f\u0ac7\u0aac\u0ac7\u0ab2\u0ac7\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -89,6 +104,9 @@
     "name:ita_x_preferred":[
         "Provincia del Matabeleland Meridionale"
     ],
+    "name:ita_x_variant":[
+        "provincia del Matabeleland Meridionale"
+    ],
     "name:jpn_x_preferred":[
         "\u5357\u30de\u30bf\u30d9\u30ec\u30e9\u30f3\u30c9\u5dde"
     ],
@@ -100,6 +118,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub0a8\ub9c8\ud0c0\ubca8\ub79c\ub4dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\ub9c8\ud0c0\ubca8\ub79c\ub4dc\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Dienvidmatabelelendas province"
@@ -160,6 +181,9 @@
     ],
     "name:tur_x_preferred":[
         "Matabeleland G\u00fcney"
+    ],
+    "name:tur_x_variant":[
+        "G\u00fcney Matabeleland"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u041c\u0430\u0442\u0430\u0431\u0435\u043b\u0435\u043b\u0435\u043d\u0434"
@@ -304,7 +328,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1561840476,
+    "wof:lastmodified":1563572089,
     "wof:name":"Matabeleland South",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

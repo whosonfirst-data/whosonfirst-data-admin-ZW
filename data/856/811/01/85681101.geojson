@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0645\u0627\u0644 \u0645\u0627\u062a\u0627\u0628\u064a\u0644\u064a\u0644\u0627\u0646\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0645\u0627\u062a\u0627\u0628\u064a\u0644\u064a\u0644\u0627\u0646\u062f \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
     "name:bel_x_variant":[
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b \u041c\u0430\u0442\u0430\u0431\u044d\u043b\u0435\u043b\u044d\u043d\u0434"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:cat_x_preferred":[
         "Matabeleland Septentrional"
+    ],
+    "name:ceb_x_preferred":[
+        "Matabeleland North Province"
     ],
     "name:dan_x_preferred":[
         "Matabeleland North"
@@ -62,6 +68,9 @@
     "name:est_x_preferred":[
         "P\u00f5hja-Matabelelandi provints"
     ],
+    "name:est_x_variant":[
+        "P\u00f5hja-Matabeleland"
+    ],
     "name:eus_x_preferred":[
         "Iparraldeko Matabeleland"
     ],
@@ -77,6 +86,9 @@
     "name:fra_x_variant":[
         "Matabeleland Septentrional"
     ],
+    "name:frr_x_preferred":[
+        "Matabeleland North"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0aa4\u0abe\u0aac\u0ac7\u0ab2\u0ac7\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -89,6 +101,9 @@
     "name:ita_x_preferred":[
         "Provincia del Matabeleland Settentrionale"
     ],
+    "name:ita_x_variant":[
+        "provincia del Matabeleland Settentrionale"
+    ],
     "name:jpn_x_preferred":[
         "\u5317\u30de\u30bf\u30d9\u30ec\u30e9\u30f3\u30c9\u5dde"
     ],
@@ -100,6 +115,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd81\ub9c8\ud0c0\ubca8\ub79c\ub4dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubd81\ub9c8\ud0c0\ubca8\ub79c\ub4dc\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Zieme\u013cmatabelelendas province"
@@ -163,6 +181,9 @@
     ],
     "name:tur_x_preferred":[
         "Matabeleland Kuzey"
+    ],
+    "name:tur_x_variant":[
+        "Kuzey Matabeleland"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0438\u0439 \u041c\u0430\u0442\u0430\u0431\u0435\u043b\u0435\u043b\u0435\u043d\u0434"
@@ -307,7 +328,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1561840476,
+    "wof:lastmodified":1563572093,
     "wof:name":"Matabeleland North",
     "wof:parent_id":85632243,
     "wof:placetype":"region",
