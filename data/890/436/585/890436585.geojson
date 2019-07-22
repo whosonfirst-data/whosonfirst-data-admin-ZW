@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0648\u0645\u062a\u0631\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Plumtree"
+    ],
     "name:deu_x_preferred":[
         "Plumtree"
     ],
@@ -34,7 +37,13 @@
     "name:hrv_x_preferred":[
         "Plumtree"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30e9\u30e0\u30c4\u30ea\u30fc"
+    ],
     "name:nld_x_preferred":[
+        "Plumtree"
+    ],
+    "name:pol_x_preferred":[
         "Plumtree"
     ],
     "name:por_x_preferred":[
@@ -169,7 +178,7 @@
         }
     ],
     "wof:id":890436585,
-    "wof:lastmodified":1561840482,
+    "wof:lastmodified":1563572293,
     "wof:name":"Plumtree",
     "wof:parent_id":85681117,
     "wof:placetype":"locality",

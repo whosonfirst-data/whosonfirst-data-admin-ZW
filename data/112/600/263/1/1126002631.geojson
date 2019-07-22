@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Gokwe"
+    ],
     "name:deu_x_preferred":[
         "Gokwe"
     ],
@@ -28,8 +31,14 @@
     "name:fra_x_preferred":[
         "Gokwe"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30af\u30a6\u30a7"
+    ],
     "name:nld_x_preferred":[
         "Gokwe centre"
+    ],
+    "name:pol_x_preferred":[
+        "Gokwe"
     ],
     "name:ron_x_preferred":[
         "Gokwe"
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1126002631,
-    "wof:lastmodified":1561840483,
+    "wof:lastmodified":1563572312,
     "wof:name":"Gokwe",
     "wof:parent_id":1108784947,
     "wof:placetype":"locality",

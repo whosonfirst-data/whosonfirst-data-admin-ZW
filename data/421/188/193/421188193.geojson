@@ -16,8 +16,14 @@
     "name:afr_x_preferred":[
         "Chegutu"
     ],
+    "name:bar_x_preferred":[
+        "Chegutu"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0435\u0433\u0443\u0442\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Chegutu"
     ],
     "name:deu_x_preferred":[
         "Chegutu"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421188193,
-    "wof:lastmodified":1561840481,
+    "wof:lastmodified":1563572270,
     "wof:name":"Chegutu",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",

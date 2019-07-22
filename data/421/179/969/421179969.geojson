@@ -23,6 +23,9 @@
     "name:arz_x_preferred":[
         "\u0643\u0648\u064a\u0643\u0648\u0649"
     ],
+    "name:bar_x_preferred":[
+        "Kwekwe"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09af\u09bc\u09c7\u0995\u09c1\u09af\u09bc\u09c7"
     ],
@@ -286,7 +289,7 @@
         }
     ],
     "wof:id":421179969,
-    "wof:lastmodified":1561840481,
+    "wof:lastmodified":1563572281,
     "wof:name":"Kwekwe",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

@@ -36,6 +36,12 @@
     "mps:longitude":29.497474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Gweru District"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a6\u30a7\u30eb\u5730\u533a"
+    ],
     "name:unk_x_variant":[
         "Gwelo"
     ],
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890416473,
-    "wof:lastmodified":1553724925,
+    "wof:lastmodified":1563572304,
     "wof:name":"Gweru",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

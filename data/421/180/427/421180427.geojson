@@ -16,6 +16,15 @@
     "name:afr_x_preferred":[
         "Chivhu"
     ],
+    "name:ast_x_preferred":[
+        "Chivhu"
+    ],
+    "name:bar_x_preferred":[
+        "Chivhu"
+    ],
+    "name:ceb_x_preferred":[
+        "Chivhu"
+    ],
     "name:deu_x_preferred":[
         "Chivhu"
     ],
@@ -32,6 +41,9 @@
         "Chivhu"
     ],
     "name:nob_x_preferred":[
+        "Chivhu"
+    ],
+    "name:pol_x_preferred":[
         "Chivhu"
     ],
     "name:ron_x_preferred":[
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":421180427,
-    "wof:lastmodified":1561840481,
+    "wof:lastmodified":1563572268,
     "wof:name":"Chivhu",
     "wof:parent_id":85681109,
     "wof:placetype":"locality",

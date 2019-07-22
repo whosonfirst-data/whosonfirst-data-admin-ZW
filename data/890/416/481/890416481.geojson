@@ -36,6 +36,24 @@
     "mps:longitude":32.715822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Melsetter"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Chimanimani"
+    ],
+    "name:eng_x_preferred":[
+        "Chimanimani District"
+    ],
+    "name:fin_x_preferred":[
+        "Chimanimani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30de\u30cb\u30de\u30cb\u5730\u533a"
+    ],
+    "name:por_x_preferred":[
+        "Chimanimani"
+    ],
     "name:unk_x_variant":[
         "Chimanimani District"
     ],
@@ -75,7 +93,7 @@
         }
     ],
     "wof:id":890416481,
-    "wof:lastmodified":1553724926,
+    "wof:lastmodified":1563572303,
     "wof:name":"Chimanimani",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

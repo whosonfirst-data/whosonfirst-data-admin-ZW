@@ -18,13 +18,25 @@
     "name:afr_x_preferred":[
         "Esigodini"
     ],
+    "name:bar_x_preferred":[
+        "Esigodini"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u0441\u0438\u0433\u043e\u0434\u0438\u043d\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Esigodini"
+    ],
+    "name:ceb_x_preferred":[
+        "Esigodini"
     ],
     "name:deu_x_preferred":[
         "Esigodini"
     ],
     "name:eng_x_preferred":[
+        "Esigodini"
+    ],
+    "name:ita_x_preferred":[
         "Esigodini"
     ],
     "name:ltz_x_preferred":[
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":890452367,
-    "wof:lastmodified":1561840482,
+    "wof:lastmodified":1563572291,
     "wof:name":"Esigodini",
     "wof:parent_id":85681117,
     "wof:placetype":"locality",

@@ -36,6 +36,24 @@
     "mps:longitude":28.485269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Thuli"
+    ],
+    "name:cym_x_preferred":[
+        "Afon Thuli"
+    ],
+    "name:deu_x_preferred":[
+        "Thuli"
+    ],
+    "name:eng_x_preferred":[
+        "Thuli River"
+    ],
+    "name:hin_x_preferred":[
+        "\u0925\u0942\u0932\u0940 \u0928\u0926\u0940"
+    ],
+    "name:nob_x_preferred":[
+        "Thuli"
+    ],
     "name:unk_x_variant":[
         "Matobo District"
     ],
@@ -75,7 +93,7 @@
         }
     ],
     "wof:id":890452761,
-    "wof:lastmodified":1553724927,
+    "wof:lastmodified":1563572291,
     "wof:name":"Matobo",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

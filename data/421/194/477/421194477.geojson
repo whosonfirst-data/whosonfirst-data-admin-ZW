@@ -16,6 +16,12 @@
     "name:afr_x_preferred":[
         "Shurugwi"
     ],
+    "name:bar_x_preferred":[
+        "Selukwe"
+    ],
+    "name:dan_x_preferred":[
+        "Shurugwi"
+    ],
     "name:deu_x_preferred":[
         "Shurugwi"
     ],
@@ -24,6 +30,15 @@
     ],
     "name:fra_x_preferred":[
         "Shurugwi"
+    ],
+    "name:gle_x_preferred":[
+        "Shurugwi"
+    ],
+    "name:ita_x_preferred":[
+        "Shurugwi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30eb\u30b0\u30a6\u30a3"
     ],
     "name:kor_x_preferred":[
         "\uc288\ub8e8\uadc0"
@@ -37,6 +52,9 @@
     "name:ron_x_preferred":[
         "Shurugwi"
     ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0440\u0443\u0433\u0432\u0438"
+    ],
     "name:srp_x_preferred":[
         "\u0428\u0443\u0440\u0443\u0433\u0432\u0438"
     ],
@@ -45,6 +63,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u0648\u0631\u0648\u06af\u0648\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u8212\u9b6f\u572d"
     ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
@@ -91,7 +112,7 @@
         }
     ],
     "wof:id":421194477,
-    "wof:lastmodified":1561840480,
+    "wof:lastmodified":1563572262,
     "wof:name":"Shurugwi",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

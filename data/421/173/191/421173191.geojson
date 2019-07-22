@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u064a\u0631\u0648"
     ],
+    "name:bar_x_preferred":[
+        "Gweru"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09af\u09c7\u09b0\u09c1"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:cat_x_preferred":[
         "Gweru"
+    ],
+    "name:ceb_x_preferred":[
+        "Gweru District"
     ],
     "name:dan_x_preferred":[
         "Gweru"
@@ -297,7 +303,7 @@
         }
     ],
     "wof:id":421173191,
-    "wof:lastmodified":1561840481,
+    "wof:lastmodified":1563572269,
     "wof:name":"Gweru",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

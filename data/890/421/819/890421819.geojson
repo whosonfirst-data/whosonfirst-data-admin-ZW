@@ -15,6 +15,12 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Odzi"
+    ],
+    "name:ceb_x_preferred":[
+        "Odzi"
+    ],
     "name:deu_x_preferred":[
         "Odzi"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":890421819,
-    "wof:lastmodified":1561840482,
+    "wof:lastmodified":1563572295,
     "wof:name":"Odzi",
     "wof:parent_id":85681113,
     "wof:placetype":"locality",

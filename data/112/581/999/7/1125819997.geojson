@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u0646\u063a\u064a"
     ],
+    "name:bar_x_preferred":[
+        "Hwange"
+    ],
+    "name:ceb_x_preferred":[
+        "Hwange"
+    ],
     "name:dan_x_preferred":[
         "Hwange"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0432\u0430\u043d\u0433\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Hwange"
     ],
     "name:srp_x_preferred":[
         "\u0425\u0432\u0430\u043d\u0433\u0435"
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":1125819997,
-    "wof:lastmodified":1561840483,
+    "wof:lastmodified":1563572311,
     "wof:name":"Hwange",
     "wof:parent_id":1108784923,
     "wof:placetype":"locality",

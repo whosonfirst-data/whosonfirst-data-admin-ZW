@@ -36,6 +36,24 @@
     "mps:longitude":30.908598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mazowe District"
+    ],
+    "name:eng_x_preferred":[
+        "Mazowe District"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30be\u30a6\u30a7\u5730\u533a"
+    ],
+    "name:lit_x_preferred":[
+        "Mazov\u0117s rajonas"
+    ],
+    "name:nld_x_preferred":[
+        "Mazowe District"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0437\u043e\u0432\u0435"
+    ],
     "name:unk_x_variant":[
         "Mazowe District"
     ],
@@ -75,7 +93,7 @@
         }
     ],
     "wof:id":890416465,
-    "wof:lastmodified":1553724925,
+    "wof:lastmodified":1563572302,
     "wof:name":"Mazowe",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u062a\u0627\u0631\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Mutare"
+    ],
+    "name:bar_x_preferred":[
+        "Mutare"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0443\u0442\u0430\u0440\u044d"
     ],
@@ -27,6 +33,15 @@
         "\u09ae\u09c1\u09a4\u09be\u09b0\u09c7"
     ],
     "name:cat_x_preferred":[
+        "Mutare"
+    ],
+    "name:ceb_x_preferred":[
+        "Mutare District"
+    ],
+    "name:ces_x_preferred":[
+        "Mutare"
+    ],
+    "name:cym_x_preferred":[
         "Mutare"
     ],
     "name:dan_x_preferred":[
@@ -142,6 +157,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e39\u0e40\u0e17\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e39\u0e15\u0e32\u0e40\u0e23"
     ],
     "name:tur_x_preferred":[
         "Mutare"
@@ -304,7 +322,7 @@
         }
     ],
     "wof:id":421195169,
-    "wof:lastmodified":1561840480,
+    "wof:lastmodified":1563572261,
     "wof:name":"Mutare",
     "wof:parent_id":85681113,
     "wof:placetype":"locality",

@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0627\u0648\u0627\u064a\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Bulawayo"
+    ],
     "name:aze_x_preferred":[
         "Bulavayo"
     ],
+    "name:bar_x_preferred":[
+        "Bulawayo"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0443\u043b\u0430\u0432\u0430\u0451"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0443\u043b\u0430\u0432\u0430\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b2\u09be\u0993\u09af\u09bc\u09c7"
@@ -36,6 +45,9 @@
         "\u0411\u0443\u043b\u0430\u0432\u0435\u0439\u043e"
     ],
     "name:cat_x_preferred":[
+        "Bulawayo"
+    ],
+    "name:ceb_x_preferred":[
         "Bulawayo"
     ],
     "name:ces_x_preferred":[
@@ -174,6 +186,9 @@
         "Bulawayo"
     ],
     "name:spa_x_preferred":[
+        "Bulawayo"
+    ],
+    "name:sqi_x_preferred":[
         "Bulawayo"
     ],
     "name:srp_x_preferred":[
@@ -352,7 +367,7 @@
         }
     ],
     "wof:id":421168015,
-    "wof:lastmodified":1561840480,
+    "wof:lastmodified":1563572260,
     "wof:name":"Bulawayo",
     "wof:parent_id":85681121,
     "wof:placetype":"locality",

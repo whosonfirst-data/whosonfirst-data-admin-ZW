@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bar_x_preferred":[
+        "Macheke"
+    ],
+    "name:ceb_x_preferred":[
+        "Macheke"
+    ],
     "name:eng_x_preferred":[
         "Macheke"
     ],
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":421194597,
-    "wof:lastmodified":1561840480,
+    "wof:lastmodified":1563572262,
     "wof:name":"Macheke",
     "wof:parent_id":85681109,
     "wof:placetype":"locality",
