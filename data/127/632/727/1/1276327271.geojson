@@ -25,6 +25,9 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zaka District"
+    ],
     "name:eng_x_preferred":[
         "Zaka"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276327271,
-    "wof:lastmodified":1537716569,
+    "wof:lastmodified":1564205504,
     "wof:name":"Zaka",
     "wof:parent_id":1108784921,
     "wof:placetype":"locality",

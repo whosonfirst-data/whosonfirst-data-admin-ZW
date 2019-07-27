@@ -25,6 +25,18 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Kandana"
+    ],
+    "name:ceb_x_preferred":[
+        "Kandana"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0db3\u0dcf\u0db1"
+    ],
+    "name:swe_x_preferred":[
+        "Kandana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632243
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209232715,
-    "wof:lastmodified":1536293587,
+    "wof:lastmodified":1564205538,
     "wof:name":"Kandana",
     "wof:parent_id":85632243,
     "wof:placetype":"locality",

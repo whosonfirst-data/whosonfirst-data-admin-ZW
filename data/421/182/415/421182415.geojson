@@ -13,8 +13,101 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Belgravia"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u063a\u0631\u0627\u0641\u064a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u0642\u0631\u06cc\u0648\u06cc\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Belqravia"
+    ],
+    "name:bar_x_preferred":[
+        "Belgravia"
+    ],
+    "name:cat_x_preferred":[
+        "Belgravia"
+    ],
+    "name:cym_x_preferred":[
+        "Belgravia"
+    ],
+    "name:dan_x_preferred":[
+        "Belgravia"
+    ],
+    "name:deu_x_preferred":[
+        "Belgravia"
+    ],
     "name:eng_x_preferred":[
         "Belgravia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06af\u0631\u06cc\u0648\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Belgravia"
+    ],
+    "name:fra_x_preferred":[
+        "Belgravia"
+    ],
+    "name:gle_x_preferred":[
+        "Belgravia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d2\u05e8\u05d1\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0932\u0917\u094d\u0930\u0947\u0935\u093f\u092f\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Belgravia"
+    ],
+    "name:ita_x_preferred":[
+        "Belgravia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30b0\u30ec\u30a4\u30f4\u30a3\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8\uadf8\ub77c\ube44\uc544"
+    ],
+    "name:lat_x_preferred":[
+        "Belgravia"
+    ],
+    "name:nld_x_preferred":[
+        "Belgravia"
+    ],
+    "name:nor_x_preferred":[
+        "Belgravia"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0435\u043b\u0433\u0440\u0430\u0432\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Belgravia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0433\u0440\u0435\u0439\u0432\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Belgravia"
+    ],
+    "name:swe_x_preferred":[
+        "Belgravia"
+    ],
+    "name:tur_x_preferred":[
+        "Belgravia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0433\u0440\u0430\u0432\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0644\u06af\u0631\u0648\u06cc\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u683c\u83b1\u7ef4\u4e9a"
     ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPLX",
@@ -59,7 +152,7 @@
         }
     ],
     "wof:id":421182415,
-    "wof:lastmodified":1527726431,
+    "wof:lastmodified":1564205646,
     "wof:name":"Belgravia",
     "wof:parent_id":85681097,
     "wof:placetype":"locality",

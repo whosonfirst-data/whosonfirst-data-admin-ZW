@@ -25,6 +25,63 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Gudo"
+    ],
+    "name:ceb_x_preferred":[
+        "Gudo"
+    ],
+    "name:deu_x_preferred":[
+        "Gudo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03cd\u03bd\u03c4\u03bf"
+    ],
+    "name:epo_x_preferred":[
+        "Gudo"
+    ],
+    "name:eus_x_preferred":[
+        "Gudo"
+    ],
+    "name:fra_x_preferred":[
+        "Gudo"
+    ],
+    "name:ind_x_preferred":[
+        "Gudo"
+    ],
+    "name:ita_x_preferred":[
+        "Gudo"
+    ],
+    "name:lmo_x_preferred":[
+        "G\u00fcd"
+    ],
+    "name:msa_x_preferred":[
+        "Gudo"
+    ],
+    "name:nld_x_preferred":[
+        "Gudo"
+    ],
+    "name:nno_x_preferred":[
+        "Gudo"
+    ],
+    "name:por_x_preferred":[
+        "Gudo"
+    ],
+    "name:roh_x_preferred":[
+        "Gudo"
+    ],
+    "name:spa_x_preferred":[
+        "Gudo"
+    ],
+    "name:sqi_x_preferred":[
+        "Gudo"
+    ],
+    "name:vol_x_preferred":[
+        "Gudo"
+    ],
+    "name:war_x_preferred":[
+        "Gudo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +105,7 @@
         }
     ],
     "wof:id":1225859135,
-    "wof:lastmodified":1536993443,
+    "wof:lastmodified":1564205743,
     "wof:name":"Gudo",
     "wof:parent_id":890416491,
     "wof:placetype":"locality",

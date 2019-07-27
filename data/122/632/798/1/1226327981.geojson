@@ -25,6 +25,9 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hin_x_preferred":[
+        "\u092c\u0938\u0947\u0930\u093e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226327981,
-    "wof:lastmodified":1536814413,
+    "wof:lastmodified":1564205728,
     "wof:name":"Basera",
     "wof:parent_id":890416477,
     "wof:placetype":"locality",

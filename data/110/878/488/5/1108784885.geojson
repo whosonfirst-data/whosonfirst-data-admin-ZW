@@ -33,6 +33,24 @@
     "mps:longitude":32.281074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Mutoko"
+    ],
+    "name:ceb_x_preferred":[
+        "Mutoko"
+    ],
+    "name:deu_x_preferred":[
+        "Mutoko"
+    ],
+    "name:pol_x_preferred":[
+        "Mutoko"
+    ],
+    "name:por_x_preferred":[
+        "Mutoko"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u6258\u79d1"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1108784885,
-    "wof:lastmodified":1553724929,
+    "wof:lastmodified":1564205584,
     "wof:name":"Mutoko",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

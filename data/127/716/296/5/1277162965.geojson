@@ -25,6 +25,9 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Tswiza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1277162965,
-    "wof:lastmodified":1537576398,
+    "wof:lastmodified":1564205527,
     "wof:name":"Tswiza",
     "wof:parent_id":890428881,
     "wof:placetype":"locality",

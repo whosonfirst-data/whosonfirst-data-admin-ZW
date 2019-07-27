@@ -18,14 +18,65 @@
     "lbl:longitude":29.989993,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a\u0628\u0631\u064a\u062f\u062c"
+    ],
+    "name:bar_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:ceb_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:dan_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:deu_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:est_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:fin_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:fra_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:ita_x_preferred":[
+        "Beitbridge"
+    ],
     "name:lit_x_preferred":[
         "Beitbrid\u017eas"
+    ],
+    "name:nld_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:nor_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:pol_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:por_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:ron_x_preferred":[
+        "Beitbridge"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0439\u0442\u0431\u0440\u0438\u0434\u0436"
     ],
+    "name:sna_x_preferred":[
+        "Beitbridge"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0458\u0442\u0431\u0440\u0438\u045f"
+    ],
+    "name:swe_x_preferred":[
+        "Beitbridge"
+    ],
+    "name:tur_x_preferred":[
+        "Beitbridge"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0439\u0442\u0431\u0440\u0438\u0434\u0436"
@@ -166,7 +217,7 @@
         }
     ],
     "wof:id":1141906945,
-    "wof:lastmodified":1534379838,
+    "wof:lastmodified":1564205746,
     "wof:name":"Beitbridge",
     "wof:parent_id":85681117,
     "wof:placetype":"locality",

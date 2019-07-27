@@ -25,6 +25,9 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Zimunya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1226452037,
-    "wof:lastmodified":1537576401,
+    "wof:lastmodified":1564205718,
     "wof:name":"Zimunya",
     "wof:parent_id":890436415,
     "wof:placetype":"locality",

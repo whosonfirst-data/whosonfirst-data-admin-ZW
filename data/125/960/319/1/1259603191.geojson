@@ -25,6 +25,45 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gomba"
+    ],
+    "name:epo_x_preferred":[
+        "Gomba"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0645\u0628\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Gomba"
+    ],
+    "name:hun_x_preferred":[
+        "Gomba"
+    ],
+    "name:ita_x_preferred":[
+        "Gomba"
+    ],
+    "name:msa_x_preferred":[
+        "Gomba"
+    ],
+    "name:nld_x_preferred":[
+        "Gomba"
+    ],
+    "name:ron_x_preferred":[
+        "Gomba"
+    ],
+    "name:slk_x_preferred":[
+        "Gomba"
+    ],
+    "name:slv_x_preferred":[
+        "Gomba"
+    ],
+    "name:swe_x_preferred":[
+        "Gomba"
+    ],
+    "name:vie_x_preferred":[
+        "Gomba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1259603191,
-    "wof:lastmodified":1536686453,
+    "wof:lastmodified":1564205708,
     "wof:name":"Gomba",
     "wof:parent_id":890416477,
     "wof:placetype":"locality",

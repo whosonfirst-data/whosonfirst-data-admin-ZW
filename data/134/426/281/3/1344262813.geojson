@@ -25,6 +25,18 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Wedza"
+    ],
+    "name:ceb_x_preferred":[
+        "Wedza District"
+    ],
+    "name:deu_x_preferred":[
+        "Hwedza"
+    ],
+    "name:por_x_preferred":[
+        "Wedza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1344262813,
-    "wof:lastmodified":1537576393,
+    "wof:lastmodified":1564205446,
     "wof:name":"Wedza",
     "wof:parent_id":1108784881,
     "wof:placetype":"locality",

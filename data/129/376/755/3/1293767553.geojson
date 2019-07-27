@@ -25,6 +25,12 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Winchendon"
+    ],
+    "name:pol_x_preferred":[
+        "Winchendon"
+    ],
     "name:und_x_variant":[
         "Sherwood",
         "Winchendon"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293767553,
-    "wof:lastmodified":1537716570,
+    "wof:lastmodified":1564205471,
     "wof:name":"Winchendon",
     "wof:parent_id":421190261,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Mberengwa"
+    ],
+    "name:ceb_x_preferred":[
+        "Mberengwa District"
+    ],
+    "name:deu_x_preferred":[
+        "Mberengwa"
+    ],
     "name:eng_x_preferred":[
         "Mberengwa"
     ],
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1226445859,
-    "wof:lastmodified":1537716577,
+    "wof:lastmodified":1564205716,
     "wof:name":"Mberengwa",
     "wof:parent_id":890416463,
     "wof:placetype":"locality",

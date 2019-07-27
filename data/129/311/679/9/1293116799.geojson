@@ -25,6 +25,15 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Lions Den"
+    ],
+    "name:deu_x_preferred":[
+        "Lions Den"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0458\u043e\u043d\u0441 \u0414\u0435\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293116799,
-    "wof:lastmodified":1537576396,
+    "wof:lastmodified":1564205488,
     "wof:name":"Lions Den",
     "wof:parent_id":890422337,
     "wof:placetype":"locality",

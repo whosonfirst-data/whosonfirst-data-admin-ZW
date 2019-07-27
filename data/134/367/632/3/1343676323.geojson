@@ -25,8 +25,32 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Birchenough Bridge"
+    ],
+    "name:deu_x_preferred":[
+        "Birchenough Bridge"
+    ],
     "name:eng_x_preferred":[
         "Birchenough Bridge"
+    ],
+    "name:lit_x_preferred":[
+        "Bir\u010denafo tiltas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0438\u0440\u0447\u0435\u043d\u043e\u0433"
+    ],
+    "name:por_x_preferred":[
+        "Ponte Birchenough"
+    ],
+    "name:sna_x_preferred":[
+        "Birchenough Bridge"
+    ],
+    "name:spa_x_preferred":[
+        "Puente Birchenough"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0440\u0447\u0435\u043d\u043e\u0433 \u043c\u043e\u0441\u0442"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1343676323,
-    "wof:lastmodified":1537716585,
+    "wof:lastmodified":1564205445,
     "wof:name":"Birchenough Bridge",
     "wof:parent_id":890416491,
     "wof:placetype":"locality",

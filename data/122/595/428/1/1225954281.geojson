@@ -25,6 +25,12 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Kanyemba"
+    ],
+    "name:deu_x_preferred":[
+        "Kanyemba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1225954281,
-    "wof:lastmodified":1537576396,
+    "wof:lastmodified":1564205714,
     "wof:name":"Kanyemba",
     "wof:parent_id":1108784875,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Marshbrook"
+    ],
+    "name:cym_x_preferred":[
+        "Marshbrook"
+    ],
+    "name:pol_x_preferred":[
+        "Marshbrook"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1327152505,
-    "wof:lastmodified":1537081764,
+    "wof:lastmodified":1564205398,
     "wof:name":"Marshbrook",
     "wof:parent_id":1108784879,
     "wof:placetype":"locality",

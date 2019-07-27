@@ -25,6 +25,9 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Hyde Park Estate"
+    ],
     "name:eng_x_preferred":[
         "Hyde Park Estate"
     ],
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209198839,
-    "wof:lastmodified":1537716587,
+    "wof:lastmodified":1564205554,
     "wof:name":"Hyde Park Estate",
     "wof:parent_id":85632243,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Eiffel Flats"
+    ],
+    "name:fra_x_preferred":[
+        "Eiffel Flats"
+    ],
+    "name:pol_x_preferred":[
+        "Eiffel Flats"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1310304109,
-    "wof:lastmodified":1537576397,
+    "wof:lastmodified":1564205606,
     "wof:name":"Eiffel Flats",
     "wof:parent_id":890452771,
     "wof:placetype":"locality",

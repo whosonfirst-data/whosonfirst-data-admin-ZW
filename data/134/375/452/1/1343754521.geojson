@@ -25,6 +25,12 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Tsholotsho"
+    ],
+    "name:por_x_preferred":[
+        "Tsholotsho"
+    ],
     "name:und_x_variant":[
         "Tjolotjo",
         "Shololezhou",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343754521,
-    "wof:lastmodified":1537716570,
+    "wof:lastmodified":1564205455,
     "wof:name":"Tsholotsho",
     "wof:parent_id":1108784927,
     "wof:placetype":"locality",

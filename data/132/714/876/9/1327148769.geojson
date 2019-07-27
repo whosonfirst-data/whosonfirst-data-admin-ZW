@@ -25,6 +25,15 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc751\uac15\uac00"
+    ],
+    "name:lin_x_preferred":[
+        "Nganga"
+    ],
+    "name:por_x_preferred":[
+        "Nganga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1327148769,
-    "wof:lastmodified":1537087068,
+    "wof:lastmodified":1564205398,
     "wof:name":"Nganga",
     "wof:parent_id":890416491,
     "wof:placetype":"locality",

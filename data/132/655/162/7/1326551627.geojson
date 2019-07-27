@@ -25,6 +25,12 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Thuli"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u043b\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1326551627,
-    "wof:lastmodified":1537576393,
+    "wof:lastmodified":1564205412,
     "wof:name":"Tuli",
     "wof:parent_id":890416501,
     "wof:placetype":"locality",

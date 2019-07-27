@@ -25,6 +25,12 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Mbizi"
+    ],
+    "name:deu_x_preferred":[
+        "Mbizi"
+    ],
     "name:eng_x_preferred":[
         "Mbizi"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293708883,
-    "wof:lastmodified":1537716577,
+    "wof:lastmodified":1564205469,
     "wof:name":"Mbizi",
     "wof:parent_id":890436773,
     "wof:placetype":"locality",

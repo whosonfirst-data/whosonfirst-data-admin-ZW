@@ -25,6 +25,111 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0647\u064a\u0646\u064a\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:bar_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09a8\u0995\u09be\u099e\u09cd\u099a\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:ceb_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:ces_x_preferred":[
+        "Bauh\u00ednie"
+    ],
+    "name:deu_x_preferred":[
+        "Bauhinien"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0647\u06cc\u0645\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Bauhiniat"
+    ],
+    "name:fra_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d4\u05d9\u05e0\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Orchideafa"
+    ],
+    "name:ita_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0c82\u0c9a\u0cc1\u0cb5\u0cbe\u0cb3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub09c\ucd08\ub098\ubb34\uc18d"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d4c\u0d39\u0d3f\u0d28\u0d3f\u0d2f"
+    ],
+    "name:nld_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:pam_x_preferred":[
+        "Balibamban"
+    ],
+    "name:pol_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:por_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:ron_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0443\u0433\u0438\u043d\u0438\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0db6\u0ddd\u0dbd\u0dd3\u0dbd"
+    ],
+    "name:spa_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:swa_x_preferred":[
+        "Mchekwa"
+    ],
+    "name:swe_x_preferred":[
+        "Bauhiniasl\u00e4ktet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0ba4\u0bcd\u0ba4\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3e\u0c39\u0c40\u0c28\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e01\u0e38\u0e25\u0e0a\u0e07\u0e42\u0e04"
+    ],
+    "name:ton_x_preferred":[
+        "Fehimuli"
+    ],
+    "name:ukr_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:war_x_preferred":[
+        "Bauhinia"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8a\u8e44\u7532\u5c5e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632243
@@ -34,7 +139,7 @@
         "gn:id":895326
     },
     "wof:country":"ZW",
-    "wof:geomhash":"cd6182a98f88beab41e0382cc27a75d9",
+    "wof:geomhash":"6139aa4d7ce84fb68056b4521f76bc20",
     "wof:hierarchy":[
         {
             "country_id":85632243,
@@ -42,7 +147,7 @@
         }
     ],
     "wof:id":1209425127,
-    "wof:lastmodified":1536287404,
+    "wof:lastmodified":1564205554,
     "wof:name":"Bauhinia",
     "wof:parent_id":85632243,
     "wof:placetype":"locality",
@@ -53,9 +158,9 @@
 },
   "bbox": [
     31.03333,
-    -17.366670000000006,
+    -17.36667000000001,
     31.03333,
-    -17.366670000000006
+    -17.36667000000001
 ],
   "geometry": {"coordinates":[31.03333,-17.36667000000001],"type":"Point"}
 }

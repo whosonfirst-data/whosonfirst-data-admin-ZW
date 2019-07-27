@@ -25,6 +25,9 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Dagamella"
+    ],
     "name:eng_x_preferred":[
         "Dagamela"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310197501,
-    "wof:lastmodified":1537716583,
+    "wof:lastmodified":1564205613,
     "wof:name":"Dagamela",
     "wof:parent_id":890450107,
     "wof:placetype":"locality",
