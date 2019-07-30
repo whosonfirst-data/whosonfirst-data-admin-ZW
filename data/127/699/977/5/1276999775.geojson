@@ -26,6 +26,12 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Antelope Mine"
+    ],
+    "name:deu_x_preferred":[
+        "Antelope Mine"
+    ],
     "name:und_x_variant":[
         "Antelope",
         "Antelope Mine"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276999775,
-    "wof:lastmodified":1537716586,
+    "wof:lastmodified":1564205521,
     "wof:name":"Antelope Mine",
     "wof:parent_id":890452761,
     "wof:placetype":"locality",

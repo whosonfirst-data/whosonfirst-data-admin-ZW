@@ -25,6 +25,9 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Goromonzi"
+    ],
     "name:eng_x_preferred":[
         "Goromonzi"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260284821,
-    "wof:lastmodified":1537716581,
+    "wof:lastmodified":1564205579,
     "wof:name":"Goromonzi",
     "wof:parent_id":890428877,
     "wof:placetype":"locality",

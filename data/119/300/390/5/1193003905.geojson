@@ -25,6 +25,21 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dire"
+    ],
+    "name:fra_x_preferred":[
+        "Dire"
+    ],
+    "name:ita_x_preferred":[
+        "Dire"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Dire"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1193003905,
-    "wof:lastmodified":1536367408,
+    "wof:lastmodified":1564205560,
     "wof:name":"Dire",
     "wof:parent_id":890416477,
     "wof:placetype":"locality",

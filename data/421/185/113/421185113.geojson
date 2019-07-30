@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bar_x_preferred":[
+        "Ridgeview"
+    ],
     "name:deu_x_preferred":[
         "Ridgeview"
     ],
@@ -40,10 +43,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":129,
     "wof:belongsto":[
+        85681097,
         102191573,
         85632243,
-        421190261,
-        85681097
+        421190261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421185113,
-    "wof:lastmodified":1531858565,
+    "wof:lastmodified":1564205648,
     "wof:name":"Ridgeview",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

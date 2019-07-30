@@ -25,8 +25,47 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Ruwa"
+    ],
+    "name:ceb_x_preferred":[
+        "Ruwa"
+    ],
+    "name:deu_x_preferred":[
+        "Ruwa"
+    ],
     "name:eng_x_preferred":[
         "Ruwa"
+    ],
+    "name:fra_x_preferred":[
+        "Ruwa"
+    ],
+    "name:ita_x_preferred":[
+        "Ruwa"
+    ],
+    "name:pol_x_preferred":[
+        "Ruwa"
+    ],
+    "name:por_x_preferred":[
+        "Ruwa"
+    ],
+    "name:ron_x_preferred":[
+        "Ruwa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0432\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Ruwa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0432\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0648\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c81\u74e6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1326963355,
-    "wof:lastmodified":1537716572,
+    "wof:lastmodified":1564205417,
     "wof:name":"Ruwa",
     "wof:parent_id":1108784891,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sna_x_preferred":[
+        "Zhombe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1309715177,
-    "wof:lastmodified":1537576401,
+    "wof:lastmodified":1564205635,
     "wof:name":"Zhombe",
     "wof:parent_id":890452767,
     "wof:placetype":"locality",

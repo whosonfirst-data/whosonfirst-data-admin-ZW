@@ -13,7 +13,40 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bar_x_preferred":[
+        "Strathaven"
+    ],
+    "name:ceb_x_preferred":[
+        "Strathaven"
+    ],
+    "name:cym_x_preferred":[
+        "Strathaven"
+    ],
     "name:eng_x_preferred":[
+        "Strathaven"
+    ],
+    "name:eus_x_preferred":[
+        "Strathaven"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0631\u0627\u062a\u06cc\u200c\u0648\u0646"
+    ],
+    "name:gla_x_preferred":[
+        "Srath Athainn"
+    ],
+    "name:gle_x_preferred":[
+        "Strath Aibhne"
+    ],
+    "name:ita_x_preferred":[
+        "Strathaven"
+    ],
+    "name:sco_x_preferred":[
+        "Straiven"
+    ],
+    "name:spa_x_preferred":[
+        "Strathaven"
+    ],
+    "name:swe_x_preferred":[
         "Strathaven"
     ],
     "qs:gn_country":"ZW",
@@ -36,10 +69,10 @@
     "qs:woe_id":1467566,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681097,
         102191573,
         85632243,
-        421190261,
-        85681097
+        421190261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +94,7 @@
         }
     ],
     "wof:id":421185115,
-    "wof:lastmodified":1531858565,
+    "wof:lastmodified":1564205648,
     "wof:name":"Strathaven",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

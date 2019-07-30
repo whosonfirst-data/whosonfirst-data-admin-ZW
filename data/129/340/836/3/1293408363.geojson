@@ -25,6 +25,9 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Matibi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1293408363,
-    "wof:lastmodified":1537576395,
+    "wof:lastmodified":1564205474,
     "wof:name":"Matibi",
     "wof:parent_id":890416501,
     "wof:placetype":"locality",

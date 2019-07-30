@@ -33,6 +33,102 @@
     "mps:longitude":31.056224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:bar_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u044b\u0442\u0443\u043d\u0433\u0432\u0456\u0437\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0438\u0442\u0443\u043d\u0433\u0432\u0438\u0437\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:ceb_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:dan_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:deu_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:epo_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:fin_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:fra_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:hrv_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:ita_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30c8\u30a5\u30f3\u30ae\u30b6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10e2\u10e3\u10dc\u10d2\u10d5\u10d8\u10d6\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uce58\ud241\uae30\uc790"
+    ],
+    "name:lit_x_preferred":[
+        "\u010citungviza"
+    ],
+    "name:nor_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:pol_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:por_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:ron_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0442\u0443\u043d\u0433\u0432\u0438\u0437\u0430"
+    ],
+    "name:sna_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:spa_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0438\u0442\u0443\u043d\u0433\u0432\u0438\u0437\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:swe_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:szl_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:tur_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u0442\u0443\u043d\u0433\u0432\u0456\u0437\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u062a\u0648\u0646\u06af\u0648\u06cc\u0632\u0627"
+    ],
+    "name:war_x_preferred":[
+        "Chitungwiza"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -56,7 +152,7 @@
         }
     ],
     "wof:id":1108784863,
-    "wof:lastmodified":1553724928,
+    "wof:lastmodified":1564205585,
     "wof:name":"Chitungwiza",
     "wof:parent_id":85681097,
     "wof:placetype":"county",

@@ -25,6 +25,12 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngome"
+    ],
+    "name:swe_x_preferred":[
+        "Ngome"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259468489,
-    "wof:lastmodified":1536879576,
+    "wof:lastmodified":1564205698,
     "wof:name":"Ngome",
     "wof:parent_id":890416477,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Madadzi"
+    ],
     "name:eng_x_preferred":[
         "Madadzi"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326644747,
-    "wof:lastmodified":1537716579,
+    "wof:lastmodified":1564205414,
     "wof:name":"Madadzi",
     "wof:parent_id":890416471,
     "wof:placetype":"locality",

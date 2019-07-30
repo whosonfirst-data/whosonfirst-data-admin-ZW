@@ -25,7 +25,13 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Junction Gate"
+    ],
     "name:eng_x_preferred":[
+        "Junction Gate"
+    ],
+    "name:por_x_preferred":[
         "Junction Gate"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1360302997,
-    "wof:lastmodified":1537716580,
+    "wof:lastmodified":1564205626,
     "wof:name":"Junction Gate",
     "wof:parent_id":890430547,
     "wof:placetype":"locality",

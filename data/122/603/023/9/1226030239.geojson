@@ -25,6 +25,117 @@
     "iso:country":"ZW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Mutare"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u062a\u0627\u0631\u064a"
+    ],
+    "name:bar_x_preferred":[
+        "Mutare"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0443\u0442\u0430\u0440\u044d"
+    ],
+    "name:cat_x_preferred":[
+        "Mutare"
+    ],
+    "name:ceb_x_preferred":[
+        "Mutare District"
+    ],
+    "name:ces_x_preferred":[
+        "Mutare"
+    ],
+    "name:dan_x_preferred":[
+        "Mutare"
+    ],
+    "name:deu_x_preferred":[
+        "Mutare"
+    ],
+    "name:epo_x_preferred":[
+        "Mutare"
+    ],
+    "name:eus_x_preferred":[
+        "Mutare"
+    ],
+    "name:fin_x_preferred":[
+        "Mutare"
+    ],
+    "name:fra_x_preferred":[
+        "Mutare"
+    ],
+    "name:frr_x_preferred":[
+        "Mutare"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d8\u05d0\u05e8\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Mutare"
+    ],
+    "name:ita_x_preferred":[
+        "Mutare"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30bf\u30ec"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb34\ud0c0\ub808"
+    ],
+    "name:lit_x_preferred":[
+        "Mutar\u0117"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u0443\u0442\u0430\u0440\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Mutare"
+    ],
+    "name:nor_x_preferred":[
+        "Mutare"
+    ],
+    "name:pol_x_preferred":[
+        "Mutare"
+    ],
+    "name:por_x_preferred":[
+        "Mutare"
+    ],
+    "name:ron_x_preferred":[
+        "Mutare"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0442\u0430\u0440\u0435"
+    ],
+    "name:sna_x_preferred":[
+        "Mutare"
+    ],
+    "name:spa_x_preferred":[
+        "Mutare"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0443\u0442\u0430\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mutare"
+    ],
+    "name:szl_x_preferred":[
+        "Mutare"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e39\u0e15\u0e32\u0e40\u0e23"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0442\u0430\u0440\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u062a\u0627\u0631\u06d2"
+    ],
+    "name:war_x_preferred":[
+        "Mutare"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5854\u96f7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +159,7 @@
         }
     ],
     "wof:id":1226030239,
-    "wof:lastmodified":1536747330,
+    "wof:lastmodified":1564205727,
     "wof:name":"Mutare",
     "wof:parent_id":890416477,
     "wof:placetype":"locality",
