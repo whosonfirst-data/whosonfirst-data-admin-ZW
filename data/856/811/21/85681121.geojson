@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city with provincial status"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BU"
+    ],
     "lbl:latitude":-20.135979,
     "lbl:longitude":28.566155,
     "mps:latitude":-20.146108,
@@ -165,9 +168,6 @@
         }
     ],
     "wof:id":85681121,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "sna",
@@ -178,7 +178,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1563572090,
+    "wof:lastmodified":1565740704,
     "wof:name":"Bulawayo",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

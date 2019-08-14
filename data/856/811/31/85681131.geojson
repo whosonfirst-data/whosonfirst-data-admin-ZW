@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MW"
+    ],
     "lbl:latitude":-17.012964,
     "lbl:longitude":29.852161,
     "mps:latitude":-17.021916,
@@ -317,9 +320,6 @@
         }
     ],
     "wof:id":85681131,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "sna",
@@ -330,7 +330,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1563572092,
+    "wof:lastmodified":1565740704,
     "wof:name":"Mashonaland West",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

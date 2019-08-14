@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city with provincial status"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HA"
+    ],
     "lbl:latitude":-17.849717,
     "lbl:longitude":31.050531,
     "mps:latitude":-17.855293,
@@ -181,9 +184,6 @@
         }
     ],
     "wof:id":85681097,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "sna",
@@ -194,7 +194,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1563572095,
+    "wof:lastmodified":1565740705,
     "wof:name":"Harare",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

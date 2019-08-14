@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MV"
+    ],
     "lbl:latitude":-20.799763,
     "lbl:longitude":31.330471,
     "mps:latitude":-20.728931,
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85681127,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "sna",
@@ -308,7 +308,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1563572088,
+    "wof:lastmodified":1565740703,
     "wof:name":"Masvingo",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

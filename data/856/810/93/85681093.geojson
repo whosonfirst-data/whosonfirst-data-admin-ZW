@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MC"
+    ],
     "lbl:latitude":-16.736847,
     "lbl:longitude":31.215205,
     "mps:latitude":-16.762391,
@@ -305,9 +308,6 @@
         }
     ],
     "wof:id":85681093,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "sna",
@@ -318,7 +318,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1563572095,
+    "wof:lastmodified":1565740705,
     "wof:name":"Mashonaland Central",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ME"
+    ],
     "lbl:latitude":-18.62858,
     "lbl:longitude":31.271426,
     "mps:latitude":-18.596005,
@@ -320,9 +323,6 @@
         }
     ],
     "wof:id":85681109,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "sna",
@@ -333,7 +333,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1563572091,
+    "wof:lastmodified":1565740704,
     "wof:name":"Mashonaland East",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MI"
+    ],
     "lbl:latitude":-19.29882,
     "lbl:longitude":29.916104,
     "mps:latitude":-19.339862,
@@ -301,9 +304,6 @@
         }
     ],
     "wof:id":85681103,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "sna",
@@ -314,7 +314,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1563572087,
+    "wof:lastmodified":1565740702,
     "wof:name":"Midlands",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

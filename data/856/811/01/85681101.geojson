@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MN"
+    ],
     "lbl:latitude":-18.936622,
     "lbl:longitude":27.234925,
     "mps:latitude":-18.866548,
@@ -315,9 +318,6 @@
         }
     ],
     "wof:id":85681101,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "sna",
@@ -328,7 +328,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1563572093,
+    "wof:lastmodified":1565740704,
     "wof:name":"Matabeleland North",
     "wof:parent_id":85632243,
     "wof:placetype":"region",
