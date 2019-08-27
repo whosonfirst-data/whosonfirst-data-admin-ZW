@@ -10,8 +10,12 @@
     "geom:latitude":-18.27733,
     "geom:longitude":32.0515,
     "iso:country":"ZW",
+    "lbl:bbox":"32.0315,-18.29733,32.0715,-18.25733",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Headlands"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":890242,
         "gp:id":1467055,
-        "qs:id":234628,
+        "qs_pg:id":234628,
         "wd:id":"Q15223422",
         "wk:page":"Headlands, Zimbabwe"
     },
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421203679,
-    "wof:lastmodified":1563572266,
+    "wof:lastmodified":1566666582,
     "wof:name":"Headlands",
     "wof:parent_id":85681113,
     "wof:placetype":"locality",

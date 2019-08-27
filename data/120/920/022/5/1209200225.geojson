@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.79709,-19.9736,31.83709,-19.9336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632243
@@ -34,7 +38,7 @@
         "gn:id":7507390
     },
     "wof:country":"ZW",
-    "wof:geomhash":"90dcc64694f6269eb0754a217ca72f49",
+    "wof:geomhash":"2fe03ecfe74af30b812c54c58b9799ef",
     "wof:hierarchy":[
         {
             "country_id":85632243,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209200225,
-    "wof:lastmodified":1536294637,
+    "wof:lastmodified":1566666517,
     "wof:name":"Gwema",
     "wof:parent_id":85632243,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.817090000000004,
+    31.81709,
     -19.9536,
-    31.817090000000004,
+    31.81709,
     -19.9536
 ],
   "geometry": {"coordinates":[31.81709,-19.9536],"type":"Point"}

@@ -10,8 +10,12 @@
     "geom:latitude":-17.88333,
     "geom:longitude":30.7,
     "iso:country":"ZW",
+    "lbl:bbox":"30.68,-17.90333,30.72,-17.86333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Norton"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":884141,
         "gp:id":1467414,
-        "qs:id":129860,
+        "qs_pg:id":129860,
         "wd:id":"Q994406",
         "wk:page":"Norton, Zimbabwe"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421167149,
-    "wof:lastmodified":1563572264,
+    "wof:lastmodified":1566666581,
     "wof:name":"Norton",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",

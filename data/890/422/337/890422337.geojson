@@ -11,7 +11,7 @@
     "geom:longitude":30.012082,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":184135,
+    "gn:population":184135,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Makonde District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-17.487366,
     "lbl:longitude":29.805745,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mashonaland West",
     "meso:dissme":"Mashonaland WestMakonde",
     "meso:gadm_adm2":"Makonde",
@@ -36,6 +38,7 @@
     "mps:longitude":29.805745,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Makonde District"
     ],
@@ -51,7 +54,7 @@
     "name:swe_x_preferred":[
         "Makonde"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nemakonde"
     ],
     "qs:name":"Makonde District",
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":336,
     "wof:belongsto":[
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":887723,
         "hasc:id":"ZW.MW.MK",
-        "qs:id":554761,
+        "qs_pg:id":554761,
         "wd:id":"Q6739880",
         "wk:page":"Makonde District"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890422337,
-    "wof:lastmodified":1563572286,
+    "wof:lastmodified":1566666588,
     "wof:name":"Makonde",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

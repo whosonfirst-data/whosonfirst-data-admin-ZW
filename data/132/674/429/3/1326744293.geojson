@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"32.7687,-18.57955,32.8087,-18.53955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326744293,
-    "wof:lastmodified":1536678251,
+    "wof:lastmodified":1566666404,
     "wof:name":"Ragu",
     "wof:parent_id":890436413,
     "wof:placetype":"locality",

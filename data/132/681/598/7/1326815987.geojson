@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"30.72519,-19.60213,30.76519,-19.56213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chirimuanzu",
         "Chilimanzi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326815987,
-    "wof:lastmodified":1537716584,
+    "wof:lastmodified":1566666403,
     "wof:name":"Chilimanzi",
     "wof:parent_id":890416477,
     "wof:placetype":"locality",

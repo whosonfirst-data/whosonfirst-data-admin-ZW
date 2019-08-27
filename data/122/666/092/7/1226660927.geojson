@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"30.11333,-18.15333,30.15333,-18.11333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226660927,
-    "wof:lastmodified":1536836453,
+    "wof:lastmodified":1566666654,
     "wof:name":"Pfupajena",
     "wof:parent_id":1108784897,
     "wof:placetype":"locality",

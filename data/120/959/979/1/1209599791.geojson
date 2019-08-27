@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"28.47889,-20.12833,28.51889,-20.08833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632243
@@ -34,7 +38,7 @@
         "gn:id":1105904
     },
     "wof:country":"ZW",
-    "wof:geomhash":"4745146f21b18902689539f9780d9323",
+    "wof:geomhash":"c68b324a35a24cae1e06dcbc59ed163b",
     "wof:hierarchy":[
         {
             "country_id":85632243,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209599791,
-    "wof:lastmodified":1536282205,
+    "wof:lastmodified":1566666513,
     "wof:name":"Gwabalanda",
     "wof:parent_id":85632243,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.498890000000006,
+    28.49889000000001,
     -20.10833,
-    28.498890000000006,
+    28.49889000000001,
     -20.10833
 ],
   "geometry": {"coordinates":[28.49889000000001,-20.10833],"type":"Point"}

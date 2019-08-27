@@ -10,8 +10,11 @@
     "geom:latitude":-17.85417,
     "geom:longitude":31.09222,
     "iso:country":"ZW",
+    "lbl:bbox":"31.08722,-17.85917,31.09722,-17.84917",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Queensdale"
@@ -36,16 +39,16 @@
     "qs:woe_id":1467471,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681097,
         102191573,
         85632243,
-        421190261,
-        85681097
+        421190261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":882742,
         "gp:id":1467471,
-        "qs:id":58944
+        "qs_pg:id":58944
     },
     "wof:country":"ZW",
     "wof:created":1459009674,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":421190933,
-    "wof:lastmodified":1531858659,
+    "wof:lastmodified":1566666585,
     "wof:name":"Queensdale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

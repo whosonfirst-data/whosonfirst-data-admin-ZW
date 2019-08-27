@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"27.09889,-19.36358,27.13889,-19.32358",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632243
@@ -34,7 +38,7 @@
         "gn:id":7464978
     },
     "wof:country":"ZW",
-    "wof:geomhash":"2b993256fb34ad8d30ba6780a64d5f29",
+    "wof:geomhash":"b973dea044b79244da8f3ebdf2e68051",
     "wof:hierarchy":[
         {
             "country_id":85632243,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209336673,
-    "wof:lastmodified":1536290197,
+    "wof:lastmodified":1566666516,
     "wof:name":"Sihume",
     "wof:parent_id":85632243,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.118890000000004,
+    27.11889,
     -19.34358,
-    27.118890000000004,
+    27.11889,
     -19.34358
 ],
   "geometry": {"coordinates":[27.11889,-19.34358],"type":"Point"}

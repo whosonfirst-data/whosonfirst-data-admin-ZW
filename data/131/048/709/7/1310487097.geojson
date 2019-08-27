@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.75453,-19.73249,31.79453,-19.69249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310487097,
-    "wof:lastmodified":1536944017,
+    "wof:lastmodified":1566666547,
     "wof:name":"Mamvura",
     "wof:parent_id":890416477,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":28.61079,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":61821,
+    "gn:population":61821,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Kariba District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-16.88975,
     "lbl:longitude":28.610781,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mashonaland West",
     "meso:dissme":"Mashonaland WestKariba",
     "meso:gadm_adm2":"Kariba",
@@ -36,6 +38,7 @@
     "mps:longitude":28.610781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kariba"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":242,
     "wof:belongsto":[
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":889214,
         "hasc:id":"ZW.MW.KR",
-        "qs:id":554765,
+        "qs_pg:id":554765,
         "wd:id":"Q2139155",
         "wk:page":"Kariba (District)"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890452769,
-    "wof:lastmodified":1563572290,
+    "wof:lastmodified":1566666590,
     "wof:name":"Kariba",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

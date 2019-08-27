@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"27.38922,-18.23278,27.42922,-18.19278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pashu"
     ],
     "name:eng_x_variant":[
-        "Pashus"
-    ],
-    "name:und_x_variant":[
         "Pashus"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1360180065,
-    "wof:lastmodified":1537716573,
+    "wof:lastmodified":1566666569,
     "wof:name":"Pashu",
     "wof:parent_id":890416495,
     "wof:placetype":"locality",

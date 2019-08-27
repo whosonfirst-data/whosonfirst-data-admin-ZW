@@ -10,8 +10,12 @@
     "geom:latitude":-18.70587,
     "geom:longitude":32.16796,
     "iso:country":"ZW",
+    "lbl:bbox":"32.14796,-18.72587,32.18796,-18.68587",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bar_x_preferred":[
         "Nyazura"
@@ -31,7 +35,7 @@
     "name:nld_x_preferred":[
         "Nyazura"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Inyazura"
     ],
     "qs:gn_country":"ZW",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":883258,
         "gp:id":1467439,
-        "qs:id":1299063,
+        "qs_pg:id":1299063,
         "wd:id":"Q1664602",
         "wk:page":"Nyazura"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421196827,
-    "wof:lastmodified":1563572272,
+    "wof:lastmodified":1566666585,
     "wof:name":"Nyazura",
     "wof:parent_id":85681113,
     "wof:placetype":"locality",

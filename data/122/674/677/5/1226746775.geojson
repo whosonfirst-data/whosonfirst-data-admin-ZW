@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"30.67796,-18.19792,30.71796,-18.15792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nyamweda",
         "Matswaire"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226746775,
-    "wof:lastmodified":1537716577,
+    "wof:lastmodified":1566666649,
     "wof:name":"Matswaire",
     "wof:parent_id":890416483,
     "wof:placetype":"locality",

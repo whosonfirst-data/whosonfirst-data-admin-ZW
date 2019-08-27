@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"29.35808,-16.89314,29.39808,-16.85314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Majinjiwa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293132481,
-    "wof:lastmodified":1537716592,
+    "wof:lastmodified":1566666468,
     "wof:name":"Majinjiwa",
     "wof:parent_id":890416471,
     "wof:placetype":"locality",

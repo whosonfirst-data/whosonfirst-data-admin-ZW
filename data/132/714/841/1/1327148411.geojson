@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.63072,-19.1661,31.67072,-19.1261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u1010\u1014\u103a\u1001\u1030\u1038\u101c"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327148411,
-    "wof:lastmodified":1564205398,
+    "wof:lastmodified":1566666409,
     "wof:name":"Tagu",
     "wof:parent_id":890416491,
     "wof:placetype":"locality",

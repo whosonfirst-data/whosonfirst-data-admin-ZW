@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.62254,-19.72058,31.66254,-19.68058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632243
@@ -34,7 +38,7 @@
         "gn:id":7507097
     },
     "wof:country":"ZW",
-    "wof:geomhash":"5510e598dd58b5f0225fb29593ac3eef",
+    "wof:geomhash":"1b0a9de34147bba235f868a5ac4fa579",
     "wof:hierarchy":[
         {
             "country_id":85632243,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209210609,
-    "wof:lastmodified":1536294303,
+    "wof:lastmodified":1566666519,
     "wof:name":"Chigweremba",
     "wof:parent_id":85632243,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.642540000000004,
+    31.64254,
     -19.70058,
-    31.642540000000004,
+    31.64254,
     -19.70058
 ],
   "geometry": {"coordinates":[31.64254,-19.70058],"type":"Point"}

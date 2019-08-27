@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-20.135979,
     "lbl:longitude":28.566155,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Bulawayo",
     "meso:dissme":"BulawayoBulawayo",
     "meso:gadm_adm2":"Bulawayo",
@@ -33,6 +35,7 @@
     "mps:longitude":28.566155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Bulawayo"
@@ -193,7 +196,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043b\u0430\u0432\u0430\u0439\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bulawayo District"
     ],
     "name:urd_x_preferred":[
@@ -230,7 +233,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632243,
@@ -241,7 +244,7 @@
         "gn:id":894700,
         "gp:id":56048528,
         "hasc:id":"ZW.BU.BL",
-        "qs:id":1206079
+        "qs_pg:id":1206079
     },
     "wof:country":"ZW",
     "wof:created":1459008880,
@@ -255,7 +258,7 @@
         }
     ],
     "wof:id":421171051,
-    "wof:lastmodified":1564205648,
+    "wof:lastmodified":1566666588,
     "wof:name":"Bulawayo",
     "wof:parent_id":85681121,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.89668,-19.37512,31.93668,-19.33512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226246667,
-    "wof:lastmodified":1536933005,
+    "wof:lastmodified":1566666659,
     "wof:name":"Njinja",
     "wof:parent_id":890416491,
     "wof:placetype":"locality",

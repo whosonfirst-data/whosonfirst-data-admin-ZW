@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.02522,-17.22839,31.06522,-17.18839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nyota"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243271437,
-    "wof:lastmodified":1564205680,
+    "wof:lastmodified":1566666622,
     "wof:name":"Nyota",
     "wof:parent_id":890416465,
     "wof:placetype":"locality",

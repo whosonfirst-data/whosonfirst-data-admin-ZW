@@ -11,7 +11,7 @@
     "geom:longitude":29.405108,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":88385,
+    "gn:population":88385,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Insiza District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-20.236701,
     "lbl:longitude":29.488782,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Matabeleland South",
     "meso:dissme":"Matabeleland SouthInsiza",
     "meso:gadm_adm2":"Insiza",
@@ -36,6 +38,7 @@
     "mps:longitude":29.488782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Insiza"
     ],
@@ -51,9 +54,6 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30f3\u30b7\u30b6\u5730\u533a"
     ],
-    "name:unk_x_variant":[
-        "Insiza District"
-    ],
     "qs:name":"Insiza District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":368,
     "wof:belongsto":[
@@ -74,7 +74,7 @@
     "wof:concordances":{
         "gn:id":889793,
         "hasc:id":"ZW.MS.IN",
-        "qs:id":554767,
+        "qs_pg:id":554767,
         "wd:id":"Q6038184",
         "wk:page":"Insiza (District)"
     },
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":890452775,
-    "wof:lastmodified":1563572291,
+    "wof:lastmodified":1566666591,
     "wof:name":"Insiza",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

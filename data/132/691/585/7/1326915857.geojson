@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.03541,-20.68439,31.07541,-20.64439",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chief Nyajena"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326915857,
-    "wof:lastmodified":1537716593,
+    "wof:lastmodified":1566666423,
     "wof:name":"Chief Nyajena",
     "wof:parent_id":1108784917,
     "wof:placetype":"locality",

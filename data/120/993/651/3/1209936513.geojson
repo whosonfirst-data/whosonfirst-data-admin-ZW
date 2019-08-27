@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.57584,-19.66562,31.61584,-19.62562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209936513,
-    "wof:lastmodified":1536390400,
+    "wof:lastmodified":1566666514,
     "wof:name":"Rutave",
     "wof:parent_id":890416477,
     "wof:placetype":"locality",

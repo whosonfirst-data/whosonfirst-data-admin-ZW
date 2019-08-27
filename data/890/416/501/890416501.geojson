@@ -11,7 +11,7 @@
     "geom:longitude":30.031837,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":111283,
+    "gn:population":111283,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Beitbridge District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-21.809298,
     "lbl:longitude":29.961622,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Matabeleland South",
     "meso:dissme":"Matabeleland SouthBeitbridge",
     "meso:gadm_adm2":"Beitbridge",
@@ -36,6 +38,7 @@
     "mps:longitude":29.961622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Beitbridge District"
     ],
@@ -48,9 +51,6 @@
     "name:por_x_preferred":[
         "Beitbridge"
     ],
-    "name:unk_x_variant":[
-        "Beitbridge District"
-    ],
     "qs:name":"Beitbridge District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":213,
     "wof:belongsto":[
@@ -71,7 +71,7 @@
     "wof:concordances":{
         "gn:id":895268,
         "hasc:id":"ZW.MS.BB",
-        "qs:id":554785,
+        "qs_pg:id":554785,
         "wd:id":"Q4881482",
         "wk:page":"Beitbridge District"
     },
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":890416501,
-    "wof:lastmodified":1563572303,
+    "wof:lastmodified":1566666596,
     "wof:name":"Beitbridge",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

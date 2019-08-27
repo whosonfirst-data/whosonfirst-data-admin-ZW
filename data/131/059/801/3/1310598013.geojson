@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"28.30567,-20.38858,28.34567,-20.34858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Figtree"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310598013,
-    "wof:lastmodified":1537716582,
+    "wof:lastmodified":1566666559,
     "wof:name":"Figtree",
     "wof:parent_id":890452761,
     "wof:placetype":"locality",

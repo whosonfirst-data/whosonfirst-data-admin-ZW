@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.56218,-19.98805,31.60218,-19.94805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327125063,
-    "wof:lastmodified":1536624755,
+    "wof:lastmodified":1566666410,
     "wof:name":"Zvariruka",
     "wof:parent_id":890416499,
     "wof:placetype":"locality",

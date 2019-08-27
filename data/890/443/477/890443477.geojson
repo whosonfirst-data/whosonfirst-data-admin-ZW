@@ -11,8 +11,11 @@
     "geom:longitude":25.84299,
     "gn:country":"ZW",
     "gn:fcode":"PPL",
-    "gn:pop":35761,
+    "gn:population":35761,
     "iso:country":"ZW",
+    "lbl:bbox":"25.82299,-17.94353,25.86299,-17.90353",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -199,10 +202,12 @@
     "wof:concordances":{
         "gn:id":879431,
         "gp:id":1467620,
-        "qs:id":1029290,
         "qs_pg:id":569011,
         "wd:id":"Q1393804",
         "wk:page":"Victoria Falls"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1029290
     },
     "wof:country":"ZW",
     "wof:created":1469052425,
@@ -217,7 +222,7 @@
         }
     ],
     "wof:id":890443477,
-    "wof:lastmodified":1563572298,
+    "wof:lastmodified":1566666594,
     "wof:name":"Victoria Falls",
     "wof:parent_id":1108784931,
     "wof:placetype":"locality",

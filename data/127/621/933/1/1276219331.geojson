@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"27.95545,-19.12376,27.99545,-19.08376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276219331,
-    "wof:lastmodified":1536932484,
+    "wof:lastmodified":1566666485,
     "wof:name":"Kenmaur",
     "wof:parent_id":890452765,
     "wof:placetype":"locality",

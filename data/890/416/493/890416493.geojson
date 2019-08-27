@@ -11,7 +11,7 @@
     "geom:longitude":28.685139,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":51504,
+    "gn:population":51504,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Bubi District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-19.566636,
     "lbl:longitude":28.792826,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Matabeleland North",
     "meso:dissme":"Matabeleland NorthBubi",
     "meso:gadm_adm2":"Bubi",
@@ -36,6 +38,7 @@
     "mps:longitude":28.792826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Bubi District"
     ],
@@ -51,9 +54,6 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u0431\u0438"
     ],
-    "name:unk_x_variant":[
-        "Bubi District"
-    ],
     "name:zho_x_preferred":[
         "\u5e03\u6bd4\u5340"
     ],
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":26,
     "wof:belongsto":[
@@ -77,7 +77,7 @@
     "wof:concordances":{
         "gn:id":894741,
         "hasc:id":"ZW.MN.BU",
-        "qs:id":554781,
+        "qs_pg:id":554781,
         "wd:id":"Q4982301",
         "wk:page":"Bubi District"
     },
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":890416493,
-    "wof:lastmodified":1563572305,
+    "wof:lastmodified":1566666597,
     "wof:name":"Bubi",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

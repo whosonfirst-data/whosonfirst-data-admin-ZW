@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"27.5694,-19.25996,27.6094,-19.21996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Emqolweni",
         "Emgolweni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309903455,
-    "wof:lastmodified":1537716583,
+    "wof:lastmodified":1566666572,
     "wof:name":"Emgolweni",
     "wof:parent_id":1108784927,
     "wof:placetype":"locality",

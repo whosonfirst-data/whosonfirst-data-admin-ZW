@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.52074,-16.99359,31.56074,-16.95359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kachambwa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259485027,
-    "wof:lastmodified":1537716588,
+    "wof:lastmodified":1566666631,
     "wof:name":"Kachambwa",
     "wof:parent_id":890450101,
     "wof:placetype":"locality",

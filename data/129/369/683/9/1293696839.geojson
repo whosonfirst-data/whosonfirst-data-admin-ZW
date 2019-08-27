@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"29.79667,-19.22,29.83667,-19.18",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Connemara"
     ],
@@ -105,8 +109,7 @@
         "\u041a\u043e\u043d\u043d\u0435\u043c\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Connemara Mine",
-        "Connemara"
+        "Connemara Mine"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1293696839,
-    "wof:lastmodified":1564205481,
+    "wof:lastmodified":1566666470,
     "wof:name":"Connemara",
     "wof:parent_id":890416473,
     "wof:placetype":"locality",

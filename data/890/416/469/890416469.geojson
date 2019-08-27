@@ -11,7 +11,7 @@
     "geom:longitude":26.423748,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":132778,
+    "gn:population":132778,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Hwange District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-18.992472,
     "lbl:longitude":26.533545,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Matabeleland North",
     "meso:dissme":"Matabeleland NorthHwange",
     "meso:gadm_adm2":"Hwange",
@@ -36,6 +38,7 @@
     "mps:longitude":26.533545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Hwange District"
     ],
@@ -45,9 +48,6 @@
     "name:jpn_x_preferred":[
         "\u30ef\u30f3\u30b2\u5730\u533a"
     ],
-    "name:unk_x_variant":[
-        "Hwange District"
-    ],
     "qs:name":"Hwange District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":210,
     "wof:belongsto":[
@@ -68,7 +68,7 @@
     "wof:concordances":{
         "gn:id":889941,
         "hasc:id":"ZW.MN.HW",
-        "qs:id":554768,
+        "qs_pg:id":554768,
         "wd:id":"Q5951997",
         "wk:page":"Hwange District"
     },
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890416469,
-    "wof:lastmodified":1563572305,
+    "wof:lastmodified":1566666598,
     "wof:name":"Hwange",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

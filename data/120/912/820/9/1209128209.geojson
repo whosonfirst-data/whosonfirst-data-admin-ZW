@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"28.24944,-20.07111,28.28944,-20.03111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632243
@@ -34,7 +38,7 @@
         "gn:id":1105886
     },
     "wof:country":"ZW",
-    "wof:geomhash":"d5f4eb6c18fcb7ff5a3aec50ed1bf3d4",
+    "wof:geomhash":"2f1278e15bf2c747494ba1227b579de7",
     "wof:hierarchy":[
         {
             "country_id":85632243,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209128209,
-    "wof:lastmodified":1536296889,
+    "wof:lastmodified":1566666508,
     "wof:name":"Miasi",
     "wof:parent_id":85632243,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.269440000000003,
+    28.26944,
     -20.05111,
-    28.269440000000003,
+    28.26944,
     -20.05111
 ],
   "geometry": {"coordinates":[28.26944,-20.05111],"type":"Point"}

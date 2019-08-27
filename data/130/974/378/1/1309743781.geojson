@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"29.42725,-16.91599,29.46725,-16.87599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wenzera"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309743781,
-    "wof:lastmodified":1537716592,
+    "wof:lastmodified":1566666576,
     "wof:name":"Wenzera",
     "wof:parent_id":890416471,
     "wof:placetype":"locality",

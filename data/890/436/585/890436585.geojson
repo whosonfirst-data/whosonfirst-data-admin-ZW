@@ -11,8 +11,11 @@
     "geom:longitude":27.81667,
     "gn:country":"ZW",
     "gn:fcode":"PPL",
-    "gn:pop":2148,
+    "gn:population":2148,
     "iso:country":"ZW",
+    "lbl:bbox":"27.79667,-20.50333,27.83667,-20.46333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -162,7 +165,7 @@
     "wof:concordances":{
         "gn:id":882859,
         "gp:id":1467460,
-        "qs:id":1029296,
+        "qs_pg:id":1029296,
         "wd:id":"Q1974068",
         "wk:page":"Plumtree"
     },
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":890436585,
-    "wof:lastmodified":1563572293,
+    "wof:lastmodified":1566666591,
     "wof:name":"Plumtree",
     "wof:parent_id":85681117,
     "wof:placetype":"locality",

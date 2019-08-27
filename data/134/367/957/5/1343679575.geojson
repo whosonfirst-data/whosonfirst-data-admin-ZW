@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"32.65404,-18.98804,32.69404,-18.94804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Palmerston"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1343679575,
-    "wof:lastmodified":1564205445,
+    "wof:lastmodified":1566666443,
     "wof:name":"Palmerston",
     "wof:parent_id":1108784869,
     "wof:placetype":"locality",

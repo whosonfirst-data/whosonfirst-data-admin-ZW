@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"30.54667,-18.28667,30.58667,-18.24667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Chiva"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1193151749,
-    "wof:lastmodified":1564205561,
+    "wof:lastmodified":1566666525,
     "wof:name":"Chiva",
     "wof:parent_id":890416483,
     "wof:placetype":"locality",

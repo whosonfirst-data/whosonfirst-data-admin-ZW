@@ -10,8 +10,12 @@
     "geom:latitude":-19.8,
     "geom:longitude":32.86667,
     "iso:country":"ZW",
+    "lbl:bbox":"32.84667,-19.82,32.88667,-19.78",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bar_x_preferred":[
         "Chimanimani"
@@ -37,7 +41,7 @@
     "name:sna_x_preferred":[
         "Chimanimani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Melsetter"
     ],
     "qs:gn_country":"ZW",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":893813,
         "gp:id":1466894,
-        "qs:id":1090299,
+        "qs_pg:id":1090299,
         "wd:id":"Q1073089"
     },
     "wof:country":"ZW",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421184765,
-    "wof:lastmodified":1563572279,
+    "wof:lastmodified":1566666586,
     "wof:name":"Chimanimani",
     "wof:parent_id":85681113,
     "wof:placetype":"locality",

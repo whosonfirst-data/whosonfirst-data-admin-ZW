@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"32.39667,-19.78667,32.43667,-19.74667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nyanyadzi Business Center",
         "Nyanyadzi"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276462203,
-    "wof:lastmodified":1537716573,
+    "wof:lastmodified":1566666494,
     "wof:name":"Nyanyadzi",
     "wof:parent_id":890416481,
     "wof:placetype":"locality",

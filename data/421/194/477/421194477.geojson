@@ -10,8 +10,12 @@
     "geom:latitude":-19.67016,
     "geom:longitude":30.00589,
     "iso:country":"ZW",
+    "lbl:bbox":"29.98589,-19.69016,30.02589,-19.65016",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Shurugwi"
@@ -58,7 +62,7 @@
     "name:srp_x_preferred":[
         "\u0428\u0443\u0440\u0443\u0433\u0432\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Churugwi"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":881164,
         "gp:id":1467530,
-        "qs:id":431292,
+        "qs_pg:id":431292,
         "wd:id":"Q1188217"
     },
     "wof:country":"ZW",
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421194477,
-    "wof:lastmodified":1563572262,
+    "wof:lastmodified":1566666580,
     "wof:name":"Shurugwi",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

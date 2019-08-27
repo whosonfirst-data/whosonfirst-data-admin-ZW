@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"28.70447,-18.67716,28.74447,-18.63716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gwelutshena"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276864145,
-    "wof:lastmodified":1537716581,
+    "wof:lastmodified":1566666483,
     "wof:name":"Gwelutshena",
     "wof:parent_id":890450107,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.78947,-19.27521,31.82947,-19.23521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260196945,
-    "wof:lastmodified":1536828420,
+    "wof:lastmodified":1566666537,
     "wof:name":"Makufa",
     "wof:parent_id":890416491,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.48912,-19.70072,31.52912,-19.66072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Hudson"
     ],
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":1344247765,
-    "wof:lastmodified":1564205430,
+    "wof:lastmodified":1566666433,
     "wof:name":"Hudson",
     "wof:parent_id":890416477,
     "wof:placetype":"locality",

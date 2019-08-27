@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5899366.659081,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.598411,-20.16238,28.598411,-20.16238",
     "geom:latitude":-20.16238,
     "geom:longitude":28.598411,
     "gn:latitude":-20.15,
     "gn:longitude":28.61667,
     "iso:country":"ZW",
+    "lbl:bbox":"28.593411,-20.16738,28.603411,-20.15738",
     "lbl:latitude":-20.16238,
     "lbl:longitude":28.598411,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-20.157479,
     "mps:longitude":28.599967,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Kumalo"
-    ],
-    "name:unk_x_variant":[
         "Kumalo"
     ],
     "qs:gn_adm0_cc":"ZW",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85681121,
         102191573,
         85632243,
-        421171051,
-        85681121
+        421171051
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":888769,
         "gp:id":1467134,
-        "qs:id":266875,
         "qs_pg:id":266875
     },
     "wof:country":"ZW",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859484,
+    "wof:lastmodified":1566666451,
     "wof:name":"Kumalo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

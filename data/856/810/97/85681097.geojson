@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-17.849717,
     "lbl:longitude":31.050531,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-17.855293,
     "mps:longitude":31.058416,
     "mz:hierarchy_label":1,
@@ -139,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-18",
+    "src:population_date":"2012-08-18",
     "statoids:area_km":"872",
     "statoids:area_mi":"337",
     "statoids:as_of_date":"2012-08-18",
@@ -166,7 +167,7 @@
         "gp:id":24550731,
         "hasc:id":"ZW.HA",
         "iso:id":"ZW-HA",
-        "qs:id":1127713,
+        "qs_pg:id":1127713,
         "unlc:id":"ZW-HA",
         "wd:id":"Q16928358",
         "wk:page":"Harare Province"
@@ -194,11 +195,10 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1565740705,
+    "wof:lastmodified":1566666454,
     "wof:name":"Harare",
     "wof:parent_id":85632243,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city with provincial status",
     "wof:population":2123132,
     "wof:population_rank":12,

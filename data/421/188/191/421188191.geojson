@@ -10,6 +10,9 @@
     "geom:latitude":-21.05,
     "geom:longitude":31.66667,
     "iso:country":"ZW",
+    "lbl:bbox":"31.64667,-21.07,31.68667,-21.03",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -180,7 +183,7 @@
     "wof:concordances":{
         "gn:id":893485,
         "gp:id":1466903,
-        "qs:id":1090301,
+        "qs_pg:id":1090301,
         "wd:id":"Q1074697"
     },
     "wof:country":"ZW",
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421188191,
-    "wof:lastmodified":1563572270,
+    "wof:lastmodified":1566666584,
     "wof:name":"Chiredzi",
     "wof:parent_id":85681127,
     "wof:placetype":"locality",

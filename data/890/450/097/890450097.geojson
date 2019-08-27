@@ -11,7 +11,7 @@
     "geom:longitude":28.94557,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":56870,
+    "gn:population":56870,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Umzingwane District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-20.299695,
     "lbl:longitude":28.965002,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Matabeleland South",
     "meso:dissme":"Matabeleland SouthUmzingwane",
     "meso:gadm_adm2":"Umzingwane",
@@ -36,6 +38,7 @@
     "mps:longitude":28.965002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Insiza"
     ],
@@ -51,7 +54,7 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30f3\u30b7\u30b6\u5730\u533a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mudzingwani"
     ],
     "qs:name":"Umzingwane District",
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":368,
     "wof:belongsto":[
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":879611,
         "hasc:id":"ZW.MS.UZ",
-        "qs:id":83903,
+        "qs_pg:id":83903,
         "wd:id":"Q6038184",
         "wk:page":"Insiza (District)"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890450097,
-    "wof:lastmodified":1563572310,
+    "wof:lastmodified":1566666600,
     "wof:name":"Umzingwane",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

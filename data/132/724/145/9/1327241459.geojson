@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"29.88,-18.12,29.92,-18.08",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Newbiggin"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1327241459,
-    "wof:lastmodified":1564205400,
+    "wof:lastmodified":1566666410,
     "wof:name":"Newbiggin",
     "wof:parent_id":1108784911,
     "wof:placetype":"locality",

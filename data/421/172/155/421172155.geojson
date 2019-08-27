@@ -10,8 +10,12 @@
     "geom:latitude":-20.03665,
     "geom:longitude":30.48225,
     "iso:country":"ZW",
+    "lbl:bbox":"30.46225,-20.05665,30.50225,-20.01665",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bar_x_preferred":[
         "Mashava"
@@ -43,9 +47,6 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u0448\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Mashava"
-    ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":886864,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":886864,
         "gp:id":1467248,
-        "qs:id":1299059,
+        "qs_pg:id":1299059,
         "wd:id":"Q1907062",
         "wk:page":"Mashava"
     },
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":421172155,
-    "wof:lastmodified":1563572271,
+    "wof:lastmodified":1566666584,
     "wof:name":"Mashaba",
     "wof:parent_id":85681127,
     "wof:placetype":"locality",

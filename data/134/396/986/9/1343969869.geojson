@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.30239,-16.96543,31.34239,-16.92543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mutepatepa"
     ],
     "name:eng_x_variant":[
-        "Mtepatepa"
-    ],
-    "name:und_x_variant":[
         "Mtepatepa"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1343969869,
-    "wof:lastmodified":1537716575,
+    "wof:lastmodified":1566666428,
     "wof:name":"Mutepatepa",
     "wof:parent_id":890416497,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":31.821698,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":165788,
+    "gn:population":165788,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Murehwa District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-17.787985,
     "lbl:longitude":31.821743,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mashonaland East",
     "meso:dissme":"Mashonaland EastMurehwa",
     "meso:gadm_adm2":"Murehwa",
@@ -36,6 +38,7 @@
     "mps:longitude":31.821743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Uzumba-Maramba-Pfungwe District"
     ],
@@ -45,7 +48,7 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30ba\u30f3\u30d0\uff1d\u30de\u30e9\u30f3\u30d0\uff1d\u30d7\u30d5\u30f3\u30b0\u30a6\u30a7\u5730\u533a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Murehwa District"
     ],
     "qs:name":"Murehwa District",
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":324,
     "wof:belongsto":[
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":885172,
         "hasc:id":"ZW.ME.MU",
-        "qs:id":554750,
+        "qs_pg:id":554750,
         "wd:id":"Q17107989",
         "wk:page":"Uzumba-Maramba-Pfungwe"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890416459,
-    "wof:lastmodified":1563572307,
+    "wof:lastmodified":1566666598,
     "wof:name":"Murehwa",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

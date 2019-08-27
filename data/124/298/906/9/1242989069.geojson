@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"28.91333,-20.02,28.95333,-19.98",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Bembezi"
     ],
     "name:und_x_variant":[
         "Mbembezi",
-        "Bembesi",
-        "Bembezi"
+        "Bembesi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1242989069,
-    "wof:lastmodified":1564205677,
+    "wof:lastmodified":1566666619,
     "wof:name":"Bembezi",
     "wof:parent_id":1108784929,
     "wof:placetype":"locality",

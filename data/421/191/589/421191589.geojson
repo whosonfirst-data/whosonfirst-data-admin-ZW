@@ -10,8 +10,11 @@
     "geom:latitude":-17.80806,
     "geom:longitude":31.08167,
     "iso:country":"ZW",
+    "lbl:bbox":"31.07667,-17.81306,31.08667,-17.80306",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bar_x_preferred":[
         "Newlands"
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":884428,
         "gp:id":1467390,
-        "qs:id":58945
+        "qs_pg:id":58945
     },
     "wof:country":"ZW",
     "wof:created":1459009698,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421191589,
-    "wof:lastmodified":1564205645,
+    "wof:lastmodified":1566666585,
     "wof:name":"Newlands",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

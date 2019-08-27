@@ -11,7 +11,7 @@
     "geom:longitude":32.72148,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":117190,
+    "gn:population":117190,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Chimanimani District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-19.787626,
     "lbl:longitude":32.715822,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Manicaland",
     "meso:dissme":"ManicalandChimanimani",
     "meso:gadm_adm2":"Chimanimani",
@@ -36,6 +38,7 @@
     "mps:longitude":32.715822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Melsetter"
     ],
@@ -54,9 +57,6 @@
     "name:por_x_preferred":[
         "Chimanimani"
     ],
-    "name:unk_x_variant":[
-        "Chimanimani District"
-    ],
     "qs:name":"Chimanimani District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":539,
     "wof:belongsto":[
@@ -77,7 +77,7 @@
     "wof:concordances":{
         "gn:id":893811,
         "hasc:id":"ZW.MA.CM",
-        "qs:id":554775,
+        "qs_pg:id":554775,
         "wd:id":"Q1073093",
         "wk:page":"Chimanimani District"
     },
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":890416481,
-    "wof:lastmodified":1563572303,
+    "wof:lastmodified":1566666596,
     "wof:name":"Chimanimani",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

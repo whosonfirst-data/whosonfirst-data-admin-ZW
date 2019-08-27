@@ -11,7 +11,7 @@
     "geom:longitude":32.423754,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":408024,
+    "gn:population":408024,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Mutare District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-19.261965,
     "lbl:longitude":32.357947,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Manicaland",
     "meso:dissme":"ManicalandMutare",
     "meso:gadm_adm2":"Mutare",
@@ -36,10 +38,11 @@
     "mps:longitude":32.357947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Chiadzwa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nyautare"
     ],
     "qs:name":"Mutare District",
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":43,
     "wof:belongsto":[
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":884978,
         "hasc:id":"ZW.MA.MR",
-        "qs:id":554749,
+        "qs_pg:id":554749,
         "wd:id":"Q5095143",
         "wk:page":"Chiadzwa"
     },
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890436415,
-    "wof:lastmodified":1563572293,
+    "wof:lastmodified":1566666591,
     "wof:name":"Mutare",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

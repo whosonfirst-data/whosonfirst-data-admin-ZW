@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"27.66502,-19.83452,27.70502,-19.79452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bizene",
         "Ebizeni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225936681,
-    "wof:lastmodified":1537716583,
+    "wof:lastmodified":1566666643,
     "wof:name":"Ebizeni",
     "wof:parent_id":1108784927,
     "wof:placetype":"locality",
