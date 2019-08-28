@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.406,-19.99076,31.446,-19.95076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
-        "Glencova"
-    ],
-    "name:und_x_variant":[
         "Glencova"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1344177057,
-    "wof:lastmodified":1537716582,
+    "wof:lastmodified":1566666444,
     "wof:name":"GlenClova",
     "wof:parent_id":890416499,
     "wof:placetype":"locality",

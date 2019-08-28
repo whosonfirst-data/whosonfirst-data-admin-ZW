@@ -11,7 +11,7 @@
     "geom:longitude":30.575399,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":154520,
+    "gn:population":154520,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Chivi District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-20.425077,
     "lbl:longitude":30.544203,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Masvingo",
     "meso:dissme":"MasvingoChivi",
     "meso:gadm_adm2":"Chivi",
@@ -36,6 +38,7 @@
     "mps:longitude":30.544203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Chivi District"
     ],
@@ -45,9 +48,6 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30f4\u30a3\u5730\u533a"
     ],
-    "name:unk_x_variant":[
-        "Chivi District"
-    ],
     "qs:name":"Chivi District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":653,
     "wof:belongsto":[
@@ -68,7 +68,7 @@
     "wof:concordances":{
         "gn:id":893171,
         "hasc:id":"ZW.MV.CV",
-        "qs:id":83916,
+        "qs_pg:id":83916,
         "wd:id":"Q5102586",
         "wk:page":"Chivi District"
     },
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890428879,
-    "wof:lastmodified":1563572296,
+    "wof:lastmodified":1566666593,
     "wof:name":"Chivi",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

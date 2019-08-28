@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"30.29667,-15.72,30.33667,-15.68",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Kanyemba"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1225954281,
-    "wof:lastmodified":1564205714,
+    "wof:lastmodified":1566666644,
     "wof:name":"Kanyemba",
     "wof:parent_id":1108784875,
     "wof:placetype":"locality",

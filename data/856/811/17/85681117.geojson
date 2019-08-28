@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-20.936601,
     "lbl:longitude":28.775218,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.947901,
     "mps:longitude":28.759536,
     "mz:hierarchy_label":1,
@@ -174,7 +175,7 @@
         "Matabeleland South"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0ba4\u0baa\u0bc7\u0bb2\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd  \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bae\u0ba4\u0baa\u0bc7\u0bb2\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c1f\u0c3e\u0c2c\u0c46\u0c32\u0c46\u0c32\u0c3e\u0c02\u0c21\u0c4d \u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -191,7 +192,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u041c\u0430\u0442\u0430\u0431\u0435\u043b\u0435\u043b\u0435\u043d\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "South Matabeleland Province"
     ],
     "name:urd_x_preferred":[
@@ -275,9 +276,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-18",
+    "src:population_date":"2012-08-18",
     "statoids:area_km":"54,172",
     "statoids:area_mi":"20,916",
     "statoids:as_of_date":"2012-08-18",
@@ -303,7 +304,7 @@
         "gp:id":2347816,
         "hasc:id":"ZW.MS",
         "iso:id":"ZW-MS",
-        "qs:id":1285735,
+        "qs_pg:id":1285735,
         "unlc:id":"ZW-MS",
         "wd:id":"Q498355",
         "wk:page":"Matabeleland South Province"
@@ -328,11 +329,10 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1565740703,
+    "wof:lastmodified":1566666452,
     "wof:name":"Matabeleland South",
     "wof:parent_id":85632243,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":683893,
     "wof:population_rank":11,

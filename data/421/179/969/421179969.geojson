@@ -10,6 +10,9 @@
     "geom:latitude":-18.9281,
     "geom:longitude":29.81486,
     "iso:country":"ZW",
+    "lbl:bbox":"29.79486,-18.9481,29.83486,-18.9081",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0432\u0435\u043a\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Que Que"
     ],
     "name:urd_x_preferred":[
@@ -273,7 +276,7 @@
     "wof:concordances":{
         "gn:id":888710,
         "gp:id":1467135,
-        "qs:id":273848,
+        "qs_pg:id":273848,
         "wd:id":"Q399083",
         "wk:page":"Kwekwe"
     },
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":421179969,
-    "wof:lastmodified":1563572281,
+    "wof:lastmodified":1566666587,
     "wof:name":"Kwekwe",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

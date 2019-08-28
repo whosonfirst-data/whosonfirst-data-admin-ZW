@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.69052,-19.90864,31.73052,-19.86864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cos_x_preferred":[
         "Tomasi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293874337,
-    "wof:lastmodified":1564205489,
+    "wof:lastmodified":1566666477,
     "wof:name":"Tomasi",
     "wof:parent_id":890416499,
     "wof:placetype":"locality",

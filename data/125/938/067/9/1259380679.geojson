@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"27.41904,-19.43187,27.45904,-19.39187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259380679,
-    "wof:lastmodified":1537005618,
+    "wof:lastmodified":1566666627,
     "wof:name":"Tshayisani",
     "wof:parent_id":1108784927,
     "wof:placetype":"locality",

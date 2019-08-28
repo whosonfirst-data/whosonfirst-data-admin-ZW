@@ -11,7 +11,7 @@
     "geom:longitude":30.657948,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":200833,
+    "gn:population":200833,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Guruve District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-16.751672,
     "lbl:longitude":30.703772,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mashonaland Central",
     "meso:dissme":"Mashonaland CentralGuruve",
     "meso:gadm_adm2":"Guruve",
@@ -36,6 +38,7 @@
     "mps:longitude":30.703772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Guruve District"
     ],
@@ -51,7 +54,7 @@
     "name:nld_x_preferred":[
         "Guruve District"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chipuriro"
     ],
     "qs:name":"Guruve District",
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":890599,
         "hasc:id":"ZW.MC.GV",
-        "qs:id":554774,
+        "qs_pg:id":554774,
         "wd:id":"Q1708967",
         "wk:page":"Guruve District"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890416479,
-    "wof:lastmodified":1563572300,
+    "wof:lastmodified":1566666595,
     "wof:name":"Guruve",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

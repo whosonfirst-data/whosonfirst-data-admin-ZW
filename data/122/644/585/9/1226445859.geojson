@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"29.88849,-20.4972,29.92849,-20.4572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Mberengwa"
     ],
@@ -38,9 +42,6 @@
         "Mberengwa"
     ],
     "name:eng_x_variant":[
-        "Belingwe"
-    ],
-    "name:und_x_variant":[
         "Belingwe"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1226445859,
-    "wof:lastmodified":1564205716,
+    "wof:lastmodified":1566666646,
     "wof:name":"Mberengwa",
     "wof:parent_id":890416463,
     "wof:placetype":"locality",

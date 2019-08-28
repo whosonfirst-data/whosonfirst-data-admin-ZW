@@ -11,7 +11,7 @@
     "geom:longitude":32.638062,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":137053,
+    "gn:population":137053,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Mudzi District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-17.038473,
     "lbl:longitude":32.630136,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mashonaland East",
     "meso:dissme":"Mashonaland EastMudzi",
     "meso:gadm_adm2":"Mudzi",
@@ -36,6 +38,7 @@
     "mps:longitude":32.630136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mudzi District"
     ],
@@ -45,9 +48,6 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30b8\u5730\u533a"
     ],
-    "name:unk_x_variant":[
-        "Mudzi District"
-    ],
     "qs:name":"Mudzi District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":397,
     "wof:belongsto":[
@@ -68,7 +68,7 @@
     "wof:concordances":{
         "gn:id":885457,
         "hasc:id":"ZW.ME.MI",
-        "qs:id":554751,
+        "qs_pg:id":554751,
         "wd:id":"Q16895534",
         "wk:page":"Mudzi District"
     },
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890416461,
-    "wof:lastmodified":1563572306,
+    "wof:lastmodified":1566666598,
     "wof:name":"Mudzi",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

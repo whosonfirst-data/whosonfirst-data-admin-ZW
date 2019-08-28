@@ -11,10 +11,14 @@
     "geom:longitude":31.75,
     "gn:country":"ZW",
     "gn:fcode":"PPL",
-    "gn:pop":1676,
+    "gn:population":1676,
     "iso:country":"ZW",
+    "lbl:bbox":"31.73,-19.08667,31.77,-19.04667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Dorowa"
     ],
@@ -25,9 +29,6 @@
         "Dorowa"
     ],
     "name:nld_x_preferred":[
-        "Dorowa"
-    ],
-    "name:unk_x_variant":[
         "Dorowa"
     ],
     "qs:name":"Dorowa Mining Lease",
@@ -44,7 +45,7 @@
     "wof:concordances":{
         "gn:id":892156,
         "gp:id":12523023,
-        "qs:id":129889,
+        "qs_pg:id":129889,
         "wd:id":"Q5298711"
     },
     "wof:country":"ZW",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":890452369,
-    "wof:lastmodified":1563572290,
+    "wof:lastmodified":1566666590,
     "wof:name":"Dorowa Mining Lease",
     "wof:parent_id":85681113,
     "wof:placetype":"locality",

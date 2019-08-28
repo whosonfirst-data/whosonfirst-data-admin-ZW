@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"29.31814,-20.57933,29.35814,-20.53933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Croft Mine"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209506837,
-    "wof:lastmodified":1537716583,
+    "wof:lastmodified":1566666511,
     "wof:name":"Croft Mine",
     "wof:parent_id":85632243,
     "wof:placetype":"locality",

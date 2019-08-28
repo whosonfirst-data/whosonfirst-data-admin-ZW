@@ -10,8 +10,12 @@
     "geom:latitude":-16.03333,
     "geom:longitude":28.85,
     "iso:country":"ZW",
+    "lbl:bbox":"28.83,-16.05333,28.87,-16.01333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chirundu"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Chirundu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Otto Beit Bridge"
     ],
     "qs:gn_country":"ZW",
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":893397,
         "gp:id":1466904,
-        "qs:id":1090297,
+        "qs_pg:id":1090297,
         "wd:id":"Q5102025",
         "wk:page":"Chirundu, Zimbabwe"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421176917,
-    "wof:lastmodified":1563572283,
+    "wof:lastmodified":1566666588,
     "wof:name":"Chirundu",
     "wof:parent_id":890427539,
     "wof:placetype":"locality",

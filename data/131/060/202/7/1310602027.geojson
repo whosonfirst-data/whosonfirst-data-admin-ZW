@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.35478,-18.19647,31.39478,-18.15647",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310602027,
-    "wof:lastmodified":1536778198,
+    "wof:lastmodified":1566666564,
     "wof:name":"Manana",
     "wof:parent_id":1108784893,
     "wof:placetype":"locality",

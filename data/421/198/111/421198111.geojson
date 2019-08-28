@@ -10,16 +10,16 @@
     "geom:latitude":-17.82111,
     "geom:longitude":31.01806,
     "iso:country":"ZW",
+    "lbl:bbox":"31.01306,-17.82611,31.02306,-17.81611",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Belvedere North"
     ],
     "name:eng_x_variant":[
-        "Belvedere"
-    ],
-    "name:unk_x_variant":[
         "Belvedere"
     ],
     "qs:gn_country":"ZW",
@@ -42,16 +42,16 @@
     "qs:woe_id":1466818,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681097,
         102191573,
         85632243,
-        421190261,
-        85681097
+        421190261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":895231,
         "gp:id":1466818,
-        "qs:id":386371
+        "qs_pg:id":386371
     },
     "wof:country":"ZW",
     "wof:created":1459009936,
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":421198111,
-    "wof:lastmodified":1531858756,
+    "wof:lastmodified":1566666584,
     "wof:name":"Belvedere North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

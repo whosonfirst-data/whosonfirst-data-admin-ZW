@@ -11,7 +11,7 @@
     "geom:longitude":32.473754,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":270746,
+    "gn:population":270746,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Chipinge District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-20.37723,
     "lbl:longitude":32.479944,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Manicaland",
     "meso:dissme":"ManicalandChipinge",
     "meso:gadm_adm2":"Chipinge",
@@ -36,6 +38,7 @@
     "mps:longitude":32.479944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Chipinga"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":23,
     "wof:belongsto":[
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":893548,
         "hasc:id":"ZW.MA.CP",
-        "qs:id":83919,
+        "qs_pg:id":83919,
         "wd:id":"Q16798851",
         "wk:page":"Chipinge District"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890430547,
-    "wof:lastmodified":1563572288,
+    "wof:lastmodified":1566666589,
     "wof:name":"Chipinge",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

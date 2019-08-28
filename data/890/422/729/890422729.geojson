@@ -11,10 +11,14 @@
     "geom:longitude":30.43333,
     "gn:country":"ZW",
     "gn:fcode":"PPL",
-    "gn:pop":1957,
+    "gn:population":1957,
     "iso:country":"ZW",
+    "lbl:bbox":"30.41333,-17.05333,30.45333,-17.01333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Raffingora"
     ],
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":882722,
         "gp:id":1467365,
-        "qs:id":1029295,
+        "qs_pg:id":1029295,
         "wd:id":"Q7282560",
         "wk:page":"Raffingora"
     },
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890422729,
-    "wof:lastmodified":1563572287,
+    "wof:lastmodified":1566666589,
     "wof:name":"Raffingora",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",

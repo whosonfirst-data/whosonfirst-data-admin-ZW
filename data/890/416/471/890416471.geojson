@@ -11,7 +11,7 @@
     "geom:longitude":29.536833,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":328516,
+    "gn:population":328516,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Hurungwe District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-16.178918,
     "lbl:longitude":29.611378,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mashonaland West",
     "meso:dissme":"Mashonaland WestHurungwe",
     "meso:gadm_adm2":"Hurungwe",
@@ -36,6 +38,7 @@
     "mps:longitude":29.611378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Hurungwe District"
     ],
@@ -49,7 +52,7 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30eb\u30f3\u30b0\u30a7\u5730\u533a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karoi"
     ],
     "qs:name":"Hurungwe District",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":192,
     "wof:belongsto":[
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":889953,
         "hasc:id":"ZW.MW.HU",
-        "qs:id":554769,
+        "qs_pg:id":554769,
         "wd:id":"Q6373010",
         "wk:page":"Karoi District"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890416471,
-    "wof:lastmodified":1563572299,
+    "wof:lastmodified":1566666594,
     "wof:name":"Hurungwe",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

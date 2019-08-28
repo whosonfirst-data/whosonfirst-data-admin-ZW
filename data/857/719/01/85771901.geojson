@@ -12,8 +12,10 @@
     "gn:latitude":-17.84333,
     "gn:longitude":31.05333,
     "iso:country":"ZW",
+    "lbl:bbox":"31.043279,-17.859161,31.053279,-17.849161",
     "lbl:latitude":-17.854161,
     "lbl:longitude":31.048279,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-17.855919,
     "mps:longitude":31.048579,
     "mz:hierarchy_label":0,
@@ -169,9 +171,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u043a\u0430\u0434\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Arcadia"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0631\u06a9\u0627\u062f\u06cc\u0627"
     ],
@@ -216,7 +215,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85681097,
         102191573,
@@ -227,7 +226,6 @@
     "wof:concordances":{
         "gn:id":895635,
         "gp:id":1466794,
-        "qs:id":1096501,
         "qs_pg:id":1096501
     },
     "wof:country":"ZW",
@@ -246,7 +244,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564205458,
+    "wof:lastmodified":1566666451,
     "wof:name":"Arcadia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

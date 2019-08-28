@@ -10,8 +10,12 @@
     "geom:latitude":-19.03333,
     "geom:longitude":29.78333,
     "iso:country":"ZW",
+    "lbl:bbox":"29.76333,-19.05333,29.80333,-19.01333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Redcliff"
@@ -61,7 +65,7 @@
     "name:tur_x_preferred":[
         "Redcliff"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Redcliffe"
     ],
     "name:urd_x_preferred":[
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":882599,
         "gp:id":1467475,
-        "qs:id":257069,
+        "qs_pg:id":257069,
         "wd:id":"Q584001",
         "wk:page":"Redcliff, Zimbabwe"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421170771,
-    "wof:lastmodified":1563572279,
+    "wof:lastmodified":1566666587,
     "wof:name":"Redcliff",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

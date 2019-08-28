@@ -10,8 +10,12 @@
     "geom:latitude":-17.64322,
     "geom:longitude":31.784,
     "iso:country":"ZW",
+    "lbl:bbox":"31.764,-17.66322,31.804,-17.62322",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bar_x_preferred":[
         "Murehwa"
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":885159,
         "gp:id":1467354,
-        "qs:id":1299065,
+        "qs_pg:id":1299065,
         "wd:id":"Q1953653",
         "wk:page":"Murewa"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421196829,
-    "wof:lastmodified":1563572272,
+    "wof:lastmodified":1566666585,
     "wof:name":"Murehwa",
     "wof:parent_id":85681109,
     "wof:placetype":"locality",

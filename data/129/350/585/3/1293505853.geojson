@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.10889,-17.86889,31.14889,-17.82889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Loreley"
     ],
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":1293505853,
-    "wof:lastmodified":1564205478,
+    "wof:lastmodified":1566666469,
     "wof:name":"Lorelei",
     "wof:parent_id":421190261,
     "wof:placetype":"locality",

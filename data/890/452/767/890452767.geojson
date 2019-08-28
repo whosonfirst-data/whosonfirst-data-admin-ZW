@@ -11,7 +11,7 @@
     "geom:longitude":29.551837,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":299646,
+    "gn:population":299646,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Kwekwe District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-18.851281,
     "lbl:longitude":29.442073,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Midlands",
     "meso:dissme":"MidlandsKwekwe",
     "meso:gadm_adm2":"Kwekwe",
@@ -36,6 +38,7 @@
     "mps:longitude":29.442073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kwekwe District"
     ],
@@ -45,7 +48,7 @@
     "name:jpn_x_preferred":[
         "\u30af\u30a6\u30a7\u30af\u30a6\u30a7\u5730\u533a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hwe Hwe"
     ],
     "qs:name":"Kwekwe District",
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1191,
     "wof:belongsto":[
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":888708,
         "hasc:id":"ZW.MI.KW",
-        "qs:id":554764,
+        "qs_pg:id":554764,
         "wd:id":"Q6450306",
         "wk:page":"Kwekwe District"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890452767,
-    "wof:lastmodified":1563572290,
+    "wof:lastmodified":1566666590,
     "wof:name":"Kwekwe",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

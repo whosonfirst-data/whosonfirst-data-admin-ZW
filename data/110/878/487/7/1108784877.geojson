@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-16.622065,
     "lbl:longitude":31.685289,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mashonaland Central",
     "meso:dissme":"Mashonaland CentralMount Darwin",
     "meso:gadm_adm2":"Mount Darwin",
@@ -33,6 +35,7 @@
     "mps:longitude":31.685289,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Mount Darwin"
     ],
@@ -55,7 +58,7 @@
         "Mount Darwin"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632243,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108784877,
-    "wof:lastmodified":1564205586,
+    "wof:lastmodified":1566666541,
     "wof:name":"Mount Darwin",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

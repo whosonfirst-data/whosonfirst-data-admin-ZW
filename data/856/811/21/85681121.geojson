@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-20.135979,
     "lbl:longitude":28.566155,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.146108,
     "mps:longitude":28.561539,
     "mz:hierarchy_label":1,
@@ -48,9 +49,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u043b\u0430\u0432\u0430\u0439\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Bulawayo Province"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u62c9\u74e6\u7ea6\u7701"
@@ -127,9 +125,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-18",
+    "src:population_date":"2012-08-18",
     "statoids:area_km":"479",
     "statoids:area_mi":"185",
     "statoids:as_of_date":"2012-08-18",
@@ -154,7 +152,7 @@
         "gp:id":24550730,
         "hasc:id":"ZW.BU",
         "iso:id":"ZW-BU",
-        "qs:id":1086157,
+        "qs_pg:id":1086157,
         "unlc:id":"ZW-BU",
         "wd:id":"Q24045859"
     },
@@ -178,11 +176,10 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1565740704,
+    "wof:lastmodified":1566666452,
     "wof:name":"Bulawayo",
     "wof:parent_id":85632243,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city with provincial status",
     "wof:population":653337,
     "wof:population_rank":11,

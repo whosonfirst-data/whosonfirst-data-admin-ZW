@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"29.64667,-19.72,29.68667,-19.68",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Somabhula"
     ],
@@ -34,7 +38,6 @@
     ],
     "name:und_x_variant":[
         "Shamaburu",
-        "Somabhula",
         "Somabula"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1309821865,
-    "wof:lastmodified":1564205636,
+    "wof:lastmodified":1566666575,
     "wof:name":"Somabhula",
     "wof:parent_id":890416473,
     "wof:placetype":"locality",

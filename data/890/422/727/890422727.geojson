@@ -11,10 +11,14 @@
     "geom:longitude":29.36667,
     "gn:country":"ZW",
     "gn:fcode":"PPL",
-    "gn:pop":3835,
+    "gn:population":3835,
     "iso:country":"ZW",
+    "lbl:bbox":"29.34667,-19.80333,29.38667,-19.76333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Shangani"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":881331,
         "gp:id":1467524,
-        "qs:id":1029294,
+        "qs_pg:id":1029294,
         "wd:id":"Q18357548",
         "wk:page":"Shangani"
     },
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890422727,
-    "wof:lastmodified":1561840482,
+    "wof:lastmodified":1566666589,
     "wof:name":"Shangani",
     "wof:parent_id":85681117,
     "wof:placetype":"locality",

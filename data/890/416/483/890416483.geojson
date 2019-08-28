@@ -11,7 +11,7 @@
     "geom:longitude":30.395096,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":233717,
+    "gn:population":233717,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Chegutu District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-18.133549,
     "lbl:longitude":30.439582,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mashonaland West",
     "meso:dissme":"Mashonaland WestChegutu",
     "meso:gadm_adm2":"Chegutu",
@@ -36,6 +38,7 @@
     "mps:longitude":30.439582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Chegutu District"
     ],
@@ -45,9 +48,6 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30a7\u30b0\u30c4\u5730\u533a"
     ],
-    "name:unk_x_variant":[
-        "Chegutu District"
-    ],
     "qs:name":"Chegutu District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":252,
     "wof:belongsto":[
@@ -68,7 +68,7 @@
     "wof:concordances":{
         "gn:id":894238,
         "hasc:id":"ZW.MW.CG",
-        "qs:id":554776,
+        "qs_pg:id":554776,
         "wd:id":"Q5089562",
         "wk:page":"Chegutu District"
     },
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890416483,
-    "wof:lastmodified":1563572300,
+    "wof:lastmodified":1566666594,
     "wof:name":"Chegutu",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

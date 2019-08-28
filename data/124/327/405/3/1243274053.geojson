@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"29.91333,-18.12,29.95333,-18.08",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Melton"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1243274053,
-    "wof:lastmodified":1564205682,
+    "wof:lastmodified":1566666622,
     "wof:name":"Melton",
     "wof:parent_id":1108784911,
     "wof:placetype":"locality",

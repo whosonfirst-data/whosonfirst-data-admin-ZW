@@ -10,6 +10,9 @@
     "geom:latitude":-17.31159,
     "geom:longitude":31.57561,
     "iso:country":"ZW",
+    "lbl:bbox":"31.55561,-17.33159,31.59561,-17.29159",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -182,7 +185,7 @@
     "wof:concordances":{
         "gn:id":881345,
         "gp:id":1467523,
-        "qs:id":273845,
+        "qs_pg:id":273845,
         "wd:id":"Q606345",
         "wk:page":"Shamva"
     },
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":421168757,
-    "wof:lastmodified":1563572260,
+    "wof:lastmodified":1566666579,
     "wof:name":"Shamva",
     "wof:parent_id":85681093,
     "wof:placetype":"locality",

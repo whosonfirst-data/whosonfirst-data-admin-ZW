@@ -11,7 +11,7 @@
     "geom:longitude":27.793259,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":100562,
+    "gn:population":100562,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Lupane District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-18.754745,
     "lbl:longitude":27.72419,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Matabeleland North",
     "meso:dissme":"Matabeleland NorthLupane",
     "meso:gadm_adm2":"Lupane",
@@ -36,6 +38,7 @@
     "mps:longitude":27.72419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Lupane District"
     ],
@@ -76,9 +79,6 @@
     "name:spa_x_preferred":[
         "Lupane"
     ],
-    "name:unk_x_variant":[
-        "Lupani District"
-    ],
     "qs:name":"Lupane District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":211,
     "wof:belongsto":[
@@ -99,7 +99,7 @@
     "wof:concordances":{
         "gn:id":888223,
         "hasc:id":"ZW.MN.LU",
-        "qs:id":554763,
+        "qs_pg:id":554763,
         "wd:id":"Q997614",
         "wk:page":"Lupane District"
     },
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":890452765,
-    "wof:lastmodified":1563572289,
+    "wof:lastmodified":1566666590,
     "wof:name":"Lupane",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

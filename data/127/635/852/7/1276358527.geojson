@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.79122,-19.92071,31.83122,-19.88071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ganda"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1276358527,
-    "wof:lastmodified":1564205504,
+    "wof:lastmodified":1566666488,
     "wof:name":"Ganda",
     "wof:parent_id":890416499,
     "wof:placetype":"locality",

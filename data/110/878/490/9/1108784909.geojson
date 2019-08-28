@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-17.882358,
     "lbl:longitude":30.669009,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mashonaland West",
     "meso:dissme":"Mashonaland WestNorton",
     "meso:gadm_adm2":"Chegutu",
@@ -33,6 +35,7 @@
     "mps:longitude":30.669009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u062a\u0648\u0646"
     ],
@@ -109,7 +112,7 @@
         "Norton"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632243,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1108784909,
-    "wof:lastmodified":1564205581,
+    "wof:lastmodified":1566666538,
     "wof:name":"Norton",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

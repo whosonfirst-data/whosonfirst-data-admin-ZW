@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Harare",
     "iso:country":"ZW",
+    "lbl:bbox":"31.12111,-17.81806,31.16111,-17.77806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Downlands Park"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209332875,
-    "wof:lastmodified":1537716587,
+    "wof:lastmodified":1566666516,
     "wof:name":"Downlands Park",
     "wof:parent_id":85632243,
     "wof:placetype":"locality",

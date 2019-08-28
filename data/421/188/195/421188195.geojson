@@ -10,6 +10,9 @@
     "geom:latitude":-20.93333,
     "geom:longitude":29.0,
     "iso:country":"ZW",
+    "lbl:bbox":"28.98,-20.95333,29.02,-20.91333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0432\u0430\u043d\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jawunda"
     ],
     "name:urd_x_preferred":[
@@ -222,7 +225,7 @@
     "wof:concordances":{
         "gn:id":890516,
         "gp:id":1467039,
-        "qs:id":1090328,
+        "qs_pg:id":1090328,
         "wd:id":"Q1557796",
         "wk:page":"Gwanda"
     },
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":421188195,
-    "wof:lastmodified":1563572269,
+    "wof:lastmodified":1566666583,
     "wof:name":"Gwanda",
     "wof:parent_id":85681117,
     "wof:placetype":"locality",

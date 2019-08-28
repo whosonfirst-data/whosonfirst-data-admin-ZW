@@ -9,15 +9,18 @@
     "geom:bbox":"26.50194,-18.36927,26.50194,-18.36927",
     "geom:latitude":-18.36927,
     "geom:longitude":26.50194,
-    "gn:gn_country":"ZW",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":33210,
+    "gn:country":"ZW",
+    "gn:fcode":"PPL",
     "gn:population":33210,
     "iso:country":"ZW",
+    "lbl:bbox":"26.48194,-18.38927,26.52194,-18.34927",
     "lbl:latitude":-18.36927,
     "lbl:longitude":26.50194,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Hwange"
@@ -85,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0432\u0430\u043d\u0433\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wange"
     ],
     "name:zho_x_preferred":[
@@ -103,7 +106,7 @@
     "qs_pg:qs_id":129849,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1125819997,
-    "wof:lastmodified":1563572311,
+    "wof:lastmodified":1566666600,
     "wof:name":"Hwange",
     "wof:parent_id":1108784923,
     "wof:placetype":"locality",

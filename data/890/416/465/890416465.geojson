@@ -11,7 +11,7 @@
     "geom:longitude":30.931537,
     "gn:country":"ZW",
     "gn:fcode":"ADM2",
-    "gn:pop":198966,
+    "gn:population":198966,
     "iso:country":"ZW",
     "label:eng_x_preferred_longname":[
         "Mazowe District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-17.258162,
     "lbl:longitude":30.908598,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mashonaland Central",
     "meso:dissme":"Mashonaland CentralMazowe",
     "meso:gadm_adm2":"Mazowe",
@@ -36,6 +38,7 @@
     "mps:longitude":30.908598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mazowe District"
     ],
@@ -54,9 +57,6 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0437\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
-        "Mazowe District"
-    ],
     "qs:name":"Mazowe District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":43,
     "wof:belongsto":[
@@ -77,7 +77,7 @@
     "wof:concordances":{
         "gn:id":886383,
         "hasc:id":"ZW.MC.ME",
-        "qs:id":554753,
+        "qs_pg:id":554753,
         "wd:id":"Q1756321",
         "wk:page":"Mazowe District"
     },
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":890416465,
-    "wof:lastmodified":1563572302,
+    "wof:lastmodified":1566666595,
     "wof:name":"Mazowe",
     "wof:parent_id":85681093,
     "wof:placetype":"county",
