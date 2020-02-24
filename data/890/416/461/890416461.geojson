@@ -74,6 +74,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051136,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d8930a5ced526bfeb015a96d460a07ff",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890416461,
-    "wof:lastmodified":1566666598,
+    "wof:lastmodified":1582352012,
     "wof:name":"Mudzi",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

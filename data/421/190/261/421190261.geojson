@@ -475,6 +475,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1459009652,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3935070626fec092b443cfcf26da76e6",
     "wof:hierarchy":[
         {
@@ -485,7 +488,7 @@
         }
     ],
     "wof:id":421190261,
-    "wof:lastmodified":1566666585,
+    "wof:lastmodified":1582352009,
     "wof:name":"Harare Urban",
     "wof:parent_id":85681097,
     "wof:placetype":"county",

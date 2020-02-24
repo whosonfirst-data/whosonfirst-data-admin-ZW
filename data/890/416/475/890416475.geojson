@@ -83,6 +83,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051137,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ebdc38cd1312604a0687a916cf4809bb",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890416475,
-    "wof:lastmodified":1566666596,
+    "wof:lastmodified":1582352011,
     "wof:name":"Gwanda",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

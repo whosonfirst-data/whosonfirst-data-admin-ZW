@@ -71,6 +71,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052111,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72671a5df6a1f7aab07eb2926f53118f",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890436415,
-    "wof:lastmodified":1566666591,
+    "wof:lastmodified":1582352010,
     "wof:name":"Mutare",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

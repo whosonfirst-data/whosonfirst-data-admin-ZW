@@ -77,6 +77,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051138,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fcbeda8a272f099539af5d9dea2de088",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890416501,
-    "wof:lastmodified":1566666596,
+    "wof:lastmodified":1582352011,
     "wof:name":"Beitbridge",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

@@ -74,6 +74,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051777,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b97ea3c9c5eb6f151349b7971a51441",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890428879,
-    "wof:lastmodified":1566666593,
+    "wof:lastmodified":1582352010,
     "wof:name":"Chivi",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

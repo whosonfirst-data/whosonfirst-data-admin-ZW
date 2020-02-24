@@ -83,6 +83,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052725,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e7db428782427c9a2cfed81087330743",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890450097,
-    "wof:lastmodified":1566666600,
+    "wof:lastmodified":1582352012,
     "wof:name":"Umzingwane",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

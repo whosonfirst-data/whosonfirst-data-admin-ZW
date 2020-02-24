@@ -74,6 +74,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051137,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f825e3d929349fa172a82379b067a7cf",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890416469,
-    "wof:lastmodified":1566666598,
+    "wof:lastmodified":1582352011,
     "wof:name":"Hwange",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

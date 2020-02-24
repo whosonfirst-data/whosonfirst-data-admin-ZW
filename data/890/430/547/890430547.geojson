@@ -81,6 +81,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051857,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"97fa8e35c4da1bd0558f998f8995a001",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890430547,
-    "wof:lastmodified":1566666589,
+    "wof:lastmodified":1582352009,
     "wof:name":"Chipinge",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

@@ -248,6 +248,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1459008880,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"691010dbfe26ddf548b9e57055d41cd6",
     "wof:hierarchy":[
         {
@@ -258,7 +261,7 @@
         }
     ],
     "wof:id":421171051,
-    "wof:lastmodified":1566666588,
+    "wof:lastmodified":1582352009,
     "wof:name":"Bulawayo",
     "wof:parent_id":85681121,
     "wof:placetype":"county",

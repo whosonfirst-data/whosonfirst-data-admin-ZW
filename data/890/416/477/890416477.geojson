@@ -104,6 +104,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051137,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb68118930fea19ec361b77d20a7b3d6",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":890416477,
-    "wof:lastmodified":1566666594,
+    "wof:lastmodified":1582352010,
     "wof:name":"Gutu",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

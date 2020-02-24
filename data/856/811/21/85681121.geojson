@@ -157,6 +157,9 @@
         "wd:id":"Q24045859"
     },
     "wof:country":"ZW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"691010dbfe26ddf548b9e57055d41cd6",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1566666452,
+    "wof:lastmodified":1582352005,
     "wof:name":"Bulawayo",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

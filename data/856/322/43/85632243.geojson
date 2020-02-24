@@ -910,6 +910,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
+        "naturalearth",
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -964,6 +965,11 @@
     },
     "wof:country":"ZW",
     "wof:country_alpha3":"ZWE",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"69206d7e141365e4238d9d815c61fcaf",
     "wof:hierarchy":[
         {
@@ -982,7 +988,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1566666455,
+    "wof:lastmodified":1582352006,
     "wof:name":"Zimbabwe",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

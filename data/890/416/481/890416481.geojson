@@ -83,6 +83,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051137,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"596de4b10c746e4f803e63e4391701a6",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890416481,
-    "wof:lastmodified":1566666596,
+    "wof:lastmodified":1582352011,
     "wof:name":"Chimanimani",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

@@ -83,6 +83,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052726,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b7cb614e312b6653b716398abc3e0feb",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890450101,
-    "wof:lastmodified":1566666600,
+    "wof:lastmodified":1582352012,
     "wof:name":"Shamva",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

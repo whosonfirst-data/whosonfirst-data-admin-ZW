@@ -83,6 +83,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051138,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"13de0b71b8e34e80e3b71133d31e40f7",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890416493,
-    "wof:lastmodified":1566666597,
+    "wof:lastmodified":1582352011,
     "wof:name":"Bubi",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

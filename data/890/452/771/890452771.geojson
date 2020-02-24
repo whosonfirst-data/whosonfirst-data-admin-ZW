@@ -74,6 +74,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052829,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a263aa31cacf18f605c062a5d90bbf6e",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890452771,
-    "wof:lastmodified":1566666590,
+    "wof:lastmodified":1582352009,
     "wof:name":"Kadoma Urban",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

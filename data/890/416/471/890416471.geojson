@@ -81,6 +81,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051137,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ec88ec18d9da3bba2a2fbe9b2032bf3c",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890416471,
-    "wof:lastmodified":1566666594,
+    "wof:lastmodified":1582352010,
     "wof:name":"Hurungwe",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

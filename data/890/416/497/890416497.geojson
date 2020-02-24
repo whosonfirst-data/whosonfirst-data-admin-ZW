@@ -80,6 +80,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051138,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"97d0ff19ce64f06f1ae9019d33ffc4b8",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890416497,
-    "wof:lastmodified":1566666595,
+    "wof:lastmodified":1582352011,
     "wof:name":"Bindura",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

@@ -83,6 +83,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051438,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d0febcc02260af324c3b4262ded2f5f",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890422333,
-    "wof:lastmodified":1566666589,
+    "wof:lastmodified":1582352009,
     "wof:name":"Makoni",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

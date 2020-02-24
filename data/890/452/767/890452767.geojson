@@ -77,6 +77,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052829,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dbe6a4b259fed471bd303928f6e8f13e",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890452767,
-    "wof:lastmodified":1566666590,
+    "wof:lastmodified":1582352009,
     "wof:name":"Kwekwe",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

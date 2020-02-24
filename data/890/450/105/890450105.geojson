@@ -74,6 +74,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052726,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5ff7f4ccade8593915932dcc940baafd",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890450105,
-    "wof:lastmodified":1566666599,
+    "wof:lastmodified":1582352012,
     "wof:name":"Nyanga",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

@@ -80,6 +80,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052829,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7438c391bab1eebdb025f9daebb52fe5",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890452775,
-    "wof:lastmodified":1566666591,
+    "wof:lastmodified":1582352010,
     "wof:name":"Insiza",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

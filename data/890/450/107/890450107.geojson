@@ -74,6 +74,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052726,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"161a2ec09055baf9bd93f7c686380da5",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890450107,
-    "wof:lastmodified":1566666600,
+    "wof:lastmodified":1582352012,
     "wof:name":"Nkayi",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

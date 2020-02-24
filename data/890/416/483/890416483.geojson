@@ -74,6 +74,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051137,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"98cd95fe7394fb9c588ef7d01dfe5703",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890416483,
-    "wof:lastmodified":1566666594,
+    "wof:lastmodified":1582352011,
     "wof:name":"Chegutu",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

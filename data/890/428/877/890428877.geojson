@@ -83,6 +83,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051777,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8e920c7af5e5614c57a71a3006011451",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890428877,
-    "wof:lastmodified":1566666593,
+    "wof:lastmodified":1582352010,
     "wof:name":"Goromonzi",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

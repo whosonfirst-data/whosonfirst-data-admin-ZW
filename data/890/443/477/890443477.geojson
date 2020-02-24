@@ -211,6 +211,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052425,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4cf5c4733e8bf01c13fd6b0a7e6e0432",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":890443477,
-    "wof:lastmodified":1566666594,
+    "wof:lastmodified":1582352010,
     "wof:name":"Victoria Falls",
     "wof:parent_id":1108784931,
     "wof:placetype":"locality",

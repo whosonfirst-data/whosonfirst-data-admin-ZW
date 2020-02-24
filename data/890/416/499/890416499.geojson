@@ -86,6 +86,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051138,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"44356b1db0572538bba074d87384a27b",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890416499,
-    "wof:lastmodified":1566666595,
+    "wof:lastmodified":1582352011,
     "wof:name":"Bikita",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

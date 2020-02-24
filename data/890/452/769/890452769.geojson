@@ -83,6 +83,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052829,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"36af3e978947c17084fd3a4009e02eef",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890452769,
-    "wof:lastmodified":1566666590,
+    "wof:lastmodified":1582352009,
     "wof:name":"Kariba",
     "wof:parent_id":85681131,
     "wof:placetype":"county",
