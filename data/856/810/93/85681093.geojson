@@ -300,6 +300,9 @@
         "wk:page":"Mashonaland Central Province"
     },
     "wof:country":"ZW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0f26d3562b72328ab20f8e43748f7dea",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1566666454,
+    "wof:lastmodified":1582352006,
     "wof:name":"Mashonaland Central",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

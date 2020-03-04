@@ -83,6 +83,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051438,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64c8d3414e9ec29b39bd1890d69a8f50",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890422337,
-    "wof:lastmodified":1566666588,
+    "wof:lastmodified":1582352009,
     "wof:name":"Makonde",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

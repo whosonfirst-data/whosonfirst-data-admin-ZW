@@ -105,6 +105,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052828,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"06d560cddc462723c982c22673b4809e",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":890452765,
-    "wof:lastmodified":1566666590,
+    "wof:lastmodified":1582352009,
     "wof:name":"Lupane",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

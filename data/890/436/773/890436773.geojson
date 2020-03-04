@@ -80,6 +80,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052125,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59342afb08cc9661b761508f7685901e",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890436773,
-    "wof:lastmodified":1566666592,
+    "wof:lastmodified":1582352010,
     "wof:name":"Mwenezi",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

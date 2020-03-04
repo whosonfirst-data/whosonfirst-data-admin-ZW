@@ -86,6 +86,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051137,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1c89eb57ef3c7e963328abcc6be0e8da",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890416491,
-    "wof:lastmodified":1566666596,
+    "wof:lastmodified":1582352011,
     "wof:name":"Buhera",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

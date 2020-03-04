@@ -80,6 +80,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052111,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"374cd831e5aff413284025233fc51d69",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890436413,
-    "wof:lastmodified":1566666591,
+    "wof:lastmodified":1582352010,
     "wof:name":"Mutasa",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

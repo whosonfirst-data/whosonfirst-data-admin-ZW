@@ -86,6 +86,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052828,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"42163b97acfb4a14cc3013a3896569d3",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890452761,
-    "wof:lastmodified":1566666590,
+    "wof:lastmodified":1582352010,
     "wof:name":"Matobo",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

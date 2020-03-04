@@ -176,6 +176,9 @@
         421201479
     ],
     "wof:country":"ZW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"81999419659c6702b82df68718d89bbc",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1566666454,
+    "wof:lastmodified":1582352006,
     "wof:name":"Harare",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

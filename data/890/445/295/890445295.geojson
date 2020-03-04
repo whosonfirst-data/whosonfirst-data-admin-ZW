@@ -71,6 +71,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052504,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9a596299d54162bc521f9cdd2e6fc21f",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890445295,
-    "wof:lastmodified":1566666598,
+    "wof:lastmodified":1582352012,
     "wof:name":"Marondera",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

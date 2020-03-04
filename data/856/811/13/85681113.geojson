@@ -293,6 +293,9 @@
         "wk:page":"Manicaland Province"
     },
     "wof:country":"ZW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e84b28a70966f946afb189a8f8154aba",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1566666454,
+    "wof:lastmodified":1582352005,
     "wof:name":"Manicaland",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

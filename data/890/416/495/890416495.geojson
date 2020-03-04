@@ -96,6 +96,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051138,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a93d5595fa42d569a8eae0109a8ac034",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":890416495,
-    "wof:lastmodified":1566666598,
+    "wof:lastmodified":1582352012,
     "wof:name":"Binga",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

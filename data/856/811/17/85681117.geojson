@@ -310,6 +310,9 @@
         "wk:page":"Matabeleland South Province"
     },
     "wof:country":"ZW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"92cd8964b0edc2db4b16047c876f120d",
     "wof:hierarchy":[
         {
@@ -329,7 +332,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1566666452,
+    "wof:lastmodified":1582352005,
     "wof:name":"Matabeleland South",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

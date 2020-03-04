@@ -83,6 +83,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051136,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a1893bdb0ed34a363fa0bb2550442fa9",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890416465,
-    "wof:lastmodified":1566666595,
+    "wof:lastmodified":1582352011,
     "wof:name":"Mazowe",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

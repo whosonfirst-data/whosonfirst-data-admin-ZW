@@ -296,6 +296,9 @@
         "wk:page":"Midlands Province"
     },
     "wof:country":"ZW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"06f6e77593c2517c434f5e96146b70f3",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1566666451,
+    "wof:lastmodified":1582352004,
     "wof:name":"Midlands",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

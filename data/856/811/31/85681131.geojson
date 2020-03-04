@@ -312,6 +312,9 @@
         "wk:page":"Mashonaland West Province"
     },
     "wof:country":"ZW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e132695ca85c992919afb1b3d0def8d4",
     "wof:hierarchy":[
         {
@@ -331,7 +334,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1566666453,
+    "wof:lastmodified":1582352005,
     "wof:name":"Mashonaland West",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

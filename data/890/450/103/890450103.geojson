@@ -77,6 +77,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052726,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fc13624432b3dd3fe3e4a80a6951ec68",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890450103,
-    "wof:lastmodified":1566666599,
+    "wof:lastmodified":1582352012,
     "wof:name":"Rushinga",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

@@ -312,6 +312,9 @@
         "wk:page":"Mashonaland East Province"
     },
     "wof:country":"ZW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7f7a1ffc9d5a4f0f1e392debf76a0cc6",
     "wof:hierarchy":[
         {
@@ -331,7 +334,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1566666452,
+    "wof:lastmodified":1582352005,
     "wof:name":"Mashonaland East",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

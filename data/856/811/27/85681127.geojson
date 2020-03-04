@@ -290,6 +290,9 @@
         "wk:page":"Masvingo Province"
     },
     "wof:country":"ZW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4a855c2c428e62825cf3d6eceba40aef",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1566666452,
+    "wof:lastmodified":1582352004,
     "wof:name":"Masvingo",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

@@ -83,6 +83,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051136,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"30bede20120c50f80426cae18945a376",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890416463,
-    "wof:lastmodified":1566666595,
+    "wof:lastmodified":1582352011,
     "wof:name":"Mberengwa",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

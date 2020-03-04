@@ -74,6 +74,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051777,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f3500ac84dd621d14bcd408dbaf774a1",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890428881,
-    "wof:lastmodified":1566666593,
+    "wof:lastmodified":1582352010,
     "wof:name":"Chiredzi",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

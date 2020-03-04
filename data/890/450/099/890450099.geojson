@@ -77,6 +77,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469052725,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5a129419321dc271f4f4e4201c43f239",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890450099,
-    "wof:lastmodified":1566666599,
+    "wof:lastmodified":1582352012,
     "wof:name":"Shurugwi",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

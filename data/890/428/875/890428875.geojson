@@ -77,6 +77,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051777,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fde18dc7bd1a141da8dd811c91817569",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890428875,
-    "wof:lastmodified":1566666593,
+    "wof:lastmodified":1582352010,
     "wof:name":"Zvishavane",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

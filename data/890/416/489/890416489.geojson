@@ -74,6 +74,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051137,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9ddee903ba2fe820c060cdace2d2f4d9",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890416489,
-    "wof:lastmodified":1566666597,
+    "wof:lastmodified":1582352011,
     "wof:name":"Bulilima",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

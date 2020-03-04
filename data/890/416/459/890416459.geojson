@@ -77,6 +77,9 @@
     },
     "wof:country":"ZW",
     "wof:created":1469051136,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3573b440836fb2c47c9990146ace47a4",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890416459,
-    "wof:lastmodified":1566666598,
+    "wof:lastmodified":1582352012,
     "wof:name":"Murehwa",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

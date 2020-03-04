@@ -310,6 +310,9 @@
         "wk:page":"Matabeleland North Province"
     },
     "wof:country":"ZW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d67e4e3c66e4923d8c0cffdce8a44eaa",
     "wof:hierarchy":[
         {
@@ -329,7 +332,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1566666453,
+    "wof:lastmodified":1582352005,
     "wof:name":"Matabeleland North",
     "wof:parent_id":85632243,
     "wof:placetype":"region",
