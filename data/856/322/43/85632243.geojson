@@ -910,7 +910,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "naturalearth",
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -988,7 +987,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1582352006,
+    "wof:lastmodified":1583232525,
     "wof:name":"Zimbabwe",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
