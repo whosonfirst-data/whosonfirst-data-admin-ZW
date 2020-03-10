@@ -941,9 +941,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Zimbabwe",
-        "digitalenvoy:country_code":[
-            716
-        ],
+        "digitalenvoy:country_code":716,
         "fb:id":"en.zimbabwe",
         "fifa:id":"ZIM",
         "fips:code":"ZI",
@@ -990,7 +988,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1583529250,
+    "wof:lastmodified":1583797460,
     "wof:name":"Zimbabwe",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
