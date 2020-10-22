@@ -9,7 +9,6 @@
     "geom:bbox":"25.237368,-22.421999,33.068164,-15.609319",
     "geom:latitude":-19.0,
     "geom:longitude":29.872164,
-    "gn:id":"",
     "gn:population":11651858,
     "iso:country":"ZW",
     "itu:country_code":[
@@ -1039,7 +1038,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1587428987,
+    "wof:lastmodified":1603258452,
     "wof:name":"Zimbabwe",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
