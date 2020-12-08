@@ -571,7 +571,9 @@
         85681097
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632243,
+    "wof:capital_of":[
+        85632243
+    ],
     "wof:concordances":{
         "gn:id":890299,
         "gp:id":1467052,
@@ -597,7 +599,7 @@
         }
     ],
     "wof:id":421201479,
-    "wof:lastmodified":1587428988,
+    "wof:lastmodified":1607390876,
     "wof:name":"Harare",
     "wof:parent_id":85681097,
     "wof:placetype":"locality",
