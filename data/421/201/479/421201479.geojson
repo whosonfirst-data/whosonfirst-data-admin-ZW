@@ -578,6 +578,7 @@
         "gn:id":890299,
         "gp:id":1467052,
         "loc:id":"n83024955",
+        "ne:id":1159150573,
         "qs_pg:id":211607,
         "wd:id":"Q3921"
     },
@@ -599,7 +600,8 @@
         }
     ],
     "wof:id":421201479,
-    "wof:lastmodified":1607390876,
+    "wof:lastmodified":1608688176,
+    "wof:megacity":1,
     "wof:name":"Harare",
     "wof:parent_id":85681097,
     "wof:placetype":"locality",
