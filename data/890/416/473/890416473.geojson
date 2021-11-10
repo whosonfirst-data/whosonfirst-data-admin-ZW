@@ -45,6 +45,9 @@
     "name:fra_x_preferred":[
         "Gweru"
     ],
+    "name:hun_x_preferred":[
+        "Gweru"
+    ],
     "name:jpn_x_preferred":[
         "\u30b0\u30a6\u30a7\u30eb\u5730\u533a"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890416473,
-    "wof:lastmodified":1627523022,
+    "wof:lastmodified":1636502218,
     "wof:name":"Gweru",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

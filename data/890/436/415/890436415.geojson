@@ -45,6 +45,9 @@
     "name:fra_x_preferred":[
         "Mutare"
     ],
+    "name:hun_x_preferred":[
+        "Mutare"
+    ],
     "name:und_x_variant":[
         "Nyautare"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890436415,
-    "wof:lastmodified":1627523023,
+    "wof:lastmodified":1636502216,
     "wof:name":"Mutare",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

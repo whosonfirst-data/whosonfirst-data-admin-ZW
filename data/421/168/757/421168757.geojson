@@ -23,6 +23,9 @@
     "name:bar_x_preferred":[
         "Shamva"
     ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09be\u09ae\u09ad\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0428\u0430\u043c\u0432\u0430"
     ],
@@ -32,6 +35,9 @@
     "name:deu_x_preferred":[
         "Shamva"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bc\u03b3\u03bf\u03c5\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Shamva"
     ],
@@ -39,14 +45,35 @@
         "Tsamvi",
         "Tsambvi"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0645\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Shamva"
     ],
     "name:fra_x_preferred":[
         "Shamva"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05de\u05d5\u05d5\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u093e\u092e\u0935\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Shamva"
+    ],
+    "name:ind_x_preferred":[
+        "Shamva"
+    ],
     "name:ita_x_preferred":[
         "Shamva"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30f3\u30d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0f4\ubc14"
     ],
     "name:nld_x_preferred":[
         "Shamva"
@@ -57,8 +84,35 @@
     "name:ron_x_preferred":[
         "Shamva"
     ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043c\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Shamva"
+    ],
     "name:srp_x_preferred":[
         "\u0428\u0430\u043c\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Shamva"
+    ],
+    "name:tur_x_preferred":[
+        "Shamva"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043c\u0432\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u0645\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Shamva"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6c99\u59c6\u74e6"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6c99\u59c6\u74e6"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u62c9\u74e6\u7ea6"
@@ -201,7 +255,7 @@
         }
     ],
     "wof:id":421168757,
-    "wof:lastmodified":1566666579,
+    "wof:lastmodified":1636502213,
     "wof:name":"Shamva",
     "wof:parent_id":85681093,
     "wof:placetype":"locality",

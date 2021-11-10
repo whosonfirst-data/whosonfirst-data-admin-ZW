@@ -152,6 +152,9 @@
         "Harare"
     ],
     "name:heb_x_preferred":[
+        "\u05d4\u05e8\u05d0\u05e8\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05d4\u05d0\u05e8\u05d0\u05e8\u05d4"
     ],
     "name:hif_x_preferred":[
@@ -600,7 +603,7 @@
         }
     ],
     "wof:id":421201479,
-    "wof:lastmodified":1608688176,
+    "wof:lastmodified":1636502215,
     "wof:megacity":1,
     "wof:name":"Harare",
     "wof:parent_id":85681097,

@@ -50,6 +50,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03ba\u03ad\u03bd\u03b9"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06a9\u0646\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Makeni"
     ],
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1309898517,
-    "wof:lastmodified":1566666577,
+    "wof:lastmodified":1636502213,
     "wof:name":"Makeni",
     "wof:parent_id":1108784927,
     "wof:placetype":"locality",

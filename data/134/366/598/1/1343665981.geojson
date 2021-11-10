@@ -53,6 +53,9 @@
     "name:eus_x_preferred":[
         "Masvingo"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0633\u0648\u06cc\u0646\u06af\u0648"
+    ],
     "name:fin_x_preferred":[
         "Masvingo"
     ],
@@ -62,7 +65,13 @@
     "name:frr_x_preferred":[
         "Masvingo"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d8\u05d0\u05d1\u05dc\u05e0\u05d3 \u05e6\u05e4\u05d5\u05df"
+    ],
     "name:hrv_x_preferred":[
+        "Masvingo"
+    ],
+    "name:hun_x_preferred":[
         "Masvingo"
     ],
     "name:ita_x_preferred":[
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":1343665981,
-    "wof:lastmodified":1566666441,
+    "wof:lastmodified":1636502208,
     "wof:name":"Masvingo",
     "wof:parent_id":890416491,
     "wof:placetype":"locality",

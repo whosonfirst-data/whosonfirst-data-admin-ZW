@@ -32,13 +32,43 @@
     "name:afr_x_preferred":[
         "Moyeni"
     ],
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0648\u0646\u064a"
+    ],
     "name:bar_x_preferred":[
         "Moyeni"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09df\u09c7\u09a8\u09bf"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03ca\u03b5\u03bd\u03af"
     ],
     "name:est_x_preferred":[
         "Moyeni"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06cc\u0646\u06cc"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u092f\u0947\u0928\u093f"
+    ],
+    "name:hun_x_preferred":[
+        "Moyeni"
+    ],
+    "name:ind_x_preferred":[
+        "Moyeni"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\uc608\ub2c8"
+    ],
     "name:nso_x_preferred":[
+        "Moyeni"
+    ],
+    "name:tur_x_preferred":[
+        "Moyeni"
+    ],
+    "name:vie_x_preferred":[
         "Moyeni"
     ],
     "src:geom":"geonames",
@@ -64,7 +94,7 @@
         }
     ],
     "wof:id":1343855501,
-    "wof:lastmodified":1566666437,
+    "wof:lastmodified":1636502208,
     "wof:name":"Moyeni",
     "wof:parent_id":1108784927,
     "wof:placetype":"locality",

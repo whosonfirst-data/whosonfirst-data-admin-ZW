@@ -77,6 +77,9 @@
     "name:hrv_x_preferred":[
         "Gaza"
     ],
+    "name:hun_x_preferred":[
+        "Gaza"
+    ],
     "name:jpn_x_preferred":[
         "\u30ac\u30b6"
     ],
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1343972229,
-    "wof:lastmodified":1566666431,
+    "wof:lastmodified":1636502207,
     "wof:name":"Gaza",
     "wof:parent_id":890416491,
     "wof:placetype":"locality",

@@ -49,7 +49,13 @@
         "Mazowe"
     ],
     "name:jpn_x_preferred":[
+        "\u30de\u30be\u30a6\u30a7"
+    ],
+    "name:jpn_x_variant":[
         "\u30de\u30be\u30a6\u30a7\u5730\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc870\uc6e8"
     ],
     "name:lit_x_preferred":[
         "Mazov\u0117s rajonas"
@@ -57,8 +63,35 @@
     "name:nld_x_preferred":[
         "Mazowe District"
     ],
+    "name:pol_x_preferred":[
+        "Mazowe"
+    ],
+    "name:por_x_preferred":[
+        "Mazowe"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0437\u043e\u0432\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mazowe"
+    ],
+    "name:tur_x_preferred":[
+        "Mazowe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0437\u043e\u0432\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0632\u0648\u0626\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Mazowe"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u4f50\u57c3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u4f50\u7dad"
     ],
     "qs:name":"Mazowe District",
     "qs:photos_9r":0,
@@ -99,7 +132,7 @@
         }
     ],
     "wof:id":890416465,
-    "wof:lastmodified":1627523023,
+    "wof:lastmodified":1636502217,
     "wof:name":"Mazowe",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

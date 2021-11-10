@@ -32,7 +32,13 @@
     "name:bar_x_preferred":[
         "Bromley"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b0\u09ae\u09b2\u09bf"
+    ],
     "name:deu_x_preferred":[
+        "Bromley"
+    ],
+    "name:ind_x_preferred":[
         "Bromley"
     ],
     "name:und_x_variant":[
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1276156391,
-    "wof:lastmodified":1566666494,
+    "wof:lastmodified":1636502211,
     "wof:name":"Bromley",
     "wof:parent_id":890428877,
     "wof:placetype":"locality",

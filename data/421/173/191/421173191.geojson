@@ -74,6 +74,9 @@
     "name:hrv_x_preferred":[
         "Gweru"
     ],
+    "name:hun_x_preferred":[
+        "Gweru"
+    ],
     "name:ind_x_preferred":[
         "Gweru"
     ],
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":421173191,
-    "wof:lastmodified":1566666583,
+    "wof:lastmodified":1636502214,
     "wof:name":"Gweru",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

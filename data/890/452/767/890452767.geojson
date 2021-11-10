@@ -45,7 +45,16 @@
     "name:eng_x_preferred":[
         "Kwekwe District"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06a9\u0648\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Kwekwe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d5\u05e7\u05d5\u05d5\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Kwekwe"
     ],
     "name:jpn_x_preferred":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":890452767,
-    "wof:lastmodified":1627523022,
+    "wof:lastmodified":1636502216,
     "wof:name":"Kwekwe",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

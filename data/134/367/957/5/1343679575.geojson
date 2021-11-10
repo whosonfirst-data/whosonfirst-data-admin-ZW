@@ -60,6 +60,9 @@
         "Palmerston"
     ],
     "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u043c\u0435\u0440\u0441\u0442\u043e\u043d"
+    ],
+    "name:rus_x_variant":[
         "\u041f\u0430\u043b\u044c\u043c\u0435\u0440\u0441\u0442\u043e\u043d"
     ],
     "name:spa_x_preferred":[
@@ -67,6 +70,24 @@
     ],
     "name:swe_x_preferred":[
         "Palmerston"
+    ],
+    "name:tur_x_preferred":[
+        "Palmerston"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u043c\u0435\u0440\u0441\u0442\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0644\u0645\u0631\u0633\u0679\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o san h\u00f4 Palmerston"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e15\u58a8\u65af\u987f\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e15\u9ea5\u65af\u9813"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +101,7 @@
         "gn:id":7418151
     },
     "wof:country":"ZW",
-    "wof:geomhash":"e6452ba5d41a05d35c77ff3830d25cb8",
+    "wof:geomhash":"0f4748aa59e647a0e406dd928c16ccb6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +112,7 @@
         }
     ],
     "wof:id":1343679575,
-    "wof:lastmodified":1566666443,
+    "wof:lastmodified":1636502208,
     "wof:name":"Palmerston",
     "wof:parent_id":1108784869,
     "wof:placetype":"locality",
@@ -101,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.67404000000001,
+    32.67404,
     -18.96804,
-    32.67404000000001,
+    32.67404,
     -18.96804
 ],
-  "geometry": {"coordinates":[32.67404000000001,-18.96804],"type":"Point"}
+  "geometry": {"coordinates":[32.67404,-18.96804],"type":"Point"}
 }

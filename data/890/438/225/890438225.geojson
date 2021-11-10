@@ -28,6 +28,9 @@
     "name:bar_x_preferred":[
         "Chinhoyi"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09bf\u09a8\u09b9\u09cb\u0987"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0438\u043d\u0445\u043e\u0438\u0439"
     ],
@@ -40,11 +43,17 @@
     "name:deu_x_preferred":[
         "Chinhoyi"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03bd\u03c7\u03cc\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Chinhoyi"
     ],
     "name:eus_x_preferred":[
         "Chinhoyi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0646 \u0647\u0648\u06cc\u06cc"
     ],
     "name:fra_x_preferred":[
         "Chinhoyi"
@@ -55,7 +64,16 @@
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d1 \u05e1\u05d9\u05e0\u05d5\u05d9\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u091a\u093f\u0928\u094d\u0939\u094b\u092f\u0940"
+    ],
     "name:hrv_x_preferred":[
+        "Chinhoyi"
+    ],
+    "name:hun_x_preferred":[
+        "Chinhoyi"
+    ],
+    "name:ind_x_preferred":[
         "Chinhoyi"
     ],
     "name:ita_x_preferred":[
@@ -63,6 +81,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30ce\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\uce5c\ud638\uc774"
     ],
     "name:lit_x_preferred":[
         "\u010cinhojis"
@@ -91,11 +112,17 @@
     "name:sna_x_preferred":[
         "Chinhoyi"
     ],
+    "name:spa_x_preferred":[
+        "Chinhoyi"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0438\u043d\u0445\u043e\u0458\u0438"
     ],
     "name:srp_x_variant":[
         "\u0427\u0438\u043d\u043e\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Chinhoyi"
     ],
     "name:tur_x_preferred":[
         "Chinhoyi"
@@ -108,6 +135,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0646\u06c1\u0648\u0626\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Chinhoyi"
     ],
     "name:zho_x_preferred":[
         "\u5947\u8afe\u4f0a"
@@ -237,7 +267,7 @@
         }
     ],
     "wof:id":890438225,
-    "wof:lastmodified":1566666592,
+    "wof:lastmodified":1636502217,
     "wof:name":"Chinhoyi",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",
