@@ -51,6 +51,12 @@
     "name:fra_x_preferred":[
         "Kadoma Urban"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0434\u043e\u043c\u0430"
+    ],
+    "name:zul_x_preferred":[
+        "Kadoma District"
+    ],
     "qs:name":"Kadoma District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890452771,
-    "wof:lastmodified":1627523022,
+    "wof:lastmodified":1690930148,
     "wof:name":"Kadoma Urban",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

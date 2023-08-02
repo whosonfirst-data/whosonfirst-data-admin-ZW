@@ -40,6 +40,9 @@
     "name:und_x_variant":[
         "Umvuma"
     ],
+    "name:zul_x_preferred":[
+        "Mvuma"
+    ],
     "qs:name":"Mvuma",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890433485,
-    "wof:lastmodified":1566666599,
+    "wof:lastmodified":1690930157,
     "wof:name":"Mvuma",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

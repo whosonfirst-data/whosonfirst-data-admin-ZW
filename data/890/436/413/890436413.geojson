@@ -51,11 +51,17 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30bf\u30b5\u5730\u533a"
     ],
+    "name:kor_x_preferred":[
+        "\ubb34\ud0c0\uc0ac"
+    ],
     "name:nld_x_preferred":[
         "Mutasa District"
     ],
     "name:nob_x_preferred":[
         "Mutasa"
+    ],
+    "name:zul_x_preferred":[
+        "Mutasa District"
     ],
     "qs:name":"Mutasa District",
     "qs:photos_9r":0,
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":890436413,
-    "wof:lastmodified":1627523023,
+    "wof:lastmodified":1690930150,
     "wof:name":"Mutasa",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

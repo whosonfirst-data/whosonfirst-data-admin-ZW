@@ -46,6 +46,12 @@
     "name:ron_x_preferred":[
         "Gokwe"
     ],
+    "name:swa_x_preferred":[
+        "Gokwe"
+    ],
+    "name:zul_x_preferred":[
+        "Gokwe"
+    ],
     "qs_pg:aaroncc":"ZW",
     "qs_pg:gn_country":"ZW",
     "qs_pg:gn_fcode":"PPL",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1126002631,
-    "wof:lastmodified":1566666601,
+    "wof:lastmodified":1690930160,
     "wof:name":"Gokwe",
     "wof:parent_id":1108784947,
     "wof:placetype":"locality",

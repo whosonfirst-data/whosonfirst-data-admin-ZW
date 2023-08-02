@@ -31,6 +31,9 @@
     "name:und_x_variant":[
         "Shagari"
     ],
+    "name:zul_x_preferred":[
+        "Chakari"
+    ],
     "qs:name":"Chakari",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890431457,
-    "wof:lastmodified":1566666592,
+    "wof:lastmodified":1690930151,
     "wof:name":"Chakari",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",

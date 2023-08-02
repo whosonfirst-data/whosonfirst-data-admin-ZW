@@ -34,6 +34,9 @@
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09b6\u09be\u09ad\u09c7\u09a8"
     ],
+    "name:cat_x_preferred":[
+        "Zvishavane"
+    ],
     "name:ceb_x_preferred":[
         "Zvishavane"
     ],
@@ -85,6 +88,9 @@
     "name:kor_x_preferred":[
         "\uc988\ube44\uc0e4\ubc14\ub124"
     ],
+    "name:lit_x_preferred":[
+        "Zvi\u0161avan\u0117"
+    ],
     "name:nld_x_preferred":[
         "Zvishavane"
     ],
@@ -103,8 +109,14 @@
     "name:rus_x_preferred":[
         "\u0417\u0432\u0438\u0448\u0430\u0432\u0430\u043d\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Zvishavane"
+    ],
     "name:srp_x_preferred":[
         "\u0417\u0432\u0438\u0448\u0430\u0432\u0430\u043d\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Zvishavane"
     ],
     "name:swe_x_preferred":[
         "Zvishavane"
@@ -119,6 +131,12 @@
         "\u0632\u0648\u06cc\u0634\u0627\u0648\u0627\u0646\u06d2"
     ],
     "name:vie_x_preferred":[
+        "Zvishavane"
+    ],
+    "name:zho_x_preferred":[
+        "\u8332\u7dad\u6c99\u74e6\u5167"
+    ],
+    "name:zul_x_preferred":[
         "Zvishavane"
     ],
     "ne:ADM0CAP":0.0,
@@ -244,7 +262,7 @@
         }
     ],
     "wof:id":890443475,
-    "wof:lastmodified":1636502217,
+    "wof:lastmodified":1690930153,
     "wof:name":"Zvishavane",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

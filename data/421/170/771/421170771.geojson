@@ -59,11 +59,20 @@
     "name:rus_x_preferred":[
         "\u0420\u044d\u0434\u043a\u043b\u0438\u0444\u0444"
     ],
+    "name:rus_x_variant":[
+        "\u0420\u0435\u0434\u043a\u043b\u0438\u0444\u0444"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u0435\u0434\u043a\u043b\u0438\u0444"
     ],
+    "name:swa_x_preferred":[
+        "Redcliff"
+    ],
     "name:tur_x_preferred":[
         "Redcliff"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0434\u043a\u043b\u0456\u0444\u0444"
     ],
     "name:und_x_variant":[
         "Redcliffe"
@@ -73,6 +82,9 @@
     ],
     "name:urd_x_variant":[
         "\u0631\u06cc\u0688\u06a9\u0644\u0641"
+    ],
+    "name:zul_x_preferred":[
+        "Redcliff"
     ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":421170771,
-    "wof:lastmodified":1566666587,
+    "wof:lastmodified":1690930145,
     "wof:name":"Redcliff",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

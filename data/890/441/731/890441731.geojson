@@ -40,6 +40,12 @@
     "name:por_x_preferred":[
         "Penhalonga"
     ],
+    "name:sna_x_preferred":[
+        "Penhalonga"
+    ],
+    "name:zul_x_preferred":[
+        "Penhalonga"
+    ],
     "qs:name":"Penhalonga",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":890441731,
-    "wof:lastmodified":1566666589,
+    "wof:lastmodified":1690930148,
     "wof:name":"Penhalonga",
     "wof:parent_id":85681113,
     "wof:placetype":"locality",

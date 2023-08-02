@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Inyati"
     ],
+    "name:zul_x_preferred":[
+        "Inyati"
+    ],
     "qs_pg:aaroncc":"ZW",
     "qs_pg:gn_country":"ZW",
     "qs_pg:gn_fcode":"PPL",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126002621,
-    "wof:lastmodified":1566666601,
+    "wof:lastmodified":1690930159,
     "wof:name":"Inyathi",
     "wof:parent_id":890416493,
     "wof:placetype":"locality",

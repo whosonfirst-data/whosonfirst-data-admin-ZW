@@ -115,6 +115,9 @@
     "name:vie_x_preferred":[
         "Binga"
     ],
+    "name:zul_x_preferred":[
+        "Binga District"
+    ],
     "qs:name":"Binga District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":890416495,
-    "wof:lastmodified":1636502218,
+    "wof:lastmodified":1690930156,
     "wof:name":"Binga",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

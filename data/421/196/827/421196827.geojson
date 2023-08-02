@@ -38,6 +38,9 @@
     "name:und_x_variant":[
         "Inyazura"
     ],
+    "name:zul_x_preferred":[
+        "Nyazura"
+    ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":883258,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421196827,
-    "wof:lastmodified":1566666585,
+    "wof:lastmodified":1690930143,
     "wof:name":"Nyazura",
     "wof:parent_id":85681113,
     "wof:placetype":"locality",

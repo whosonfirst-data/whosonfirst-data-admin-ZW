@@ -90,6 +90,9 @@
     "name:vie_x_preferred":[
         "Gwanda"
     ],
+    "name:zul_x_preferred":[
+        "Gwanda District"
+    ],
     "qs:name":"Gwanda District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890416475,
-    "wof:lastmodified":1636502218,
+    "wof:lastmodified":1690930155,
     "wof:name":"Gwanda",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

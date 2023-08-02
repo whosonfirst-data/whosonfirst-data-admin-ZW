@@ -51,6 +51,9 @@
     "name:und_x_variant":[
         "Bulalima Mangwe District"
     ],
+    "name:zul_x_preferred":[
+        "Bulilimamangwe District"
+    ],
     "qs:name":"Bulilimamangwe District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890416489,
-    "wof:lastmodified":1627523021,
+    "wof:lastmodified":1690930156,
     "wof:name":"Bulilima",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

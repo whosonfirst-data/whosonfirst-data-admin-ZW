@@ -34,8 +34,14 @@
     "name:nld_x_preferred":[
         "Banket"
     ],
+    "name:pol_x_preferred":[
+        "Banket"
+    ],
     "name:und_x_variant":[
         "Banket Junction"
+    ],
+    "name:zul_x_preferred":[
+        "Banket"
     ],
     "qs:name":"Banket",
     "qs:photos_9r":0,
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":890436939,
-    "wof:lastmodified":1566666591,
+    "wof:lastmodified":1690930150,
     "wof:name":"Banket",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",

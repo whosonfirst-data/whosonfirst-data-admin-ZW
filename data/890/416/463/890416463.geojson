@@ -60,6 +60,12 @@
     "name:nld_x_preferred":[
         "Mberengwa District"
     ],
+    "name:swe_x_preferred":[
+        "Mberengwa"
+    ],
+    "name:zul_x_preferred":[
+        "Mberengwa District"
+    ],
     "qs:name":"Mberengwa District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":890416463,
-    "wof:lastmodified":1627523023,
+    "wof:lastmodified":1690930154,
     "wof:name":"Mberengwa",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

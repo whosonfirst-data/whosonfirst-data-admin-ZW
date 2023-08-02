@@ -84,6 +84,9 @@
     "name:vie_x_preferred":[
         "Beitbridge"
     ],
+    "name:zul_x_preferred":[
+        "Beitbridge District"
+    ],
     "qs:name":"Beitbridge District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":890416501,
-    "wof:lastmodified":1636502218,
+    "wof:lastmodified":1690930155,
     "wof:name":"Beitbridge",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

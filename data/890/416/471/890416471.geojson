@@ -42,11 +42,13 @@
     "name:ceb_x_preferred":[
         "Hurungwe District"
     ],
+    "name:deu_x_preferred":[
+        "Urungwe"
+    ],
     "name:eng_x_preferred":[
         "Hurungwe"
     ],
     "name:eng_x_variant":[
-        "Hurungwe",
         "Karoi District"
     ],
     "name:fra_x_preferred":[
@@ -55,8 +57,20 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30eb\u30f3\u30b0\u30a7\u5730\u533a"
     ],
+    "name:por_x_preferred":[
+        "Hurungwe"
+    ],
+    "name:sna_x_preferred":[
+        "Hurungwe"
+    ],
     "name:und_x_variant":[
         "Karoi"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u502b\u572d\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Karoi District"
     ],
     "qs:name":"Hurungwe District",
     "qs:photos_9r":0,
@@ -97,7 +111,7 @@
         }
     ],
     "wof:id":890416471,
-    "wof:lastmodified":1627523022,
+    "wof:lastmodified":1690930153,
     "wof:name":"Hurungwe",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

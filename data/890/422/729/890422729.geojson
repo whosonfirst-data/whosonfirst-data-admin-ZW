@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Raffingora"
     ],
+    "name:zul_x_preferred":[
+        "Raffingora"
+    ],
     "qs:name":"Raffingora",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890422729,
-    "wof:lastmodified":1566666589,
+    "wof:lastmodified":1690930147,
     "wof:name":"Raffingora",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",

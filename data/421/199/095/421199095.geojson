@@ -23,14 +23,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0648\u0646\u062f\u064a\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u0646\u062f\u064a\u0631\u0627"
+    ],
     "name:ast_x_preferred":[
         "Marondera"
     ],
     "name:bar_x_preferred":[
         "Marandellas"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043d\u0434\u044d\u0440\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u09b0\u09a8\u09cd\u09a1\u09c7\u09b0\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Marondera"
     ],
     "name:ceb_x_preferred":[
         "Marondera District"
@@ -60,6 +69,9 @@
         "Marondera"
     ],
     "name:frr_x_preferred":[
+        "Marondera"
+    ],
+    "name:gle_x_preferred":[
         "Marondera"
     ],
     "name:guj_x_preferred":[
@@ -134,6 +146,9 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043d\u0434\u0435\u0440\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Marondera"
+    ],
     "name:swe_x_preferred":[
         "Marondera"
     ],
@@ -163,6 +178,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u9f8d\u5fb7\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Marondera"
     ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPLA",
@@ -211,7 +229,7 @@
         }
     ],
     "wof:id":421199095,
-    "wof:lastmodified":1566666586,
+    "wof:lastmodified":1690930144,
     "wof:name":"Marondera",
     "wof:parent_id":85681109,
     "wof:placetype":"locality",

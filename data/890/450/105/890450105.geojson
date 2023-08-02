@@ -57,6 +57,9 @@
     "name:jpn_x_preferred":[
         "\u30cb\u30e3\u30f3\u30ac\u5730\u533a"
     ],
+    "name:zul_x_preferred":[
+        "Nyanga District"
+    ],
     "qs:name":"Nyanga District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890450105,
-    "wof:lastmodified":1636502219,
+    "wof:lastmodified":1690930158,
     "wof:name":"Nyanga",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

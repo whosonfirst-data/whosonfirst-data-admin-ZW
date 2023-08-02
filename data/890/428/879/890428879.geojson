@@ -45,11 +45,17 @@
     "name:eng_x_preferred":[
         "Chivi District"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0686\u06cc\u0648\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Chivi"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30f4\u30a3\u5730\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Chivi District"
     ],
     "qs:name":"Chivi District",
     "qs:photos_9r":0,
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890428879,
-    "wof:lastmodified":1627523021,
+    "wof:lastmodified":1690930152,
     "wof:name":"Chivi",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

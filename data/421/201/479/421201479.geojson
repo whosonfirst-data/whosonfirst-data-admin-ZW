@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Harare"
     ],
+    "name:ary_x_preferred":[
+        "\u0647\u0627\u0631\u0627\u0631\u064a"
+    ],
     "name:arz_x_preferred":[
         "\u0647\u0627\u0631\u0627\u0631\u0649"
     ],
@@ -40,7 +43,16 @@
     "name:ast_x_variant":[
         "\u1e24arare"
     ],
+    "name:avk_x_preferred":[
+        "Harare"
+    ],
     "name:aze_x_preferred":[
+        "Harare"
+    ],
+    "name:bak_x_preferred":[
+        "\u0425\u0430\u0440\u0430\u0440\u0435"
+    ],
+    "name:ban_x_preferred":[
         "Harare"
     ],
     "name:bar_x_preferred":[
@@ -94,6 +106,9 @@
     "name:deu_x_preferred":[
         "Harare"
     ],
+    "name:diq_x_preferred":[
+        "Harare"
+    ],
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03c1\u03ac\u03c1\u03b5"
     ],
@@ -139,6 +154,9 @@
     "name:glg_x_preferred":[
         "Harare"
     ],
+    "name:grn_x_preferred":[
+        "Harare"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ab0\u0abe\u0ab0\u0ac7"
     ],
@@ -178,6 +196,9 @@
     "name:ile_x_preferred":[
         "Harare"
     ],
+    "name:ina_x_preferred":[
+        "Harare"
+    ],
     "name:ind_x_preferred":[
         "Harare"
     ],
@@ -208,6 +229,9 @@
     "name:kbp_x_preferred":[
         "Harare"
     ],
+    "name:kcg_x_preferred":[
+        "Harare"
+    ],
     "name:kin_x_preferred":[
         "Harare"
     ],
@@ -224,6 +248,9 @@
         "Hararensis Urbs"
     ],
     "name:lav_x_preferred":[
+        "Harare"
+    ],
+    "name:lfn_x_preferred":[
         "Harare"
     ],
     "name:lij_x_preferred":[
@@ -244,10 +271,16 @@
     "name:mar_x_preferred":[
         "\u0939\u0930\u093e\u0930\u0947"
     ],
+    "name:mdf_x_preferred":[
+        "\u0413\u0430\u0440\u0430\u0440\u044d"
+    ],
     "name:mkd_x_preferred":[
         "\u0425\u0430\u0440\u0430\u0440\u0435"
     ],
     "name:mlg_x_preferred":[
+        "Harare"
+    ],
+    "name:mlt_x_preferred":[
         "Harare"
     ],
     "name:mon_x_preferred":[
@@ -259,11 +292,20 @@
     "name:msa_x_preferred":[
         "Harare"
     ],
+    "name:mya_x_preferred":[
+        "\u101f\u102c\u101b\u102c\u1037\u101b\u102e\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0647\u0631\u0627\u0631\u0647"
+    ],
     "name:nah_x_preferred":[
         "Harare"
     ],
     "name:nan_x_preferred":[
         "Harare"
+    ],
+    "name:nav_x_preferred":[
+        "T\u00f3wo\u0142 Hadahiil\u00edinii"
     ],
     "name:nep_x_preferred":[
         "\u0939\u0930\u093e\u0930\u0947"
@@ -322,6 +364,9 @@
     "name:rus_x_preferred":[
         "\u0425\u0430\u0440\u0430\u0440\u0435"
     ],
+    "name:sat_x_preferred":[
+        "\u1c66\u1c5f\u1c68\u1c5f\u1c68\u1c6e"
+    ],
     "name:sco_x_preferred":[
         "Harare"
     ],
@@ -332,6 +377,9 @@
         "Harare"
     ],
     "name:slv_x_preferred":[
+        "Harare"
+    ],
+    "name:smn_x_preferred":[
         "Harare"
     ],
     "name:sna_x_preferred":[
@@ -346,8 +394,14 @@
     "name:sqi_x_preferred":[
         "Harare"
     ],
+    "name:srd_x_preferred":[
+        "Harare"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u0430\u0440\u0430\u0440\u0435"
+    ],
+    "name:ssw_x_preferred":[
+        "Harare"
     ],
     "name:swa_x_preferred":[
         "Harare"
@@ -603,7 +657,7 @@
         }
     ],
     "wof:id":421201479,
-    "wof:lastmodified":1636502215,
+    "wof:lastmodified":1690930144,
     "wof:megacity":1,
     "wof:name":"Harare",
     "wof:parent_id":85681097,

@@ -60,8 +60,17 @@
     "name:jpn_x_preferred":[
         "\u30af\u30a6\u30a7\u30af\u30a6\u30a7\u5730\u533a"
     ],
+    "name:sna_x_preferred":[
+        "Kwekwe District"
+    ],
     "name:und_x_variant":[
         "Hwe Hwe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0636\u0644\u0639 \u06a9\u0648\u0626\u06cc\u06a9\u0648\u0626\u06cc"
+    ],
+    "name:zul_x_preferred":[
+        "Kwekwe District"
     ],
     "qs:name":"Kwekwe District",
     "qs:photos_9r":0,
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":890452767,
-    "wof:lastmodified":1636502216,
+    "wof:lastmodified":1690930149,
     "wof:name":"Kwekwe",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

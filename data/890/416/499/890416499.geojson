@@ -63,6 +63,9 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043a\u0456\u0442\u0430"
     ],
+    "name:zul_x_preferred":[
+        "Bikita District"
+    ],
     "qs:name":"Bikita District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890416499,
-    "wof:lastmodified":1627523021,
+    "wof:lastmodified":1690930154,
     "wof:name":"Bikita",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

@@ -57,6 +57,9 @@
     "name:nld_x_preferred":[
         "Bindura District"
     ],
+    "name:zul_x_preferred":[
+        "Bindura District"
+    ],
     "qs:name":"Bindura District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890416497,
-    "wof:lastmodified":1627523021,
+    "wof:lastmodified":1690930154,
     "wof:name":"Bindura",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

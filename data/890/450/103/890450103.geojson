@@ -54,6 +54,9 @@
     "name:lit_x_preferred":[
         "Ra\u0161ingos rajonas"
     ],
+    "name:zul_x_preferred":[
+        "Rushinga District"
+    ],
     "qs:name":"Rushinga District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890450103,
-    "wof:lastmodified":1627523024,
+    "wof:lastmodified":1690930158,
     "wof:name":"Rushinga",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

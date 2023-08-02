@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Norton"
+    ],
+    "name:aze_x_preferred":[
+        "Norton"
+    ],
     "name:ceb_x_preferred":[
         "Norton"
     ],
@@ -59,6 +65,9 @@
     "name:srp_x_preferred":[
         "\u041d\u043e\u0440\u0442\u043e\u043d"
     ],
+    "name:swa_x_preferred":[
+        "Norton"
+    ],
     "name:tur_x_preferred":[
         "Norton"
     ],
@@ -73,6 +82,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8afe\u9813"
+    ],
+    "name:zul_x_preferred":[
+        "Norton"
     ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":421167149,
-    "wof:lastmodified":1566666581,
+    "wof:lastmodified":1690930140,
     "wof:name":"Norton",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",

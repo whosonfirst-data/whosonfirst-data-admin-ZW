@@ -42,6 +42,9 @@
     "name:bar_x_preferred":[
         "Melsetter"
     ],
+    "name:ceb_x_preferred":[
+        "Chimanimani District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Chimanimani"
     ],
@@ -59,6 +62,12 @@
     ],
     "name:por_x_preferred":[
         "Chimanimani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043c\u0430\u043d\u0438\u043c\u0430\u043d\u0438"
+    ],
+    "name:zul_x_preferred":[
+        "Chimanimani District"
     ],
     "qs:name":"Chimanimani District",
     "qs:photos_9r":0,
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":890416481,
-    "wof:lastmodified":1627523021,
+    "wof:lastmodified":1690930155,
     "wof:name":"Chimanimani",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

@@ -100,6 +100,9 @@
     "name:srp_x_preferred":[
         "\u041a\u0430\u0440\u043e\u0438"
     ],
+    "name:swa_x_preferred":[
+        "Karoi"
+    ],
     "name:swe_x_preferred":[
         "Karoi"
     ],
@@ -117,6 +120,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u840a\u4f0a"
+    ],
+    "name:zul_x_preferred":[
+        "Karoi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zimbabwe",
@@ -241,7 +247,7 @@
         }
     ],
     "wof:id":890440217,
-    "wof:lastmodified":1636502216,
+    "wof:lastmodified":1690930147,
     "wof:name":"Karoi",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",

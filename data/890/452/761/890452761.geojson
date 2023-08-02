@@ -54,11 +54,20 @@
     "name:fra_x_preferred":[
         "Matobo"
     ],
+    "name:fra_x_variant":[
+        "Thuli"
+    ],
+    "name:gle_x_preferred":[
+        "Abhainn Thuli"
+    ],
     "name:hin_x_preferred":[
         "\u0925\u0942\u0932\u0940 \u0928\u0926\u0940"
     ],
     "name:nob_x_preferred":[
         "Thuli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043b\u0438"
     ],
     "name:und_x_variant":[
         "Matobo District"
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":890452761,
-    "wof:lastmodified":1627523023,
+    "wof:lastmodified":1690930149,
     "wof:name":"Matobo",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

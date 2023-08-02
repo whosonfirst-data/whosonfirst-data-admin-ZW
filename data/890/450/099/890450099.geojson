@@ -54,6 +54,9 @@
     "name:und_x_variant":[
         "Churugwi"
     ],
+    "name:zul_x_preferred":[
+        "Shurugwi District"
+    ],
     "qs:name":"Shurugwi District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890450099,
-    "wof:lastmodified":1627523024,
+    "wof:lastmodified":1690930158,
     "wof:name":"Shurugwi",
     "wof:parent_id":85681103,
     "wof:placetype":"county",
