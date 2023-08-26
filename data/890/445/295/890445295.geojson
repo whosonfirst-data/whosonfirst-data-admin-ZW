@@ -48,6 +48,9 @@
     "name:jpn_x_preferred":[
         "\u30de\u30ed\u30f3\u30c7\u30e9\u5730\u533a"
     ],
+    "name:zul_x_preferred":[
+        "Marondera District"
+    ],
     "qs:name":"Marondera District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890445295,
-    "wof:lastmodified":1627523023,
+    "wof:lastmodified":1690930157,
     "wof:name":"Marondera",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

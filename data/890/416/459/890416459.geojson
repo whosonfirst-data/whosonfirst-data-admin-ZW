@@ -54,6 +54,9 @@
     "name:und_x_variant":[
         "Murehwa District"
     ],
+    "name:zul_x_preferred":[
+        "Uzumba-Maramba-Pfungwe"
+    ],
     "qs:name":"Murehwa District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890416459,
-    "wof:lastmodified":1627523023,
+    "wof:lastmodified":1690930157,
     "wof:name":"Murehwa",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

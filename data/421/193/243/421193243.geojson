@@ -30,6 +30,9 @@
         "Chipinga",
         "Chipinge District"
     ],
+    "name:fin_x_preferred":[
+        "Chipinge"
+    ],
     "name:fra_x_preferred":[
         "Chipinge"
     ],
@@ -54,11 +57,17 @@
     "name:srp_x_preferred":[
         "\u0427\u0438\u043f\u0438\u043d\u0433\u0435"
     ],
+    "name:swa_x_preferred":[
+        "Chipinge"
+    ],
     "name:tur_x_preferred":[
         "Chipinge"
     ],
     "name:zho_x_preferred":[
         "\u5947\u5e73\u52a0"
+    ],
+    "name:zul_x_preferred":[
+        "Chipinge"
     ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":421193243,
-    "wof:lastmodified":1566666580,
+    "wof:lastmodified":1690930140,
     "wof:name":"Chipinge",
     "wof:parent_id":85681113,
     "wof:placetype":"locality",

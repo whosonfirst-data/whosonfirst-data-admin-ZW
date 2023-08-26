@@ -51,6 +51,9 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30b8\u5730\u533a"
     ],
+    "name:zul_x_preferred":[
+        "Mudzi District"
+    ],
     "qs:name":"Mudzi District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890416461,
-    "wof:lastmodified":1627523023,
+    "wof:lastmodified":1690930157,
     "wof:name":"Mudzi",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

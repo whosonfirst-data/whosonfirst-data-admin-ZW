@@ -84,6 +84,9 @@
     "name:vie_x_preferred":[
         "Hwange"
     ],
+    "name:zul_x_preferred":[
+        "Hwange District"
+    ],
     "qs:name":"Hwange District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":890416469,
-    "wof:lastmodified":1636502218,
+    "wof:lastmodified":1690930156,
     "wof:name":"Hwange",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

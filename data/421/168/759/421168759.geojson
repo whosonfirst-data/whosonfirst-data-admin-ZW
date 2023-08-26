@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0632\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u0632\u0648\u0648\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0632\u0648\u0648\u0649"
+    ],
     "name:bar_x_preferred":[
         "Mazowe"
     ],
@@ -27,6 +33,9 @@
         "\u09ae\u09be\u099c\u09cb\u09df\u09c7"
     ],
     "name:ceb_x_preferred":[
+        "Mazowe"
+    ],
+    "name:ces_x_preferred":[
         "Mazowe"
     ],
     "name:ell_x_preferred":[
@@ -71,6 +80,9 @@
     "name:por_x_preferred":[
         "Mazowe"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0437\u043e\u044d"
+    ],
     "name:sna_x_preferred":[
         "Mazowe"
     ],
@@ -91,6 +103,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00f4ng Mazoe"
+    ],
+    "name:zul_x_preferred":[
+        "Mazowe"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zimbabwe",
@@ -230,7 +245,7 @@
         }
     ],
     "wof:id":421168759,
-    "wof:lastmodified":1636502214,
+    "wof:lastmodified":1690930139,
     "wof:name":"Mazoe",
     "wof:parent_id":85681093,
     "wof:placetype":"locality",

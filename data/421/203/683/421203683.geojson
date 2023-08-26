@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "Filabusi"
     ],
+    "name:zul_x_preferred":[
+        "Filabusi"
+    ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":891515,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421203683,
-    "wof:lastmodified":1566666582,
+    "wof:lastmodified":1690930141,
     "wof:name":"Filabusi",
     "wof:parent_id":85681117,
     "wof:placetype":"locality",

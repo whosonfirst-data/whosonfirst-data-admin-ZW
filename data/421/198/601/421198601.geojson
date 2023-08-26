@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Mutoko"
+    ],
     "name:bar_x_preferred":[
         "Mutoko"
     ],
@@ -44,11 +47,20 @@
     "name:por_x_preferred":[
         "Mutoko"
     ],
+    "name:sna_x_preferred":[
+        "Mutoko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0442\u043e\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Mtoko"
     ],
     "name:zho_x_preferred":[
         "\u7a46\u6258\u79d1"
+    ],
+    "name:zul_x_preferred":[
+        "Mutoko"
     ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":421198601,
-    "wof:lastmodified":1566666584,
+    "wof:lastmodified":1690930143,
     "wof:name":"Mutoko",
     "wof:parent_id":85681109,
     "wof:placetype":"locality",

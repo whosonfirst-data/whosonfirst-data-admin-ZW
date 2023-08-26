@@ -46,6 +46,9 @@
     "name:pol_x_preferred":[
         "Mhangura Mine"
     ],
+    "name:zul_x_preferred":[
+        "Mhangura"
+    ],
     "qs_pg:aaroncc":"ZW",
     "qs_pg:gn_country":"ZW",
     "qs_pg:gn_fcode":"PPL",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125865213,
-    "wof:lastmodified":1566666600,
+    "wof:lastmodified":1690930159,
     "wof:name":"Mhangura",
     "wof:parent_id":890422337,
     "wof:placetype":"locality",

@@ -63,6 +63,9 @@
     "name:und_x_variant":[
         "Uhera"
     ],
+    "name:zul_x_preferred":[
+        "Buhera District"
+    ],
     "qs:name":"Buhera District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890416491,
-    "wof:lastmodified":1627523021,
+    "wof:lastmodified":1690930154,
     "wof:name":"Buhera",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

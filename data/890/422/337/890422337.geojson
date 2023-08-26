@@ -60,6 +60,12 @@
     "name:und_x_variant":[
         "Nemakonde"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5b54\u4ee3\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Makonde District"
+    ],
     "qs:name":"Makonde District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":890422337,
-    "wof:lastmodified":1627523022,
+    "wof:lastmodified":1690930147,
     "wof:name":"Makonde",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

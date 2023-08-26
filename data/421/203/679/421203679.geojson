@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bar_x_preferred":[
+        "Headlands"
+    ],
     "name:ceb_x_preferred":[
         "Headlands"
     ],
@@ -24,6 +27,12 @@
         "Headlands"
     ],
     "name:nld_x_preferred":[
+        "Headlands"
+    ],
+    "name:sna_x_preferred":[
+        "Headlands"
+    ],
+    "name:zul_x_preferred":[
         "Headlands"
     ],
     "qs:gn_country":"ZW",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":421203679,
-    "wof:lastmodified":1566666582,
+    "wof:lastmodified":1690930141,
     "wof:name":"Headlands",
     "wof:parent_id":85681113,
     "wof:placetype":"locality",

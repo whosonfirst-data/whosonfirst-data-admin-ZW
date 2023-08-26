@@ -43,6 +43,9 @@
     "name:nld_x_preferred":[
         "Murewa"
     ],
+    "name:zul_x_preferred":[
+        "Murewa"
+    ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":885159,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421196829,
-    "wof:lastmodified":1566666585,
+    "wof:lastmodified":1690930143,
     "wof:name":"Murehwa",
     "wof:parent_id":85681109,
     "wof:placetype":"locality",

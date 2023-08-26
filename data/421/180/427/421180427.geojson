@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Chivhu"
     ],
+    "name:ces_x_preferred":[
+        "Chivhu"
+    ],
     "name:deu_x_preferred":[
         "Chivhu"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Chivhu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10d5\u10e3"
     ],
     "name:nld_x_preferred":[
         "Chivhu"
@@ -70,6 +76,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5947\u6b66"
+    ],
+    "name:zul_x_preferred":[
+        "Chivhu"
     ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":421180427,
-    "wof:lastmodified":1566666582,
+    "wof:lastmodified":1690930141,
     "wof:name":"Chivhu",
     "wof:parent_id":85681109,
     "wof:placetype":"locality",

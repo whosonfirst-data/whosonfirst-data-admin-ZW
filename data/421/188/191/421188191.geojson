@@ -62,6 +62,9 @@
     "name:kor_x_preferred":[
         "\uce58\ub808\uc9c0"
     ],
+    "name:lit_x_preferred":[
+        "\u010ciredzis"
+    ],
     "name:nld_x_preferred":[
         "Chiredzi"
     ],
@@ -89,6 +92,9 @@
     "name:srp_x_preferred":[
         "\u0427\u0438\u0440\u0435\u0434\u0437\u0438"
     ],
+    "name:swa_x_preferred":[
+        "Chiredzi"
+    ],
     "name:swe_x_preferred":[
         "Chiredzi"
     ],
@@ -112,6 +118,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u5947\u96f7\u6fdf"
+    ],
+    "name:zul_x_preferred":[
+        "Chiredzi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zimbabwe",
@@ -249,7 +258,7 @@
         }
     ],
     "wof:id":421188191,
-    "wof:lastmodified":1636502215,
+    "wof:lastmodified":1690930142,
     "wof:name":"Chiredzi",
     "wof:parent_id":85681127,
     "wof:placetype":"locality",

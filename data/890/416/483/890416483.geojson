@@ -51,6 +51,12 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30a7\u30b0\u30c4\u5730\u533a"
     ],
+    "name:zho_x_preferred":[
+        "\u5207\u53e4\u5716\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Chegutu District"
+    ],
     "qs:name":"Chegutu District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890416483,
-    "wof:lastmodified":1627523021,
+    "wof:lastmodified":1690930153,
     "wof:name":"Chegutu",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

@@ -60,6 +60,9 @@
     "name:por_x_preferred":[
         "Goromonzi"
     ],
+    "name:zul_x_preferred":[
+        "Goromonzi District"
+    ],
     "qs:name":"Goromonzi District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890428877,
-    "wof:lastmodified":1627523022,
+    "wof:lastmodified":1690930152,
     "wof:name":"Goromonzi",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

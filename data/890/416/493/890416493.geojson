@@ -57,8 +57,14 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u0431\u0438"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0431\u0456"
+    ],
     "name:zho_x_preferred":[
         "\u5e03\u6bd4\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Bubi District"
     ],
     "qs:name":"Bubi District",
     "qs:photos_9r":0,
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":890416493,
-    "wof:lastmodified":1627523021,
+    "wof:lastmodified":1690930156,
     "wof:name":"Bubi",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

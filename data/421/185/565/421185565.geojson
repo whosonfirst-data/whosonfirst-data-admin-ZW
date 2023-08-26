@@ -20,8 +20,14 @@
     "name:afr_x_preferred":[
         "Bindura"
     ],
+    "name:ast_x_preferred":[
+        "Bindura"
+    ],
     "name:bar_x_preferred":[
         "Bindura"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u043d\u0434\u0443\u0440\u0430"
     ],
     "name:ceb_x_preferred":[
         "Bindura"
@@ -43,6 +49,9 @@
     ],
     "name:frr_x_preferred":[
         "Bindura"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e0\u05d3\u05d5\u05e8\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Bindura"
@@ -86,6 +95,9 @@
     "name:srp_x_preferred":[
         "\u0411\u0438\u043d\u0434\u0443\u0440\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Bindura"
+    ],
     "name:tur_x_preferred":[
         "Bindura"
     ],
@@ -100,6 +112,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8cd3\u675c\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Bindura"
     ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPLA",
@@ -149,7 +164,7 @@
         }
     ],
     "wof:id":421185565,
-    "wof:lastmodified":1566666588,
+    "wof:lastmodified":1690930146,
     "wof:name":"Bindura",
     "wof:parent_id":85681093,
     "wof:placetype":"locality",

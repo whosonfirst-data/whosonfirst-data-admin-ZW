@@ -26,6 +26,9 @@
     "name:arz_x_preferred":[
         "\u0643\u0648\u064a\u0643\u0648\u0649"
     ],
+    "name:ast_x_preferred":[
+        "Kwekwe"
+    ],
     "name:bar_x_preferred":[
         "Kwekwe"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:hun_x_preferred":[
         "Kwekwe"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u057e\u0565\u056f\u057e\u0565"
     ],
     "name:ind_x_preferred":[
         "Kwekwe"
@@ -131,6 +137,9 @@
     "name:srp_x_preferred":[
         "\u041a\u0432\u0435\u043a\u0432\u0435"
     ],
+    "name:swa_x_preferred":[
+        "Kwekwe"
+    ],
     "name:swe_x_preferred":[
         "Kwekwe"
     ],
@@ -160,6 +169,9 @@
     ],
     "name:zho_x_preferred":[
         "\u594e\u594e\u5e02"
+    ],
+    "name:zul_x_preferred":[
+        "Kwekwe"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zimbabwe",
@@ -301,7 +313,7 @@
         }
     ],
     "wof:id":421179969,
-    "wof:lastmodified":1636502215,
+    "wof:lastmodified":1690930145,
     "wof:name":"Kwekwe",
     "wof:parent_id":85681103,
     "wof:placetype":"locality",

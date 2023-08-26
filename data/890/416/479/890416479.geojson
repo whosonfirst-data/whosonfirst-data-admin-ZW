@@ -60,6 +60,9 @@
     "name:und_x_variant":[
         "Chipuriro"
     ],
+    "name:zul_x_preferred":[
+        "Guruve District"
+    ],
     "qs:name":"Guruve District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890416479,
-    "wof:lastmodified":1627523022,
+    "wof:lastmodified":1690930153,
     "wof:name":"Guruve",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

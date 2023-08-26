@@ -34,6 +34,9 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30f3\u30b7\u30b6\u5730\u533a"
     ],
+    "name:zul_x_preferred":[
+        "Insiza District"
+    ],
     "qs:name":"Insiza",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890452365,
-    "wof:lastmodified":1566666589,
+    "wof:lastmodified":1690930148,
     "wof:name":"Insiza",
     "wof:parent_id":85681117,
     "wof:placetype":"locality",

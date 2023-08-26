@@ -93,6 +93,9 @@
     "name:zho_tw_x_preferred":[
         "\u99ac\u4f50\u7dad"
     ],
+    "name:zul_x_preferred":[
+        "Mazowe District"
+    ],
     "qs:name":"Mazowe District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890416465,
-    "wof:lastmodified":1636502217,
+    "wof:lastmodified":1690930154,
     "wof:name":"Mazowe",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

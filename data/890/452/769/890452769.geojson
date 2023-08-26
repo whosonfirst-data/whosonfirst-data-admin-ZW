@@ -42,6 +42,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09bf\u09ac\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kariba District"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c1\u03af\u03bc\u03c0\u03b1"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:fra_x_preferred":[
         "Kariba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e8\u05d9\u05d1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0930\u093f\u092c\u093e"
@@ -83,6 +89,12 @@
     ],
     "name:vie_x_preferred":[
         "Kariba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u91cc\u5df4\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Kariba District"
     ],
     "qs:name":"Kariba District",
     "qs:photos_9r":0,
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":890452769,
-    "wof:lastmodified":1636502216,
+    "wof:lastmodified":1690930149,
     "wof:name":"Kariba",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

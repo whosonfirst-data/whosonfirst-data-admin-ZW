@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "Mucheki"
     ],
+    "name:zul_x_preferred":[
+        "Macheke"
+    ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":888089,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421194597,
-    "wof:lastmodified":1566666580,
+    "wof:lastmodified":1690930139,
     "wof:name":"Macheke",
     "wof:parent_id":85681109,
     "wof:placetype":"locality",

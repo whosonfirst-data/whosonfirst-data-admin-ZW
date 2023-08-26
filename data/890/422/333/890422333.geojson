@@ -57,8 +57,14 @@
     "name:jpn_x_preferred":[
         "\u30de\u30b3\u30cb\u5730\u533a"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u043d\u0438"
+    ],
     "name:zho_x_preferred":[
         "\u9a6c\u79d1\u5c3c\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Makoni District"
     ],
     "qs:name":"Makoni District",
     "qs:photos_9r":0,
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":890422333,
-    "wof:lastmodified":1627523022,
+    "wof:lastmodified":1690930147,
     "wof:name":"Makoni",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

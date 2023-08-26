@@ -88,6 +88,9 @@
     "name:zho_tw_x_preferred":[
         "\u5c1a\u52a0\u5c3c\u6cb3"
     ],
+    "name:zul_x_preferred":[
+        "Shangani"
+    ],
     "qs:name":"Shangani",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890422727,
-    "wof:lastmodified":1636502216,
+    "wof:lastmodified":1690930148,
     "wof:name":"Shangani",
     "wof:parent_id":85681117,
     "wof:placetype":"locality",

@@ -25,8 +25,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0646\u0647\u0648\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u064a\u0646\u0647\u0648\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Chinhoyi"
+    ],
     "name:bar_x_preferred":[
         "Chinhoyi"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u044b\u043d\u043e\u0439"
     ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09a8\u09b9\u09cb\u0987"
@@ -36,6 +45,9 @@
     ],
     "name:ceb_x_preferred":[
         "Chinhoyi"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0438\u043d\u0445\u043e\u0439\u0438"
     ],
     "name:dan_x_preferred":[
         "Chinhoyi"
@@ -121,6 +133,9 @@
     "name:srp_x_variant":[
         "\u0427\u0438\u043d\u043e\u0438"
     ],
+    "name:swa_x_preferred":[
+        "Chinhoyi"
+    ],
     "name:swe_x_preferred":[
         "Chinhoyi"
     ],
@@ -141,6 +156,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5947\u8afe\u4f0a"
+    ],
+    "name:zul_x_preferred":[
+        "Chinhoyi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zimbabwe",
@@ -267,7 +285,7 @@
         }
     ],
     "wof:id":890438225,
-    "wof:lastmodified":1636502217,
+    "wof:lastmodified":1690930151,
     "wof:name":"Chinhoyi",
     "wof:parent_id":85681131,
     "wof:placetype":"locality",

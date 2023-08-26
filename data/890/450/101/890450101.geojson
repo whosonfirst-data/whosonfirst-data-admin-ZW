@@ -90,6 +90,9 @@
     "name:zho_tw_x_preferred":[
         "\u6c99\u59c6\u74e6"
     ],
+    "name:zul_x_preferred":[
+        "Shamva District"
+    ],
     "qs:name":"Shamva District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890450101,
-    "wof:lastmodified":1636502219,
+    "wof:lastmodified":1690930159,
     "wof:name":"Shamva",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

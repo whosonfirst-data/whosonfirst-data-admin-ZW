@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Chimanimani"
+    ],
     "name:bar_x_preferred":[
         "Chimanimani"
     ],
@@ -32,6 +35,12 @@
     "name:fra_x_preferred":[
         "Chimanimani"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30de\u30cb\u30de\u30cb"
+    ],
+    "name:kor_x_preferred":[
+        "\uce58\ub9c8\ub2c8\ub9c8\ub2c8"
+    ],
     "name:nld_x_preferred":[
         "Chimanimani"
     ],
@@ -43,6 +52,9 @@
     ],
     "name:und_x_variant":[
         "Melsetter"
+    ],
+    "name:zul_x_preferred":[
+        "Chimanimani"
     ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":421184765,
-    "wof:lastmodified":1566666586,
+    "wof:lastmodified":1690930145,
     "wof:name":"Chimanimani",
     "wof:parent_id":85681113,
     "wof:placetype":"locality",

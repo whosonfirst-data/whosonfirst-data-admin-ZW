@@ -38,6 +38,9 @@
     "name:ceb_x_preferred":[
         "Bulawayo Province"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Bulawayo"
+    ],
     "name:eng_x_preferred":[
         "Bulawayo"
     ],
@@ -182,7 +185,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1607983889,
+    "wof:lastmodified":1690930134,
     "wof:name":"Bulawayo",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

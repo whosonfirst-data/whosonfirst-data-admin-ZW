@@ -102,6 +102,9 @@
     "name:zho_tw_x_preferred":[
         "\u5947\u96f7\u6fdf"
     ],
+    "name:zul_x_preferred":[
+        "Chiredzi District"
+    ],
     "qs:name":"Chiredzi District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":890428881,
-    "wof:lastmodified":1636502217,
+    "wof:lastmodified":1690930152,
     "wof:name":"Chiredzi",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

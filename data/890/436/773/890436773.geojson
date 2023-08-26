@@ -57,6 +57,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u06cc\u0646\u06cc\u0632\u06cc \u0636\u0644\u0639"
     ],
+    "name:zul_x_preferred":[
+        "Mwenezi District"
+    ],
     "qs:name":"Mwenezi District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890436773,
-    "wof:lastmodified":1627523023,
+    "wof:lastmodified":1690930151,
     "wof:name":"Mwenezi",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

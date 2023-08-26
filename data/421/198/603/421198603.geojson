@@ -54,6 +54,9 @@
     "name:und_x_variant":[
         "Fura"
     ],
+    "name:zul_x_preferred":[
+        "Mount Darwin"
+    ],
     "qs:gn_country":"ZW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":885800,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421198603,
-    "wof:lastmodified":1566666584,
+    "wof:lastmodified":1690930143,
     "wof:name":"Mount Darwin",
     "wof:parent_id":85681093,
     "wof:placetype":"locality",

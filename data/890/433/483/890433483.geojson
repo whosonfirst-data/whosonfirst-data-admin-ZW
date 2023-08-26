@@ -40,6 +40,9 @@
     "name:und_x_variant":[
         "Umvukwes"
     ],
+    "name:zul_x_preferred":[
+        "Mvurwi"
+    ],
     "qs:name":"Mvurwi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890433483,
-    "wof:lastmodified":1566666599,
+    "wof:lastmodified":1690930157,
     "wof:name":"Mvurwi",
     "wof:parent_id":85681093,
     "wof:placetype":"locality",

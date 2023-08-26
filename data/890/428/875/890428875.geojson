@@ -81,6 +81,9 @@
     "name:vie_x_preferred":[
         "Zvishavane"
     ],
+    "name:zul_x_preferred":[
+        "Zvishavane District"
+    ],
     "qs:name":"Zvishavane District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":890428875,
-    "wof:lastmodified":1636502217,
+    "wof:lastmodified":1690930152,
     "wof:name":"Zvishavane",
     "wof:parent_id":85681103,
     "wof:placetype":"county",
