@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.344413,
-    "geom:area_square_m":4062847396.25269,
+    "geom:area_square_m":4062847366.0046,
     "geom:bbox":"31.856237,-17.810672,32.745637,-17.033872",
     "geom:latitude":-17.444317,
     "geom:longitude":32.274287,
@@ -45,6 +45,9 @@
     "name:deu_x_preferred":[
         "Mutoko"
     ],
+    "name:eng_x_preferred":[
+        "Mutoko"
+    ],
     "name:fra_x_preferred":[
         "Mutoko"
     ],
@@ -70,7 +73,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830393,
-    "wof:geomhash":"0487267e4a406286efd108d4d1647f00",
+    "wof:geomhash":"6e7a6ec428f3bc877a5426f71dd4312c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108784885,
-    "wof:lastmodified":1627523023,
+    "wof:lastmodified":1694492824,
     "wof:name":"Mutoko",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

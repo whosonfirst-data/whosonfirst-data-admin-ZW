@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.592237,
-    "geom:area_square_m":6869949121.279225,
+    "geom:area_square_m":6869949388.478156,
     "geom:bbox":"30.421637,-20.933572,31.429537,-19.686672",
     "geom:latitude":-20.260337,
     "geom:longitude":30.910714,
@@ -52,6 +52,9 @@
         "Masvingo"
     ],
     "name:deu_x_preferred":[
+        "Masvingo"
+    ],
+    "name:eng_x_preferred":[
         "Masvingo"
     ],
     "name:est_x_preferred":[
@@ -139,7 +142,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830409,
-    "wof:geomhash":"efb6c9154250fb7f9d032d2f268b449d",
+    "wof:geomhash":"a6a33abf004ef11f193b3501087716c1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1108784917,
-    "wof:lastmodified":1636502212,
+    "wof:lastmodified":1694492940,
     "wof:name":"Masvingo",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

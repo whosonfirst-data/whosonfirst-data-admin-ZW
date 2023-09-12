@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005377,
-    "geom:area_square_m":62348206.624576,
+    "geom:area_square_m":62348322.053767,
     "geom:bbox":"29.991438,-20.376572,30.101837,-20.276172",
     "geom:latitude":-20.319854,
     "geom:longitude":30.053923,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Zvishavane Urban"
+    ],
     "name:fra_x_preferred":[
         "Zvishavane"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830431,
-    "wof:geomhash":"8d7966be390f411a017499e3a6099f05",
+    "wof:geomhash":"74375adb5f0ca6978e7e1b4af68b639d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784959,
-    "wof:lastmodified":1628266751,
+    "wof:lastmodified":1694492899,
     "wof:name":"Zvishavane Urban",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

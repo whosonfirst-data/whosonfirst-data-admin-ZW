@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.516428,
-    "geom:area_square_m":6089992557.829582,
+    "geom:area_square_m":6089992594.948236,
     "geom:bbox":"29.834137,-17.945572,30.962537,-16.804372",
     "geom:latitude":-17.503527,
     "geom:longitude":30.44742,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Zvimba"
+    ],
     "name:fra_x_preferred":[
         "Zvimba"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830407,
-    "wof:geomhash":"5b1e4ce8a0beb13bd000b07b51694af6",
+    "wof:geomhash":"42e7fa7af6cbcd1a5d2d6206e244174d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784913,
-    "wof:lastmodified":1628266751,
+    "wof:lastmodified":1694492899,
     "wof:name":"Zvimba",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

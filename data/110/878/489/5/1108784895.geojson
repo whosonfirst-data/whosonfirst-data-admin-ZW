@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226887,
-    "geom:area_square_m":2681729906.708798,
+    "geom:area_square_m":2681729786.140038,
     "geom:bbox":"31.666037,-17.496878,32.549837,-16.697072",
     "geom:latitude":-17.081568,
     "geom:longitude":32.043144,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Uzumba Maramba Pfungwe"
+    ],
     "name:fra_x_preferred":[
         "Uzumba Maramba Pfungwe"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830398,
-    "wof:geomhash":"d6682a43ae7a62f1a4ee8f8de33ec166",
+    "wof:geomhash":"3aefc9697b9306256e61816db9bebc73",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784895,
-    "wof:lastmodified":1628266735,
+    "wof:lastmodified":1694492892,
     "wof:name":"Uzumba Maramba Pfungwe",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00168,
-    "geom:area_square_m":19832655.730739,
+    "geom:area_square_m":19832674.641366,
     "geom:bbox":"31.318437,-17.341472,31.369337,-17.277172",
     "geom:latitude":-17.309357,
     "geom:longitude":31.338715,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Bindura Urban"
+    ],
     "name:fra_x_preferred":[
         "Beitbridge"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830380,
-    "wof:geomhash":"ef70cd238a44b75e8786988381f41bff",
+    "wof:geomhash":"81b4873f2c527a9c3aa9046e1d001c85",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784873,
-    "wof:lastmodified":1628266631,
+    "wof:lastmodified":1694492833,
     "wof:name":"Bindura Urban",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

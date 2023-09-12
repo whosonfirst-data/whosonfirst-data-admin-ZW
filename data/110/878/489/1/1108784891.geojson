@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003441,
-    "geom:area_square_m":40487273.263107,
+    "geom:area_square_m":40487273.263108,
     "geom:bbox":"31.1911366535,-17.9226720692,31.2675366535,-17.8508720692",
     "geom:latitude":-17.884631,
     "geom:longitude":31.228272,
@@ -43,6 +43,9 @@
         "Ruwa"
     ],
     "name:deu_x_preferred":[
+        "Ruwa"
+    ],
+    "name:eng_x_preferred":[
         "Ruwa"
     ],
     "name:fra_x_preferred":[
@@ -88,7 +91,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830395,
-    "wof:geomhash":"befffb53f342174c734881f2e2f0bdca",
+    "wof:geomhash":"e0c9af6db51968a521374f6c7314b1b0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108784891,
-    "wof:lastmodified":1566666542,
+    "wof:lastmodified":1694492411,
     "wof:name":"Ruwa",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

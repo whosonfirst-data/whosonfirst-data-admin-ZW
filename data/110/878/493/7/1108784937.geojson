@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.497023,
-    "geom:area_square_m":5737902512.864837,
+    "geom:area_square_m":5737902131.618591,
     "geom:bbox":"27.686037,-21.616872,28.393837,-20.406072",
     "geom:latitude":-20.9897,
     "geom:longitude":28.01947,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Mangwe"
+    ],
     "name:fra_x_preferred":[
         "Mangwe"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830420,
-    "wof:geomhash":"018cdff2edb41ece83f8030f4fcc451d",
+    "wof:geomhash":"e77a8e5c75a24b798ee10a4d765089b3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784937,
-    "wof:lastmodified":1628266682,
+    "wof:lastmodified":1694492865,
     "wof:name":"Mangwe",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

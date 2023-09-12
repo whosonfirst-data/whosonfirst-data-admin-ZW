@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.950102,
-    "geom:area_square_m":11159957931.095034,
+    "geom:area_square_m":11159957668.900854,
     "geom:bbox":"27.998237,-18.612572,29.414518,-17.649772",
     "geom:latitude":-18.206498,
     "geom:longitude":28.645605,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Gokwe South"
+    ],
     "name:fra_x_preferred":[
         "Gokwe South"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830424,
-    "wof:geomhash":"b068025ff86f0a1b4b8dc07ecdf90456",
+    "wof:geomhash":"11a5283e1f5d841d9609901e04d209ff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784947,
-    "wof:lastmodified":1628266652,
+    "wof:lastmodified":1694492847,
     "wof:name":"Gokwe South",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

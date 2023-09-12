@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004931,
-    "geom:area_square_m":57920604.310191,
+    "geom:area_square_m":57920615.680879,
     "geom:bbox":"31.504537,-18.267972,31.600327,-18.158172",
     "geom:latitude":-18.199886,
     "geom:longitude":31.548613,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Marondera Urban"
+    ],
     "name:fra_x_preferred":[
         "Marondera"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830386,
-    "wof:geomhash":"f54b819af4084002370771fce8626230",
+    "wof:geomhash":"7f9428169d4697e477807d4903418983",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784883,
-    "wof:lastmodified":1628266684,
+    "wof:lastmodified":1694492865,
     "wof:name":"Marondera Urban",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

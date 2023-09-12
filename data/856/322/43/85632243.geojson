@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":33.537572,
-    "geom:area_square_m":391951776373.949585,
+    "geom:area_square_m":391951776373.964661,
     "geom:bbox":"25.237368,-22.421999,33.068164,-15.609319",
     "geom:latitude":-19.0,
     "geom:longitude":29.872164,
@@ -14,6 +14,9 @@
     "iso:country":"ZW",
     "itu:country_code":[
         "263"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "ZW"
@@ -1121,7 +1124,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"263",
     "statoids:ds":"ZW",
     "statoids:fifa":"ZIM",
@@ -1179,7 +1183,7 @@
         "naturalearth",
         "meso"
     ],
-    "wof:geomhash":"a52f6addb8ce78f6556f0d003f1577d4",
+    "wof:geomhash":"31d88633fb2d602515294035fe3d8b06",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1197,12 +1201,12 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1690930137,
+    "wof:lastmodified":1694492095,
     "wof:name":"Zimbabwe",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":14149648,
-    "wof:population_rank":14,
+    "wof:population":14645468,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-zw",
     "wof:shortcode":"ZW",
     "wof:superseded_by":[],
