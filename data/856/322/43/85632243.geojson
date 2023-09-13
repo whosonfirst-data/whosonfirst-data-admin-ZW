@@ -1125,7 +1125,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"263",
     "statoids:ds":"ZW",
     "statoids:fifa":"ZIM",
@@ -1201,7 +1201,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1694492095,
+    "wof:lastmodified":1694639548,
     "wof:name":"Zimbabwe",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
