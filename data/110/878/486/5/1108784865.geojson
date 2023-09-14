@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002999,
-    "geom:area_square_m":35287952.744521,
+    "geom:area_square_m":35287952.744515,
     "geom:bbox":"31.1176366535,-17.9288720692,31.2018366535,-17.8653720692",
     "geom:latitude":-17.895251,
     "geom:longitude":31.158791,
@@ -40,6 +40,9 @@
         "Epworth"
     ],
     "name:deu_x_preferred":[
+        "Epworth"
+    ],
+    "name:eng_x_preferred":[
         "Epworth"
     ],
     "name:fra_x_preferred":[
@@ -79,7 +82,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830376,
-    "wof:geomhash":"08be43e015cd5e7994f4e2f3996ff61f",
+    "wof:geomhash":"0a9a8f28dbfec9d26bb0f642f9b74c43",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1108784865,
-    "wof:lastmodified":1566666541,
+    "wof:lastmodified":1694492411,
     "wof:name":"Epworth",
     "wof:parent_id":85681097,
     "wof:placetype":"county",

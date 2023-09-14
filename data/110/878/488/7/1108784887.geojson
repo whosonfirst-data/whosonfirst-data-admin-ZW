@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001436,
-    "geom:area_square_m":16834891.901075,
+    "geom:area_square_m":16834942.657677,
     "geom:bbox":"32.106037,-18.561872,32.162437,-18.509503",
     "geom:latitude":-18.538316,
     "geom:longitude":32.131372,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Rusape Urban"
+    ],
     "name:fra_x_preferred":[
         "Rusape"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830394,
-    "wof:geomhash":"7ce05d3f2a874b972277d4df00df6d0f",
+    "wof:geomhash":"05a60cebcdaa6a51dc3f099c14e01f36",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784887,
-    "wof:lastmodified":1628266709,
+    "wof:lastmodified":1694492881,
     "wof:name":"Rusape Urban",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

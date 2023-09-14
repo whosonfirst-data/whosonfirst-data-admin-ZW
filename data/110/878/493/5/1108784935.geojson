@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001962,
-    "geom:area_square_m":22661563.980281,
+    "geom:area_square_m":22661540.824665,
     "geom:bbox":"28.949637,-20.958772,29.035637,-20.910272",
     "geom:latitude":-20.933801,
     "geom:longitude":29.000725,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Gwanda Urban"
+    ],
     "name:fra_x_preferred":[
         "Gwanda"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830419,
-    "wof:geomhash":"01f895febfef29e137dd20716468e0eb",
+    "wof:geomhash":"fb6f4f8b6b138f81c04f76b5f3567d00",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784935,
-    "wof:lastmodified":1628266654,
+    "wof:lastmodified":1694492848,
     "wof:name":"Gwanda Urban",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

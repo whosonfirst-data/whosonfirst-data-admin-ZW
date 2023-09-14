@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.520891,
-    "geom:area_square_m":6059330677.430233,
+    "geom:area_square_m":6059330815.255581,
     "geom:bbox":"27.75887,-20.361872,28.982937,-19.357972",
     "geom:latitude":-19.819817,
     "geom:longitude":28.271037,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Umguza"
+    ],
     "name:fra_x_preferred":[
         "Umguza"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830415,
-    "wof:geomhash":"f94c8aa1f7b1cbc1cd1ff260e7a9c4d6",
+    "wof:geomhash":"8ec4501f05c23a51ac392f000b578d66",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784929,
-    "wof:lastmodified":1628266734,
+    "wof:lastmodified":1694492891,
     "wof:name":"Umguza",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

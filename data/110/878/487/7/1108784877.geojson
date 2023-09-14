@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.389086,
-    "geom:area_square_m":4611287384.632166,
+    "geom:area_square_m":4611287719.871353,
     "geom:bbox":"31.242637,-16.922872,32.058637,-16.153672",
     "geom:latitude":-16.570495,
     "geom:longitude":31.651999,
@@ -45,6 +45,9 @@
     "name:deu_x_preferred":[
         "Mount Darwin"
     ],
+    "name:eng_x_preferred":[
+        "Mount Darwin"
+    ],
     "name:fra_x_preferred":[
         "Mount Darwin"
     ],
@@ -73,7 +76,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830383,
-    "wof:geomhash":"ce3d6317df8b50cb75f27f35e2e472a1",
+    "wof:geomhash":"6aa8204250821d93021dd9fc2453d32e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108784877,
-    "wof:lastmodified":1627523023,
+    "wof:lastmodified":1694492824,
     "wof:name":"Mount Darwin",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

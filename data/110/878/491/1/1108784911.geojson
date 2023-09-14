@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.41246,
-    "geom:area_square_m":4849903678.651085,
+    "geom:area_square_m":4849903733.602055,
     "geom:bbox":"29.204837,-18.442572,30.027337,-17.501532",
     "geom:latitude":-18.021729,
     "geom:longitude":29.581259,
@@ -42,6 +42,9 @@
     "name:deu_x_preferred":[
         "Sanyati"
     ],
+    "name:eng_x_preferred":[
+        "Sanyati"
+    ],
     "name:fra_x_preferred":[
         "Sanyati"
     ],
@@ -58,7 +61,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830406,
-    "wof:geomhash":"dd05a7e91017ed1e9118469e8589a99f",
+    "wof:geomhash":"c422c2f5fcf0fefea35081169b2b5439",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108784911,
-    "wof:lastmodified":1627523024,
+    "wof:lastmodified":1694492824,
     "wof:name":"Sanyati",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

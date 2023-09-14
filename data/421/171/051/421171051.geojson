@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047173,
-    "geom:area_square_m":547698689.332823,
+    "geom:area_square_m":547698689.332808,
     "geom:bbox":"28.387437,-20.258672,28.696737,-19.961472",
     "geom:latitude":-20.121821,
     "geom:longitude":28.555622,
@@ -74,6 +74,9 @@
         "Bulawayo"
     ],
     "name:deu_x_preferred":[
+        "Bulawayo"
+    ],
+    "name:eng_x_preferred":[
         "Bulawayo"
     ],
     "name:epo_x_preferred":[
@@ -254,7 +257,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"67a341e3afaed2d01f503cb4a44adf3c",
+    "wof:geomhash":"882404a5f78554041d52643483e33242",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -264,7 +267,7 @@
         }
     ],
     "wof:id":421171051,
-    "wof:lastmodified":1607983889,
+    "wof:lastmodified":1694492547,
     "wof:name":"Bulawayo",
     "wof:parent_id":85681121,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007821,
-    "geom:area_square_m":89541460.635232,
+    "geom:area_square_m":89541512.768075,
     "geom:bbox":"29.926837,-22.254372,30.054637,-22.152686",
     "geom:latitude":-22.19762,
     "geom:longitude":30.005162,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Beitbridge Urban"
+    ],
     "name:fra_x_preferred":[
         "Beitbridge"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830418,
-    "wof:geomhash":"04ba0bed2d13aa5e91c499461d9aeeb2",
+    "wof:geomhash":"628d15608653acc307595e8eb6cae6a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784933,
-    "wof:lastmodified":1628266626,
+    "wof:lastmodified":1694492830,
     "wof:name":"Beitbridge Urban",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

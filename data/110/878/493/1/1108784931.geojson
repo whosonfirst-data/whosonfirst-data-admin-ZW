@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002344,
-    "geom:area_square_m":27575510.755492,
+    "geom:area_square_m":27575510.766257,
     "geom:bbox":"25.809537,-17.973472,25.853237,-17.891072",
     "geom:latitude":-17.927956,
     "geom:longitude":25.829243,
@@ -83,6 +83,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c4\u03b1\u03c1\u03c1\u03ac\u03ba\u03c4\u03b5\u03c2 \u0392\u03b9\u03ba\u03c4\u03c9\u03c1\u03af\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Victoria Falls"
     ],
     "name:epo_x_preferred":[
         "Viktoria Akvofalo"
@@ -283,7 +286,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830416,
-    "wof:geomhash":"dd0f06a26db0bfe4d88ea36d1a193586",
+    "wof:geomhash":"22ba9c3e7c6bfa5b727bc29d8756a3ce",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -293,7 +296,7 @@
         }
     ],
     "wof:id":1108784931,
-    "wof:lastmodified":1636502213,
+    "wof:lastmodified":1694492941,
     "wof:name":"Victoria Falls",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005247,
-    "geom:area_square_m":61746458.676739,
+    "geom:area_square_m":61746458.676741,
     "geom:bbox":"30.6244366535,-17.9283720692,30.7476366535,-17.8458993419",
     "geom:latitude":-17.881869,
     "geom:longitude":30.678339,
@@ -58,6 +58,9 @@
         "Norton"
     ],
     "name:deu_x_preferred":[
+        "Norton"
+    ],
+    "name:eng_x_preferred":[
         "Norton"
     ],
     "name:fas_x_preferred":[
@@ -124,7 +127,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830405,
-    "wof:geomhash":"0441a471dc26795d4c22130f9aca7052",
+    "wof:geomhash":"6d2f535f8675c4490e9a272cf0a17be6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1108784909,
-    "wof:lastmodified":1566666538,
+    "wof:lastmodified":1694492410,
     "wof:name":"Norton",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

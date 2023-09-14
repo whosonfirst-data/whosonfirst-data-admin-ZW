@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004159,
-    "geom:area_square_m":48910701.023455,
+    "geom:area_square_m":48910689.474887,
     "geom:bbox":"30.997137,-18.050072,31.126099,-17.979172",
     "geom:latitude":-18.014197,
     "geom:longitude":31.062576,
@@ -58,6 +58,9 @@
         "Chitungwiza"
     ],
     "name:deu_x_preferred":[
+        "Chitungwiza"
+    ],
+    "name:eng_x_preferred":[
         "Chitungwiza"
     ],
     "name:epo_x_preferred":[
@@ -154,7 +157,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830374,
-    "wof:geomhash":"24c361221489c3b13cd6bc71e9583336",
+    "wof:geomhash":"d4eef1d82c832f5bdd3b342cd96467b8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":1108784863,
-    "wof:lastmodified":1636502212,
+    "wof:lastmodified":1694492940,
     "wof:name":"Chitungwiza",
     "wof:parent_id":85681097,
     "wof:placetype":"county",

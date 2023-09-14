@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.55755,
-    "geom:area_square_m":6522836959.627606,
+    "geom:area_square_m":6522836791.18546,
     "geom:bbox":"30.554637,-19.260372,31.723037,-18.430472",
     "geom:latitude":-18.890896,
     "geom:longitude":31.104051,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Chikomba"
+    ],
     "name:fra_x_preferred":[
         "Chikomba"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830384,
-    "wof:geomhash":"9525eada32f365b1634dda1b80892b49",
+    "wof:geomhash":"33276cec56a1cbfd316949bf38dd6a36",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784879,
-    "wof:lastmodified":1628266639,
+    "wof:lastmodified":1694492838,
     "wof:name":"Chikomba",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.270494,
-    "geom:area_square_m":3135191099.756692,
+    "geom:area_square_m":3135191099.756597,
     "geom:bbox":"31.0980366535,-20.7565720692,31.7822366535,-20.0025541327",
     "geom:latitude":-20.386693,
     "geom:longitude":31.427325,
@@ -42,6 +42,9 @@
     "name:ceb_x_preferred":[
         "Zaka"
     ],
+    "name:eng_x_preferred":[
+        "Zaka"
+    ],
     "name:fra_x_preferred":[
         "Zaka"
     ],
@@ -61,7 +64,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830412,
-    "wof:geomhash":"7f7ef2c4f252636fd4f2d30a8eace1e4",
+    "wof:geomhash":"fa51a907fe9a1307199db0153907c9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108784921,
-    "wof:lastmodified":1566666545,
+    "wof:lastmodified":1694492411,
     "wof:name":"Zaka",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

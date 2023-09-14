@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015076,
-    "geom:area_square_m":174607494.301868,
+    "geom:area_square_m":174607506.539647,
     "geom:bbox":"27.727337,-20.593072,27.928537,-20.422872",
     "geom:latitude":-20.504057,
     "geom:longitude":27.816638,
@@ -47,6 +47,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03bb\u03b1\u03bc\u03c4\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Plumtree"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0644\u0627\u0645 \u062a\u0631\u06cc"
@@ -109,7 +112,7 @@
     },
     "wof:country":"ZW",
     "wof:created":1481830421,
-    "wof:geomhash":"2c142c7cd83ed58a882567d4882f9b53",
+    "wof:geomhash":"77bc8d218491a033c89aa109ba8a3042",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1108784939,
-    "wof:lastmodified":1636502212,
+    "wof:lastmodified":1694492941,
     "wof:name":"Plumtree",
     "wof:parent_id":85681117,
     "wof:placetype":"county",
