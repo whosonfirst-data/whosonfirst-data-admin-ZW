@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.897893,
-    "geom:area_square_m":56616466238.98481,
+    "geom:area_square_m":56616466402.294701,
     "geom:bbox":"29.726637,-22.420972,32.447491,-19.148772",
     "geom:latitude":-20.786435,
     "geom:longitude":31.238632,
@@ -307,17 +307,19 @@
         "gn:id":886761,
         "gp:id":2347817,
         "hasc:id":"ZW.MV",
+        "iso:code":"ZW-MV",
         "iso:id":"ZW-MV",
         "qs_pg:id":895035,
         "unlc:id":"ZW-MV",
         "wd:id":"Q498351",
         "wk:page":"Masvingo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe01a8d75566b6a62a68fbe25f2e0011",
+    "wof:geomhash":"741a7207c70065642d18fa363d42f3b4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -336,7 +338,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1690930133,
+    "wof:lastmodified":1695884924,
     "wof:name":"Masvingo",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

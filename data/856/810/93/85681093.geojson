@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.388389,
-    "geom:area_square_m":28286634823.055202,
+    "geom:area_square_m":28286635248.054592,
     "geom:bbox":"30.047637,-17.740272,32.756437,-15.618572",
     "geom:latitude":-16.698777,
     "geom:longitude":31.194099,
@@ -314,17 +314,19 @@
         "gn:id":886843,
         "gp:id":2347812,
         "hasc:id":"ZW.MC",
+        "iso:code":"ZW-MC",
         "iso:id":"ZW-MC",
         "qs_pg:id":235672,
         "unlc:id":"ZW-MC",
         "wd:id":"Q596156",
         "wk:page":"Mashonaland Central Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64038ec9ab8024ef0117ecdbe0fb7c1e",
+    "wof:geomhash":"b378becbf293873c84b89ccdcca33514",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -343,7 +345,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1690930136,
+    "wof:lastmodified":1695884924,
     "wof:name":"Mashonaland Central",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

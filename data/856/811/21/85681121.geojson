@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047173,
-    "geom:area_square_m":547698689.332823,
+    "geom:area_square_m":547698689.332808,
     "geom:bbox":"28.387437,-20.258672,28.696737,-19.961472",
     "geom:latitude":-20.121821,
     "geom:longitude":28.555622,
@@ -154,11 +154,13 @@
         "gn:id":1105843,
         "gp:id":24550730,
         "hasc:id":"ZW.BU",
+        "iso:code":"ZW-BU",
         "iso:id":"ZW-BU",
         "qs_pg:id":1086157,
         "unlc:id":"ZW-BU",
         "wd:id":"Q24045859"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421171051
     ],
@@ -166,7 +168,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"67a341e3afaed2d01f503cb4a44adf3c",
+    "wof:geomhash":"882404a5f78554041d52643483e33242",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -185,7 +187,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1690930134,
+    "wof:lastmodified":1695884473,
     "wof:name":"Bulawayo",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

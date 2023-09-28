@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.076728,
-    "geom:area_square_m":35953860074.411835,
+    "geom:area_square_m":35953861422.587395,
     "geom:bbox":"31.188571,-21.327272,33.066837,-17.245672",
     "geom:latitude":-19.06229,
     "geom:longitude":32.398106,
@@ -307,17 +307,19 @@
         "gn:id":887358,
         "gp:id":2347810,
         "hasc:id":"ZW.MA",
+        "iso:code":"ZW-MA",
         "iso:id":"ZW-MA",
         "qs_pg:id":1168790,
         "unlc:id":"ZW-MA",
         "wd:id":"Q465847",
         "wk:page":"Manicaland Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"81fdf039e93ddf41742268f575ddb374",
+    "wof:geomhash":"0041b2fd3d4dd638c307c9f79bda89d5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -336,7 +338,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1690930135,
+    "wof:lastmodified":1695884925,
     "wof:name":"Manicaland",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

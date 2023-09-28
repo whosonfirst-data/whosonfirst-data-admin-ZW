@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.899224,
-    "geom:area_square_m":57870769415.842346,
+    "geom:area_square_m":57870769511.504845,
     "geom:bbox":"28.013937,-18.911472,30.962537,-15.607172",
     "geom:latitude":-17.181485,
     "geom:longitude":29.707222,
@@ -326,17 +326,19 @@
         "gn:id":886841,
         "gp:id":2347814,
         "hasc:id":"ZW.MW",
+        "iso:code":"ZW-MW",
         "iso:id":"ZW-MW",
         "qs_pg:id":895034,
         "unlc:id":"ZW-MW",
         "wd:id":"Q457189",
         "wk:page":"Mashonaland West Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b34b21702a548eac019745e647a7b341",
+    "wof:geomhash":"8a230d75b8a2fba1e8318870462783be",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -355,7 +357,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1690930135,
+    "wof:lastmodified":1695884924,
     "wof:name":"Mashonaland West",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

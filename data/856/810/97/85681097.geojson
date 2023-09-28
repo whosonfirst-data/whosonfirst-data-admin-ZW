@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080073,
-    "geom:area_square_m":942449630.161678,
+    "geom:area_square_m":942449630.161684,
     "geom:bbox":"30.878537,-18.050072,31.220937,-17.665572",
     "geom:latitude":-17.850979,
     "geom:longitude":31.053814,
@@ -235,12 +235,14 @@
         "gn:id":1105844,
         "gp:id":24550731,
         "hasc:id":"ZW.HA",
+        "iso:code":"ZW-HA",
         "iso:id":"ZW-HA",
         "qs_pg:id":1127713,
         "unlc:id":"ZW-HA",
         "wd:id":"Q16928358",
         "wk:page":"Harare Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421201479,
         421190261
@@ -249,7 +251,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f7a497e6eceaa472aaf456e83a6fe64",
+    "wof:geomhash":"69c095f94841caba33ea729b4f34ae7c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -268,7 +270,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1690930136,
+    "wof:lastmodified":1695884925,
     "wof:name":"Harare",
     "wof:parent_id":85632243,
     "wof:placetype":"region",
