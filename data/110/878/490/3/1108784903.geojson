@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MW.HU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830403,
     "wof:geomhash":"03dae4cca4bd0abf147b218a21f76825",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784903,
-    "wof:lastmodified":1694492853,
+    "wof:lastmodified":1695886313,
     "wof:name":"Karoi Urban",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

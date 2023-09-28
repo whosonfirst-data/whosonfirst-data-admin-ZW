@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MI.KW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830429,
     "wof:geomhash":"46e783cf0b12e9e47111fbc9b9be42ab",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108784955,
-    "wof:lastmodified":1694492411,
+    "wof:lastmodified":1695886577,
     "wof:name":"Redcliff",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

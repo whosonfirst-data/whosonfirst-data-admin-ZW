@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MS.BB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830418,
     "wof:geomhash":"628d15608653acc307595e8eb6cae6a5",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784933,
-    "wof:lastmodified":1694492830,
+    "wof:lastmodified":1695886258,
     "wof:name":"Beitbridge Urban",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

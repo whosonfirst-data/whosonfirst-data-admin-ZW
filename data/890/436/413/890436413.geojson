@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218009,
-    "geom:area_square_m":2554319534.69339,
+    "geom:area_square_m":2554319666.727424,
     "geom:bbox":"32.394337,-18.965472,33.066837,-18.194972",
     "geom:latitude":-18.639273,
     "geom:longitude":32.708774,
@@ -87,12 +87,13 @@
         "wd:id":"Q11990288",
         "wk:page":"Mutasa District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469052111,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0487db3cd042e55e533efd6a27df6733",
+    "wof:geomhash":"61809d5bc776926e0935c1f7dd97f8eb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":890436413,
-    "wof:lastmodified":1690930150,
+    "wof:lastmodified":1695886245,
     "wof:name":"Mutasa",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

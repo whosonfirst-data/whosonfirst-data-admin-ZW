@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.454943,
-    "geom:area_square_m":5345731541.524697,
+    "geom:area_square_m":5345731541.85697,
     "geom:bbox":"29.892837,-18.555572,30.830798,-17.822372",
     "geom:latitude":-18.143628,
     "geom:longitude":30.395096,
@@ -81,12 +81,13 @@
         "wd:id":"Q5089562",
         "wk:page":"Chegutu District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051137,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3749f9bf6973eff762bea5fa59333dcd",
+    "wof:geomhash":"1478c4a47433040dc1a267d771492f64",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890416483,
-    "wof:lastmodified":1690930153,
+    "wof:lastmodified":1695886243,
     "wof:name":"Chegutu",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

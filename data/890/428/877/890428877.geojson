@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214767,
-    "geom:area_square_m":2528705515.347436,
+    "geom:area_square_m":2528705478.418151,
     "geom:bbox":"31.051737,-18.15857,31.612419,-17.442219",
     "geom:latitude":-17.784862,
     "geom:longitude":31.338139,
@@ -87,12 +87,13 @@
         "wd:id":"Q3756018",
         "wk:page":"Goromonzi District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051777,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"83ad75596a321ebce14c1524506db528",
+    "wof:geomhash":"11376b0d7c0c211c902684df1d537bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":890428877,
-    "wof:lastmodified":1690930152,
+    "wof:lastmodified":1695886244,
     "wof:name":"Goromonzi",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.447465,
-    "geom:area_square_m":5194470064.017587,
+    "geom:area_square_m":5194470333.218982,
     "geom:bbox":"31.403181,-20.582572,32.344937,-19.821272",
     "geom:latitude":-20.145256,
     "geom:longitude":31.912127,
@@ -90,12 +90,13 @@
         "wd:id":"Q4907418",
         "wk:page":"Bikita District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051138,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b30b7632662c82ef38eee9ba1b54b49b",
+    "wof:geomhash":"5d68675d2ddd6347ff595b5672a98a16",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":890416499,
-    "wof:lastmodified":1690930154,
+    "wof:lastmodified":1695886244,
     "wof:name":"Bikita",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

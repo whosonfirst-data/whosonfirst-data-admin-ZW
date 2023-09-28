@@ -110,6 +110,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MS.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830421,
     "wof:geomhash":"77bc8d218491a033c89aa109ba8a3042",
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108784939,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886052,
     "wof:name":"Plumtree",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

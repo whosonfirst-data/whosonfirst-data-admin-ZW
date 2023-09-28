@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MA.CP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830378,
     "wof:geomhash":"f7a6e084b3341411b389386f8580e118",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784867,
-    "wof:lastmodified":1694492838,
+    "wof:lastmodified":1695886277,
     "wof:name":"Chipinge Urban",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

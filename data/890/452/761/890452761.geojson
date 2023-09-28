@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.629042,
-    "geom:area_square_m":7263625145.871857,
+    "geom:area_square_m":7263625334.63732,
     "geom:bbox":"28.183737,-21.716272,28.78522,-20.221972",
     "geom:latitude":-20.954871,
     "geom:longitude":28.490923,
@@ -96,12 +96,13 @@
         "wd:id":"Q4790876",
         "wk:page":"Thuli River"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469052828,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2f28f8a21be724e0a22de633b76d03bc",
+    "wof:geomhash":"0a6d074fe30938188247e5cbf8059c94",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890452761,
-    "wof:lastmodified":1690930149,
+    "wof:lastmodified":1695886245,
     "wof:name":"Matobo",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

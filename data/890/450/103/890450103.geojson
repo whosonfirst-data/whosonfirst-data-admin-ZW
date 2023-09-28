@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.196906,
-    "geom:area_square_m":2333203869.862581,
+    "geom:area_square_m":2333203923.592741,
     "geom:bbox":"31.907437,-16.809472,32.756437,-16.430872",
     "geom:latitude":-16.607714,
     "geom:longitude":32.295205,
@@ -81,12 +81,13 @@
         "wd:id":"Q1708960",
         "wk:page":"Rushinga District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469052726,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd25017a201a5f5bee1b9d6cd8336192",
+    "wof:geomhash":"f198deffb8143fc76b4375837e03ca7d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890450103,
-    "wof:lastmodified":1690930158,
+    "wof:lastmodified":1695886246,
     "wof:name":"Rushinga",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

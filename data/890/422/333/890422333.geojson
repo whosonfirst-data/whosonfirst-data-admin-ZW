@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.669684,
-    "geom:area_square_m":7858997283.700086,
+    "geom:area_square_m":7858997263.500712,
     "geom:bbox":"31.722237,-19.175472,32.605437,-17.597272",
     "geom:latitude":-18.362325,
     "geom:longitude":32.182674,
@@ -90,12 +90,13 @@
         "wd:id":"Q1783697",
         "wk:page":"Makoni District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051438,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f1e3d0c29ee93308a9a3c10ac599fe1e",
+    "wof:geomhash":"4a1e5d9e2c8c098e7a76e5b12c41022c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":890422333,
-    "wof:lastmodified":1690930147,
+    "wof:lastmodified":1695886244,
     "wof:name":"Makoni",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

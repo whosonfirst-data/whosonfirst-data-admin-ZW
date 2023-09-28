@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.515135,
-    "geom:area_square_m":17448827707.908813,
+    "geom:area_square_m":17448827871.829292,
     "geom:bbox":"30.944037,-22.420972,32.447491,-20.405472",
     "geom:latitude":-21.34701,
     "geom:longitude":31.683229,
@@ -129,12 +129,13 @@
         "wd:id":"Q5101881",
         "wk:page":"Chiredzi District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051777,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9d5d56293b7ad11a8d1afd03cd99a999",
+    "wof:geomhash":"8e80f184c10692bb55205142f4102528",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":890428881,
-    "wof:lastmodified":1690930152,
+    "wof:lastmodified":1695886052,
     "wof:name":"Chiredzi",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

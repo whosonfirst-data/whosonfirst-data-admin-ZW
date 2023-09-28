@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MW.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830400,
     "wof:geomhash":"c6eb6a63c93a277e207a05aea14b7e0b",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784899,
-    "wof:lastmodified":1694492838,
+    "wof:lastmodified":1695886277,
     "wof:name":"Chinhoyi Urban",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

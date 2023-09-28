@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.ME.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830398,
     "wof:geomhash":"3aefc9697b9306256e61816db9bebc73",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784895,
-    "wof:lastmodified":1694492892,
+    "wof:lastmodified":1695886418,
     "wof:name":"Uzumba Maramba Pfungwe",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

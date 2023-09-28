@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.ME.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830393,
     "wof:geomhash":"6e7a6ec428f3bc877a5426f71dd4312c",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108784885,
-    "wof:lastmodified":1694492824,
+    "wof:lastmodified":1695886245,
     "wof:name":"Mutoko",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.451874,
-    "geom:area_square_m":5233702639.886799,
+    "geom:area_square_m":5233702921.310812,
     "geom:bbox":"32.135537,-21.327272,32.874337,-19.912972",
     "geom:latitude":-20.496021,
     "geom:longitude":32.473755,
@@ -82,12 +82,13 @@
         "wd:id":"Q16798851",
         "wk:page":"Chipinge District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051857,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f9055d64ccdb06465e33ad799059eaed",
+    "wof:geomhash":"7320ff01165d100fedc4aa980ea376b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":890430547,
-    "wof:lastmodified":1627523021,
+    "wof:lastmodified":1695886244,
     "wof:name":"Chipinge",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

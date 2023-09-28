@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.291737,
-    "geom:area_square_m":3425504339.810192,
+    "geom:area_square_m":3425504076.54931,
     "geom:bbox":"30.999537,-18.603428,31.863424,-17.900472",
     "geom:latitude":-18.270918,
     "geom:longitude":31.497797,
@@ -75,12 +75,13 @@
         "wd:id":"Q16894719",
         "wk:page":"Marondera District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469052504,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"30f09293f4a240b6ae5b48aa3a1f9649",
+    "wof:geomhash":"bcebb3b7e5d3adc3524063e0e920e719",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":890445295,
-    "wof:lastmodified":1690930157,
+    "wof:lastmodified":1695886245,
     "wof:name":"Marondera",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MN.HW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830413,
     "wof:geomhash":"d0e91263b790fda257232e9812fe0025",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784923,
-    "wof:lastmodified":1694492849,
+    "wof:lastmodified":1695886303,
     "wof:name":"Hwange Urban",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

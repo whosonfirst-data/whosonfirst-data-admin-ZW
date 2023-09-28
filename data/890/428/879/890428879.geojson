@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.306741,
-    "geom:area_square_m":3552901745.99275,
+    "geom:area_square_m":3552901680.341877,
     "geom:bbox":"30.142937,-21.018772,31.057818,-19.981272",
     "geom:latitude":-20.490388,
     "geom:longitude":30.575399,
@@ -81,12 +81,13 @@
         "wd:id":"Q5102586",
         "wk:page":"Chivi District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051777,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5b51b6bce1c52b39ff2f3d34d6fcbe23",
+    "wof:geomhash":"a803025cb16f1e06a52ac70a0c2bb82f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890428879,
-    "wof:lastmodified":1690930152,
+    "wof:lastmodified":1695886244,
     "wof:name":"Chivi",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MS.GD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830419,
     "wof:geomhash":"fb6f4f8b6b138f81c04f76b5f3567d00",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784935,
-    "wof:lastmodified":1694492848,
+    "wof:lastmodified":1695886301,
     "wof:name":"Gwanda Urban",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

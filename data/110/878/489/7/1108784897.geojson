@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MW.CG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830399,
     "wof:geomhash":"a32139c5393d1573ae130d163b9c1110",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784897,
-    "wof:lastmodified":1694492837,
+    "wof:lastmodified":1695886276,
     "wof:name":"Chegutu Urban",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

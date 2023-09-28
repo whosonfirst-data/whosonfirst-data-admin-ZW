@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MC.GV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830381,
     "wof:geomhash":"333870b34c316db60c4828070047c3e6",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784875,
-    "wof:lastmodified":1694492866,
+    "wof:lastmodified":1695886348,
     "wof:name":"Mbire",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

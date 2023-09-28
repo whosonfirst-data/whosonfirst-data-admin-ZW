@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MA.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830379,
     "wof:geomhash":"3b26a80efd85f79f05c288315a0689f0",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784869,
-    "wof:lastmodified":1694492868,
+    "wof:lastmodified":1695886353,
     "wof:name":"Mutare Urban",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190455,
-    "geom:area_square_m":2249117610.103598,
+    "geom:area_square_m":2249117478.518682,
     "geom:bbox":"31.116437,-17.643372,31.509837,-16.825472",
     "geom:latitude":-17.245761,
     "geom:longitude":31.308301,
@@ -84,12 +84,13 @@
         "wd:id":"Q1709315",
         "wk:page":"Bindura District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051138,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"193a15fb5f5dcff3415ae6249c3f2d87",
+    "wof:geomhash":"76ebf3fc267c23dee6d82f1895a16f4f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":890416497,
-    "wof:lastmodified":1690930154,
+    "wof:lastmodified":1695886243,
     "wof:name":"Bindura",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

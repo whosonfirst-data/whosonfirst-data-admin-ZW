@@ -140,6 +140,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MV.MV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830409,
     "wof:geomhash":"a6a33abf004ef11f193b3501087716c1",
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108784917,
-    "wof:lastmodified":1694492940,
+    "wof:lastmodified":1695886051,
     "wof:name":"Masvingo",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

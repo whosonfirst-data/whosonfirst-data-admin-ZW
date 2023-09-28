@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.414144,
-    "geom:area_square_m":4845319871.934958,
+    "geom:area_square_m":4845319595.723295,
     "geom:bbox":"28.289837,-19.296072,29.128937,-18.550772",
     "geom:latitude":-18.883567,
     "geom:longitude":28.661198,
@@ -75,12 +75,13 @@
         "wd:id":"Q15262423",
         "wk:page":"Nkayi District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469052726,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bfd44a613ae53555ef5fd6e2f7285073",
+    "wof:geomhash":"22827aa6ce73f99012bd7753f6478cfa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":890450107,
-    "wof:lastmodified":1627523024,
+    "wof:lastmodified":1695886246,
     "wof:name":"Nkayi",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

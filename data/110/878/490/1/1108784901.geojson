@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MW.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830401,
     "wof:geomhash":"eb24744437067584af2a094a0aa41a21",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784901,
-    "wof:lastmodified":1694492853,
+    "wof:lastmodified":1695886313,
     "wof:name":"Kariba Urban",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

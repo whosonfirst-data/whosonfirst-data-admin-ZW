@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.556297,
-    "geom:area_square_m":6456871063.168842,
+    "geom:area_square_m":6456870741.00983,
     "geom:bbox":"26.702337,-20.516472,28.331737,-19.793072",
     "geom:latitude":-20.169223,
     "geom:longitude":27.574538,
@@ -78,12 +78,13 @@
         "wd:id":"Q4996407",
         "wk:page":"Bulilimamangwe District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051137,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cfc9571fa02da54b0eb73b978666868f",
+    "wof:geomhash":"29d81d3da586b96b56eac5a4da3ddc90",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":890416489,
-    "wof:lastmodified":1690930156,
+    "wof:lastmodified":1695886243,
     "wof:name":"Bulilima",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

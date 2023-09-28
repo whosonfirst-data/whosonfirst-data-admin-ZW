@@ -74,6 +74,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MC.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830383,
     "wof:geomhash":"6aa8204250821d93021dd9fc2453d32e",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108784877,
-    "wof:lastmodified":1694492824,
+    "wof:lastmodified":1695886245,
     "wof:name":"Mount Darwin",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

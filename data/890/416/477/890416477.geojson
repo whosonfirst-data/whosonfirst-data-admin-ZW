@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.607348,
-    "geom:area_square_m":7074341706.359824,
+    "geom:area_square_m":7074341310.810237,
     "geom:bbox":"30.687337,-20.032772,31.971526,-19.148772",
     "geom:latitude":-19.610797,
     "geom:longitude":31.242509,
@@ -108,12 +108,13 @@
         "wd:id":"Q489622",
         "wk:page":"Gutu"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051137,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7177c47dd2e2fbe94fcf101a7739ecd7",
+    "wof:geomhash":"a77fdfdb237445136350b73f5db461c9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":890416477,
-    "wof:lastmodified":1690930153,
+    "wof:lastmodified":1695886801,
     "wof:name":"Gutu",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.727097,
-    "geom:area_square_m":8591958293.121424,
+    "geom:area_square_m":8591958221.387604,
     "geom:bbox":"29.332637,-17.859472,30.527437,-16.264972",
     "geom:latitude":-17.123188,
     "geom:longitude":30.012082,
@@ -90,12 +90,13 @@
         "wd:id":"Q6739880",
         "wk:page":"Makonde District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051438,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d04a204f7972493dd1bd8d7dd16ba8da",
+    "wof:geomhash":"dbb3ec3027760d4ecb4c4354a80aeab4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":890422337,
-    "wof:lastmodified":1690930147,
+    "wof:lastmodified":1695886244,
     "wof:name":"Makonde",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

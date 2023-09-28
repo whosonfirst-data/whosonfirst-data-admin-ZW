@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021687,
-    "geom:area_square_m":254538298.109484,
+    "geom:area_square_m":254538305.310532,
     "geom:bbox":"29.781737,-18.417872,30.026937,-18.224872",
     "geom:latitude":-18.339091,
     "geom:longitude":29.928363,
@@ -81,12 +81,13 @@
         "wd:id":"Q6345648",
         "wk:page":"Kadoma District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469052829,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eec498c4b4e58c29b353062e0a692774",
+    "wof:geomhash":"ab57127e4412f9f00f4c5a38b9e5c770",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890452771,
-    "wof:lastmodified":1690930148,
+    "wof:lastmodified":1695886245,
     "wof:name":"Kadoma Urban",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

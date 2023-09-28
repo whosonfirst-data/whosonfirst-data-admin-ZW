@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.694724,
-    "geom:area_square_m":8219678980.308636,
+    "geom:area_square_m":8219679196.32469,
     "geom:bbox":"28.013937,-17.413972,29.214337,-16.365672",
     "geom:latitude":-16.892259,
     "geom:longitude":28.61079,
@@ -120,12 +120,13 @@
         "wd:id":"Q2139155",
         "wk:page":"Kariba (District)"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469052829,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3c27a6a2c0ff83055fba5e94cc8ff457",
+    "wof:geomhash":"e49f0694467d26c6f828bb033a3d7500",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":890452769,
-    "wof:lastmodified":1690930149,
+    "wof:lastmodified":1695886052,
     "wof:name":"Kariba",
     "wof:parent_id":85681131,
     "wof:placetype":"county",
