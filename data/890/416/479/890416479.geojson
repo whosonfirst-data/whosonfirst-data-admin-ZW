@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.253678,
-    "geom:area_square_m":3004703015.275657,
+    "geom:area_square_m":3004703018.309734,
     "geom:bbox":"30.372837,-17.063172,30.979837,-16.338772",
     "geom:latitude":-16.68444,
     "geom:longitude":30.657949,
@@ -87,12 +87,13 @@
         "wd:id":"Q1708967",
         "wk:page":"Guruve District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051137,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"593f922f1684adccaa51ed07234dfdfb",
+    "wof:geomhash":"4e621208113b201a28d17770038a431f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":890416479,
-    "wof:lastmodified":1690930153,
+    "wof:lastmodified":1695886244,
     "wof:name":"Guruve",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

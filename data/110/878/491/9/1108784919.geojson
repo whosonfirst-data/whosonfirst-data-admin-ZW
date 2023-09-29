@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MV.MV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830410,
     "wof:geomhash":"49342b58df9689ad1a10efaf39031779",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784919,
-    "wof:lastmodified":1694492865,
+    "wof:lastmodified":1695886347,
     "wof:name":"Masvingo Urban",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

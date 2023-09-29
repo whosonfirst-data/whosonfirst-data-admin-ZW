@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MW.KD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830406,
     "wof:geomhash":"c422c2f5fcf0fefea35081169b2b5439",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108784911,
-    "wof:lastmodified":1694492824,
+    "wof:lastmodified":1695886246,
     "wof:name":"Sanyati",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

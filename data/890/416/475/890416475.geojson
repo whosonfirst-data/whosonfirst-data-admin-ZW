@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.931996,
-    "geom:area_square_m":10741610413.925343,
+    "geom:area_square_m":10741610052.306864,
     "geom:bbox":"28.620737,-21.996772,29.905302,-20.557372",
     "geom:latitude":-21.236211,
     "geom:longitude":29.162385,
@@ -117,12 +117,13 @@
         "wd:id":"Q5623288",
         "wk:page":"Gwanda District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051137,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"63099ad212d25fe2bb5b4d4166353dfe",
+    "wof:geomhash":"c13578eb3df97b11389ba498769bd031",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":890416475,
-    "wof:lastmodified":1690930155,
+    "wof:lastmodified":1695886053,
     "wof:name":"Gwanda",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

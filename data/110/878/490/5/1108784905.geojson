@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MW.KD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830404,
     "wof:geomhash":"15a1cbe3ecf73389a6619b2a90b2c280",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784905,
-    "wof:lastmodified":1694492866,
+    "wof:lastmodified":1695886348,
     "wof:name":"Mhondoro-Ngezi",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

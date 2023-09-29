@@ -284,6 +284,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MN.HW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830416,
     "wof:geomhash":"22ba9c3e7c6bfa5b727bc29d8756a3ce",
@@ -296,7 +297,7 @@
         }
     ],
     "wof:id":1108784931,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886052,
     "wof:name":"Victoria Falls",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

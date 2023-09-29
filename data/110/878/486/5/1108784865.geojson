@@ -80,6 +80,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.HA.EP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830376,
     "wof:geomhash":"0a9a8f28dbfec9d26bb0f642f9b74c43",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108784865,
-    "wof:lastmodified":1694492411,
+    "wof:lastmodified":1695886577,
     "wof:name":"Epworth",
     "wof:parent_id":85681097,
     "wof:placetype":"county",

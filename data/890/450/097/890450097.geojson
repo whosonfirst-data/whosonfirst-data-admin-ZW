@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.240429,
-    "geom:area_square_m":2787479366.069077,
+    "geom:area_square_m":2787479414.438152,
     "geom:bbox":"28.657937,-20.699172,29.231737,-19.956772",
     "geom:latitude":-20.344685,
     "geom:longitude":28.945571,
@@ -84,12 +84,13 @@
         "wd:id":"Q6038184",
         "wk:page":"Insiza (District)"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469052725,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e7a0c55854a7e4db6bb348c1414d1ca",
+    "wof:geomhash":"e6177de8a4e72fc719977b5c559c4b55",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":890450097,
-    "wof:lastmodified":1690930158,
+    "wof:lastmodified":1695886801,
     "wof:name":"Umzingwane",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

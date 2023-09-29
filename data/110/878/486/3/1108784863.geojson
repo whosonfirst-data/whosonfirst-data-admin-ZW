@@ -155,6 +155,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.HA.CT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830374,
     "wof:geomhash":"d4eef1d82c832f5bdd3b342cd96467b8",
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":1108784863,
-    "wof:lastmodified":1694492940,
+    "wof:lastmodified":1695886051,
     "wof:name":"Chitungwiza",
     "wof:parent_id":85681097,
     "wof:placetype":"county",

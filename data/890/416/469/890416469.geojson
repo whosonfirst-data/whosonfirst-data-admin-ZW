@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.310424,
-    "geom:area_square_m":27058165854.474178,
+    "geom:area_square_m":27058165229.53476,
     "geom:bbox":"25.237737,-19.888172,27.467337,-17.790072",
     "geom:latitude":-18.70982,
     "geom:longitude":26.423749,
@@ -111,12 +111,13 @@
         "wd:id":"Q5951997",
         "wk:page":"Hwange District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051137,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b4d990541b49c49061a5bb197671ab7",
+    "wof:geomhash":"e6ac376f329f659003f0bcc99f71ba4f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":890416469,
-    "wof:lastmodified":1690930156,
+    "wof:lastmodified":1695886053,
     "wof:name":"Hwange",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

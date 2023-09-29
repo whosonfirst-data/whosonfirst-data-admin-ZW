@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.460906,
-    "geom:area_square_m":5373937647.054798,
+    "geom:area_square_m":5373937828.153932,
     "geom:bbox":"31.188571,-19.999368,32.396337,-19.011325",
     "geom:latitude":-19.448998,
     "geom:longitude":31.868271,
@@ -90,12 +90,13 @@
         "wd:id":"Q1002632",
         "wk:page":"Buhera District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051137,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ae1deffe30bf2cf8c336082b1379fefc",
+    "wof:geomhash":"29c4a1507b02ff77a3023c58473df628",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":890416491,
-    "wof:lastmodified":1690930154,
+    "wof:lastmodified":1695886243,
     "wof:name":"Buhera",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

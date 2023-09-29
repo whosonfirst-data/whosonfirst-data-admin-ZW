@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MI.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830422,
     "wof:geomhash":"31778da9f0c32a4abbce539ca3806f3f",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784941,
-    "wof:lastmodified":1694492838,
+    "wof:lastmodified":1695886277,
     "wof:name":"Chirumhanzu",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

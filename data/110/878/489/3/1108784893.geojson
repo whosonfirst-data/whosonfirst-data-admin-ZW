@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.ME.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830396,
     "wof:geomhash":"ebcb2b6626042d9c2b2dfe6767f91ad2",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784893,
-    "wof:lastmodified":1694492883,
+    "wof:lastmodified":1695886397,
     "wof:name":"Seke",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

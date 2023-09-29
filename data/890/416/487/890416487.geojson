@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.360901,
-    "geom:area_square_m":4280450416.289621,
+    "geom:area_square_m":4280450501.112326,
     "geom:bbox":"30.792937,-16.852072,31.511626,-15.984672",
     "geom:latitude":-16.425567,
     "geom:longitude":31.143765,
@@ -84,12 +84,13 @@
         "wd:id":"Q1709322",
         "wk:page":"Centenary District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051137,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"381b2e71d5015d51a3f0775f064d83b8",
+    "wof:geomhash":"7bbf2a43d687b8e2fa3f7337cc9b4673",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":890416487,
-    "wof:lastmodified":1627523021,
+    "wof:lastmodified":1695886243,
     "wof:name":"Centenary",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

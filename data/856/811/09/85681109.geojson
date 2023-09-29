@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.745819,
-    "geom:area_square_m":32292023930.709209,
+    "geom:area_square_m":32292023520.184875,
     "geom:bbox":"30.554637,-19.260372,32.994237,-16.693672",
     "geom:latitude":-17.980473,
     "geom:longitude":31.696507,
@@ -323,17 +323,19 @@
         "gn:id":886842,
         "gp:id":2347813,
         "hasc:id":"ZW.ME",
+        "iso:code":"ZW-ME",
         "iso:id":"ZW-ME",
         "qs_pg:id":479632,
         "unlc:id":"ZW-ME",
         "wd:id":"Q465853",
         "wk:page":"Mashonaland East Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b659b7bfec67710048c5642ab959600",
+    "wof:geomhash":"28ab7ddd09fb9fc27188d5170552a33b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -352,7 +354,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1690930134,
+    "wof:lastmodified":1695884924,
     "wof:name":"Mashonaland East",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214077,
-    "geom:area_square_m":2483052456.603187,
+    "geom:area_square_m":2483052323.744198,
     "geom:bbox":"29.756537,-20.626872,30.461237,-19.934972",
     "geom:latitude":-20.27715,
     "geom:longitude":30.078685,
@@ -108,12 +108,13 @@
         "wd:id":"Q24235929",
         "wk:page":"Zvishavane District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051777,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d14997d95c716e7567688c675e438a1",
+    "wof:geomhash":"e6970487f538c07f411edc89321dddf6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":890428875,
-    "wof:lastmodified":1690930152,
+    "wof:lastmodified":1695886052,
     "wof:name":"Zvishavane",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

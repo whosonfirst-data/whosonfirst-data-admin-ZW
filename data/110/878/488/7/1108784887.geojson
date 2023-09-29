@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MA.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830394,
     "wof:geomhash":"05a60cebcdaa6a51dc3f099c14e01f36",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784887,
-    "wof:lastmodified":1694492881,
+    "wof:lastmodified":1695886393,
     "wof:name":"Rusape Urban",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

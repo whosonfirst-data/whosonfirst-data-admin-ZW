@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228756,
-    "geom:area_square_m":2703634812.945108,
+    "geom:area_square_m":2703635057.185186,
     "geom:bbox":"31.344737,-17.509153,32.009737,-16.818572",
     "geom:latitude":-17.094634,
     "geom:longitude":31.638904,
@@ -117,12 +117,13 @@
         "wd:id":"Q1756329",
         "wk:page":"Shamva District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469052726,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ce9f9882d355e133955076528e6ef332",
+    "wof:geomhash":"4cf32326dfcd3e142d845b12418e6ced",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":890450101,
-    "wof:lastmodified":1690930159,
+    "wof:lastmodified":1695886053,
     "wof:name":"Shamva",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

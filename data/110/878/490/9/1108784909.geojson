@@ -125,6 +125,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MW.CG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830405,
     "wof:geomhash":"6d2f535f8675c4490e9a272cf0a17be6",
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1108784909,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886577,
     "wof:name":"Norton",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

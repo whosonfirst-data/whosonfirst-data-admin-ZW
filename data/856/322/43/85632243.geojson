@@ -1163,6 +1163,7 @@
         "hasc:id":"ZW",
         "icao:code":"Z",
         "ioc:id":"ZIM",
+        "iso:code":"ZW",
         "itu:id":"ZWE",
         "m49:code":"716",
         "marc:id":"rh",
@@ -1176,6 +1177,7 @@
         "wk:page":"Zimbabwe",
         "wmo:id":"ZW"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZW",
     "wof:country_alpha3":"ZWE",
     "wof:geom_alt":[
@@ -1201,7 +1203,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1694639548,
+    "wof:lastmodified":1695881206,
     "wof:name":"Zimbabwe",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

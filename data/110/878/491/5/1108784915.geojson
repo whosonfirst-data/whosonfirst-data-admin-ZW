@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MV.CR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830408,
     "wof:geomhash":"ffae957b0e4bdda076c2ef69357c6658",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784915,
-    "wof:lastmodified":1694492838,
+    "wof:lastmodified":1695886277,
     "wof:name":"Chiredzi Urban",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

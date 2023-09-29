@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.506662,
-    "geom:area_square_m":5906795189.138357,
+    "geom:area_square_m":5906794925.226105,
     "geom:bbox":"29.092053,-19.973172,30.187137,-19.091572",
     "geom:latitude":-19.466809,
     "geom:longitude":29.63692,
@@ -81,12 +81,13 @@
         "wd:id":"Q23808643",
         "wk:page":"Gweru District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051137,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4245ab4a028a06401c38dfebce4dc8b5",
+    "wof:geomhash":"80d5c43a9516bcbca82b7f2119d637d4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890416473,
-    "wof:lastmodified":1690930156,
+    "wof:lastmodified":1695886053,
     "wof:name":"Gweru",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

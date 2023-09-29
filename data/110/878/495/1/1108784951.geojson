@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MI.GW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830426,
     "wof:geomhash":"40afe48278dfab27f215e44015eb3c11",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784951,
-    "wof:lastmodified":1694492848,
+    "wof:lastmodified":1695886301,
     "wof:name":"Gweru Urban",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

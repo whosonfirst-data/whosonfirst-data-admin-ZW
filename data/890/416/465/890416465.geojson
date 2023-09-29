@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.370039,
-    "geom:area_square_m":4369709802.185827,
+    "geom:area_square_m":4369709454.914796,
     "geom:bbox":"30.611637,-17.740272,31.284754,-16.784872",
     "geom:latitude":-17.252134,
     "geom:longitude":30.931538,
@@ -120,12 +120,13 @@
         "wd:id":"Q1756321",
         "wk:page":"Mazowe District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051136,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1b31cbd23651b01f364cdd571c0cb8c0",
+    "wof:geomhash":"97584c19177be987ddfba957b68a9ac4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":890416465,
-    "wof:lastmodified":1690930154,
+    "wof:lastmodified":1695886052,
     "wof:name":"Mazowe",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

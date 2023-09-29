@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.467497,
-    "geom:area_square_m":75688904517.993195,
+    "geom:area_square_m":75688904291.419418,
     "geom:bbox":"25.237737,-20.361872,29.232937,-16.878299",
     "geom:latitude":-18.823369,
     "geom:longitude":27.40082,
@@ -327,17 +327,19 @@
         "gn:id":886748,
         "gp:id":2347815,
         "hasc:id":"ZW.MN",
+        "iso:code":"ZW-MN",
         "iso:id":"ZW-MN",
         "qs_pg:id":1285734,
         "unlc:id":"ZW-MN",
         "wd:id":"Q456562",
         "wk:page":"Matabeleland North Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e3268a79039512d57712d21088992267",
+    "wof:geomhash":"b5d39d56ac04fea3a182d1bd19e3d74d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -356,7 +358,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1690930135,
+    "wof:lastmodified":1695884925,
     "wof:name":"Matabeleland North",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

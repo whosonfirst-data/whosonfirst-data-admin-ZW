@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.288318,
-    "geom:area_square_m":3354667361.013363,
+    "geom:area_square_m":3354667619.022504,
     "geom:bbox":"32.346537,-20.110272,33.061737,-19.371772",
     "geom:latitude":-19.783835,
     "geom:longitude":32.72148,
@@ -93,12 +93,13 @@
         "wd:id":"Q1073093",
         "wk:page":"Chimanimani District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051137,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7cdfbdd0a449948fb971c53b07218a81",
+    "wof:geomhash":"c9c45c390524d6956af6ddcc823837a3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":890416481,
-    "wof:lastmodified":1690930155,
+    "wof:lastmodified":1695886243,
     "wof:name":"Chimanimani",
     "wof:parent_id":85681113,
     "wof:placetype":"county",

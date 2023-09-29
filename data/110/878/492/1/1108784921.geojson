@@ -62,6 +62,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MV.ZA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830412,
     "wof:geomhash":"fa51a907fe9a1307199db0153907c9b0",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1108784921,
-    "wof:lastmodified":1694492411,
+    "wof:lastmodified":1695886577,
     "wof:name":"Zaka",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

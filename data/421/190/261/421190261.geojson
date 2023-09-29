@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072915,
-    "geom:area_square_m":858250910.239838,
+    "geom:area_square_m":858250910.239882,
     "geom:bbox":"30.878537,-18.003372,31.220937,-17.665572",
     "geom:latitude":-17.839848,
     "geom:longitude":31.048996,
@@ -530,6 +530,7 @@
         "wd:id":"Q3921",
         "wk:page":"Harare"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85681097
     ],
@@ -538,7 +539,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"106b947fac37ef68fa2e702e09981962",
+    "wof:geomhash":"b0db72ff335ed7f88fdfb95322672c42",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -548,7 +549,7 @@
         }
     ],
     "wof:id":421190261,
-    "wof:lastmodified":1690930144,
+    "wof:lastmodified":1695886409,
     "wof:name":"Harare Urban",
     "wof:parent_id":85681097,
     "wof:placetype":"county",

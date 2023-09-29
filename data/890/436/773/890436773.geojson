@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.150344,
-    "geom:area_square_m":13246511638.795473,
+    "geom:area_square_m":13246511847.847527,
     "geom:bbox":"29.726637,-22.112833,31.608037,-20.682312",
     "geom:latitude":-21.365429,
     "geom:longitude":30.691748,
@@ -84,12 +84,13 @@
         "wd:id":"Q15260492",
         "wk:page":"Mwenezi District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469052125,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"20229183f7be2dda689004c10aeec836",
+    "wof:geomhash":"4ba24834c758c8db399a262c6c10272d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":890436773,
-    "wof:lastmodified":1690930151,
+    "wof:lastmodified":1695886245,
     "wof:name":"Mwenezi",
     "wof:parent_id":85681127,
     "wof:placetype":"county",

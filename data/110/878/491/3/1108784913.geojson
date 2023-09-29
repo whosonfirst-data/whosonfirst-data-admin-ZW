@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MW.ZB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830407,
     "wof:geomhash":"42e7fa7af6cbcd1a5d2d6206e244174d",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784913,
-    "wof:lastmodified":1694492899,
+    "wof:lastmodified":1695886435,
     "wof:name":"Zvimba",
     "wof:parent_id":85681131,
     "wof:placetype":"county",

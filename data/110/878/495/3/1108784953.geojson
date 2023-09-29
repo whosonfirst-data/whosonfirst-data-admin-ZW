@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MI.KW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830428,
     "wof:geomhash":"55587cba8bf17a648f34cf957cee8e86",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784953,
-    "wof:lastmodified":1694492858,
+    "wof:lastmodified":1695886327,
     "wof:name":"Kwekwe Urban",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

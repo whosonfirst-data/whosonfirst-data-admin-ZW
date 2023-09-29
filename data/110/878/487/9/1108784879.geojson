@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.ME.CK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830384,
     "wof:geomhash":"33276cec56a1cbfd316949bf38dd6a36",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784879,
-    "wof:lastmodified":1694492838,
+    "wof:lastmodified":1695886277,
     "wof:name":"Chikomba",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

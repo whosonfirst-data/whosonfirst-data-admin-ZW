@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.111687,
-    "geom:area_square_m":12753525327.48381,
+    "geom:area_square_m":12753524618.384617,
     "geom:bbox":"29.037937,-22.354872,31.113337,-21.269304",
     "geom:latitude":-21.907061,
     "geom:longitude":30.031837,
@@ -111,12 +111,13 @@
         "wd:id":"Q4881482",
         "wk:page":"Beitbridge District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051138,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b1b2f93df5a65bf41cb083686b45eb4a",
+    "wof:geomhash":"3c22d6b6e7540fe5a847d45a75a540ed",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":890416501,
-    "wof:lastmodified":1690930155,
+    "wof:lastmodified":1695886053,
     "wof:name":"Beitbridge",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

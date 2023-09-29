@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MC.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830380,
     "wof:geomhash":"81b4873f2c527a9c3aa9046e1d001c85",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784873,
-    "wof:lastmodified":1694492833,
+    "wof:lastmodified":1695886267,
     "wof:name":"Bindura Urban",
     "wof:parent_id":85681093,
     "wof:placetype":"county",

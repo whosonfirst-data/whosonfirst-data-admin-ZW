@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MI.GN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830423,
     "wof:geomhash":"7e675588f2afd1c0fc7cf36f173c8a41",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784945,
-    "wof:lastmodified":1694492847,
+    "wof:lastmodified":1695886297,
     "wof:name":"Gokwe North",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

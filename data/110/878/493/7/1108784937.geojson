@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MS.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830420,
     "wof:geomhash":"e77a8e5c75a24b798ee10a4d765089b3",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784937,
-    "wof:lastmodified":1694492865,
+    "wof:lastmodified":1695886344,
     "wof:name":"Mangwe",
     "wof:parent_id":85681117,
     "wof:placetype":"county",

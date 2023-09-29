@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MN.UG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830415,
     "wof:geomhash":"8ec4501f05c23a51ac392f000b578d66",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784929,
-    "wof:lastmodified":1694492891,
+    "wof:lastmodified":1695886417,
     "wof:name":"Umguza",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

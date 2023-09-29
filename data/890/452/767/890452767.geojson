@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.750046,
-    "geom:area_square_m":8775497771.077597,
+    "geom:area_square_m":8775497960.939079,
     "geom:bbox":"28.867288,-19.372822,30.382537,-18.269372",
     "geom:latitude":-18.878827,
     "geom:longitude":29.551837,
@@ -96,12 +96,13 @@
         "wd:id":"Q6450306",
         "wk:page":"Kwekwe District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469052829,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bf5ded0e7ee049c9979ccd13a3dd2e56",
+    "wof:geomhash":"f565198ddeef77bf0a6a3b8e131cadfa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890452767,
-    "wof:lastmodified":1690930149,
+    "wof:lastmodified":1695886052,
     "wof:name":"Kwekwe",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

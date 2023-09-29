@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.ME.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830386,
     "wof:geomhash":"7f9428169d4697e477807d4903418983",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784883,
-    "wof:lastmodified":1694492865,
+    "wof:lastmodified":1695886347,
     "wof:name":"Marondera Urban",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

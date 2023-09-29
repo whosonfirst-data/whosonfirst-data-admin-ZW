@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.702246,
-    "geom:area_square_m":54274475727.833626,
+    "geom:area_square_m":54274474698.358139,
     "geom:bbox":"26.702337,-22.354872,31.113337,-19.481872",
     "geom:latitude":-21.010544,
     "geom:longitude":28.992054,
@@ -330,17 +330,19 @@
         "gn:id":886747,
         "gp:id":2347816,
         "hasc:id":"ZW.MS",
+        "iso:code":"ZW-MS",
         "iso:id":"ZW-MS",
         "qs_pg:id":1285735,
         "unlc:id":"ZW-MS",
         "wd:id":"Q498355",
         "wk:page":"Matabeleland South Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"97d1b82c931af67e3e03f6a35cd666f5",
+    "wof:geomhash":"ddfb723904b52552e8849b255d59527d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -359,7 +361,7 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1690930134,
+    "wof:lastmodified":1695884924,
     "wof:name":"Matabeleland South",
     "wof:parent_id":85632243,
     "wof:placetype":"region",

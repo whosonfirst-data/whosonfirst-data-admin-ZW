@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.ME.WE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830385,
     "wof:geomhash":"53daa617c5ed4b6d3d70fbcfcab1baac",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784881,
-    "wof:lastmodified":1694492849,
+    "wof:lastmodified":1695886303,
     "wof:name":"Hwedza",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

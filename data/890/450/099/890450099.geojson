@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.298559,
-    "geom:area_square_m":3474560460.798256,
+    "geom:area_square_m":3474560703.602508,
     "geom:bbox":"29.786837,-20.071772,30.487737,-19.415772",
     "geom:latitude":-19.750236,
     "geom:longitude":30.152952,
@@ -81,12 +81,13 @@
         "wd:id":"Q7505444",
         "wk:page":"Shurugwi District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469052725,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d305eeb856f16edba73b88eed530beca",
+    "wof:geomhash":"bf3aa91dbb49c64acda99564e720c28b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890450099,
-    "wof:lastmodified":1690930158,
+    "wof:lastmodified":1695886245,
     "wof:name":"Shurugwi",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MI.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830430,
     "wof:geomhash":"9cfaf8da6d914b4f0ac9c46e70c40376",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784957,
-    "wof:lastmodified":1694492884,
+    "wof:lastmodified":1695886399,
     "wof:name":"Shurugwi Urban",
     "wof:parent_id":85681103,
     "wof:placetype":"county",

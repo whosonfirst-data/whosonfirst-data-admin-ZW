@@ -249,6 +249,7 @@
         "hasc:id":"ZW.BU.BL",
         "qs_pg:id":1206079
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85681121
     ],
@@ -267,7 +268,7 @@
         }
     ],
     "wof:id":421171051,
-    "wof:lastmodified":1694492547,
+    "wof:lastmodified":1695886408,
     "wof:name":"Bulawayo",
     "wof:parent_id":85681121,
     "wof:placetype":"county",

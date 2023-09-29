@@ -89,6 +89,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.ME.GM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830395,
     "wof:geomhash":"e0c9af6db51968a521374f6c7314b1b0",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108784891,
-    "wof:lastmodified":1694492411,
+    "wof:lastmodified":1695886577,
     "wof:name":"Ruwa",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

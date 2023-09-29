@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.352897,
-    "geom:area_square_m":4172258359.12428,
+    "geom:area_square_m":4172258490.833235,
     "geom:bbox":"32.172737,-17.406572,32.994237,-16.693672",
     "geom:latitude":-17.031259,
     "geom:longitude":32.638062,
@@ -78,12 +78,13 @@
         "wd:id":"Q16895534",
         "wk:page":"Mudzi District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469051136,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f411e58c60f27deb242ecf995d78f071",
+    "wof:geomhash":"ce65c84e7a6b82ae924d069c1b7e5a60",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":890416461,
-    "wof:lastmodified":1690930157,
+    "wof:lastmodified":1695886245,
     "wof:name":"Mudzi",
     "wof:parent_id":85681109,
     "wof:placetype":"county",

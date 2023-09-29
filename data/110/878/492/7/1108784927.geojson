@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ZW.MN.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1481830414,
     "wof:geomhash":"abf12bfc2c6d1d8feda17871a676c1ad",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784927,
-    "wof:lastmodified":1694492891,
+    "wof:lastmodified":1695886416,
     "wof:name":"Tsholotsho",
     "wof:parent_id":85681101,
     "wof:placetype":"county",

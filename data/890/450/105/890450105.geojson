@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.492974,
-    "geom:area_square_m":5799317696.002316,
+    "geom:area_square_m":5799318070.137686,
     "geom:bbox":"32.380237,-18.576672,33.053037,-17.245672",
     "geom:latitude":-17.937935,
     "geom:longitude":32.757786,
@@ -84,12 +84,13 @@
         "wd:id":"Q7070875",
         "wk:page":"Nyanga District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZW",
     "wof:created":1469052726,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4028955c3894244ed1c2e0b822c4d5ae",
+    "wof:geomhash":"ac94666cf9acd93c43fc33371682c935",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":890450105,
-    "wof:lastmodified":1690930158,
+    "wof:lastmodified":1695886053,
     "wof:name":"Nyanga",
     "wof:parent_id":85681113,
     "wof:placetype":"county",
